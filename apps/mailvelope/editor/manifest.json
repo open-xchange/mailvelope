@@ -1,0 +1,11 @@
+[{
+    "namespace": ["io.ox/mail/compose/view", "io.ox/mail/compose/editor/mailvelope"],
+    "path": "mailvelope/editor/main",
+    "requires": ["mailvelope"]
+},
+{
+    "namespace": ["io.ox/mail/compose/view", "io.ox/mail/compose/editor/mailvelope"],
+    "path": "mailvelope/editor/register",
+    "requires": ["mailvelope"]
+}
+]

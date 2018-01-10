@@ -1,0 +1,71 @@
+li.mail-detail {
+    .signed {
+        background: fade(@green-light, 12%);
+        padding: 15px !important;
+        width: auto;
+    }
+}
+
+.io-ox-mail-compose {
+    .mail-compose-fields {
+
+        .toggle-encryption {
+            float: right;
+            height: 30px;
+            margin-top: -30px;
+            position: relative;
+            top: 30px;
+            z-index: 1;
+        }
+        .mobile-toggle {
+            right: 30px;
+        }
+    }
+}
+
+.settings-detail-pane.non-scrollable {
+    overflow: hidden;
+}
+
+ol.list-progress {
+    list-style: decimal;
+
+    li.active {
+        font-weight: bold;
+    }
+}
+
+.toggle-encryption i.fa {
+    cursor: pointer;
+    &:not(.encrypted):before {
+        color: #707070;
+        content: '\f09c';//fa-unlock
+
+    }
+    &.encrypted:before {
+        color: #55a000;
+        content: '\f023';//fa-lock
+    }
+}
+
+.token .recipient-state {
+    display: inline-block;
+    padding-left: 4px;
+    vertical-align: top;
+
+    .trusted {
+        color: @green;
+    }
+    i:not(.key-found):before {
+        content: '\f234';//fa-user-plus
+    }
+    i.key-found:before {
+        content: '\f084';//fa-key
+    }
+}
+
+.mailvelopeDiv {
+    height: 250px;
+    display: none;
+}
+
