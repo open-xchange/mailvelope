@@ -1,0 +1,8 @@
+[
+{
+    "title": "Mailvelope",
+    "namespace": "core",
+    "path": "mailvelope/register",
+    "requires": "mailvelope"
+}
+]

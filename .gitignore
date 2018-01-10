@@ -1,0 +1,16 @@
+*.swp
+*.class
+!readerPot.class
+!readerPOtoJSON.class
+!translation.class
+*.pmd
+.DS_Store
+.lint4jprefs
+bin
+bin/
+build
+build/build
+build/tmp
+node_modules
+grunt/local.conf.json
+
