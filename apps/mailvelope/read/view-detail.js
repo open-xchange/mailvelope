@@ -23,12 +23,10 @@ define('mailvelope/read/view-detail', [
             $('.mail-item.mail-detail[data-cid="' + cid + '"] .content').toggleClass('current', false);
             $('.mail-item.mail-detail[data-cid="' + cid + '"] .content:visible').toggleClass('current', true);
             // Draw inline from first attachment
-            if (baton.data.security_info && baton.data.security_info.encrypted) {
-                if (baton.data.attachments[0] && (/BEGIN PGP MESSAGE/).test(baton.data.attachments[0].content)) {
-                    baton.stopPropagation();
-                    var text = baton.data.attachments[0].content.replace(/<br>/g, '\r\n');
-                    return renderMail(cid, text);
-                }
+            if (baton.data.attachments[0] && (/BEGIN PGP MESSAGE/).test(baton.data.attachments[0].content)) {
+                baton.stopPropagation();
+                var text = baton.data.attachments[0].content.replace(/<br>/g, '\r\n');
+                return renderMail(cid, text);
             }
             // Otherwise pull Mime data
             var data = _(baton.data.attachments).find(function (a) {
