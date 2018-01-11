@@ -71,7 +71,7 @@ define('mailvelope/main', [
             return _.device('phantomjs || desktop && (chrome >= 38 || firefox > 32)') && capabilities.has('mailvelope');
         };
         this.isEnabled = function isEnabled() {
-            return this.isMailvelopeSupported();
+            return window.mailvelope && this.isMailvelopeSupported();
         };
 
         var hash = {};

@@ -10,7 +10,7 @@ define('mailvelope/read/view-detail', [
         index: 1100,
         id: 'encrypted_content',
         draw: function (baton) {
-            if (!util.isEncrypted(baton.data)) {
+            if (!util.isEncrypted(baton.data) || !mailvelope.isEnabled()) {
                 return;
             }
             var cid = _.cid(baton.data);

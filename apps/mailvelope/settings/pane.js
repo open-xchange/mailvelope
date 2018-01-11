@@ -30,14 +30,15 @@ define('mailvelope/settings/pane', [
         id: 'mailvelope_settings',
         draw: function () {
             var node = this;
-            util.isMailvelopeEnabled()
-            .done(function () {
+            if (util.isMailvelopeInstalled()) {
                 drawMailvelopeSettings(node);
-            })
-            .fail(function () {
-                // Setup
-            });
-
+            } else {
+                require(['mailvelope/tour'], function (runTour) {
+                    runTour().then(function () {
+                        drawMailvelopeSettings(node);
+                    });
+                });
+            }
         },
         save: _.noop
     });

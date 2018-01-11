@@ -32,6 +32,10 @@ define('mailvelope/util', ['mailvelope/main'], function (mapi) {
         return mapi.isMailvelopeSupported();
     };
 
+    util.isMailvelopeInstalled = function () {
+        return mapi.isEnabled();
+    };
+
     return util;
 
 });

@@ -20,6 +20,11 @@ function (ext, util, ToggleEncryption) {
                 //HACK: always insert first, since we do not control
                 //other content
                 node.prepend(view.render().$el);
+            })
+            .fail(function () {
+                if (util.isMailvelopeSupported()) {
+                    node.prepend(view.render().$el);
+                }
             });
         }
     });

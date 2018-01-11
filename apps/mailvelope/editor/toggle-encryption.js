@@ -29,7 +29,7 @@ define('mailvelope/editor/toggle-encryption', [
             this.render();
         },
         render: function () {
-            if (api.isMailvelopeSupported()) {
+            if (api.isEnabled()) {
                 if (!_.device('small')) {
                     this.$el.empty().append(
                             $('<i class="fa fa-2x" aria-hidden="true"></i>')
