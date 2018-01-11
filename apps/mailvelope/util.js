@@ -28,6 +28,10 @@ define('mailvelope/util', ['mailvelope/main'], function (mapi) {
         return this.isSetupDone();
     };
 
+    util.isMailvelopeSupported = function () {
+        return mapi.isMailvelopeSupported();
+    };
+
     return util;
 
 });

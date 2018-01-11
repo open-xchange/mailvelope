@@ -3,5 +3,10 @@
     "namespace": "io.ox/mail/detail/view",
     "path": "mailvelope/read/register",
     "requires": ["webmail", "mailvelope"]
+},
+{
+    "namespace": "io.ox/settings/main",
+    "path": "mailvelope/settings",
+    "requires": "mailvelope"
 }
 ]
