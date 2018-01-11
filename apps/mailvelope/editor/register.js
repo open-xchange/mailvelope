@@ -10,13 +10,13 @@ function (ext, util, ToggleEncryption) {
         draw: function (baton) {
             // Draw lock icon if mailvelope setup
             var node = this;
+            var view = new ToggleEncryption.View({
+                model: baton.model
+            });
+            view.noLinkMail(baton.view);
+            baton.view.toggleEncryption = view;
             util.isMailvelopeEnabled()
             .done(function () {
-                var view = new ToggleEncryption.View({
-                    model: baton.model
-                });
-                view.noLinkMail(baton.view);
-                baton.view.toggleEncryption = view;
                 //HACK: always insert first, since we do not control
                 //other content
                 node.prepend(view.render().$el);

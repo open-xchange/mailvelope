@@ -1,7 +1,7 @@
 [
 {
     "namespace": "io.ox/mail/detail/view",
-    "path": "mailvelope/read/view-detail",
+    "path": "mailvelope/read/register",
     "requires": ["webmail", "mailvelope"]
 }
 ]

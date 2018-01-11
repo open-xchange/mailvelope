@@ -21,15 +21,9 @@ define('mailvelope/editor/toggle-encryption', [
             'change:encrypt': 'changed'
         },
         toggle: function () {
-            if (this.encryption_forced) {
-                require(['io.ox/core/notifications'], function (notify) {
-                    notify.yell('error', gt('Reply must be encrypted'));
-                });
-            } else {
-                this.model.set('encrypt', !this.model.get('encrypt'));
-            }
+            this.model.set('encrypt', !this.model.get('encrypt'));
         },
-        forceEncryption: function () {
+        setEncryption: function () {
             this.encryption_forced = true;
             this.model.set('encrypt', true);
             this.render();
