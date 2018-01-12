@@ -1,0 +1,2598 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: open-xchange-guard-ui\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2018-01-12 09:04-0500\n"
+"Last-Translator: Greg Hill <greg.hill@open-xchange.com>\n"
+"Language-Team: NAME <EMAIL>\n"
+"Language: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.10\n"
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "Toggle Encryption"
+msgstr ""
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "Not Supported"
+msgstr "Ei tuettu"
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "%s is not supported with secured email and will be disabled."
+msgstr ""
+"%sa ei tueta kun käytössä on suojattu sähköposti ja se kytketään pois päältä."
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "OK"
+msgstr "OK"
+
+#. %s product Name
+#: apps/mailvelope/settings.js module:oxguard
+msgid "Mailvelope"
+msgstr "Mailvelope"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Mailvelope Not Supported"
+msgstr "Mailvelopea ei tueta"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid ""
+"Mailvelope is only supported in Google Chrome or Mozilla Firefox.  Please "
+"use one of these broswers to set up encryption."
+msgstr ""
+"Mailvelopea tukee vain Google Chrome ja Mozilla Firefox. Käytä jompaakumpaa "
+"näistä selaimista salauksen tekemiseen."
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Encrypted communication"
+msgstr "Salattu viestintä"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Download browser plugin"
+msgstr "Lataa selain-plugin"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Generate"
+msgstr "Luo"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Congratulations! You have successfully set up encryption."
+msgstr "Onnittelut! Olet suorittanut salauksen onnistuneesti."
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Prepare"
+msgstr "Valmistele"
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Password"
+msgstr "Salasana"
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Three steps to setup encrypted communication:"
+msgstr "Kolme vaihetta salatun viestinnän perustamiseen:"
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Download browser plugin “Mailvelope”"
+msgstr "Lataa Mailvelope- selain-plugin "
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Create encryption keys for secure communication"
+msgstr "Luo avaimet salattua viestintää varten"
+
+#~ msgid "Mailvelope Advanced"
+#~ msgstr "Mailvelope Advanced"
+
+#~ msgid "Error"
+#~ msgstr "Virhe"
+
+#~ msgid ""
+#~ "Backup your Mailvelope private keys to the server.  The keys will be "
+#~ "encrypted requiring a security code for restore"
+#~ msgstr ""
+#~ "Tee varmuuskopiot Mailvelopesi yksityisistä avaimista palvelimelle. "
+#~ "Avaimet salataan, ja palauttamiseen tarvitaan turvakoodi."
+
+#~ msgid "Backup"
+#~ msgstr "Varmuuskopiointi"
+
+#~ msgid "Discard previously saved private keys."
+#~ msgstr "Hylkää aiemmin tallennetut yksityiset avaimet."
+
+#~ msgid "Discard backup"
+#~ msgstr "Hylkää varmuuskopio"
+
+#~ msgid "Restore previously saved private keys."
+#~ msgstr "Palauta aiemmin tallennetut yksityiset avaimet."
+
+#~ msgid "Restore"
+#~ msgstr "Palauta"
+
+#~ msgid ""
+#~ "Upload your Mailvelope public keys to the %s server so that other people "
+#~ "can send you encrypted emails."
+#~ msgstr ""
+#~ "Lataa Mailvelopen julkiset avaimet %s -palvelimelle, jotta sinulle "
+#~ "voidaan lähettää suojattuja sähköposteja."
+
+#~ msgid "Upload Public Key"
+#~ msgstr "Lataa julkinen avain"
+
+#~ msgid "Backup and Recovery"
+#~ msgstr "Varmuuskopiointi ja palauttaminen"
+
+#~ msgid "No backup data available"
+#~ msgstr "Varmuuskopiota ei ole saatavilla"
+
+#~ msgid ""
+#~ "You can now backup your keys. Please store the provided password secure. "
+#~ "It is also possible to skip this step and do the backup later. You can "
+#~ "find it in the settings."
+#~ msgstr ""
+#~ "Voit nyt salata avaimesi. Säilytä salasana turvallisesti. Voit myös "
+#~ "ohittaa tämän vaiheen ja tehdä varmuuskopion myöhemmin. Toiminto löytyy "
+#~ "asetuksista."
+
+#~ msgid "Skip without backup"
+#~ msgstr "Ohita tekemättä varmuuskopiota"
+
+#~ msgid "Recommended: Setup key backup"
+#~ msgstr "Suositus: Luo avaimen varmuuskopio"
+
+#~ msgid "Enter %s security password"
+#~ msgstr "Anna %s-salasana "
+
+#~ msgid "Bad password"
+#~ msgstr "Väärä salasana"
+
+#~ msgid "Account Locked out"
+#~ msgstr "Tili lukittu "
+
+#~ msgid "Unspecified error"
+#~ msgstr "Määrittelemätön virhe"
+
+#~ msgid "Problems creating keys, please try again later."
+#~ msgstr "Ongelma avainten luomisessa, ole hyvä ja yritä uudelleen myöhemmin."
+
+#~ msgid ""
+#~ "Problems creating keys.  Keys already exist for this email address in "
+#~ "another account."
+#~ msgstr ""
+#~ "Ongelmia avainten luomisessa. Avaimet tätä sähköpostiosoitetta varten on "
+#~ "jo olemassa toisella tilillä."
+
+#~ msgid "Passwords must be at least %s characters in length"
+#~ msgstr "Salasanan on oltava vähintään %s merkkiä pitkä"
+
+#~ msgid "Passwords not equal"
+#~ msgstr "Salasanat eivät täsmää"
+
+#~ msgid "Enter new secondary Email address"
+#~ msgstr "Anna uusi toissijainen sähköpostiosoite"
+
+#~ msgid "Generating key, Please wait"
+#~ msgstr "Luodaan avainta, ole hyvä ja odota"
+
+#~ msgid ""
+#~ "Please choose the password you will use for %s. You will need to type "
+#~ "this password whenever you want to encrypt or decrypt items. Remember it "
+#~ "should be different from your login password, and will not change if you "
+#~ "change your login password."
+#~ msgstr ""
+#~ "Valitse %slle käyttämäsi salasana. Sinun täytyy kirjoittaa tämä salasana "
+#~ "aina halutessasi salata tai purkaa salauksia. Salasanan pitää olla eri "
+#~ "kuin sisäänkirjautumissalasanasi, eikä se muutu vaihtaessasi "
+#~ "sisäänkirjautumissalasanasi."
+
+#~ msgid "Please enter a password to protect your new encrypted items."
+#~ msgstr "Anna salasana uusien salattujen kohteitesi suojaamiseksi."
+
+#~ msgid "Confirm"
+#~ msgstr "Vahvista"
+
+#~ msgid ""
+#~ "Warning: This password for encryption cannot be restored or recovered in "
+#~ "any way.  If forgotten, all encrypted data will be lost"
+#~ msgstr ""
+#~ "Varoitus: Tätä salauksen salasanaa ei voida palauttaa millään keinoin. "
+#~ "Jos unohdat sen, menetät kaikki suojatut tiedot."
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password."
+#~ msgstr ""
+#~ "Anna toinen sähköpostiosoite siltä varalta, että salasanasi täytyy "
+#~ "asettaa uudelleen."
+
+#~ msgid "Email:"
+#~ msgstr "Sähköposti:"
+
+#~ msgid "Create %s Security Keys"
+#~ msgstr "Luo %s - suojausavaimet"
+
+#~ msgid "Cancel"
+#~ msgstr "Peru"
+
+#~ msgid "Not valid email"
+#~ msgstr "Epäkelpo sähköposti"
+
+#~ msgid "Emails not equal"
+#~ msgstr "Sähköpostit eivät ole samanarvoisia"
+
+#~ msgid "Too short"
+#~ msgstr "Liian lyhyt"
+
+#~ msgid "Strong"
+#~ msgstr "Vahva"
+
+#~ msgid "Weak"
+#~ msgstr "Heikko"
+
+#~ msgid "First %s Security Use"
+#~ msgstr "Ensimmäinen %s salauksen käyttö"
+
+#~ msgid "You have been sent an email using %s to secure the contents"
+#~ msgstr ""
+#~ "Sinulle on lähetetty sähköposti, jonka sisältö on suojattu käyttäen %s "
+
+#~ msgid ""
+#~ "Please select a new password for use with %s.  This password will be used "
+#~ "to open encrypted emails and files that may be sent to you."
+#~ msgstr ""
+#~ "Valitse uusi salasana käytettäväksi %s:n kanssa. Salasanaa käytetään "
+#~ "sinulle lähetettävien salattujen sähköpostien ja tiedostojen avaamiseen."
+
+#~ msgid "First %s Security Password Use"
+#~ msgstr "Ensimmäinen %s -salaussalasanan käyttö"
+
+#~ msgid ""
+#~ "Please change the initial temporary %s security password that was sent to "
+#~ "you in a separate email."
+#~ msgstr ""
+#~ "Vaihda väliaikainen erillisessä sähköpostissa sinulle lähetetty %s -"
+#~ "suojaussalasana."
+
+#~ msgid "Initial Password"
+#~ msgstr "Alustava salasana"
+
+#~ msgid "New Password"
+#~ msgstr "Uusi salasana"
+
+#~ msgid "Confirm New"
+#~ msgstr "Vahvista salasana"
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password.</p>"
+#~ msgstr ""
+#~ "Ole hyvä ja anna toissijainen sähköpostiosoite siltä varalta että unohdat "
+#~ "salasanasi.</p>"
+
+#~ msgid "Verify:"
+#~ msgstr "Varmenna:"
+
+#~ msgid ""
+#~ "Warning: This password for encryption cannot be restored or recovered in "
+#~ "any way.  If forgotten, all encrypted data will be lost."
+#~ msgstr ""
+#~ "Varoitus: Tätä salauksen salasanaa ei voida palauttaa millään keinoin. "
+#~ "Jos unohdat sen, menetät kaikki suojatut tiedot."
+
+#~ msgid "Success"
+#~ msgstr "Onnistui"
+
+#~ msgid "Password changed successfully"
+#~ msgstr "Salasana onnistuneesti vaihdettu"
+
+#~ msgid "New password must be at least %s characters long"
+#~ msgstr "Uuden salasanan on oltava vähintään %s merkkiä pitkä"
+
+#~ msgid "Encryption key not found"
+#~ msgstr "Salausavainta ei löytynyt"
+
+#~ msgid "Failed to change password"
+#~ msgstr "Salasanan vaihtaminen epäonnistui"
+
+#~ msgid "Download decrypted"
+#~ msgstr "Latauksen salaus purettu"
+
+#~ msgid "Add and encrypt local file"
+#~ msgstr "Lisää ja salaa paikallinen tiedosto"
+
+#~ msgid "Remove encryption"
+#~ msgstr "Poista salaus"
+
+#~ msgid "Encrypt"
+#~ msgstr "Salaa"
+
+#~ msgid "Send by mail"
+#~ msgstr "Lähetä postina"
+
+#~ msgid "Download encrypted"
+#~ msgstr "Lataus salattu"
+
+#~ msgid "Pop out"
+#~ msgstr "Uusi ikkuna"
+
+#~ msgid "Pop out standalone viewer"
+#~ msgstr "Avaa erillinen katselu uudessa ikkunassa"
+
+#~ msgid "Decrypt and open"
+#~ msgstr "Pura salaus ja avaa"
+
+#~ msgid "Drop files here to encrypt"
+#~ msgstr "Pudota tiedostot tähän salataksesi ne"
+
+#~ msgid "Recipient Options"
+#~ msgstr "Vastaanottaja-asetukset"
+
+#~ msgid ""
+#~ "At least one of your recipients uses a different webmail system.  They "
+#~ "will receive an email with a link for them to read this message.  If you "
+#~ "like, you can add a personalized message that will appear at the top of "
+#~ "this message.  This will help identify the message as coming from you."
+#~ msgstr ""
+#~ "Ainakin yksi vastaanottajista käyttää toista sähköpostijärjestelmää. He "
+#~ "tulevat saamaan viestin, jossa on linkki tämän viestin lukemiseksi. "
+#~ "Mikäli niin haluat, voit lisätä henkilökohtaisen viestin, joka näytetään "
+#~ "lähetettävän viestin yläpuolella. Siten viestin voi helpommin tunnistaa "
+#~ "olevan sinulta."
+
+#~ msgid "Message:"
+#~ msgstr "Viesti:"
+
+#~ msgid "Language for recipient Email"
+#~ msgstr "Vastaanottajan sähköpostin kieli"
+
+#~ msgid "Note: Emails sent to mailing lists or groups will not work."
+#~ msgstr ""
+#~ "Huom. Postituslistoille ja ryhmiin lähetetyt sähköpostit eivät toimi."
+
+#~ msgid ""
+#~ "Mailing list / blocked email found.  Encrypted emails to this email will "
+#~ "fail.  %s"
+#~ msgstr ""
+#~ "Postituslista /estetty sähköposti löydetty. Salatut sähköpostit tähän "
+#~ "sähköpostiosoitteeseen eivät mene perille.  %s"
+
+#~ msgid ""
+#~ "The key for %s has expired.  You will not be able to send an encrypted "
+#~ "email to this recipient."
+#~ msgstr ""
+#~ "%s-avain on vanhentunut. Et voi lähettää salattua sähköpostia tälle "
+#~ "vastaanottajalle."
+
+#~ msgid "HTML Formatted Email"
+#~ msgstr "HTML-muotoiset sähköposti"
+
+#~ msgid ""
+#~ "HTML formatted emails may cause issues with PGP inline.  Click OK to "
+#~ "change to Plain Text formatted Emails."
+#~ msgstr ""
+#~ "HTML-muotoiset sähköpostit voivat aiheuttaa ongelmia PGP inlinen kanssa. "
+#~ "Klikkaa OK tallentaaksesi Plain Text-muotoiset sähköpostit."
+
+#~ msgid "HTML format is not recommended when using PGP Inline"
+#~ msgstr "HTML-formaatin käyttöä ei suositella kun käytössä on PGP Inline"
+
+#~ msgid "Recipients cannot be added to this encrypted reply"
+#~ msgstr "Tähän salattuun vastaukseen ei voida lisätä vastaanottajia"
+
+#~ msgid "Reply must be encrypted"
+#~ msgstr "Vastauksen täytyy olla salattu"
+
+#~ msgid "Unable to attach your public key"
+#~ msgstr "Julkisen avaimesi liittäminen ei onnistu."
+
+#~ msgid "Will create new guest account for %s"
+#~ msgstr "Luodaan uusi %s -vierastili"
+
+#~ msgid "Encryption Key Known"
+#~ msgstr "Salausavain tunnetaan"
+
+#~ msgid "Send"
+#~ msgstr "Lähetä"
+
+#~ msgid "Send Encrypted"
+#~ msgstr "Lähetä salattuna"
+
+#~ msgid "Send Secure"
+#~ msgstr "Lähetä suojattuna"
+
+#~ msgid "Loaded"
+#~ msgstr "Ladattu"
+
+#~ msgid "Secure Email, enter your %s security password."
+#~ msgstr "Suojattu sähköposti, anna %s -suojauksen salasana."
+
+#~ msgid "Keep me logged into %s"
+#~ msgstr "Pidä minut sisäänkirjautuneena ohjelmaan %s"
+
+#~ msgid "10 minutes"
+#~ msgstr "10 minuuttia"
+
+#~ msgid "20 minutes"
+#~ msgstr "20 minuuttia"
+
+#~ msgid "30 minutes"
+#~ msgstr "30 minuuttia"
+
+#~ msgid "1 hour"
+#~ msgstr "1 tunnin"
+
+#~ msgid "2 hours"
+#~ msgstr "2 tuntia"
+
+#~ msgid "Session"
+#~ msgstr "Istunnon ajan"
+
+#~ msgid "Select Key Location"
+#~ msgstr "Valitse avaimen sijainti"
+
+#~ msgid "Temporary Lockout"
+#~ msgstr "Tilapäisesti suljettu"
+
+#~ msgid "Security PIN"
+#~ msgstr "Suojaus-PIN"
+
+#~ msgid "Recipients:"
+#~ msgstr "Vastaanottajat:"
+
+#~ msgid ""
+#~ "The new recipients listed below will be sent a password via email.  You "
+#~ "can also require a separate pin, which is displayed below."
+#~ msgstr ""
+#~ "Alla luetelluille uusille vastaanottajille lähetetään salasanat "
+#~ "sähköpostitse. Saatat myös vaatia erillisen PIN-koodin, joka näkyy alla."
+
+#~ msgid ""
+#~ "You may deliver this pin any way you see fit, but we recommend doing it "
+#~ "in a second method other than email (Phone, SMS, Skype, etc)."
+#~ msgstr ""
+#~ "Voit toimittaa PIN-koodin parhaaksi katsomallasi tavalla, mutta "
+#~ "suosittelemme muuta kuin sähköpostia (puhelin, tekstiviesti, Skype, tms.)."
+
+#~ msgid "If you want this extra pin requirement, click OK."
+#~ msgstr "Jos haluat vaatia ylimääräisen PIN-koodin, klikkaa OK."
+
+#~ msgid "Skip"
+#~ msgstr "Jätä väliin"
+
+#~ msgid "Unable to get key"
+#~ msgstr "Avaaminen ei onnistu"
+
+#~ msgid "Please enter your %s password to sign this email."
+#~ msgstr "Anna %s -salasanasi allekirjoittaaksesi tämän sähköpostin."
+
+#~ msgid ""
+#~ "There appears to be an encrypted attachment.  Please enter your %s "
+#~ "password to decode the attachment for sending."
+#~ msgstr ""
+#~ "Viestissä näyttää olevan salattu liite. Anna  %s-salasanasi avataksesi "
+#~ "liitteen lähettämistä varten."
+
+#~ msgid "Please re-enter your %s password before sending."
+#~ msgstr "Anna  %s-salasanasi uudelleen ennen lähettämistä."
+
+#~ msgid "Please re-enter your %s password before saving."
+#~ msgstr "Anna uudelleen %s-salasanasi ennen tallentamista."
+
+#~ msgid "Please re-enter your %s password."
+#~ msgstr "Anna uudelleen  %s-salasanasi."
+
+#~ msgid "Security"
+#~ msgstr "Turvallisuus"
+
+#~ msgid "PGP"
+#~ msgstr "PGP"
+
+#~ msgid "Secure"
+#~ msgstr "Suojattu"
+
+#~ msgid "Sign"
+#~ msgstr "Allekirjoita"
+
+#~ msgid "Format"
+#~ msgstr "Muoto"
+
+#~ msgid "PGP Mime"
+#~ msgstr "PGP Mime"
+
+#~ msgid "PGP Inline"
+#~ msgstr "PGP Inline"
+
+#~ msgid "Keys"
+#~ msgstr "Avaimet"
+
+#~ msgid "Attach my key"
+#~ msgstr "Liitä avaimeni"
+
+#~ msgid "Unable to find keys for all recipients."
+#~ msgstr "Kaikille vastaanottajille ei löytynyt avainta."
+
+#~ msgid "Unable to connect to the encryption server."
+#~ msgstr "Salauspalvelimeen ei saada yhteyttä."
+
+#~ msgid "Unable to find the item on the server"
+#~ msgstr "Kohdetta ei löydy palvelimelta."
+
+#~ msgid "Unable to get the key for that item"
+#~ msgstr "Salausavainta ei saatu"
+
+#~ msgid "Unable to retrieve your user keys to decode"
+#~ msgstr "Käyttäjäavaimiasi ei voitu hakea purkamista varten"
+
+#~ msgid "Bad extra password"
+#~ msgstr "Väärä lisäsalasana"
+
+#~ msgid "No private key to decode this message"
+#~ msgstr "Viestin salauksen purkamiseen ei ole yksityistä avainta."
+
+#~ msgid "Unable to decrypt Email, incorrect password."
+#~ msgstr "Viestin salausta ei voida purkaa, väärä salasana."
+
+#~ msgid "To reset or recover your password, click %s"
+#~ msgstr "Napsauta %s jos haluat nollata tai palauttaa salasanasi"
+
+#~ msgid "Settings"
+#~ msgstr "Asetukset"
+
+#~ msgid "No Private Key available for this encrypted item."
+#~ msgstr "Yksityistä avainta ei ole saatavissa tähän salattuun kohteeseen."
+
+#~ msgid "Key Ids:"
+#~ msgstr "Avaintunnisteet:"
+
+#~ msgid "Your account is locked out for %s minutes"
+#~ msgstr "Tilisi on lukittu %s  minuutiksi."
+
+#~ msgid "Server Error: "
+#~ msgstr "Palvelinvirhe:"
+
+#~ msgid "Password needed"
+#~ msgstr "Tarvitaan salasana"
+
+#~ msgid "Please enter your %s password"
+#~ msgstr "Anna %s -salasanasi"
+
+#~ msgid "Remember my password"
+#~ msgstr "Muista salasanani"
+
+#~ msgid "Account locked out due to bad attempts.  Please try again later."
+#~ msgstr ""
+#~ "Tili on lukittu epäonnistuneiden yritysten vuoksi. Yritä myöhemmin "
+#~ "uudelleen."
+
+#~ msgid "Error checking password"
+#~ msgstr "Virhe salasanan tarkistamisessa "
+
+#~ msgid "Delete Public Key"
+#~ msgstr "Poista julkinen avain"
+
+#~ msgid "Click OK to confirm"
+#~ msgstr "Vahvista napsauttamalla OK"
+
+#~ msgid "Email"
+#~ msgstr "Sähköposti"
+
+#~ msgid "Key Ids"
+#~ msgstr "Avaintunnisteet"
+
+#~ msgid "Details"
+#~ msgstr "Tiedot"
+
+#~ msgid "Delete"
+#~ msgstr "Poista"
+
+#~ msgid "No Keys Found"
+#~ msgstr "Avaimia ei löytynyt"
+
+#~ msgid "Key Details"
+#~ msgstr "Avaimen tiedot"
+
+#~ msgid "Share Keys"
+#~ msgstr "Jaa avaimet"
+
+#~ msgid "Use PGP Inline"
+#~ msgstr "Käytä PGP Inlinea"
+
+#~ msgid "Signatures"
+#~ msgstr "Allekirjoitukset"
+
+#~ msgid "Expired"
+#~ msgstr "Vanhentunut"
+
+#~ msgid "Revoked"
+#~ msgstr "Peruutettu"
+
+#~ msgid "Fingerprint:"
+#~ msgstr "Sormenjälki:"
+
+#~ msgid "Created:"
+#~ msgstr "Luotu:"
+
+#~ msgid "Master:"
+#~ msgstr "Omistaja:"
+
+#~ msgid "True"
+#~ msgstr "Oikea"
+
+#~ msgid "False"
+#~ msgstr "Väärä"
+
+#~ msgid "Encryption:"
+#~ msgstr "Salaus:"
+
+#~ msgid "IDs: "
+#~ msgstr "Tunnisteet:"
+
+#~ msgid "Expires in %1$s days"
+#~ msgstr "Vanhenee %1$s päivässä"
+
+#~ msgid "Problem getting signatures"
+#~ msgstr "Allekirjoitusten hankkimisessa on ongelma"
+
+#~ msgid "Positive"
+#~ msgstr "Positiivinen"
+
+#~ msgid "Failed check"
+#~ msgstr "Tarkistus epäonnistui"
+
+#~ msgid "Missing public"
+#~ msgstr "Julkinen avain puuttuu"
+
+#~ msgid "Casual"
+#~ msgstr "Epämuodollinen"
+
+#~ msgid "Revocation"
+#~ msgstr "Peruutus"
+
+#~ msgid "Direct cert"
+#~ msgstr "Suoraa varmennus"
+
+#~ msgid "Default Certification"
+#~ msgstr "Oletusvarmennus"
+
+#~ msgid "No signatures"
+#~ msgstr "Ei allekirjoituksia"
+
+#~ msgid "ID Signed"
+#~ msgstr "Tunniste allekirjoitettu"
+
+#~ msgid "Certification"
+#~ msgstr "Varmentaminen"
+
+#~ msgid "Signed by"
+#~ msgstr "Allekirjoittaja"
+
+#~ msgid "Image"
+#~ msgstr "Kuva"
+
+#~ msgid "Key Signatures"
+#~ msgstr "Avainallekirjoitukset"
+
+#~ msgid "PGP Public Key List"
+#~ msgstr "PGP:n julkisten avainten lista"
+
+#~ msgid "This Email was encrypted with PGP."
+#~ msgstr "Tämä sähköposti on PGP-salattu."
+
+#~ msgid "This Email was signed and verified."
+#~ msgstr ""
+#~ "Lähettäjä allekirjoitti tämän postin. Allekirjoitus on verifioitu "
+#~ "oikeaksi."
+
+#~ msgid "This Email was signed and failed verification."
+#~ msgstr "Tämä sähköposti on allekirjoitettu ja verifiointi epäonnistui."
+
+#~ msgid "This Email was signed but unable to verify."
+#~ msgstr ""
+#~ "Tämä on sähköposti on allekirjoitettu, mutta verifiointi ei onnistu."
+
+#~ msgid ""
+#~ "This Email was sent using PGP encryption. It has been decrypted with your "
+#~ "private key"
+#~ msgstr ""
+#~ "Tämä viesti lähetettiin PGP-salattuna. Salaus on purettu yksityisellä "
+#~ "avaimellasi."
+
+#~ msgid "This Email was signed by the sender and verified."
+#~ msgstr ""
+#~ "Lähettäjä allekirjoitti tämän postin. Allekirjoitus on verifioitu "
+#~ "oikeaksi."
+
+#~ msgid "PGP Public Key Found.  Click to Import"
+#~ msgstr "Julkinen PGP-avain löydetty. Napauta tuodaksesi se."
+
+#~ msgid "Save encrypted to %1$s"
+#~ msgstr "Tallenna salattuna %1$an"
+
+#~ msgctxt "app"
+#~ msgid "Drive"
+#~ msgstr "Asema"
+
+#~ msgid "Check assigned PIN"
+#~ msgstr "Tarkista annettu PIN"
+
+#~ msgid "PIN"
+#~ msgstr "PIN-koodi"
+
+#~ msgid "Added keys: \r\n"
+#~ msgstr "Lisätyt avaimet:\r\n"
+
+#~ msgid "Key ID: "
+#~ msgstr "Avaimen tunniste:"
+
+#~ msgid "Service Unavailable"
+#~ msgstr "Palvelu ei ole saatavilla"
+
+#~ msgid "Advanced Settings"
+#~ msgstr "Lisäasetukset"
+
+#~ msgid "Download PGP Public Key"
+#~ msgstr "Lataa PGP:n julkinen avain"
+
+#~ msgid "Email your PGP Public Key"
+#~ msgstr "Lähetä PGP:n julkinen avaimesi sähköpostina"
+
+#~ msgid "Your Keys"
+#~ msgstr "Avaimesi"
+
+#~ msgid "Your Key List"
+#~ msgstr "Avainlistasi"
+
+#~ msgid "Key ID"
+#~ msgstr "Avaimen tunniste"
+
+#~ msgid "Private Key"
+#~ msgstr "Yksityinen avain"
+
+#~ msgid "Current"
+#~ msgstr "Nykyinen"
+
+#~ msgid "Download"
+#~ msgstr "Lataa"
+
+#~ msgid "Edit"
+#~ msgstr "Muokkaa"
+
+#~ msgid "Adding Keys"
+#~ msgstr "Lisätään avaimia"
+
+#~ msgid "If you already have a private key, you can upload it here."
+#~ msgstr "Jos sinulla on jo yksityinen avain, voit ladata sen tässä."
+
+#~ msgid "Upload Private Key"
+#~ msgstr "Lataa yksityinen avain"
+
+#~ msgid "Finally, you can have a new PGP Key Pair created for your account."
+#~ msgstr "Saat vihdoin luoda uuden PGP-avainparin tiliäsi varten."
+
+#~ msgid "Create New Keys"
+#~ msgstr "Luo uusia avaimia"
+
+#~ msgid "Adding UserID"
+#~ msgstr "Lisätään käyttäjätunnus"
+
+#~ msgid "Add a name and email address to this public key."
+#~ msgstr "Lisää julkiseen avaimeen nimi ja sähköpostiosoite."
+
+#~ msgid "Name"
+#~ msgstr "Nimi"
+
+#~ msgid "Please enter your key password"
+#~ msgstr "Anna avaimesi salasana"
+
+#~ msgid "Invalid Email Address"
+#~ msgstr "Kelpaamaton sähköpostiosoite"
+
+#~ msgid "Invalid Name"
+#~ msgstr "Epäkelpo nimi"
+
+#~ msgid "Enter password"
+#~ msgstr "Anna salasana"
+
+#~ msgid "User ID added"
+#~ msgstr "Käyttäjätunnus lisätty"
+
+#~ msgid "Failed to add UserID"
+#~ msgstr "Käyttäjätunnuksen lisääminen epäonnistui"
+
+#~ msgid "Revoke Private Key"
+#~ msgstr "Peruuta yksityinen avain"
+
+#~ msgid ""
+#~ "Revoke the key: This advises others that you no longer want this key "
+#~ "used.  You can continue to decode any encrypted data using the key."
+#~ msgstr ""
+#~ "Peruuta avain: Tämä kertoo muille, että et enää halua tätä avainta "
+#~ "käytettävän. Voit jatkaa salatun datan purkamista avainta käyttäen."
+
+#~ msgid "Delete Private Key"
+#~ msgstr "Poista yksityinen avain"
+
+#~ msgid "There are two options if you no longer want to use this key"
+#~ msgstr ""
+#~ "Jos et enää halua käyttää tätä avainta, sinulla on kaksi vaihtoehtoa"
+
+#~ msgid ""
+#~ "Revoke the key: This advises others that you no longer want this key "
+#~ "used.  You can continue to decode any encrypted data using the key. "
+#~ "(Recommended)"
+#~ msgstr ""
+#~ "Peruuta avain: Tämä kertoo muille, että et enää halua tätä avainta "
+#~ "käytettävän. Voit jatkaa salatun datan purkamista avainta käyttäen. (Tätä "
+#~ "suositellaan)"
+
+#~ msgid ""
+#~ "Deleting the key: Deleting the private key will render all encrypted "
+#~ "items unreadable.  You will not be able to decode emails or files that "
+#~ "were enrypted with this key.  This cannot be undone."
+#~ msgstr ""
+#~ "Avaimen poistaminen: Yksityisen avaimen poistamisen jälkeen salattuja "
+#~ "kohteita ei voida lukea. Et voit purkaa tällä avaimella salattujen "
+#~ "sähköpostien tai tiedostojen salausta. Toimintoa ei voi peruuttaa."
+
+#~ msgid "Revoke"
+#~ msgstr "Peruuta"
+
+#~ msgid ""
+#~ "You will no longer be able to decode any items that were encrypted with "
+#~ "this key!"
+#~ msgstr "Et voi enää purkaa tällä avaimella salattujen kohteiden salausta!"
+
+#~ msgid "Enter your password below to confirm and verify"
+#~ msgstr "Kirjoita salasanasi alle vahvistaaksesi ja varmentaaksesi"
+
+#~ msgid "Bad Password"
+#~ msgstr "Väärä salasana"
+
+#~ msgid "Key Deleted"
+#~ msgstr "Avain poistettu"
+
+#~ msgid "Failed to delete key"
+#~ msgstr "Avaimen poisto epäonnistui"
+
+#~ msgid "Problem deleting key"
+#~ msgstr "Ongelma avaimen poistamisessa "
+
+#~ msgid "Please verify you want to delete this key"
+#~ msgstr "Vahvista, että haluat poistaa tämän avaimen"
+
+#~ msgid "Failed to delete"
+#~ msgstr "Poistaminen epäonnistui"
+
+#~ msgid ""
+#~ "This will advise people not to use this key.  You can still use the key "
+#~ "to decode existing items."
+#~ msgstr ""
+#~ "Tämä neuvoo ihmisiä olemaan käyttämättä tätä avainta. Voit silti käyttää "
+#~ "avainta olemassaolevien kohteiden salauksen purkamiseen."
+
+#~ msgid "Reason"
+#~ msgstr "Syy"
+
+#~ msgid "No Reason"
+#~ msgstr "Ei syytä"
+
+#~ msgid "Key superseded"
+#~ msgstr "Avain syrjäytetty"
+
+#~ msgid "Key compromised"
+#~ msgstr "Avain on vaarantunut"
+
+#~ msgid "Key retired"
+#~ msgstr "Avain on vanhentunut"
+
+#~ msgid "User no longer valid"
+#~ msgstr "Käyttäjä ei ole voimassa"
+
+#~ msgid "Key Revoked"
+#~ msgstr "Avain on peruttu"
+
+#~ msgid "Failed to revoke key"
+#~ msgstr "Avaimen peruminen epäonnistui"
+
+#~ msgid "Download Key"
+#~ msgstr "Lataa avain"
+
+#~ msgid "Download your private key for use with other email programs"
+#~ msgstr ""
+#~ "Lataa yksityinen avaimesi käytettäväksi muiden sähköpostiohjelmien kanssa"
+
+#~ msgid "Do not distribute this key.  It is for your use only"
+#~ msgstr "Älä anna tätä avainta eteenpäin. Se on omaan käyttöösi."
+
+#~ msgid "Download PGP Private Key"
+#~ msgstr "Lataa PGP:n yksityinen avain"
+
+#~ msgid "Download Public and Private Key"
+#~ msgstr "Lataa julkinen ja yksityinen avain"
+
+#~ msgid "Key ID:"
+#~ msgstr "Avaimen tunniste:"
+
+#~ msgid "Expires:"
+#~ msgstr "Vanhenee:"
+
+#~ msgid "Private Key: "
+#~ msgstr "Yksityinen avain"
+
+#~ msgid ""
+#~ "If you would like to upload a public key only, then do so here.  This "
+#~ "will allow you to encrypt files and receive encrypted emails using %s, "
+#~ "but you will need to use the private key with another program to decode "
+#~ "the items."
+#~ msgstr ""
+#~ "Jos haluat ladata vain julkisen avaimen, tee se tässä. Sen avulla voit "
+#~ "salata tiedostoja ja vastaanottaa salattuja sähköposteja käyttäen  %s, "
+#~ "mutta sinun täytyy käyttää yksityistä avainta toisen ohjelman kanssa "
+#~ "purkaaksesi salaukset."
+
+#~ msgid "Upload Public Key Only"
+#~ msgstr "Lataa vain julkinen avain"
+
+#~ msgid "PGP Public Key is attached"
+#~ msgstr "Julkinen PGP-avain ohessa"
+
+#~ msgid "Public Keys"
+#~ msgstr "Julkiset avaimet"
+
+#~ msgid "Failed to update settings"
+#~ msgstr "Asetusten päivitys epäonnistui"
+
+#~ msgid "Email format"
+#~ msgstr "Sähköpostin formaatti"
+
+#~ msgid ""
+#~ "Emails that contain HTML and are sent with PGP Inline will often result "
+#~ "in decoding errors and possible failure.  As a result, the default Email "
+#~ "format should be changed to plaintext.  Click OK to change the default to "
+#~ "plaintext, cancel to keep your current setting."
+#~ msgstr ""
+#~ "PGP Inlinella lähetetyt HTML-viestit johtavat usein purkuvirheisiin ja "
+#~ "mahdollisiin epäonnistumisiin. Tämän vuoksi sähköpostin oletusformaatiksi "
+#~ "pitäisi valita plaintext. Näpäytä OK vaihtaaksesi oletuksen "
+#~ "plaintextiksi, peruuta jos haluat pitää nykyisen asetuksen."
+
+#~ msgid "Ask each time"
+#~ msgstr "Kysy joka kerta"
+
+#~ msgid "Remember Password Default"
+#~ msgstr "Muista salasanaoletus"
+
+#~ msgid "Default to send encrypted when composing email"
+#~ msgstr "Oletuksena salattuna lähetys sähköpostia kirjoitettaessa"
+
+#~ msgid "Encrypt all incoming emails"
+#~ msgstr "Salaa kaikki saapuvat sähköpostit"
+
+#~ msgid "Default adding signature to outgoing mails"
+#~ msgstr "Oletuksena allekirjoituksen lisääminen lähteviin viesteihin"
+
+#~ msgid "Default to using PGP inline for new mails"
+#~ msgstr "Oletukseksi PGP Inlinen käyttö uusille viesteille"
+
+#~ msgid "Please wait"
+#~ msgstr "Odota"
+
+#~ msgid "Advanced"
+#~ msgstr "Lisää"
+
+#~ msgid "Enable Advanced PGP Features"
+#~ msgstr "Kytke päälle PGP:n lisäominaisuudet"
+
+#~ msgid "PGP Encryption Settings"
+#~ msgstr "PGP:n salausasetukset"
+
+#~ msgid "Security Settings"
+#~ msgstr "Suojausasetukset"
+
+#~ msgid "Keys uploaded"
+#~ msgstr "Avaimet on ladattu"
+
+#~ msgid "Failed to upload"
+#~ msgstr "Lataaminen epäonnistui"
+
+#~ msgid "The public key must have your primary email as a user ID"
+#~ msgstr ""
+#~ "Julkisessa avaimessa täytyy olla pääasiallinen sähköpostiosoitteesi "
+#~ "käyttäjätunnuksena"
+
+#~ msgid "Upload Private Keys"
+#~ msgstr "Lataa yksityiset avaimet"
+
+#~ msgid "Please enter passwords for the upload"
+#~ msgstr "Anna salasanat lataamista varten"
+
+#~ msgid "Enter new password for the key:"
+#~ msgstr "Anna avaimelle uusi salasana:"
+
+#~ msgid "Confirm Password:"
+#~ msgstr "Vahvista salasana:"
+
+#~ msgid "Private key password for the key you are uploading:"
+#~ msgstr "Yksityisen avaimen salasana lataamallesi avaimelle:"
+
+#~ msgid "Private Key Uploaded"
+#~ msgstr "Yksityinen avain on ladattu"
+
+#~ msgid "This key already exists"
+#~ msgstr "Avain on jo olemassa"
+
+#~ msgid "Bad PGP Password"
+#~ msgstr "Väärä PGP-salasana"
+
+#~ msgid "The private key must have your primary email as a user ID"
+#~ msgstr ""
+#~ "Yksityisessä avaimessa täytyy olla ensisijainen sähköpostiosoitteesi "
+#~ "käyttäjätunnuksena"
+
+#~ msgid "Must use same password as existing key to merge"
+#~ msgstr ""
+#~ "Sulauttaminen onnistuu vain käyttämällä samaa salasanaa kuin nykyinen "
+#~ "avain"
+
+#~ msgid "Problem uploading Private Key "
+#~ msgstr "Ongelma yksityisen avaimen lataamisessa"
+
+#~ msgid "Logged out of %s"
+#~ msgstr "Kirjauduttu ulos kohteesta %s"
+
+#~ msgid "Failed to log out of %s"
+#~ msgstr "%s-uloskirjautuminen epäonnistui"
+
+#~ msgid "Guided tour for %s"
+#~ msgstr "Ohjattu  %s -kierros"
+
+#~ msgid "Sign out %s"
+#~ msgstr "Kirjaudu ulos %ssta"
+
+#~ msgctxt "app"
+#~ msgid "%s Security"
+#~ msgstr "%s -suojaus"
+
+#~ msgid "Get Started"
+#~ msgstr "Aloita"
+
+#~ msgid ""
+#~ "In order to start with %s Security, you must set up a password for your "
+#~ "secured files."
+#~ msgstr ""
+#~ "Aloita  %s -suojauksen käyttö asettamalla suojatuille tiedostoillesi "
+#~ "salasana."
+
+#~ msgid "Start"
+#~ msgstr "Aloita"
+
+#~ msgid "%s Security Settings"
+#~ msgstr "%s -suojausasetukset"
+
+#~ msgid "Change %s Security Password."
+#~ msgstr "Vaihda %s -suojauksen salasana."
+
+#~ msgid "Enter current %s security password"
+#~ msgstr "Anna nykyinen %s -suojaussalasana"
+
+#~ msgid "Enter new %s security password"
+#~ msgstr "Anna uusi %s -suojauksen salasana"
+
+#~ msgid "Verify new %s security password"
+#~ msgstr "Varmista uusi %s -suojauksen salasana"
+
+#~ msgid "Change %s security password"
+#~ msgstr "Vaihda %s -suojauksen salasana"
+
+#~ msgid "Reset %s security password"
+#~ msgstr "Aseta %s -suojauksen salasana uudelleen"
+
+#~ msgid "Send a temporary %s security password to my secondary Email address."
+#~ msgstr "Lähetä väliaikainen %s -salasana toiseen sähköpostiosoitteeseeni."
+
+#~ msgid "Delete Password Recovery"
+#~ msgstr "Poista salasananpalautus"
+
+#~ msgid "Advanced Users Only!"
+#~ msgstr "Vain kokeneille käyttäjille!"
+
+#~ msgid ""
+#~ "Delete the password recovery.  The recovery is used to reset your "
+#~ "password.  If you delete the recovery, you will not be able to reset your "
+#~ "password if you forget it.  Changing your password will restore the "
+#~ "recovery."
+#~ msgstr ""
+#~ "Poista salasanan palautus. Palautusta käytetään salasanasi nollaamiseen. "
+#~ "Jos poistat palautuksen, et voi nollata salasanaasi jos unohdat sen. "
+#~ "Salasanan vaihtaminen palauttaa salasanan palautuksen."
+
+#~ msgid "Please verify your password before deleting the recovery."
+#~ msgstr "Vahvista salasanasi ennen palautuksen poistamista."
+
+#~ msgid "Recovery deleted"
+#~ msgstr "Palautus poistettu"
+
+#~ msgid "Current Email address:"
+#~ msgstr "Nykyinen sähköpostiosoite:"
+
+#~ msgid "Secondary Email"
+#~ msgstr "Toissijainen sähköposti"
+
+#~ msgid "Change Email address used for password reset."
+#~ msgstr "Vaihda salasanan nollaamiseen käytettävää sähköpostiosoitetta."
+
+#~ msgid "Verify Email address"
+#~ msgstr "Varmista sähköpostisoite"
+
+#~ msgid "Change Email address"
+#~ msgstr "Vaihda sähköpostiosoitetta"
+
+#~ msgid "None - Primary Email will be used"
+#~ msgstr "Ei mitään - Käytetään ensisijaista sähköpostia"
+
+#~ msgid "Invalid email address"
+#~ msgstr "Epäkelpo sähköpostiosoite"
+
+#~ msgid "Successfully changed email address"
+#~ msgstr "Sähköpostiosoitteen vaihtaminen onnistui"
+
+#~ msgid "A new password has been sent to your email address."
+#~ msgstr "Uusi salasana on lähetetty sähköpostiosoitteeseesi."
+
+#~ msgid "A new password has been sent to your secondary email address."
+#~ msgstr "Uusi salasana on lähetetty toissijaiseen sähköpostiosoitteeseesi."
+
+#~ msgid "No password recovery is available."
+#~ msgstr "Salasanan nollaus ei ole käytettävissä."
+
+#~ msgid "Password reset, but unable to send to your email address."
+#~ msgstr ""
+#~ "Salasana nollattu, mutta sähköpostiosoiteeseesi ei voitu lähettää viestiä."
+
+#~ msgid "Unable to find email address to send password reset."
+#~ msgstr "Sähköpostiosoitetta nollaukselle ei löydy."
+
+#~ msgid "Unable to reset your password"
+#~ msgstr "Salasanaa ei voitu nollata"
+
+#~ msgid "Next"
+#~ msgstr "Seuraava"
+
+#~ msgid "Simple and Easy"
+#~ msgstr "Yksinkertaista ja helppoa"
+
+#~ msgctxt "Choice"
+#~ msgid "One click encryption for Emails and files"
+#~ msgstr "Yhden klikkauksen salaus sähköposteja ja tiedostoja varten"
+
+#~ msgctxt "Choice"
+#~ msgid "Works in all browsers with all your contacts"
+#~ msgstr "Toimii kaikilla selaimilla kaikilla yhteystiedoillasi."
+
+#~ msgctxt "Choice"
+#~ msgid "Easy to use, every day"
+#~ msgstr "Helppo käyttää joka päivä"
+
+#~ msgctxt "Choice"
+#~ msgid "Security details managed by us"
+#~ msgstr "Hallinnoimme turvallisuustietoja"
+
+#~ msgctxt "Choice"
+#~ msgid ""
+#~ "If you do not have deep knowledge of encryption, but you would like to "
+#~ "easily secure your communication with your friends or business contacts, "
+#~ "this option fits perfectly for you. Safe Email, made simple!"
+#~ msgstr ""
+#~ "Jos sinulla ei ole syvällistä salausosaamista, mutta haluaisit salata "
+#~ "viestintäsi ystäviesi ja liikekontaktiesi kanssa, tämä on sinulle "
+#~ "täydellinen vaihtoehto. Turvallinen sähköposti helposti!"
+
+#~ msgctxt "Choice"
+#~ msgid "Encryption Expert"
+#~ msgstr "Salausekspertti"
+
+#~ msgctxt "Choice"
+#~ msgid "Expert encryption options available"
+#~ msgstr "Edistyneitä salausvaihtoehtoja saatavilla"
+
+#~ msgctxt "Choice"
+#~ msgid "Works only in Firefox and Chrome"
+#~ msgstr "Toimii ainoastaan Firefoxilla ja Chromella"
+
+#~ msgctxt "Choice"
+#~ msgid "Browser plugin required"
+#~ msgstr "Tarvitaan selain-plugin"
+
+#~ msgctxt "Choice"
+#~ msgid "Security details managed by yourself"
+#~ msgstr "Itse hallinnoimasi salaustiedot"
+
+#~ msgctxt "Choice"
+#~ msgid ""
+#~ "If you are an encryption expert, and would like to manage all encryption "
+#~ "details by yourself, this option fits best for you. You need to install a "
+#~ "third-party browser plugin to work with expert encryption."
+#~ msgstr ""
+#~ "Jos olet salausasiantuntija ja haluat hallinnoida salaustietojasi itse, "
+#~ "tämä vaihtoehto sopii sinulle. Asenna kolmas-osapuoli-selain-plugin, "
+#~ "jotta voit suorittaa edistyneen salauksen."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You already set up your %s account. But you can always change your "
+#~ "encryption password, or request a temporary password if you forget it."
+#~ msgstr ""
+#~ "Olet jo asettanut %s -tilin. Voit kuitenkin aina vaihtaa salauksen "
+#~ "salasanasi tai pyytää väliaikaista salasanaa jos olet unohtanut sen."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You already set up your %s account.  You can change your encryption "
+#~ "password here."
+#~ msgstr ""
+#~ "Olet jo asettanut %s -tilin. Voit vaihtaa salauksen salasanasi tässä."
+
+#~ msgctxt "tour"
+#~ msgid "The %s module"
+#~ msgstr "%s -moduuli"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Security and privacy matters to everyone. That's why you can now send and "
+#~ "receive encrypted emails by simply clicking on the lock icon."
+#~ msgstr ""
+#~ "Turvallisuus ja yksityisyys on tärkeää kaikille. Siksi voit nyt lähettää "
+#~ "ja vastaanottaa salattuja sähköposteja napauttamalla lukkokuvaketta."
+
+#~ msgctxt "tour"
+#~ msgid "%s Security Settings"
+#~ msgstr "%s -suojausasetukset"
+
+#~ msgctxt "tour"
+#~ msgid "PGP Encryption Settings"
+#~ msgstr "PGP-salausasetukset"
+
+#~ msgctxt "tour"
+#~ msgid "Security Settings"
+#~ msgstr "Suojausasetukset"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "From here you can update your encryption settings. For example you can "
+#~ "choose to send encrypted emails by default."
+#~ msgstr ""
+#~ "Voit päivittää salausasetuksesi tästä. Voit esimerkiksi oletuksena "
+#~ "lähettää kaikki sähköpostisi salattuina. "
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "From here, you can update your security settings.  For example, you can "
+#~ "choose to send secure emails by default."
+#~ msgstr ""
+#~ "Voit päivittää suojausasetuksesi tästä. Voit esimerkiksi lähettää "
+#~ "suojattuja sähköposteja oletuksena."
+
+#~ msgctxt "tour"
+#~ msgid "Signature"
+#~ msgstr "Allekirjoitus"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "In addition to encrypting your emails you can also sign them. This means "
+#~ "that email recipients can be sure that the email really came from you. By "
+#~ "ticking this checkbox your signature will be added to outgoing emails by "
+#~ "default."
+#~ msgstr ""
+#~ "Sähköpostien salaamisen lisäksi voit myös allekirjoittaa ne. Näin "
+#~ "sähköpostien vastaanottajat voivat olla varmoja, että sähköposti tulee "
+#~ "sinulta. Jos rastitat tämän ruudun, allekirjoituksesi lisätään "
+#~ "automaattisesti lähteviin sähköposteihisi."
+
+#~ msgctxt "tour"
+#~ msgid "Alternative: PGP Inline"
+#~ msgstr "Vaihtoehto: PGP Inline"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "By default %s sends encrypted emails using PGP/Mime format. To "
+#~ "communicate with some systems you may need to use PGP Inline."
+#~ msgstr ""
+#~ "%s lähettää salatut sähköpostit oletuksena PGP/Mime -formaatissa. "
+#~ "Joidenkin järjestelmien kanssa kommunikointiin saattaa tarvita PGP "
+#~ "Inlinea."
+
+#~ msgctxt "tour"
+#~ msgid "Advanced Settings"
+#~ msgstr "Edistyneet asetukset"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Advanced users can manage their key lists from the PGP Encryption "
+#~ "Settings."
+#~ msgstr ""
+#~ "Kokeneet käyttäjät voivat hallita avainlistojaan PGP:n salausasetuksista."
+
+#~ msgctxt "tour"
+#~ msgid "Advanced User Settings"
+#~ msgstr "Käyttäjän lisäasetukset"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Enabling Advanced PGP Features will enable key management and specifying "
+#~ "sending formats."
+#~ msgstr ""
+#~ "PGP:n lisäasetusten päällekytkeminen mahdollistaa avainhallinnan ja "
+#~ "lähettämisformaattien määrittelyn."
+
+#~ msgctxt "tour"
+#~ msgid "Enabling and disabling encryption"
+#~ msgstr "Salauksen kytkeminen päälle ja pois"
+
+#~ msgctxt "tour"
+#~ msgid "You are now able to send secure emails."
+#~ msgstr "Voit nyt lähettää suojattuja sähköposteja."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Sending without encryption is easy, too: Simply click on the lock icon "
+#~ "again."
+#~ msgstr ""
+#~ "Lähettäminen ilman salausta on myöskin helppoa. Napauta vain "
+#~ "lukkokuvaketta uudestaan."
+
+#~ msgctxt "tour"
+#~ msgid "Encrypt files"
+#~ msgstr "Salaa tiedostoja"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You can also protect your files. Just click on Encrypt and the selected "
+#~ "file will be stored securely."
+#~ msgstr ""
+#~ "Voit myös suojata tiedostosi. Klikkaa Salaus ja valittu tiedosto "
+#~ "tallennetaan suojattuna."
+
+#~ msgctxt "tour"
+#~ msgid "Encrypt your sensitive files in Drive"
+#~ msgstr "Salaa arkaluontoiset tiedostosi Drivessä"
+
+#~ msgctxt "tour"
+#~ msgid "Restart Guided Tour"
+#~ msgstr "Aloita opastus uudelleen."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "<em>Hint:</em> you can start guided tours, any time you need them, from "
+#~ "the system menu."
+#~ msgstr ""
+#~ "<em>Vinkki:</em> voit aloittaa opastuksen milloin vain "
+#~ "järjestelmävalikosta."
+
+#~ msgctxt "tour"
+#~ msgid "Guided Tour completed"
+#~ msgstr "Opastus on ohi"
+
+#~ msgctxt "tour"
+#~ msgid "You successfully learned how to protect your emails and files."
+#~ msgstr "Opit suojaamaan sähköpostisi ja tiedostosi."
+
+#~ msgctxt "tour"
+#~ msgid "What you can do now:"
+#~ msgstr "Mitä voit tehdä nyt:"
+
+#~ msgctxt "tour"
+#~ msgid "Write an encrypted email"
+#~ msgstr "Kirjoita salattu sähköposti"
+
+#~ msgctxt "tour"
+#~ msgid "Activate encryption for all new emails"
+#~ msgstr "Ota käyttöön salaus kaikille uusille sähköposteille"
+
+#~ msgctxt "tour"
+#~ msgid "Review your encryption settings"
+#~ msgstr "Tarkista salausasetuksesi"
+
+#~ msgctxt "tour"
+#~ msgid "Learn more"
+#~ msgstr "Lue lisää"
+
+#~ msgid "Start Setup"
+#~ msgstr "Aloita asetusten tekeminen"
+
+#~ msgctxt "tour"
+#~ msgid "Setup %s"
+#~ msgstr "Asetus %s"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Welcome to %1$s. You will now be taken on a tour, showing you how to use "
+#~ "%1$s."
+#~ msgstr ""
+#~ "Tervetuloa käyttämään tuotetta %1$s. Seuraa opastus tuotteen käyttöön."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Firstly however, you’ll need to setup %1$s by choosing a password which "
+#~ "will be used to encrypt or decrypt items such as email or files."
+#~ msgstr ""
+#~ "Ensin täytyy määrittää %1$s-asetukset valitsemalla salasana käytettäväksi "
+#~ "mm. sähköpostien ja tiedostojen salaukseen ja salauksen purkamiseen."
+
+#~ msgid "Choose %s Password"
+#~ msgstr "Valitse %s-salasana"
+
+#~ msgid "Close"
+#~ msgstr "Sulje"
+
+#~ msgctxt "tour"
+#~ msgid "%s set up completed"
+#~ msgstr "%s -asetukset ovat valmiit"
+
+#~ msgctxt "tour"
+#~ msgid "Congratulations, you have successfully setup %s"
+#~ msgstr "Onnittelut, olet määrittänyt %s-asetukset onnistuneesti"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Now you can learn more about how to use %s by following the links below:"
+#~ msgstr "Nyt voit oppia lisää %s:n käytöstä seuraamalla seuraavia linkkejä:"
+
+#~ msgctxt "tour"
+#~ msgid "Learn more about %s"
+#~ msgstr "Opi lisää aiheesta %s."
+
+#~ msgid "Choose your security solution"
+#~ msgstr "Valitse salausvaihtoehtosi"
+
+#~ msgid "Key found for %1$s.  Import?"
+#~ msgstr "Avain löydetty kohdetta  %1$s varten. Tuodaanko?"
+
+#~ msgid "Import"
+#~ msgstr "Tuo"
+
+#~ msgid "Imported"
+#~ msgstr "Tuotu"
+
+#~ msgid "Updated"
+#~ msgstr "Päivitetty"
+
+#~ msgid "Invalidated"
+#~ msgstr "Kumottu"
+
+#~ msgid "Rejected"
+#~ msgstr "Hylätty"
+
+#~ msgid "Warning"
+#~ msgstr "Varoitus"
+
+#~ msgid ""
+#~ "Sending an encrypted email from an account other than %s may cause "
+#~ "problems with the recipient being able to reply.  Consider using your "
+#~ "primary account."
+#~ msgstr ""
+#~ "Salatun sähköpostin lähettäminen muualta kuin %s -tililtä saattaa "
+#~ "aiheuttaa vastaamisongelmia vastaanottajalle. Harkitse ensisijaisen "
+#~ "tilisi käyttämistä."
+
+#~ msgid "Do not warn me again"
+#~ msgstr "Älä varoita uudestaan"
+
+#~ msgid "PGP Info"
+#~ msgstr "PGP Info"
+
+#~ msgid "Content Type"
+#~ msgstr "Sisältötyyppi"
+
+#~ msgid "PGP Details"
+#~ msgstr "PGP-tiedot"
+
+#~ msgid ""
+#~ "Mailvelope is not supported in this browser.  Please use Chrome or "
+#~ "Firefox with Mailvelop installed."
+#~ msgstr ""
+#~ "Selain ei tue Mailvelopea. Käytä joko Chromea tai Firefoxia Mailvelope "
+#~ "asennettuna."
+
+#~ msgid "Enter re-enter %s security password"
+#~ msgstr "Anna uudelleen  %s -turvan salasana"
+
+#~ msgid "Download Decrypted"
+#~ msgstr "Ladattu kohde salaus purettuna"
+
+#~ msgid "Download Encrypted"
+#~ msgstr "Lataa salattuna"
+
+#~ msgid "View"
+#~ msgstr "Katsele"
+
+#~ msgid "Decrypt and Open"
+#~ msgstr "Pura salaus ja avaa"
+
+#~ msgid "Drop files here to upload"
+#~ msgstr "Pudota tiedostot tähän ladataksesi"
+
+#~ msgid "Add"
+#~ msgstr "Lisää"
+
+#~ msgid "Add:"
+#~ msgstr "Lisää:"
+
+#~ msgid "Must be in the same global address book"
+#~ msgstr "Täytyy löytyä samasta yleisestä osoitekirjasta"
+
+#~ msgid "Unable to add"
+#~ msgstr "Lisääminen ei onnistu"
+
+#~ msgid "Select"
+#~ msgstr "Valitse"
+
+#~ msgid "User"
+#~ msgstr "Käyttäjä"
+
+#~ msgid "Retract"
+#~ msgstr "Vedä takaisin"
+
+#~ msgid "Unable to share"
+#~ msgstr "Jakaminen ei onnistu"
+
+#~ msgid "Remove from share list"
+#~ msgstr "Poista jaettavien listalta"
+
+#~ msgid "Failed to remove the share"
+#~ msgstr "Jaon poistaminen epäonnistui"
+
+#~ msgid "Password Needed"
+#~ msgstr "Tarvitaan salasana"
+
+#~ msgid "Please provide your %s security password to share this file"
+#~ msgstr "Anna %s-salasanasi jakaaksesi tämän tiedoston"
+
+#~ msgid "No users in same context"
+#~ msgstr "Ei käyttäjiä samassa kontekstissa"
+
+#~ msgid "The following link will take you to the shared file"
+#~ msgstr "Seuraavasta linkistä pääset jaettuun tiedostoon"
+
+#~ msgid "Shared file link"
+#~ msgstr "Jaetun tiedoston linkki"
+
+#~ msgid "Attached encrypted file"
+#~ msgstr "Salattu tiedosto liitetty"
+
+#~ msgid "Shared file"
+#~ msgstr "Jaettu tiedosto"
+
+#~ msgid "Add Permissions"
+#~ msgstr "Lisää valtuuksia"
+
+#~ msgid ""
+#~ "The following users do not have permission to view objects in this folder."
+#~ msgstr ""
+#~ "Seuraavilla käyttäjillä ei ole valtuuksia tämän kansion kohteiden "
+#~ "katsomiseen."
+
+#~ msgid "Do you wish to add read permissions to this folder for these users?"
+#~ msgstr "Haluatko lisätä näille käyttäjille lukuoikeuden tähän kansioon?"
+
+#~ msgid "Failed to add folder sharing permissions"
+#~ msgstr "Kansion jakamisen oikeuksien lisääminen epäonnistui"
+
+#~ msgid "%s %s %s"
+#~ msgstr "%s %s %s"
+
+#~ msgid "The provided filename exceeds the allowed length."
+#~ msgstr "Annettu tiedostonimi ylittää sallitun enimmäispituuden."
+
+#~ msgid "The allowed quota is reached."
+#~ msgstr "Sallittu kiintiö on täynnä."
+
+#~ msgid "This file has not been added"
+#~ msgstr "Tiedostoa ei lisätty"
+
+#~ msgid "Upload a new encrypted version"
+#~ msgstr "Lataa uusi salattu versio"
+
+#~ msgid "Upload file"
+#~ msgstr "Lataa tiedosto"
+
+#~ msgid "Version Comment"
+#~ msgstr "Version kommentti"
+
+#~ msgid "Upload new encrypted version"
+#~ msgstr "Lataa uusi salattu versio"
+
+#~ msgid "Uploading..."
+#~ msgstr "Ladataan..."
+
+#~ msgid ""
+#~ "You are replying to an email that has not yet been decoded.  The "
+#~ "recipient will not be able to read the contents of the original email."
+#~ msgstr ""
+#~ "Olet vastaamassa sähköpostiin, jota ei ole vielä purettu. Vastaanottaja "
+#~ "ei pysty lukemaan alkuperäisen sähköpostin sisältöä."
+
+#~ msgid ""
+#~ "You are forwarding an email that has not yet been decoded.  The recipient "
+#~ "will not be able to read the contents of the original email."
+#~ msgstr ""
+#~ "Välität edelleen sähköpostia, jota ei ole vielä purettu. Vastaanottaja ei "
+#~ "pysty lukemaan alkuperäisen sähköpostin sisältöä."
+
+#~ msgid "Re: %1$s"
+#~ msgstr "VS: %1$s"
+
+#~ msgid "Fwd: %1$s"
+#~ msgstr "Välitä:%1$s"
+
+#~ msgid "Original Message"
+#~ msgstr "Alkuperäinen viesti"
+
+#~ msgid "From: %1$s"
+#~ msgstr "Lähettäjä:%1$s"
+
+#~ msgid "To: %1$s"
+#~ msgstr "Vastaanottaja:%1$s"
+
+#~ msgid "CC: %1$s"
+#~ msgstr "Kopio:%1$s"
+
+#~ msgid "Date: %1$s"
+#~ msgstr "Pvm:%1$s"
+
+#~ msgid "Subject: %1$s"
+#~ msgstr "Aihe:%1$s"
+
+#~ msgid "On %1$s at %2$s %3$s wrote:"
+#~ msgstr "%1$s klo %2$s %3$s kirjoitti:"
+
+#~ msgid "Attach My Key"
+#~ msgstr "Liitä avaimeni"
+
+#~ msgid "Do you really want to discard your message?"
+#~ msgstr "Haluatko todella hylätä viestisi?"
+
+#~ msgctxt "dialog"
+#~ msgid "Discard message"
+#~ msgstr "Hylkää viesti"
+
+#~ msgid "Save as draft"
+#~ msgstr "Tallenna luonnoksena"
+
+#~ msgid "Mail has empty subject. Send it anyway?"
+#~ msgstr "Viestin aihe on tyhjä. Lähetetäänkö silti?"
+
+#~ msgid "Yes, send without subject"
+#~ msgstr "Kyllä, lähetetään ilman aihetta"
+
+#~ msgid "Add subject"
+#~ msgstr "Add aihe"
+
+#~ msgid "Unable to authorize against backend"
+#~ msgstr "Valtuutus backend-toimintoja vastaan ei onnistu."
+
+#~ msgid "Save"
+#~ msgstr "Tallenna"
+
+#~ msgid "Saving attachment to Drive"
+#~ msgid_plural "Saving attachments to Drive"
+#~ msgstr[0] "Tallennetaan liite Drivelle"
+#~ msgstr[1] "Tallennetaan liitteet Drivelle"
+
+#~ msgid "Attachment has been saved"
+#~ msgid_plural "Attachments have been saved"
+#~ msgstr[0] "Liite tallennettu"
+#~ msgstr[1] "Liitteet tallennettu"
+
+#~ msgid "Failed to decrypt"
+#~ msgstr "Purku epäonnistui"
+
+#~ msgid "Failed to save attachments"
+#~ msgstr "Liitteiden tallentaminen epäonnistui"
+
+#~ msgid "Unsupported browser"
+#~ msgstr "Ei-tuettu selain"
+
+#~ msgid "Mail has no recipients"
+#~ msgstr "Viestillä ei ole vastaanottajia"
+
+#~ msgid "Mail saved as draft"
+#~ msgstr "Viesti on tallennettu luonnoksena"
+
+#~ msgid "Unable to get keys for all users"
+#~ msgstr "Avaimia ei saatu kaikille käyttäjille"
+
+#~ msgid ""
+#~ "The from address you selected for this email is not associated with an "
+#~ "encryption key.  Please send from your primary account, or optionally, "
+#~ "add the email address to your key using the advanced settings."
+#~ msgstr ""
+#~ "Tähän sähköpostiin valitsemaasi lähettäjän osoitteeseen ei liity "
+#~ "salausavainta. Lähetä ensisijaiselta tililtäsi tai lisää sähköpostiosoite "
+#~ "avaimeesi lisäasetuksista."
+
+#~ msgid "An error occurred saving the email."
+#~ msgstr "Virhe tallennettaessa sähköpostia."
+
+#~ msgid "An error occurred sending the encrypted email."
+#~ msgstr "Salatun sähköpostin lähettämisessä tapahtui virhe."
+
+#~ msgid ""
+#~ "At least one of your attachments are encrypted.  Please provide your %s "
+#~ "security password to decrypt before sending"
+#~ msgstr ""
+#~ "Ainakin yksi liitteistäsi on salattu. Anna  %s-salasanasi purkaaksesi "
+#~ "salauksen ennen lähettämistä."
+
+#~ msgid "To"
+#~ msgstr "Vastaanottaja"
+
+#~ msgctxt "CC"
+#~ msgid "Copy"
+#~ msgstr "Kopio"
+
+#~ msgid "Decoding"
+#~ msgstr "Puretaan salausta"
+
+#~ msgid ""
+#~ "Your pop-up blocker may have prevented a %s window that provides "
+#~ "application functionality."
+#~ msgstr ""
+#~ "Ponnahdusikkuinoidenesto-ohjelmasi on saattanut estää sovelluksen "
+#~ "toiminnallisuuden tarjoavan %s -ikkunan."
+
+#~ msgid "VCard imported with warnings"
+#~ msgstr "VCard tuotu varoituksin"
+
+#~ msgid "Failed to import vcard"
+#~ msgstr "vcardin tuominen epäonnistui"
+
+#~ msgid "VCard imported"
+#~ msgstr "VCard tuotu"
+
+#~ msgid "Save Encrypted to Drive"
+#~ msgstr "Tallenna salattuna Drivelle"
+
+#~ msgid "Save Decoded to Drive"
+#~ msgstr "Tallenna purettuna "
+
+#~ msgid "Open in browser"
+#~ msgstr "Avaa selaimessa"
+
+#~ msgid "Import as PGP Public Key"
+#~ msgstr "Tuo PGP:n julkisena avaimena"
+
+#~ msgid "Add to address book"
+#~ msgstr "Lisää osoitekirjaan"
+
+#~ msgid "no files"
+#~ msgstr "ei tiedostoja"
+
+#~ msgid "Save attachment"
+#~ msgstr "Tallenna liite"
+
+#~ msgid "Unable to save decrypted file"
+#~ msgstr "Selkokielistä tiedostoa ei voitu tallentaa"
+
+#~ msgid "Unable to decrypt"
+#~ msgstr "Viestin salausta ei voida purkaa."
+
+#~ msgid "Send copy by mail"
+#~ msgstr "Lähetä kopio postitse"
+
+#~ msgid "Enter %s Security Password"
+#~ msgstr "Anna %s -suojauksen salasana"
+
+#~ msgid "Encrypt Files"
+#~ msgstr "Salaa tiedostoja"
+
+#~ msgid "Only the latest version of the files will be encrypted."
+#~ msgstr "Vain tiedostojen uusimmat versiot salataan."
+
+#~ msgid "All previous versions will be deleted."
+#~ msgstr "Kaikki aiemmat versiot poistetaan."
+
+#~ msgid "This file could not be uploaded."
+#~ msgstr "Tiedostoa ei voitu ladata."
+
+#~ msgid "Upload"
+#~ msgstr "Lataa"
+
+#~ msgid "Please provide your %s Security Password to share this file"
+#~ msgstr "Anna %s -suojauksen salasana jakaaksesi tiedosto"
+
+#~ msgid "Bad private key"
+#~ msgstr "Virheellinen yksityinen avain"
+
+#~ msgid "On %1$s %2$s sent:"
+#~ msgstr "%1$s %2$s lähetetty:"
+
+#~ msgid ""
+#~ "At least one of your attachments are encrypted.  Please provide your %s "
+#~ "Security Password to decrypt before sending"
+#~ msgstr ""
+#~ "Vähintään yksi liitteistä on salattu. Anna %s -suojauksen salasanasi "
+#~ "purkaaksesi salauksen ennen lähettämistä"
+
+#~ msgid ""
+#~ "Upload your Mailvelope public keys to the %s server so that other people "
+#~ "can send you encrypted emails"
+#~ msgstr ""
+#~ "Lataa Mailvelopen julkiset avaimet %s -palvelimelle, jotta sinulle "
+#~ "voidaan lähettää suojattuja sähköposteja."
+
+#~ msgid "Extra Password"
+#~ msgstr "Lisäsalasana"
+
+#~ msgid ""
+#~ "This allows you to set an extra password that will be required for "
+#~ "reading this item."
+#~ msgstr ""
+#~ "Tästä voi asettaa lisäsalasanan, joka vaaditaan tämän kohteen lukemiseksi."
+
+#~ msgid "Please enter it below"
+#~ msgstr "Syötä se alle"
+
+#~ msgid "Please enter your %s Security password"
+#~ msgstr "Anna %s -suojauksen salasana"
+
+#~ msgid "Failed to add extra password"
+#~ msgstr "Lisäsalasanan asettaminen epäonnistui"
+
+#~ msgid "Remember Password"
+#~ msgstr "Muista salasana"
+
+#~ msgid ""
+#~ "HTML formatted emails may cause issues with PGP inline.  Click OK to "
+#~ "change to Plain Text formatted Emails"
+#~ msgstr ""
+#~ "HTML-muotoiset sähköpostit voivat aiheuttaa ongelmia PGP inlinen kanssa. "
+#~ "Klikkaa OK tallentaaksesi Plain Text-muotoiset sähköpostit."
+
+#~ msgid "Secure Email, enter your %s security password"
+#~ msgstr "Suojattu sähköposti, anna %s -suojauksen salasana"
+
+#~ msgid ""
+#~ "The new recipients listed below will be sent a password via email.  You "
+#~ "can also require a seperate pin, which is displayed below"
+#~ msgstr ""
+#~ "Alla luetelluille uusille vastaanottajille lähetetään salasanat "
+#~ "sähköpostitse. Saatat myös vaatia erillisen PIN-koodin, joka näkyy alla"
+
+#~ msgid ""
+#~ "You may deliver this pin any way you see fit, but we recommend doing it "
+#~ "in a second method other than email (Phone, SMS, Skype, etc)"
+#~ msgstr ""
+#~ "Voit toimittaa PIN-koodin parhaaksi katsomallasi tavalla, mutta "
+#~ "suosittelemme muuta kuin sähköpostia (puhelin, tekstiviesti, Skype, tms.)"
+
+#~ msgid "If you want this extra pin requirement, click OK"
+#~ msgstr "Jos haluat vaatia ylimääräisen PIN-koodin, klikkaa OK"
+
+#~ msgid "Please enter your %s password to sign this email"
+#~ msgstr "Anna %s -salasanasi allekirjoittaaksesi tämän sähköpostin"
+
+#~ msgid "Please enter your %s password for signing"
+#~ msgstr "Anna %s -salasanasi allekirjoittaaksesi "
+
+#~ msgid "Problems creating keys, please try again later"
+#~ msgstr "Ongelma avainten luomisessa, ole hyvä ja yritä uudelleen myöhemmin"
+
+#~ msgid ""
+#~ "Problems creating keys.  Keys already exist for this email address in "
+#~ "another account"
+#~ msgstr ""
+#~ "Ongelmia avainten luomisessa. Avaimet tätä sähköpostiosoitetta varten on "
+#~ "jo olemassa toisella tilillä"
+
+#~ msgid ""
+#~ "Please choose the password you will use for %s. You will need to type "
+#~ "this password whenever you want to encrypt or decrypt items. Remember it "
+#~ "should be different from your login password, and will not change if you "
+#~ "change your login password"
+#~ msgstr ""
+#~ "Valitse %slle käyttämäsi salasana. Sinun täytyy kirjoittaa tämä salasana "
+#~ "aina halutessasi salata tai purkaa salauksia. Salasanan pitää olla eri "
+#~ "kuin sisäänkirjautumissalasanasi, eikä se muutu vaihtaessasi "
+#~ "sisäänkirjautumissalasanasi. "
+
+#~ msgid "Please enter a password to protect your new encrypted items"
+#~ msgstr "Anna salasana uusien salattujen kohteitesi suojaamiseksi"
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password"
+#~ msgstr ""
+#~ "Anna toinen sähköpostiosoite siltä varalta, että salasanasi täytyy "
+#~ "asettaa uudelleen"
+
+#~ msgid "Rember my password"
+#~ msgstr "Muista salasanani"
+
+#~ msgid "This Email was signed and verified"
+#~ msgstr ""
+#~ "Lähettäjä allekirjoitti tämän postin. Allekirjoitus on verifioitu "
+#~ "oikeaksi."
+
+#~ msgid "This Email was signed but unable to verify"
+#~ msgstr ""
+#~ "Tämä on sähköposti on allekirjoitettu, mutta verifiointi ei onnistu."
+
+#~ msgid "This Email was signed and failed verification"
+#~ msgstr "Tämä sähköposti on allekirjoitettu ja verifiointi epäonnistui."
+
+#~ msgid ""
+#~ "Please change the initial temporary %s security password that was sent to "
+#~ "you in a seperate email."
+#~ msgstr ""
+#~ "Vaihda väliaikainen erillisessä sähköpostissa sinulle lähetetty %s -"
+#~ "suojaussalasana."
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password</p>"
+#~ msgstr ""
+#~ "Ole hyvä ja anna toissijainen sähköpostiosoite siltä varalta että unohdat "
+#~ "salasanasi</p>"
+
+#~ msgid "This Email was signed by the sender and verified"
+#~ msgstr ""
+#~ "Lähettäjä allekirjoitti tämän postin. Allekirjoitus on verifioitu "
+#~ "oikeaksi."
+
+#~ msgid "If you already have a private key, you can upload it here"
+#~ msgstr "Jos sinulla on jo yksityinen avain, voit ladata sen tässä"
+
+#~ msgid "Finally, you can have a new PGP Key Pair created for your account"
+#~ msgstr "Saat vihdoin luoda uuden PGP-avainparin tiliäsi varten "
+
+#~ msgid "Add a name and email address to this public key"
+#~ msgstr "Lisää julkiseen avaimeen nimi ja sähköpostiosoite"
+
+#~ msgid "PGP default to using PGP inline for compatibility"
+#~ msgstr "PGP-oletuksena PGP inlinen käyttö yhteensopivuussyistä"
+
+#~ msgid "Please verify your password before deleting the recovery"
+#~ msgstr "Vahvista salasanasi ennen palautuksen poistamista"
+
+#~ msgid "A new password has been sent to your email address"
+#~ msgstr "Uusi salasana on lähetetty sähköpostiosoitteeseesi"
+
+#~ msgid "A new password has been sent to your secondary email address"
+#~ msgstr "Uusi salasana on lähetetty toissijaiseen sähköpostiosoitteeseesi"
+
+#~ msgid "No password recovery is available"
+#~ msgstr "Salasanan nollaus ei ole käytettävissä"
+
+#~ msgid "Password reset, but unable to send to your email address"
+#~ msgstr ""
+#~ "Salasana nollattu, mutta sähköpostiosoiteeseesi ei voitu lähettää viestiä"
+
+#~ msgid "Unable to find email address to send password reset"
+#~ msgstr "Sähköpostiosoitetta nollaukselle ei löydy"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Enabling Advanced PGP Features will enable key management and specifying "
+#~ "sending formats"
+#~ msgstr ""
+#~ "PGP:n lisäasetusten päällekytkeminen mahdollistaa avainhallinnan ja "
+#~ "lähettämisformaattien määrittelyn"
+
+#~ msgid "This email was sent with an extra password."
+#~ msgstr "Tämä sähköposti lähetettiin lisäsalasanalla"
+
+#~ msgid "Please enter below"
+#~ msgstr "Syötä se alle"
+
+#~ msgid "An error occurred during sending the encrypted email."
+#~ msgstr "Virhe lähetettäessä salattua sähköpostia."
+
+#~ msgid "This appears to be the first time you have used Encryption"
+#~ msgstr "Vaikuttaa olevan ensimmäinen kerta, kun käytät salausta"
+
+#~ msgid ""
+#~ "Please change the temporary %s security password that was sent to you in "
+#~ "a seperate email."
+#~ msgstr ""
+#~ "Vaihda väliaikainen erillisessä sähköpostissa sinulle lähetetty %s -"
+#~ "salaussalasana."
+
+#~ msgid "%s PGP Settings"
+#~ msgstr "%s PGP -asetukset"
+
+#~ msgid "Changed"
+#~ msgstr "Vaihdettu"
+
+#~ msgctxt "tour"
+#~ msgid "Sending without encryption"
+#~ msgstr "Lähettäminen ilman salausta"
+
+#~ msgctxt "tour"
+#~ msgid "Create Your %s Account"
+#~ msgstr "Luo %s -tilisi"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You now need to choose a password which will be used to encrypt or "
+#~ "decrypt items. You only need to set this up once. Your password will then "
+#~ "remain valid until you change it."
+#~ msgstr ""
+#~ "Valitse salasana salaamista ja salauksen purkua varten. Tämä täytyy tehdä "
+#~ "vain kerran. Salasanasi pysyy voimassa kunnes vaihdat sen."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You successfully set up secure communication. Your private key has been "
+#~ "created."
+#~ msgstr ""
+#~ "Olet laittanut suojatun viestinnän käyttöön onnistuneesti. Yksityinen "
+#~ "avaimesi on luotu."
+
+#~ msgid ""
+#~ "Upload your Mailvelope public keys to the Guard server so that other "
+#~ "people can send you encrypted emails"
+#~ msgstr ""
+#~ "Lataa Mailvelopesi julkiset avaimet Guard-palvelimelle, jotta muut voivat "
+#~ "lähettää sinulle suojattuja sähköposteja"
+
+#~ msgid ""
+#~ "Your pop-up blocker may have prevented a Guard window that provides "
+#~ "application functionality."
+#~ msgstr ""
+#~ "Ponnahdusikkunoiden esto on saattanut estää sovelluksen toiminnallisuuden "
+#~ "mahdollistavan Guard-ikkunan näkymisen."
+
+#~ msgid "Please enter your Guard Security password"
+#~ msgstr "Anna Guard Security salasanasi"
+
+#~ msgid "Enter Guard Security Password"
+#~ msgstr "Anna Guard Security -salasana"
+
+#~ msgid "Please provide your Guard Security Password to share this file"
+#~ msgstr "Jakaaksesi tämä tiedosto, anna Guard Security salasanasi"
+
+#~ msgid "Secure Email, enter your Guard security password"
+#~ msgstr "Suojattu viesti, anna Guard Security -salasanasi"
+
+#~ msgid "Keep me logged into Guard"
+#~ msgstr "Pidä minut kirjautuneena Guard-paveluun"
+
+#~ msgid "Will create new guest account for Guard"
+#~ msgstr "Guard-palvelulle luodaan uusi vierastili"
+
+#~ msgid "Have encryption key"
+#~ msgstr "Salausavain valmiina"
+
+#~ msgid "Please enter your Guard password to sign this email"
+#~ msgstr "Anna Guard-salasanasi allekirjoittaaksesi tämän sähköpostin"
+
+#~ msgid "Please enter your Guard password for signing"
+#~ msgstr "Anna Guard -salasanasi allekirjoittamista varten"
+
+#~ msgid ""
+#~ "At least one of your attachments are encrypted.  Please provide your "
+#~ "Guard Security Password to decrypt before sending"
+#~ msgstr ""
+#~ "Ainakin yksi liitteistäsi on salattu. Ole hyvä ja anna Guard Security- "
+#~ "salasanasi purkaaksesi salauksen ennen lähetystä."
+
+#~ msgid "Automated Email Language"
+#~ msgstr "Automatisoidun viestin kieli."
+
+#~ msgid "Create Guard Security Keys"
+#~ msgstr "Luo Guard Security avaimet"
+
+#~ msgid "First Guard Security Password Use"
+#~ msgstr "Guard Security salasanan ensimmäinen käyttökerta"
+
+#~ msgid ""
+#~ "Please change the temporary Guard security password that was sent to you "
+#~ "in a seperate email."
+#~ msgstr "Vaihda sähköpostitse saamasi tilapäinen Guard Security -salasanasi."
+
+#~ msgid "Please enter your Guard password"
+#~ msgstr "Anna Guard-salasanasi"
+
+#~ msgid ""
+#~ "Please change the initial temporary Guard security password that was sent "
+#~ "to you in a seperate email."
+#~ msgstr ""
+#~ "Vaihda sähköpostitse saamasi alustava, tilapäinen Guard Security -"
+#~ "salasanasi."
+
+#~ msgid "Guard PGP Settings"
+#~ msgstr "Guard PGP-asetukset"
+
+#~ msgid ""
+#~ "If you would like to upload a public key only, then do so here.  This "
+#~ "will allow you to encrypt files and receive encrypted emails using Guard, "
+#~ "but you will need to use the private key with another program to decode "
+#~ "the items."
+#~ msgstr ""
+#~ "Jos haluat ladata vain julkisen avaimen, tee se tässä. Avaimen avulla "
+#~ "voit salata tiedostoja ja vastaanottaa salattuja sähköposteja käyttäen "
+#~ "Guardia, mutta tarvitset yksityistä avainta ja toista ohjelmaa "
+#~ "purkaaksesi kohteiden salauksen."
+
+#~ msgid "Guided tour for Guard"
+#~ msgstr "Guard-opastus"
+
+#~ msgid "Sign out Guard"
+#~ msgstr "Kirjaudu ulos Guard-palvelusta"
+
+#~ msgctxt "app"
+#~ msgid "Guard Security"
+#~ msgstr "Guard Security"
+
+#~ msgid ""
+#~ "In order to start with Guard Security, you must set up a password for "
+#~ "your secured files."
+#~ msgstr ""
+#~ "Jos haluat aloittaa Guard Securityllä, sinun täytyy määrätä salasana "
+#~ "suojatuille tiedostoillesi."
+
+#~ msgid "Guard Security Settings"
+#~ msgstr "Guard Security asetukset"
+
+#~ msgid "Change Guard Security Password."
+#~ msgstr "Vaihda Guard Security salasana."
+
+#~ msgid "Enter current Guard security password"
+#~ msgstr "Anna nykyinen Guard Security salasana"
+
+#~ msgid "Enter new Guard security password"
+#~ msgstr "Anna uusi Guard Security salasana"
+
+#~ msgid "Verify new Guard security password"
+#~ msgstr "Vahvista uusi Guard Security salasana"
+
+#~ msgid "Change Guard security password"
+#~ msgstr "Vaihda Guard Security salasana"
+
+#~ msgid "Reset Guard security password"
+#~ msgstr "Nollaa Guard Security salasana"
+
+#~ msgid ""
+#~ "Send a temporary Guard security password to my secondary Email address."
+#~ msgstr ""
+#~ "Lähetä tilapäinen Guard Security salasana toissijaiseen sähköpostiini."
+
+#~ msgctxt "tour"
+#~ msgid "The Guard module"
+#~ msgstr "Tallenna Guard-moduuli"
+
+#~ msgctxt "tour"
+#~ msgid "Guard Security Settings"
+#~ msgstr "Guard Security-asetukset"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You already set up your Guard account. But you can always change your "
+#~ "encryption password, or request a temporary password if you forget it."
+#~ msgstr ""
+#~ "Olet jo perustanut Guard-tilin. Voit aina vaihtaa salauksen salasanasi "
+#~ "tai pyytää väliaikaista salasanaa jos unohdat sen."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "By default Guard sends encrypted emails using PGP/Mime format. To "
+#~ "communicate with some systems you may need to use PGP Inline."
+#~ msgstr ""
+#~ "Guard lähettää oletuksena salatut sähköpostit PGP/Mime-formaatissa. "
+#~ "Viestintä joidenkin järjestelmien kanssa saattaa vaatia PGP Inlinen "
+#~ "käyttöä."
+
+#~ msgctxt "tour"
+#~ msgid "Remove encryption"
+#~ msgstr "Poista salaus"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Removing the encryption is easy, too: Simply click on the lock icon again."
+#~ msgstr ""
+#~ "Salauksen poistaminen on helppoa. Napauta vain lukkokuvaketta uudelleen."
+
+#~ msgctxt "tour"
+#~ msgid "Create Your Guard Account"
+#~ msgstr "Luo Guard-tilisi"
+
+#~ msgctxt "tour"
+#~ msgid "Guard set up completed"
+#~ msgstr "Guardin asetukset ovat valmiit"
+
+#~ msgctxt "Choice"
+#~ msgid "Works only in all browsers with all your contacts"
+#~ msgstr "Toimii kaikilla selaimilla kaikkien yhteystietojesi kanssa"
+
+#~ msgid "Click to enable encryption"
+#~ msgstr "Napsauta kytkeäksesi salaus päälle"
+
+#~ msgid "Click to disable encryption"
+#~ msgstr "Napsauta kytkeäksesi salaus pois päältä"
+
+#~ msgid "Error.  Please reload message"
+#~ msgstr "Virhe. Lataa viesti uudelleen."
+
+#~ msgid "You have exceeded bad password attempts.  Please wait %s minutes"
+#~ msgstr ""
+#~ "Olet ylittänyt salasanan yritysten määrän. Ole hyvä ja odota %s minuuttia."
+
+#~ msgid ""
+#~ "This email has expired and can no longer be accessed.  Contact the sender "
+#~ "for more information."
+#~ msgstr ""
+#~ "Tämän viestin määräaika on umpeutunut eikä siihen enää ole pääsyä. "
+#~ "Lisätietoja saadaksesi, ota yhteyttä lähettäjään."
+
+#~ msgid ""
+#~ "This Email has been retracted by the sender and can no longer be "
+#~ "accessed.  Contact the sender for more information."
+#~ msgstr ""
+#~ "Lähettäjä on vetänyt takaisin tämän viestin, eikä siihen enää ole pääsyä. "
+#~ "Lisätietoja saadaksesi, ota yhteyttä lähettäjään."
+
+#~ msgid "Unable to decrypt Email."
+#~ msgstr "Viestin salausta ei voida purkaa."
+
+#~ msgid "The sender added an extra password encryption."
+#~ msgstr "Lähettäjä asetti salasanallisen lisäsalauksen."
+
+#~ msgid "Save Encrypted"
+#~ msgstr "Tallenna salattuna"
+
+#~ msgid "Save Decrypted"
+#~ msgstr "Tallenna purettuna"
+
+#~ msgid ""
+#~ "This Email was sent encrypted. It has been decrypted with your private key"
+#~ msgstr ""
+#~ "Tämä sähköposti lähetettiin salattuna. Salaus on purettu yksityisellä "
+#~ "avaimellasi."
+
+#~ msgid "Expires: "
+#~ msgstr "Umpeutuu:"
+
+#~ msgid "Retract Email"
+#~ msgstr "Vedä viesti takaisin"
+
+#~ msgid "Email status"
+#~ msgstr "Sähköpostin tila"
+
+#~ msgid "Retract all access"
+#~ msgstr "Vedä takaisin kaikki pääsy"
+
+#~ msgid "Email has not been opened."
+#~ msgstr "Viestiä ei ole avattu."
+
+#~ msgid "Email has been opened."
+#~ msgstr "Viesti on avattu."
+
+#~ msgid "Email has been retracted."
+#~ msgstr "Viesti on vedetty takaisin."
+
+#~ msgid "Unable to get email status, please try again later"
+#~ msgstr "Viestin tilaa ei saatu, ole hyvä ja yritä uudelleen myöhemmin"
+
+#~ msgid "This will retract the email for all recipients. Click OK to confirm."
+#~ msgstr ""
+#~ "Tämä vetää takaisin viestin kaikilta vastaanottajilta. Vahvista "
+#~ "napsauttamalla OK."
+
+#~ msgid "Item was retracted"
+#~ msgstr "Viesti on vedetty takaisin."
+
+#~ msgid "Not all items retracted"
+#~ msgstr "Kaikkia kohteita ei voitu vetää takaisin"
+
+#~ msgid "Failed to retract"
+#~ msgstr "Takaisinveto epäonnistui"
+
+#~ msgctxt "tour"
+#~ msgid "Learn more …"
+#~ msgstr "Lue lisää ..."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "From here you can update you encryption settings. For example you can "
+#~ "choose to send encrypted emails by default."
+#~ msgstr ""
+#~ "Tästä voit päivittää salausasetuksesi. Voit esimerkiksi valita, että "
+#~ "lähettämäsi sähköpostit ovat salattuja oletusarvoisesti."
+
+#~ msgid "Message was saved"
+#~ msgstr "Viesti on tallennettu"
+
+#~ msgid "Problem creating keys"
+#~ msgstr "Ongelma avainten luomisessa"
+
+#~ msgctxt "tour"
+#~ msgid "Please click on the lock icon."
+#~ msgstr "Napauta lukkokuvaketta."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Please choose your password now, enter a secondary email address and "
+#~ "click on Ok."
+#~ msgstr ""
+#~ "Vaihda salasanasi nyt, anna toissijainen sähköpostiosoite ja klikkaa OK."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You can always change your encryption password, or request a temporary "
+#~ "password if you forget it."
+#~ msgstr ""
+#~ "Voit aina vaihtaa salauksen salasanasi tai pyytää väliaikaista salasanaa "
+#~ "jos unohdat sen."
+
+#~ msgctxt "tour"
+#~ msgid "Congratulations! You are now able to send secure emails."
+#~ msgstr "Onnittelut! Voit nyt lähettää suojattuja sähköposteja."
+
+#~ msgctxt "tour"
+#~ msgid "Please remove the encryption now by clicking on the lock icon again."
+#~ msgstr "Poista salaus klikkaamalla lukkokuvaketta uudelleen."
+
+#~ msgid "%s already encrypted"
+#~ msgstr "%s on jo salattu"
+
+#~ msgid "Add folder"
+#~ msgstr "Lisää kansio"
+
+#~ msgid "Already Protected With Additional Password"
+#~ msgstr "Lisäsalasana on jo asetettu"
+
+#~ msgid "Click to disable PGP encryption"
+#~ msgstr "Napsauta kytkeäksesi PGP-salaus pois päältä"
+
+#~ msgid "Done"
+#~ msgstr "Valmis"
+
+#~ msgid "Drop here to upload a <b class=\"dndignore\">new encrypted file</b>"
+#~ msgstr ""
+#~ "Tiputa tähän ladataksesi <b class=\"dndignore\">uusi salattu tiedosto</b>"
+
+#~ msgid "Encrypting "
+#~ msgstr "Salaus"
+
+#~ msgid "Encrypting %s"
+#~ msgstr "Salataan %s"
+
+#~ msgid "FW: %1$s"
+#~ msgstr "Välitä:%1$s"
+
+#~ msgid "Failed to encrypt file"
+#~ msgstr "Tiedoston salaus epäonnistui"
+
+#~ msgid "Folder name"
+#~ msgstr "Kansion nimi"
+
+#~ msgid "New Encrypted folder"
+#~ msgstr "Uusi salattu kansio"
+
+#~ msgid "New Encrypted subfolder"
+#~ msgstr "Uusi salattu alikansio"
+
+#~ msgid "New encrypted subfolder"
+#~ msgstr "Uusi salattu alikansio"
+
+#~ msgid "New folder"
+#~ msgstr "Uusi kansio"
+
+#~ msgid "New public folder"
+#~ msgstr "Uusi julkinen kansio"
+
+#~ msgid ""
+#~ "One of your recipients requires emails to be sent as PGP Inline.  "
+#~ "Changing now."
+#~ msgstr ""
+#~ "Yksi vastaanottajista edellyttää sähköpostin lähettämistä PGP inline. "
+#~ "Muutetaan nyt."
+
+#~ msgid "PGP key exists for this person"
+#~ msgstr "Tätä henkilöä varten on olemassa PGP-avain "
+
+#~ msgid "Require Additional Password"
+#~ msgstr "Vaadi lisäsalasana"
+
+#~ msgid "Security Options"
+#~ msgstr "Turvallisuusasetukset"
+
+#~ msgid "Send encrypted (PGP)"
+#~ msgstr "Lähetä salattuna (PGP)"
+
+#~ msgid "Share keys with other users to decrypt this file"
+#~ msgstr "Vaihda avaimia muiden käyttäjien kanssa avataksesi tämän tiedoston"
+
+#~ msgid "Share link"
+#~ msgstr "Jaa linkki"
+
+#~ msgid "Sharing"
+#~ msgstr "Jakaminen"
+
+#~ msgid "Sign email"
+#~ msgstr "Allekirjoita sähköposti"
+
+#~ msgid "Status"
+#~ msgstr "Tila"
+
+#~ msgid "Stop"
+#~ msgstr "Pysäytä"
+
+#~ msgid "The key for %1$s is expired and should not be used"
+#~ msgstr ""
+#~ "%1$s-kohdetta koskeva avain on vanhentunut eikä sitä pitäisi käyttää"
+
+#~ msgid "Unable to create Guard account, please try again later"
+#~ msgstr "Guard-palvelun tiliä ei voitu luoda, yritä uudelleen myöhemmin"
+
+#~ msgid "Upload new files to encrypt"
+#~ msgstr "Lataa uusia salattavia tiedostoja"
+
+#~ msgid "Use PGP inline (compatibility)"
+#~ msgstr "Käytä PGP "
+
+#~ msgid "%s hours"
+#~ msgstr "%s tunnin kuluttua"
+
+#~ msgid "%s week"
+#~ msgstr "%s viikon kuluttua"
+
+#~ msgid "%s weeks"
+#~ msgstr "%s viikon kuluttua"
+
+#~ msgid "Added keys:"
+#~ msgstr "Lisätyt avaimet:"
+
+#~ msgid "CC:"
+#~ msgstr "Kopio:"
+
+#~ msgid "Click to disable Guard"
+#~ msgstr "Napsauta kytkeäksesi Guard-palvelu pois käytöstä"
+
+#~ msgid "Click to enable Guard"
+#~ msgstr "Napsauta kytkeäksesi Guard-palvelu käyttöön"
+
+#~ msgid "Confirm Guard Password"
+#~ msgstr "Vahvista Guard -salasana"
+
+#~ msgid "Create Guard Account"
+#~ msgstr "Luo Guard-palvelun tili"
+
+#~ msgid "Date:"
+#~ msgstr "Pvm:"
+
+#~ msgid "Decode"
+#~ msgstr "Avaa"
+
+#~ msgid "Default signing outgoing PGP mails"
+#~ msgstr "Lähtevien PGP-viestien allekirjoitus oletusarvona"
+
+#~ msgid "Defaults"
+#~ msgstr "Oletusarvot"
+
+#~ msgid "Download (OG)"
+#~ msgstr "Lataa (OG)"
+
+#~ msgid "Enable Guard"
+#~ msgstr "Kytke Guard päälle"
+
+#~ msgid "Encrypted email has been sent successfully."
+#~ msgstr "Salattu sähköposti onnistuneesti lähetetty."
+
+#~ msgid "Encrypting"
+#~ msgstr "Salataan"
+
+#~ msgid "From:"
+#~ msgstr "Lähettäjä:"
+
+#~ msgid "Fwd:"
+#~ msgstr "Välitä:"
+
+#~ msgid "IDs:"
+#~ msgstr "Tunnisteet:"
+
+#~ msgid "Initializing Guard, please wait"
+#~ msgstr "Alustetaan Guard-palvelua, ole hyvä ja odota"
+
+#~ msgid "Inline"
+#~ msgstr "Inline"
+
+#~ msgid "Make Guard default to PGP compliant"
+#~ msgstr "Tee Guardista oletusarvoisesti PGP-yhteensopiva"
+
+#~ msgid "Never"
+#~ msgstr "Ei koskaan"
+
+#~ msgid "No recipients"
+#~ msgstr "Ei vastaanottajia"
+
+#~ msgid "None"
+#~ msgstr "Tyhjä"
+
+#~ msgid "Not able to contact guard server"
+#~ msgstr "Yhteyttä Guard-palvelimeen ei saada"
+
+#~ msgid "Open"
+#~ msgstr "Avaa"
+
+#~ msgid "Open Decoded"
+#~ msgstr "Avaa selkokielisenä"
+
+#~ msgid "PGP Compliant Guard"
+#~ msgstr "PGP Compliant Guard"
+
+#~ msgid "PGP default to PGP inline for compatibility"
+#~ msgstr "PGP:n oletusarvona PGP-inline yhteensopivuuden vuoksi."
+
+#~ msgid "Please enter a password to protect your Guard account"
+#~ msgstr "Anna salasana Guard-tilisi suojaamiseksi"
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password.  A new password would be sent to this email."
+#~ msgstr ""
+#~ "Ole hyvä ja anna toissijainen sähköpostiosoite. Mikäli unohdat "
+#~ "salasanasi, lähetetään uusi salasana antamaasi osoitteeseen."
+
+#~ msgid "Please select the file location of your private key."
+#~ msgstr "Valitse yksityisen avaimesi tiedoston sijainti."
+
+#~ msgid "Private Key Password"
+#~ msgstr "Yksityisen avaimen salasana"
+
+#~ msgid "Problem uploading Private Key"
+#~ msgstr "Ongelma yksityisen avaimen lataamisessa "
+
+#~ msgid "Public Key List"
+#~ msgstr "Julkisten avainten luettelo"
+
+#~ msgid "Recipient has Guard"
+#~ msgstr "Vastaanottajalla on Guard-palvelu"
+
+#~ msgid "Retract in"
+#~ msgstr "Vedä takaisin"
+
+#~ msgid "Save Decoded (OG)"
+#~ msgstr "Tallenna ilman salausta"
+
+#~ msgid "Shared"
+#~ msgstr "Jaettu "
+
+#~ msgid "Sign PGP"
+#~ msgstr "Allekirjoita PGP"
+
+#~ msgid "Subject:"
+#~ msgstr "Aihe:"
+
+#~ msgid ""
+#~ "The key will be used locally only.  It will not be sent to the server."
+#~ msgstr ""
+#~ "Avainta käytetään vain paikallisesti. Sitä ei lähetetä palvelimelle."
+
+#~ msgid "This appears to be the first time you have used Guard"
+#~ msgstr "Vaikuttaa olevan ensimmäinen kerta, kun käytät Guard-palvelua"
+
+#~ msgid "To:"
+#~ msgstr "Vastaanottaja:"
+
+#~ msgid "Unable to get key for encryption"
+#~ msgstr "Salausavainta ei saatu"
+
+#~ msgid "Unable to load"
+#~ msgstr "Lataaminen ei onnistu"
+
+#~ msgid "Use Guard when composing a new email"
+#~ msgstr "Käytä Guard-palvelua uuden sähköpostin laatimiseen"
+
+#~ msgid "Using a guest account for email"
+#~ msgstr "Sähköpostiin käytetään vierastiliä"
+
+#~ msgid "Your private key"
+#~ msgstr "Yksityinen avaimesi"
+
+#~ msgid "Your public key"
+#~ msgstr "Julkinen avaimesi"
+
+#~ msgid "sent:"
+#~ msgstr "lähetetty"

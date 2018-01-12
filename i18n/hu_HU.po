@@ -1,0 +1,2601 @@
+# Gabor Kelemen <kelemeng at gnome dot hu>, 2014, 2015.
+# Kálmán Kéménczy <kkemenczy@gmail.com>, 2014, 2015, 2016, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: open-xchange-guard-ui\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2018-01-12 09:05-0500\n"
+"Last-Translator: Greg Hill <greg.hill@open-xchange.com>\n"
+"Language-Team: Hungarian <kde-l10n-hu@kde.org>\n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.10\n"
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "Toggle Encryption"
+msgstr ""
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "Not Supported"
+msgstr "Nem támogatott"
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "%s is not supported with secured email and will be disabled."
+msgstr "%s is nem támogatott biztonságos e-mailben, ezért letiltásra került."
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "OK"
+msgstr "OK"
+
+#. %s product Name
+#: apps/mailvelope/settings.js module:oxguard
+msgid "Mailvelope"
+msgstr "Mailvelope"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Mailvelope Not Supported"
+msgstr "A Mailvelope nem támogatott."
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid ""
+"Mailvelope is only supported in Google Chrome or Mozilla Firefox.  Please "
+"use one of these broswers to set up encryption."
+msgstr ""
+"A Mailvelope csak Google Chrome és Mozilla Firefox böngészőkben támogatott. "
+"A titkosítás beállításához használja ezen böngészők valamelyikét."
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Encrypted communication"
+msgstr "Titkosított kommunikáció"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Download browser plugin"
+msgstr "Böngészőbővítmény letöltése"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Generate"
+msgstr "Előállítás"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Congratulations! You have successfully set up encryption."
+msgstr "Gratulálunk! Sikeresen beállította a titkosítást."
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Prepare"
+msgstr "Előkészítés"
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Password"
+msgstr "Jelszó"
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Three steps to setup encrypted communication:"
+msgstr "Három lépésben állíthatja be a titkosított kommunikációt"
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Download browser plugin “Mailvelope”"
+msgstr "Töltse le a “Mailvelope” bővítményt"
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Create encryption keys for secure communication"
+msgstr "Titkosító kulcs létrehozása a biztonságos kommunkációhoz"
+
+#~ msgid "Mailvelope Advanced"
+#~ msgstr "Mailvelope Advanced"
+
+#~ msgid "Error"
+#~ msgstr "Hiba"
+
+#~ msgid ""
+#~ "Backup your Mailvelope private keys to the server.  The keys will be "
+#~ "encrypted requiring a security code for restore"
+#~ msgstr ""
+#~ "Mentse le a Mailvelope privát kulcsát a kiszolgálóra. A kulcsok "
+#~ "titkosításra kerülnek és visszaállításukhoz biztonsági kódra lesz szükség."
+
+#~ msgid "Backup"
+#~ msgstr "Mentés"
+
+#~ msgid "Discard previously saved private keys."
+#~ msgstr "Korábban elmentett privát kulcs eldobása"
+
+#~ msgid "Discard backup"
+#~ msgstr "Mentés elvetése"
+
+#~ msgid "Restore previously saved private keys."
+#~ msgstr "Korábban elmentett privát kulcs visszaállítása."
+
+#~ msgid "Restore"
+#~ msgstr "Visszaállítás"
+
+#~ msgid ""
+#~ "Upload your Mailvelope public keys to the %s server so that other people "
+#~ "can send you encrypted emails."
+#~ msgstr ""
+#~ "Töltse fel a Mailvelope nyilvános kulcsait a(z) %s kiszolgálóra, így "
+#~ "mások is tudnak Önnek titkosított levelet küldeni."
+
+#~ msgid "Upload Public Key"
+#~ msgstr "Nyilvános kulcs feltöltése"
+
+#~ msgid "Backup and Recovery"
+#~ msgstr "Rendszermentés és helyreállítás"
+
+#~ msgid "No backup data available"
+#~ msgstr "Nem érhető el mentett adat"
+
+#~ msgid ""
+#~ "You can now backup your keys. Please store the provided password secure. "
+#~ "It is also possible to skip this step and do the backup later. You can "
+#~ "find it in the settings."
+#~ msgstr ""
+#~ "Most már elmentheti a kulcsait. Tartsa biztonságban a megadott jelszót. "
+#~ "Kihagyhatja ezt a lépést és elvégezheti a mentést később a beállításoknál."
+
+#~ msgid "Skip without backup"
+#~ msgstr "Biztonsági mentés kihagyása"
+
+#~ msgid "Recommended: Setup key backup"
+#~ msgstr "Javaslat: Állítsa be a kulcs mentését"
+
+#~ msgid "Enter %s security password"
+#~ msgstr "Adja meg %s Security lelszavát"
+
+#~ msgid "Bad password"
+#~ msgstr "Hibás jelszó"
+
+#~ msgid "Account Locked out"
+#~ msgstr "A fiók zárolva"
+
+#~ msgid "Unspecified error"
+#~ msgstr "Meghatározhatatlan hiba"
+
+#~ msgid "Problems creating keys, please try again later."
+#~ msgstr "Probléma a kulcsok létrehozásakor, próbálja újra később."
+
+#~ msgid ""
+#~ "Problems creating keys.  Keys already exist for this email address in "
+#~ "another account."
+#~ msgstr ""
+#~ "Problémák a kulcsok létrehozásakor. A kulcsok már léteznek ehhez az e-"
+#~ "mail címhez egy másik fiókban."
+
+#~ msgid "Passwords must be at least %s characters in length"
+#~ msgstr "A jelszavaknak legalább %s karakter hosszúnak kell lenniük"
+
+#~ msgid "Passwords not equal"
+#~ msgstr "A jelszavak nem egyeznek"
+
+#~ msgid "Enter new secondary Email address"
+#~ msgstr "Adja meg az új másodlagos e-mail címet"
+
+#~ msgid "Generating key, Please wait"
+#~ msgstr "Kulcs előállítása, kis türelmet"
+
+#~ msgid ""
+#~ "Please choose the password you will use for %s. You will need to type "
+#~ "this password whenever you want to encrypt or decrypt items. Remember it "
+#~ "should be different from your login password, and will not change if you "
+#~ "change your login password."
+#~ msgstr ""
+#~ "Adjon meg egy jelszót, amelyet a(z) %s használatához. Akkor kell megadnia "
+#~ "ezt a jelszót, amikor valamit titkosítani vagy visszafejteni szeretne. Ez "
+#~ "a jelszó a bejelentkezési jelszótól különbözik és annak változtatásakor "
+#~ "nem fog változni."
+
+#~ msgid "Please enter a password to protect your new encrypted items."
+#~ msgstr "Írjon be egy jelszót a titkosított elemek védelméhez."
+
+#~ msgid "Confirm"
+#~ msgstr "Megerősítés"
+
+#~ msgid ""
+#~ "Warning: This password for encryption cannot be restored or recovered in "
+#~ "any way.  If forgotten, all encrypted data will be lost"
+#~ msgstr ""
+#~ "Figyelem: Ez a titkosítási jelszó semmilyen módon sem állítható vissza, "
+#~ "amennyiben elfelejti, akkor elveszti az összes titkosított adatát."
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password."
+#~ msgstr ""
+#~ "Írjon be egy másodlagos e-mail címet, arra az esetre, ha vissza kellene "
+#~ "állítania jelszavát."
+
+#~ msgid "Email:"
+#~ msgstr "E-mail:"
+
+#~ msgid "Create %s Security Keys"
+#~ msgstr "%s biztonsági kulcsok létrehozása"
+
+#~ msgid "Cancel"
+#~ msgstr "Mégse"
+
+#~ msgid "Not valid email"
+#~ msgstr "Érvénytelen e-mail"
+
+#~ msgid "Emails not equal"
+#~ msgstr "Az e-mailek nem egyeznek"
+
+#~ msgid "Too short"
+#~ msgstr "Túl rövid"
+
+#~ msgid "Strong"
+#~ msgstr "Erős"
+
+#~ msgid "Weak"
+#~ msgstr "Gyenge"
+
+#~ msgid "First %s Security Use"
+#~ msgstr "Az első %s Biztonság használata"
+
+#~ msgid "You have been sent an email using %s to secure the contents"
+#~ msgstr "Elküldött egy levet, amit a(z) %s használatával titkosított"
+
+#~ msgid ""
+#~ "Please select a new password for use with %s.  This password will be used "
+#~ "to open encrypted emails and files that may be sent to you."
+#~ msgstr ""
+#~ "Adjon meg egy új jelszót a(z) %s használatához. A jelszó segítségével "
+#~ "tudja megnyitni az önnek küldött titkosított levelet és fájlokat."
+
+#~ msgid "First %s Security Password Use"
+#~ msgstr "A(z) %s Security jelszó első használata"
+
+#~ msgid ""
+#~ "Please change the initial temporary %s security password that was sent to "
+#~ "you in a separate email."
+#~ msgstr ""
+#~ "Módosítsa az átmeneti %s biztonsági jelszót, amelyet egy másik e-mailben "
+#~ "kapott meg."
+
+#~ msgid "Initial Password"
+#~ msgstr "Kiinduló jelszó"
+
+#~ msgid "New Password"
+#~ msgstr "Új jelszó"
+
+#~ msgid "Confirm New"
+#~ msgstr "Új megerősítése"
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password.</p>"
+#~ msgstr ""
+#~ "Írjon be egy másodlagos e-mail címet, arra az esetre, ha vissza kellene "
+#~ "állítania jelszavát.</p>"
+
+#~ msgid "Verify:"
+#~ msgstr "Ellenőrzés:"
+
+#~ msgid ""
+#~ "Warning: This password for encryption cannot be restored or recovered in "
+#~ "any way.  If forgotten, all encrypted data will be lost."
+#~ msgstr ""
+#~ "Figyelem: Ez a titkosítási jelszó semmilyen módon sem állítható vissza, "
+#~ "amennyiben elfelejti, akkor elveszti az összes titkosított adatát."
+
+#~ msgid "Success"
+#~ msgstr "Sikerült"
+
+#~ msgid "Password changed successfully"
+#~ msgstr "Sikeres jelszóváltoztatás"
+
+#~ msgid "New password must be at least %s characters long"
+#~ msgstr "Az új jelszónak legalább %s karakter hosszúnak kell lennie"
+
+#~ msgid "Encryption key not found"
+#~ msgstr "A titkosítási kulcs nem található"
+
+#~ msgid "Failed to change password"
+#~ msgstr "A jelszóváltoztatás nem sikerült"
+
+#~ msgid "Download decrypted"
+#~ msgstr "Visszafejtett letöltése"
+
+#~ msgid "Add and encrypt local file"
+#~ msgstr "Helyi fájl hozzáadása és titkosítása"
+
+#~ msgid "Remove encryption"
+#~ msgstr "Titkosítás eltávolítása"
+
+#~ msgid "Encrypt"
+#~ msgstr "Titkosítás"
+
+#~ msgid "Send by mail"
+#~ msgstr "Küldés e-mailben"
+
+#~ msgid "Download encrypted"
+#~ msgstr "Titkosított letöltése"
+
+#~ msgid "Pop out"
+#~ msgstr "Megnyitás új ablakban"
+
+#~ msgid "Pop out standalone viewer"
+#~ msgstr "Megnyitás külső megjelenítőben"
+
+#~ msgid "Decrypt and open"
+#~ msgstr "Visszafejtés és megnyitás"
+
+#~ msgid "Drop files here to encrypt"
+#~ msgstr "A titkosításhoz húzza ide a fájlt"
+
+#~ msgid "Recipient Options"
+#~ msgstr "Címzettbeállítások"
+
+#~ msgid ""
+#~ "At least one of your recipients uses a different webmail system.  They "
+#~ "will receive an email with a link for them to read this message.  If you "
+#~ "like, you can add a personalized message that will appear at the top of "
+#~ "this message.  This will help identify the message as coming from you."
+#~ msgstr ""
+#~ "Legalább egy címzett másik webes levelezőrendszert használ. Ők egy "
+#~ "hivatkozást tartalmazó e-mailt fognak kapni a levél elolvasásához. Ha "
+#~ "szeretne, hozzáadhat egy személyre szabott üzenetet, amely e fölött fog "
+#~ "megjelenni, és segíteni fog Öntől érkezőként azonosítani az üzenetet."
+
+#~ msgid "Message:"
+#~ msgstr "Üzenet:"
+
+#~ msgid "Language for recipient Email"
+#~ msgstr "A címzett levelének nyelve"
+
+#~ msgid "Note: Emails sent to mailing lists or groups will not work."
+#~ msgstr ""
+#~ "Megjegyzés: A levélküldés levelezőlistára vagy csoportnak nem fog működni."
+
+#~ msgid ""
+#~ "Mailing list / blocked email found.  Encrypted emails to this email will "
+#~ "fail.  %s"
+#~ msgstr ""
+#~ "Levelezőlista / blokkolt e-mail cím észlelése. Erre a címre titkosít e-"
+#~ "mail küldése sikertelen lesz. %s"
+
+#~ msgid ""
+#~ "The key for %s has expired.  You will not be able to send an encrypted "
+#~ "email to this recipient."
+#~ msgstr ""
+#~ "A ehhez tartozó kulcs lejárt: %s . Nem fog tudni titkosított fájlt "
+#~ "küldeni ennek a címzettnek."
+
+#~ msgid "HTML Formatted Email"
+#~ msgstr "HTML formátumú e-mail"
+
+#~ msgid ""
+#~ "HTML formatted emails may cause issues with PGP inline.  Click OK to "
+#~ "change to Plain Text formatted Emails."
+#~ msgstr ""
+#~ "A HTML formátumú e-mailek problémákat okozhatnak a PGP beágyazással. "
+#~ "Kattintson az OK gombra az egyszerű szöveg formátumú e-mailekre váltáshoz."
+
+#~ msgid "HTML format is not recommended when using PGP Inline"
+#~ msgstr "A HTML formátum használata nem javasolt PGP Inline használatakor"
+
+#~ msgid "Recipients cannot be added to this encrypted reply"
+#~ msgstr "Ehhez a titkosított válaszhoz nem adható hozzá címzett"
+
+#~ msgid "Reply must be encrypted"
+#~ msgstr "A választ titkosítani kell"
+
+#~ msgid "Unable to attach your public key"
+#~ msgstr "Nem lehet a publikus kulcsot csatolni"
+
+#~ msgid "Will create new guest account for %s"
+#~ msgstr "Új vendég fiókot hoz létre a(z) %s programhoz"
+
+#~ msgid "Encryption Key Known"
+#~ msgstr "A titkosítási kulcs ismert"
+
+#~ msgid "Send"
+#~ msgstr "Küldés"
+
+#~ msgid "Send Encrypted"
+#~ msgstr "Küldés titkosítva"
+
+#~ msgid "Send Secure"
+#~ msgstr "Küldés biztonságosan"
+
+#~ msgid "Loaded"
+#~ msgstr "Betöltve"
+
+#~ msgid "Secure Email, enter your %s security password."
+#~ msgstr "Biztonságos e-mail, adja meg a(z) %s Security jelszavát."
+
+#~ msgid "Keep me logged into %s"
+#~ msgstr "Maradjak bejelentkezve a(z) %s programba"
+
+#~ msgid "10 minutes"
+#~ msgstr "10 perc"
+
+#~ msgid "20 minutes"
+#~ msgstr "20 perc"
+
+#~ msgid "30 minutes"
+#~ msgstr "30 perc"
+
+#~ msgid "1 hour"
+#~ msgstr "1 óra"
+
+#~ msgid "2 hours"
+#~ msgstr "2 óra"
+
+#~ msgid "Session"
+#~ msgstr "Munkamenet"
+
+#~ msgid "Select Key Location"
+#~ msgstr "Válassza ki a kulcs helyét"
+
+#~ msgid "Temporary Lockout"
+#~ msgstr "Ideiglenes kizárás"
+
+#~ msgid "Security PIN"
+#~ msgstr "Biztonsági PIN"
+
+#~ msgid "Recipients:"
+#~ msgstr "Címzettek:"
+
+#~ msgid ""
+#~ "The new recipients listed below will be sent a password via email.  You "
+#~ "can also require a separate pin, which is displayed below."
+#~ msgstr ""
+#~ "Az alább felsorolt új címzettek e-mailben kapni fognak egy jelszót. "
+#~ "Megkövetelhet egy külön PIN-t is, amely alább látható."
+
+#~ msgid ""
+#~ "You may deliver this pin any way you see fit, but we recommend doing it "
+#~ "in a second method other than email (Phone, SMS, Skype, etc)."
+#~ msgstr ""
+#~ "Ezt a PIN-t tetszőleges módon kézbesítheti, de az e-mailtől eltérő "
+#~ "módszert javaslunk (telefon, SMS, Skype stb.)."
+
+#~ msgid "If you want this extra pin requirement, click OK."
+#~ msgstr ""
+#~ "Ha szeretné megkövetelni ezt az extra PIN-t, akkor kattintson az OK-ra."
+
+#~ msgid "Skip"
+#~ msgstr "Kihagyás"
+
+#~ msgid "Unable to get key"
+#~ msgstr "A kulcs nem kérhető le"
+
+#~ msgid "Please enter your %s password to sign this email."
+#~ msgstr "Adja meg a(z) %s jelszót az e-mail aláírásához."
+
+#~ msgid ""
+#~ "There appears to be an encrypted attachment.  Please enter your %s "
+#~ "password to decode the attachment for sending."
+#~ msgstr ""
+#~ "Ez egy titkosított csatolmány. Adja meg a(z) %s jelszavát, hogy az "
+#~ "elküldéshez vissza lehessen fejteni."
+
+#~ msgid "Please re-enter your %s password before sending."
+#~ msgstr "A küldés előtt adja meg újra a(z) %s jelszót."
+
+#~ msgid "Please re-enter your %s password before saving."
+#~ msgstr "A mentés előtt adja meg újra a(z) %s jelszót."
+
+#~ msgid "Please re-enter your %s password."
+#~ msgstr "Adja meg újra a(z) %s jelszót."
+
+#~ msgid "Security"
+#~ msgstr "Biztonság"
+
+#~ msgid "PGP"
+#~ msgstr "PGP"
+
+#~ msgid "Secure"
+#~ msgstr "Biztonságos"
+
+#~ msgid "Sign"
+#~ msgstr "Aláírás"
+
+#~ msgid "Format"
+#~ msgstr "Formátum"
+
+#~ msgid "PGP Mime"
+#~ msgstr "PGP Mime"
+
+#~ msgid "PGP Inline"
+#~ msgstr "PGP beágyazás"
+
+#~ msgid "Keys"
+#~ msgstr "Kulcsok"
+
+#~ msgid "Attach my key"
+#~ msgstr "Saját kulcs csatolása"
+
+#~ msgid "Unable to find keys for all recipients."
+#~ msgstr "Nem található kulcs minden címzetthez."
+
+#~ msgid "Unable to connect to the encryption server."
+#~ msgstr "A titkosítási kiszolgálóhoz nem lehet kapcsolódni.."
+
+#~ msgid "Unable to find the item on the server"
+#~ msgstr "Az elem nem található a kiszolgálón"
+
+#~ msgid "Unable to get the key for that item"
+#~ msgstr "Nem kérhető le az elem kulcsa"
+
+#~ msgid "Unable to retrieve your user keys to decode"
+#~ msgstr "Nem kérhetők le a felhasználói kulcsok a visszafejtéshez"
+
+#~ msgid "Bad extra password"
+#~ msgstr "Hibás extra jelszó"
+
+#~ msgid "No private key to decode this message"
+#~ msgstr "Nincs olyan privát kulcs, amely dekódolná ezt az üzenetet."
+
+#~ msgid "Unable to decrypt Email, incorrect password."
+#~ msgstr "Nem fejthető vissza az e-mail, a jelszó hibás."
+
+#~ msgid "To reset or recover your password, click %s"
+#~ msgstr "A jelszó törléséhez vagy visszaállításához kattintson ide: %s"
+
+#~ msgid "Settings"
+#~ msgstr "Beállítások"
+
+#~ msgid "No Private Key available for this encrypted item."
+#~ msgstr "Ehhez a titkosított elemhez nem érhető el Privát Kulcs."
+
+#~ msgid "Key Ids:"
+#~ msgstr "Kulcsazonosítók:"
+
+#~ msgid "Your account is locked out for %s minutes"
+#~ msgstr "A felhasználói fiókja %s percre zárolva lett"
+
+#~ msgid "Server Error: "
+#~ msgstr "Kiszolgálóhiba:"
+
+#~ msgid "Password needed"
+#~ msgstr "Jelszó szükséges"
+
+#~ msgid "Please enter your %s password"
+#~ msgstr "Adja meg a(z) %s jelszavát"
+
+#~ msgid "Remember my password"
+#~ msgstr "Jelszó megjegyzése"
+
+#~ msgid "Account locked out due to bad attempts.  Please try again later."
+#~ msgstr ""
+#~ "A felhasználói fiók lezáródott a hibás kísérletek miatt. Próbálja újra "
+#~ "később."
+
+#~ msgid "Error checking password"
+#~ msgstr "Hiba történt a jelszó ellenőrzésekor"
+
+#~ msgid "Delete Public Key"
+#~ msgstr "Nyilvános kulcs törlése"
+
+#~ msgid "Click OK to confirm"
+#~ msgstr "Kattintson az OK gombra a megerősítéshez"
+
+#~ msgid "Email"
+#~ msgstr "E-mail"
+
+#~ msgid "Key Ids"
+#~ msgstr "Kulcsazonosítók"
+
+#~ msgid "Details"
+#~ msgstr "Részletek"
+
+#~ msgid "Delete"
+#~ msgstr "Törlés"
+
+#~ msgid "No Keys Found"
+#~ msgstr "Nem találhatók kulcsok"
+
+#~ msgid "Key Details"
+#~ msgstr "Kulcs részletei"
+
+#~ msgid "Share Keys"
+#~ msgstr "Kulcsok megosztása"
+
+#~ msgid "Use PGP Inline"
+#~ msgstr "Beágyazott PGP beágyazás"
+
+#~ msgid "Signatures"
+#~ msgstr "Aláírások"
+
+#~ msgid "Expired"
+#~ msgstr "Lejárt"
+
+#~ msgid "Revoked"
+#~ msgstr "Visszavont"
+
+#~ msgid "Fingerprint:"
+#~ msgstr "Ujjlenyomat-olvasó:"
+
+#~ msgid "Created:"
+#~ msgstr "Létrehozva:"
+
+#~ msgid "Master:"
+#~ msgstr "Elsődleges:"
+
+#~ msgid "True"
+#~ msgstr "Igaz"
+
+#~ msgid "False"
+#~ msgstr "Hamis"
+
+#~ msgid "Encryption:"
+#~ msgstr "Titkosítás"
+
+#~ msgid "IDs: "
+#~ msgstr "Azonosítók: "
+
+#~ msgid "Expires in %1$s days"
+#~ msgstr "%1$s nap múlva lejár"
+
+#~ msgid "Problem getting signatures"
+#~ msgstr "Probléma az aláírások elérésében"
+
+#~ msgid "Positive"
+#~ msgstr "Pozitív"
+
+#~ msgid "Failed check"
+#~ msgstr "Meghiúsult ellenőrzés"
+
+#~ msgid "Missing public"
+#~ msgstr "Hiányzó nyilvános"
+
+#~ msgid "Casual"
+#~ msgstr "Alkalmi"
+
+#~ msgid "Revocation"
+#~ msgstr "Visszavonás"
+
+#~ msgid "Direct cert"
+#~ msgstr "Közvetlen tanúsítvány"
+
+#~ msgid "Default Certification"
+#~ msgstr "Alapértelmezett tanúsítvány"
+
+#~ msgid "No signatures"
+#~ msgstr "Nincs aláírás"
+
+#~ msgid "ID Signed"
+#~ msgstr "Aláíró azonosító"
+
+#~ msgid "Certification"
+#~ msgstr "Tanúsítvány"
+
+#~ msgid "Signed by"
+#~ msgstr "Aláíró"
+
+#~ msgid "Image"
+#~ msgstr "Kép"
+
+#~ msgid "Key Signatures"
+#~ msgstr "Kulcsaláírások"
+
+#~ msgid "PGP Public Key List"
+#~ msgstr "PGP nyilvános kulcs lista"
+
+#~ msgid "This Email was encrypted with PGP."
+#~ msgstr "Az e-mail PGP-vel lett titkosítva"
+
+#~ msgid "This Email was signed and verified."
+#~ msgstr "Az e-mail aláírva és ellenőrizve."
+
+#~ msgid "This Email was signed and failed verification."
+#~ msgstr "Az e-mail aláírva és az ellenőrizése meghiúsult."
+
+#~ msgid "This Email was signed but unable to verify."
+#~ msgstr "Az e-mail aláírva, de nem sikerült ellenőrizni."
+
+#~ msgid ""
+#~ "This Email was sent using PGP encryption. It has been decrypted with your "
+#~ "private key"
+#~ msgstr ""
+#~ "Az e-mailt PGP titkosítással küldték. Vissza lett fejtve a személyes "
+#~ "kulcsával"
+
+#~ msgid "This Email was signed by the sender and verified."
+#~ msgstr "Ezt az e-mailt a feladó aláírta és ellenőrizve lett."
+
+#~ msgid "PGP Public Key Found.  Click to Import"
+#~ msgstr "Nyilvános PGP kulcsot találtunk. Importálásához kattintson ide."
+
+#~ msgid "Save encrypted to %1$s"
+#~ msgstr "Titkosított mentése ide: %1$s"
+
+#~ msgctxt "app"
+#~ msgid "Drive"
+#~ msgstr "Drive"
+
+#~ msgid "Check assigned PIN"
+#~ msgstr "Hozzárendelt PIN ellenőrzése"
+
+#~ msgid "PIN"
+#~ msgstr "PIN"
+
+#~ msgid "Added keys: \r\n"
+#~ msgstr "Hozzáadott kulcsok: \r\n"
+
+#~ msgid "Key ID: "
+#~ msgstr "Kulcsazonosító: "
+
+#~ msgid "Service Unavailable"
+#~ msgstr "A szolgáltatás nem érhető el"
+
+#~ msgid "Advanced Settings"
+#~ msgstr "Speciális beállítások"
+
+#~ msgid "Download PGP Public Key"
+#~ msgstr "PGP nyilvános kulcs letöltése"
+
+#~ msgid "Email your PGP Public Key"
+#~ msgstr "PGP nyilvános kulcs elküldése e-mailben"
+
+#~ msgid "Your Keys"
+#~ msgstr "Saját kulcsok"
+
+#~ msgid "Your Key List"
+#~ msgstr "Saját kulcslista"
+
+#~ msgid "Key ID"
+#~ msgstr "Kulcsazonosító"
+
+#~ msgid "Private Key"
+#~ msgstr "Privát kulcs"
+
+#~ msgid "Current"
+#~ msgstr "Jelenlegi"
+
+#~ msgid "Download"
+#~ msgstr "Letöltés"
+
+#~ msgid "Edit"
+#~ msgstr "Szerkesztés"
+
+#~ msgid "Adding Keys"
+#~ msgstr "Kulcsok hozzáadása"
+
+#~ msgid "If you already have a private key, you can upload it here."
+#~ msgstr "Ha már rendelkezik személyes kulccsal, itt feltöltheti."
+
+#~ msgid "Upload Private Key"
+#~ msgstr "Személyes kulcs feltöltése"
+
+#~ msgid "Finally, you can have a new PGP Key Pair created for your account."
+#~ msgstr "Végül egy új PGP kulcspár jött létre a felhasználói fiókjához."
+
+#~ msgid "Create New Keys"
+#~ msgstr "Új kulcsok létrehozása"
+
+#~ msgid "Adding UserID"
+#~ msgstr "Felhasználóazonosító hozzáadása"
+
+#~ msgid "Add a name and email address to this public key."
+#~ msgstr "Adjon meg egy nevet egy e-mail címet ehhez a nyilvános kulcshoz."
+
+#~ msgid "Name"
+#~ msgstr "Név"
+
+#~ msgid "Please enter your key password"
+#~ msgstr "Adja meg a kulcs jelszavát"
+
+#~ msgid "Invalid Email Address"
+#~ msgstr "Érvénytelen e-mail cím"
+
+#~ msgid "Invalid Name"
+#~ msgstr "Érvénytelen név"
+
+#~ msgid "Enter password"
+#~ msgstr "Adja meg a jelszót"
+
+#~ msgid "User ID added"
+#~ msgstr "Felhasználói azonosító hozzáadva"
+
+#~ msgid "Failed to add UserID"
+#~ msgstr "A felhasználói azonosító hozzáadása nem sikerült"
+
+#~ msgid "Revoke Private Key"
+#~ msgstr "Privát kulcs visszavonása"
+
+#~ msgid ""
+#~ "Revoke the key: This advises others that you no longer want this key "
+#~ "used.  You can continue to decode any encrypted data using the key."
+#~ msgstr ""
+#~ "Kulcs visszavonása: Ezzel másokat értesíti, hogy nem kívánja a "
+#~ "továbbiakban használni ezt a kulcsot. Továbbra is lehetősége van a "
+#~ "kulccsal az adatok visszafejtésére."
+
+#~ msgid "Delete Private Key"
+#~ msgstr "Privát kulcs törlése"
+
+#~ msgid "There are two options if you no longer want to use this key"
+#~ msgstr "Két lehetőség van, ha már nem akarja használni ezt a kulcsot"
+
+#~ msgid ""
+#~ "Revoke the key: This advises others that you no longer want this key "
+#~ "used.  You can continue to decode any encrypted data using the key. "
+#~ "(Recommended)"
+#~ msgstr ""
+#~ "Kulcs visszavonása: Ezzel másokat értesíti, hogy nem kívánja a "
+#~ "továbbiakban használni ezt a kulcsot. Továbbra is lehetősége van a "
+#~ "kulccsal az adatok visszafejtésére. (Javasolt)"
+
+#~ msgid ""
+#~ "Deleting the key: Deleting the private key will render all encrypted "
+#~ "items unreadable.  You will not be able to decode emails or files that "
+#~ "were enrypted with this key.  This cannot be undone."
+#~ msgstr ""
+#~ "Kulcs törlése: A privát kulcs törlése minden titkosított tartalom "
+#~ "elérését lehetetlenné teszi. Nem lesz lehetőség azon e-mailek és fájlok "
+#~ "visszafejtésére, amelyek ezzel a kulccsal voltak titkosítva. Ez a művelet "
+#~ "visszafordíthatatlan."
+
+#~ msgid "Revoke"
+#~ msgstr "Visszavonás"
+
+#~ msgid ""
+#~ "You will no longer be able to decode any items that were encrypted with "
+#~ "this key!"
+#~ msgstr ""
+#~ "Nem fogja tudni visszafejteni azokat az elemeket, amelyek ezzel a "
+#~ "kulccsal lettek titkosítva!"
+
+#~ msgid "Enter your password below to confirm and verify"
+#~ msgstr "Adjam a jelszót a jóváhagyáshoz és az ellenőrzéshez"
+
+#~ msgid "Bad Password"
+#~ msgstr "Hibás jelszó"
+
+#~ msgid "Key Deleted"
+#~ msgstr "A kulcs törölve"
+
+#~ msgid "Failed to delete key"
+#~ msgstr "A kulcs törlése sikertelen"
+
+#~ msgid "Problem deleting key"
+#~ msgstr "Hiba történt a kulcs törlésekor"
+
+#~ msgid "Please verify you want to delete this key"
+#~ msgstr "Ellenőrizze, hogy törölni akarja-e ezt a kulcsot"
+
+#~ msgid "Failed to delete"
+#~ msgstr "A törlés meghiúsult"
+
+#~ msgid ""
+#~ "This will advise people not to use this key.  You can still use the key "
+#~ "to decode existing items."
+#~ msgstr ""
+#~ "Ezzel másokat értesíti, hogy ne használják ezt a kulcsot. Továbbra is "
+#~ "használhatja a kulcsot a meglévő elemek visszafejtésére."
+
+#~ msgid "Reason"
+#~ msgstr "Indok"
+
+#~ msgid "No Reason"
+#~ msgstr "Nincs indok"
+
+#~ msgid "Key superseded"
+#~ msgstr "A kulcs helyettesítve"
+
+#~ msgid "Key compromised"
+#~ msgstr "A kulcs veszélyeztetett"
+
+#~ msgid "Key retired"
+#~ msgstr "A kulcs visszavonult"
+
+#~ msgid "User no longer valid"
+#~ msgstr "Felhasználó már nem érvényes"
+
+#~ msgid "Key Revoked"
+#~ msgstr "A kulcs visszavonva"
+
+#~ msgid "Failed to revoke key"
+#~ msgstr "A kulcs visszavonása meghiúsult"
+
+#~ msgid "Download Key"
+#~ msgstr "Kulcs letöltése"
+
+#~ msgid "Download your private key for use with other email programs"
+#~ msgstr ""
+#~ "Töltse le a privát kulcsot egy másik levelezőprogrammal való használathoz"
+
+#~ msgid "Do not distribute this key.  It is for your use only"
+#~ msgstr "Ne ossza meg ezt a kulcsot senkivel. Ezt kizárólag Ön használhatja."
+
+#~ msgid "Download PGP Private Key"
+#~ msgstr "Privát PGO kulcs letöltése"
+
+#~ msgid "Download Public and Private Key"
+#~ msgstr "Nyilvános és Privát kulcs letöltése"
+
+#~ msgid "Key ID:"
+#~ msgstr "Kulcsazonosító:"
+
+#~ msgid "Expires:"
+#~ msgstr "Lejárat:"
+
+#~ msgid "Private Key: "
+#~ msgstr "Privát kulcs: "
+
+#~ msgid ""
+#~ "If you would like to upload a public key only, then do so here.  This "
+#~ "will allow you to encrypt files and receive encrypted emails using %s, "
+#~ "but you will need to use the private key with another program to decode "
+#~ "the items."
+#~ msgstr ""
+#~ "Amennyiben csak a publikus kulcsát szeretné feltölteni, akkor ezt itt "
+#~ "megteheti. Ez lehetővé teszi fájlok titkosítását és titkosított e-mailek "
+#~ "fogadását a(z) %s segítségével, de a titkosításhoz a privát kulcsot kell "
+#~ "használni egy másik programmal."
+
+#~ msgid "Upload Public Key Only"
+#~ msgstr "Csak a nyilvános kulcs feltöltése"
+
+#~ msgid "PGP Public Key is attached"
+#~ msgstr "A PGP nyilvános kulcs csatolva van"
+
+#~ msgid "Public Keys"
+#~ msgstr "Nyilvános kulcsok"
+
+#~ msgid "Failed to update settings"
+#~ msgstr "A beállítások frissítése meghiúsult"
+
+#~ msgid "Email format"
+#~ msgstr "E-mail formátum"
+
+#~ msgid ""
+#~ "Emails that contain HTML and are sent with PGP Inline will often result "
+#~ "in decoding errors and possible failure.  As a result, the default Email "
+#~ "format should be changed to plaintext.  Click OK to change the default to "
+#~ "plaintext, cancel to keep your current setting."
+#~ msgstr ""
+#~ "Azok az e-mailek, amelyek HTML tartalommal rendelkeznek és beágyazott PGP "
+#~ "segítségével kerültek elküldésre, dekódoláskor gyakran hibát adnak "
+#~ "vissza. Ezért az alapértelmezett e-mail egyszerű formátumra kell "
+#~ "állítani. Kattintson az OK gombra, hogy egyszerű formátumra váltson. "
+#~ "Nyomja meg a Mégse gombot, ha a jelenlegi beállítást kívánja megtartani."
+
+#~ msgid "Ask each time"
+#~ msgstr "Mindig kérdezzen rá"
+
+#~ msgid "Remember Password Default"
+#~ msgstr "Jelszó megjegyzése alapértelezésként"
+
+#~ msgid "Default to send encrypted when composing email"
+#~ msgstr "Titkosított levél küldése alapértelmezésként"
+
+#~ msgid "Encrypt all incoming emails"
+#~ msgstr "Minden bejövő levél titkosítása"
+
+#~ msgid "Default adding signature to outgoing mails"
+#~ msgstr "Alapértelmezett aláírás a kimenő levelekre"
+
+#~ msgid "Default to using PGP inline for new mails"
+#~ msgstr "Alapértelmezett a beágyazott PGP használata az új leveleknél"
+
+#~ msgid "Please wait"
+#~ msgstr "Kis türelmet"
+
+#~ msgid "Advanced"
+#~ msgstr "Speciális"
+
+#~ msgid "Enable Advanced PGP Features"
+#~ msgstr "Speciális PGP funkciók engedélyezése"
+
+#~ msgid "PGP Encryption Settings"
+#~ msgstr "PGP Titkosítás Beállítás"
+
+#~ msgid "Security Settings"
+#~ msgstr "Biztonsági beállításaok"
+
+#~ msgid "Keys uploaded"
+#~ msgstr "Kulcsok feltöltve"
+
+#~ msgid "Failed to upload"
+#~ msgstr "A feltöltés meghiúsult"
+
+#~ msgid "The public key must have your primary email as a user ID"
+#~ msgstr ""
+#~ "A nyilvános kulcshoz az elsődleges e-mail címre van szükség, ami egyben a "
+#~ "felhasználói azonosító"
+
+#~ msgid "Upload Private Keys"
+#~ msgstr "Személyes kulcsok feltöltése"
+
+#~ msgid "Please enter passwords for the upload"
+#~ msgstr "Adja meg a jelszavakat a feltöltéshez"
+
+#~ msgid "Enter new password for the key:"
+#~ msgstr "Adjon meg új jelszót a kulcshoz:"
+
+#~ msgid "Confirm Password:"
+#~ msgstr "Jelszó jóváhagyása:"
+
+#~ msgid "Private key password for the key you are uploading:"
+#~ msgstr "Privát kulcs jelszava a feltöltött kulcshoz:"
+
+#~ msgid "Private Key Uploaded"
+#~ msgstr "Privát kulcs feltöltve"
+
+#~ msgid "This key already exists"
+#~ msgstr "Ez a kulcs már létezik"
+
+#~ msgid "Bad PGP Password"
+#~ msgstr "Hibás PGP jelszó"
+
+#~ msgid "The private key must have your primary email as a user ID"
+#~ msgstr ""
+#~ "A privát kulcshoz az elsődleges e-mail címre van szükség, ami egyben a "
+#~ "felhasználói azonosító"
+
+#~ msgid "Must use same password as existing key to merge"
+#~ msgstr ""
+#~ "Az összevonáshoz a meglévő kulcshoz használt jelszót kell használnia"
+
+#~ msgid "Problem uploading Private Key "
+#~ msgstr "Hiba történt a privát kulcs feltöltésekor "
+
+#~ msgid "Logged out of %s"
+#~ msgstr "Kijelentkezés innen: %s"
+
+#~ msgid "Failed to log out of %s"
+#~ msgstr "Sikertelen kijelentkezés innen: %s"
+
+#~ msgid "Guided tour for %s"
+#~ msgstr "A(z) %s bemutatója"
+
+#~ msgid "Sign out %s"
+#~ msgstr "Kijelentkezés a(z) %s programból"
+
+#~ msgctxt "app"
+#~ msgid "%s Security"
+#~ msgstr "%s Biztonság"
+
+#~ msgid "Get Started"
+#~ msgstr "Kezdő lépések"
+
+#~ msgid ""
+#~ "In order to start with %s Security, you must set up a password for your "
+#~ "secured files."
+#~ msgstr ""
+#~ "A(z) %s Security használatának megkezdéséhez be kell állítani egy jelszót "
+#~ "a biztonságba helyezett fájljaihoz."
+
+#~ msgid "Start"
+#~ msgstr "Kezdés"
+
+#~ msgid "%s Security Settings"
+#~ msgstr "%s biztonsági beállításai"
+
+#~ msgid "Change %s Security Password."
+#~ msgstr "Adja meg a(z) %s Security jelszavát"
+
+#~ msgid "Enter current %s security password"
+#~ msgstr "Adja meg a(z) %s Security jelenlegi jelszavát"
+
+#~ msgid "Enter new %s security password"
+#~ msgstr "Adja meg a(z) %s Security új jelszavát"
+
+#~ msgid "Verify new %s security password"
+#~ msgstr "Erősítse meg a(z) %s Security új jelszavát"
+
+#~ msgid "Change %s security password"
+#~ msgstr "Változtassa meg a(z) %s Security jelszavát"
+
+#~ msgid "Reset %s security password"
+#~ msgstr "Állítsa vissza a(z) %s Security jelszavát"
+
+#~ msgid "Send a temporary %s security password to my secondary Email address."
+#~ msgstr "Ideiglenes %s Security jelszó küldése a másodlagos e-mail címemre."
+
+#~ msgid "Delete Password Recovery"
+#~ msgstr "Jelszó-helyreállítás törlése"
+
+#~ msgid "Advanced Users Only!"
+#~ msgstr "Csak tapasztalt felhasználóknak!"
+
+#~ msgid ""
+#~ "Delete the password recovery.  The recovery is used to reset your "
+#~ "password.  If you delete the recovery, you will not be able to reset your "
+#~ "password if you forget it.  Changing your password will restore the "
+#~ "recovery."
+#~ msgstr ""
+#~ "Jelszó-helyreállítás törlése. A helyreállítás alaphelyzetbe állítja a "
+#~ "jelszót. Amennyiben törli a jelszó-helyreállítást, akkor amennyiben "
+#~ "elfelejti, nem lehet majd alaphelyzetbe állítani a jelszót. A jelszó "
+#~ "módosítása visszaállítja a helyreállítást."
+
+#~ msgid "Please verify your password before deleting the recovery."
+#~ msgstr "Ellenőrizze a jelszavát mielőtt törli a jelszó-visszaállítást."
+
+#~ msgid "Recovery deleted"
+#~ msgstr "Helyreállítás törölve"
+
+#~ msgid "Current Email address:"
+#~ msgstr "Jelenlegi e-mail cím:"
+
+#~ msgid "Secondary Email"
+#~ msgstr "Másodlagos e-mail cím"
+
+#~ msgid "Change Email address used for password reset."
+#~ msgstr "A jelszó visszaállításához használt e-mail cím módosítása."
+
+#~ msgid "Verify Email address"
+#~ msgstr "E-mail cím ellenőrzése"
+
+#~ msgid "Change Email address"
+#~ msgstr "E-mail cím módosítása"
+
+#~ msgid "None - Primary Email will be used"
+#~ msgstr "Nincs - az elsődleges e-mail cím használata"
+
+#~ msgid "Invalid email address"
+#~ msgstr "Érvénytelen e-mail cím"
+
+#~ msgid "Successfully changed email address"
+#~ msgstr "Az e-mail cím módosítása sikeres"
+
+#~ msgid "A new password has been sent to your email address."
+#~ msgstr "Elküldtünk egy új jelszót az e-mail címére."
+
+#~ msgid "A new password has been sent to your secondary email address."
+#~ msgstr "Elküldtünk egy új jelszót a másodlagos e-mail címére."
+
+#~ msgid "No password recovery is available."
+#~ msgstr "Nem érhető el jelszó-helyreállítás."
+
+#~ msgid "Password reset, but unable to send to your email address."
+#~ msgstr "A jelszó visszaállítva, de nem lehet az e-mail címére küldeni."
+
+#~ msgid "Unable to find email address to send password reset."
+#~ msgstr "Nem található e-mail cím a visszaállítási jelszó küldéséhez."
+
+#~ msgid "Unable to reset your password"
+#~ msgstr "Nem állítható vissza a jelszava"
+
+#~ msgid "Next"
+#~ msgstr "Következő"
+
+#~ msgid "Simple and Easy"
+#~ msgstr "Egyszerű és könnyű"
+
+#~ msgctxt "Choice"
+#~ msgid "One click encryption for Emails and files"
+#~ msgstr "Egykattintásos titkosítás e-mailekhez és fájlokhoz"
+
+#~ msgctxt "Choice"
+#~ msgid "Works in all browsers with all your contacts"
+#~ msgstr "Minden böngészőjében és az összes ismerősével működik"
+
+#~ msgctxt "Choice"
+#~ msgid "Easy to use, every day"
+#~ msgstr "Egyszerűen használható, minden nap"
+
+#~ msgctxt "Choice"
+#~ msgid "Security details managed by us"
+#~ msgstr "A biztonsági részleteket mi kezeljük"
+
+#~ msgctxt "Choice"
+#~ msgid ""
+#~ "If you do not have deep knowledge of encryption, but you would like to "
+#~ "easily secure your communication with your friends or business contacts, "
+#~ "this option fits perfectly for you. Safe Email, made simple!"
+#~ msgstr ""
+#~ "Ha nem járatos a titkosítás világában, de könnyen szeretné titkosítani a "
+#~ "barátai és üzlettársai közötti kommunikációt, akkor ez a megoldás "
+#~ "tökéletes lesz Önnek. Biztonságos levelezés, egyszerűen!"
+
+#~ msgctxt "Choice"
+#~ msgid "Encryption Expert"
+#~ msgstr "Titkosítási szakértő"
+
+#~ msgctxt "Choice"
+#~ msgid "Expert encryption options available"
+#~ msgstr "Szakértő titkosítási beállítások érhetők el"
+
+#~ msgctxt "Choice"
+#~ msgid "Works only in Firefox and Chrome"
+#~ msgstr "Kizárólag Firefox és Chrome böngészőkkel működik"
+
+#~ msgctxt "Choice"
+#~ msgid "Browser plugin required"
+#~ msgstr "Bővítmény telepítése szükséges a böngészőkön"
+
+#~ msgctxt "Choice"
+#~ msgid "Security details managed by yourself"
+#~ msgstr "A biztonsági beállításokat maga kezelheti"
+
+#~ msgctxt "Choice"
+#~ msgid ""
+#~ "If you are an encryption expert, and would like to manage all encryption "
+#~ "details by yourself, this option fits best for you. You need to install a "
+#~ "third-party browser plugin to work with expert encryption."
+#~ msgstr ""
+#~ "Ha titkosítási szakértelemmel rendelkezik és saját maga szeretné a "
+#~ "titkosítási beállításokat kezelni, akkor ez a legjobb választás. Ehhez "
+#~ "telepítenie kell egy bővítményt a böngészőjére."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You already set up your %s account. But you can always change your "
+#~ "encryption password, or request a temporary password if you forget it."
+#~ msgstr ""
+#~ "Már van %s felhasználói fiókja. A titkosító jelszó bármikor "
+#~ "megváltoztatható, vagy amennyiben elfelejtette, kérhet átmeneti jelszót."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You already set up your %s account.  You can change your encryption "
+#~ "password here."
+#~ msgstr ""
+#~ "Már van %s felhasználói fiókja. A titkosító jelszót itt változtathatja "
+#~ "meg."
+
+#~ msgctxt "tour"
+#~ msgid "The %s module"
+#~ msgstr "A(z) %s modul"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Security and privacy matters to everyone. That's why you can now send and "
+#~ "receive encrypted emails by simply clicking on the lock icon."
+#~ msgstr ""
+#~ "A biztonság és az adatvédelem mindenkinek fontos. Ezért mostantól a lakat "
+#~ "ikonra kattintva egyszerűen tud titkosított e-mailt küldeni és fogadni."
+
+#~ msgctxt "tour"
+#~ msgid "%s Security Settings"
+#~ msgstr "%s biztonsági beállításai"
+
+#~ msgctxt "tour"
+#~ msgid "PGP Encryption Settings"
+#~ msgstr "PGP Titkosítás Beállítás"
+
+#~ msgctxt "tour"
+#~ msgid "Security Settings"
+#~ msgstr "Biztonsági beállításaok"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "From here you can update your encryption settings. For example you can "
+#~ "choose to send encrypted emails by default."
+#~ msgstr ""
+#~ "Itt megváltoztathatja a titkosítási beállításait. Például beállíthatja, "
+#~ "hogy alapértelmezettként titkosított levelet küldjön."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "From here, you can update your security settings.  For example, you can "
+#~ "choose to send secure emails by default."
+#~ msgstr ""
+#~ "Itt megváltoztathatja a biztonsági beállításait. Például beállíthatja, "
+#~ "hogy alapértelmezettként titkosított levelet küldjön."
+
+#~ msgctxt "tour"
+#~ msgid "Signature"
+#~ msgstr "Aláírás"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "In addition to encrypting your emails you can also sign them. This means "
+#~ "that email recipients can be sure that the email really came from you. By "
+#~ "ticking this checkbox your signature will be added to outgoing emails by "
+#~ "default."
+#~ msgstr ""
+#~ "Ezen felül a titkosított levelet alá is írhatja. Ez azt jelenti, hogy a "
+#~ "címzett biztos lehet benne, hogy a levél a feladótól érkezett. Ezzel a "
+#~ "beállítással alapértelmezés szerint aláírás kerül minden elküldött "
+#~ "levélhez."
+
+#~ msgctxt "tour"
+#~ msgid "Alternative: PGP Inline"
+#~ msgstr "Alternatíva: Beágyazott PGP"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "By default %s sends encrypted emails using PGP/Mime format. To "
+#~ "communicate with some systems you may need to use PGP Inline."
+#~ msgstr ""
+#~ "Alapértelmezés szerint a(z) %s küld titkosított e-mailt PGP/Mime "
+#~ "formátumban. Néhány rendszerhez történő kapcsolódáshoz lehet, hogy "
+#~ "beágyazott PGP-t kell használnia."
+
+#~ msgctxt "tour"
+#~ msgid "Advanced Settings"
+#~ msgstr "Speciális beállítások"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Advanced users can manage their key lists from the PGP Encryption "
+#~ "Settings."
+#~ msgstr ""
+#~ "Gyakorlott felhasználók a PGP Titkosítás Beállításoknál kezelhetik a "
+#~ "titkosítási kulcsaikat."
+
+#~ msgctxt "tour"
+#~ msgid "Advanced User Settings"
+#~ msgstr "Speciális felhasználói beállítások"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Enabling Advanced PGP Features will enable key management and specifying "
+#~ "sending formats."
+#~ msgstr ""
+#~ "A Speciális PGP funkciók engedélyezésével lehetőség van a kulcskezelésre "
+#~ "és küldő formátum meghatározására."
+
+#~ msgctxt "tour"
+#~ msgid "Enabling and disabling encryption"
+#~ msgstr "Titkosítás engedélyezése és letiltása"
+
+#~ msgctxt "tour"
+#~ msgid "You are now able to send secure emails."
+#~ msgstr "Mostantól képes biztonságos levelet küldeni."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Sending without encryption is easy, too: Simply click on the lock icon "
+#~ "again."
+#~ msgstr "Titkosítás nélkül egyszerű küldeni: kattintson újra a lakat ikonra."
+
+#~ msgctxt "tour"
+#~ msgid "Encrypt files"
+#~ msgstr "Fájlok titkosítása"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You can also protect your files. Just click on Encrypt and the selected "
+#~ "file will be stored securely."
+#~ msgstr ""
+#~ "Lehetőség van fájlok védelmére is. Kattintson a Titkosításra és a "
+#~ "kiválasztott fájl biztonságosan kerül tárolásra."
+
+#~ msgctxt "tour"
+#~ msgid "Encrypt your sensitive files in Drive"
+#~ msgstr "Érzékeny fájlok titkosítása a Drive-on"
+
+#~ msgctxt "tour"
+#~ msgid "Restart Guided Tour"
+#~ msgstr "Termékbemutató újraindítása"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "<em>Hint:</em> you can start guided tours, any time you need them, from "
+#~ "the system menu."
+#~ msgstr ""
+#~ "<em>Tipp:</em> bármikor elindíthatja a Termékbemutatót a rendszermenüből."
+
+#~ msgctxt "tour"
+#~ msgid "Guided Tour completed"
+#~ msgstr "A bemutató befejeződött"
+
+#~ msgctxt "tour"
+#~ msgid "You successfully learned how to protect your emails and files."
+#~ msgstr "Most már tudja, hogyan védheti meg leveleit és fájljait."
+
+#~ msgctxt "tour"
+#~ msgid "What you can do now:"
+#~ msgstr "Lehetőségek:"
+
+#~ msgctxt "tour"
+#~ msgid "Write an encrypted email"
+#~ msgstr "Titkosított levél írása"
+
+#~ msgctxt "tour"
+#~ msgid "Activate encryption for all new emails"
+#~ msgstr "Titkosítás aktiválása az új levelekre"
+
+#~ msgctxt "tour"
+#~ msgid "Review your encryption settings"
+#~ msgstr "Titkosítási beállítások áttekintése"
+
+#~ msgctxt "tour"
+#~ msgid "Learn more"
+#~ msgstr "További információ"
+
+#~ msgid "Start Setup"
+#~ msgstr "Beállítás indítása"
+
+#~ msgctxt "tour"
+#~ msgid "Setup %s"
+#~ msgstr "%s beállítása"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Welcome to %1$s. You will now be taken on a tour, showing you how to use "
+#~ "%1$s."
+#~ msgstr ""
+#~ "Üdvözli (a)z %1$s. Egy bemutató keretében megismerheti a(z) %1$s "
+#~ "használatát."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Firstly however, you’ll need to setup %1$s by choosing a password which "
+#~ "will be used to encrypt or decrypt items such as email or files."
+#~ msgstr ""
+#~ "Először azonban be kell állítania a(z) %1$s jelszavát, amelyet levelek és "
+#~ "fájlok titkosításához és visszafejtéséhez fog használni."
+
+#~ msgid "Choose %s Password"
+#~ msgstr "Adja meg a(z) %s jelszavát"
+
+#~ msgid "Close"
+#~ msgstr "Bezárás"
+
+#~ msgctxt "tour"
+#~ msgid "%s set up completed"
+#~ msgstr "A(z) %s beállítása befejezősött"
+
+#~ msgctxt "tour"
+#~ msgid "Congratulations, you have successfully setup %s"
+#~ msgstr "Gratulálunk! A(z) %s beállítását sikeresen befejezte."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Now you can learn more about how to use %s by following the links below:"
+#~ msgstr ""
+#~ "A(z) %s használatával kapcsolatban az alábbi hivatkozáson talál további "
+#~ "információt:"
+
+#~ msgctxt "tour"
+#~ msgid "Learn more about %s"
+#~ msgstr "További információ a(z) %s használatához"
+
+#~ msgid "Choose your security solution"
+#~ msgstr "Válassza ki a saját biztonsági megoldását"
+
+#~ msgid "Key found for %1$s.  Import?"
+#~ msgstr "Ezt a kulcsot találtuk: %1$s. Importálja?"
+
+#~ msgid "Import"
+#~ msgstr "Importálás"
+
+#~ msgid "Imported"
+#~ msgstr "Importálva"
+
+#~ msgid "Updated"
+#~ msgstr "Frissített"
+
+#~ msgid "Invalidated"
+#~ msgstr "Érvénytelenített"
+
+#~ msgid "Rejected"
+#~ msgstr "Elvetett"
+
+#~ msgid "Warning"
+#~ msgstr "Figyelmeztetés"
+
+#~ msgid ""
+#~ "Sending an encrypted email from an account other than %s may cause "
+#~ "problems with the recipient being able to reply.  Consider using your "
+#~ "primary account."
+#~ msgstr ""
+#~ "Titkosított e-mail küldése erről a(z) %s fióktól eltérő felhasználói "
+#~ "fiókkal problémát okozhat a fogadó oldalon. Fontolja meg az elsődleges "
+#~ "felhasználói fiókjának használatát."
+
+#~ msgid "Do not warn me again"
+#~ msgstr "Ne figyelmeztessen többet"
+
+#~ msgid "PGP Info"
+#~ msgstr "PGP Info"
+
+#~ msgid "Content Type"
+#~ msgstr "Tartalomtípus"
+
+#~ msgid "PGP Details"
+#~ msgstr "PGI részletei"
+
+#~ msgid ""
+#~ "Mailvelope is not supported in this browser.  Please use Chrome or "
+#~ "Firefox with Mailvelop installed."
+#~ msgstr ""
+#~ "A Mailvelope nem támogatott ebben a böngészőben. Használjon Chrome vagy "
+#~ "Firefox böngészőt a Mailvelop bővítménnyel."
+
+#~ msgid "Enter re-enter %s security password"
+#~ msgstr "%s biztonsági jelszó újra megadása"
+
+#~ msgid "Download Decrypted"
+#~ msgstr "Letöltés visszafejtve"
+
+#~ msgid "Download Encrypted"
+#~ msgstr "Letöltés titkosítva"
+
+#~ msgid "View"
+#~ msgstr "Nézet"
+
+#~ msgid "Decrypt and Open"
+#~ msgstr "Visszafejtés és megnyitás"
+
+#~ msgid "Drop files here to upload"
+#~ msgstr "A feltöltéshez húzza ide a fájlokat"
+
+#~ msgid "Add"
+#~ msgstr "Hozzáadás"
+
+#~ msgid "Add:"
+#~ msgstr "Hozzáadás:"
+
+#~ msgid "Must be in the same global address book"
+#~ msgstr "Azonos globális címjegyzékben kell lennie"
+
+#~ msgid "Unable to add"
+#~ msgstr "Nem sikerült felvenni"
+
+#~ msgid "Select"
+#~ msgstr "Választás"
+
+#~ msgid "User"
+#~ msgstr "Felhasználó"
+
+#~ msgid "Retract"
+#~ msgstr "Visszavonás"
+
+#~ msgid "Unable to share"
+#~ msgstr "Nem osztható meg"
+
+#~ msgid "Remove from share list"
+#~ msgstr "Eltávolítás a megosztáslistából"
+
+#~ msgid "Failed to remove the share"
+#~ msgstr "A megosztás eltávolítása meghiúsult"
+
+#~ msgid "Password Needed"
+#~ msgstr "Jelszó szükséges"
+
+#~ msgid "Please provide your %s security password to share this file"
+#~ msgstr "A fájl megosztásához adja meg %s security jelszavát"
+
+#~ msgid "No users in same context"
+#~ msgstr "Nincsenek felhasználók ugyanabban a kontextusban"
+
+#~ msgid "The following link will take you to the shared file"
+#~ msgstr "A következő hivatkozás a megosztott fájlra mutat"
+
+#~ msgid "Shared file link"
+#~ msgstr "Megosztott fájl elérése"
+
+#~ msgid "Attached encrypted file"
+#~ msgstr "Egy titkosított fájlt csatoltam"
+
+#~ msgid "Shared file"
+#~ msgstr "Megosztott fájl"
+
+#~ msgid "Add Permissions"
+#~ msgstr "Jogosultságok hozzáadása"
+
+#~ msgid ""
+#~ "The following users do not have permission to view objects in this folder."
+#~ msgstr ""
+#~ "A következő felhasználóknak nincs jogosultságuk objektumok "
+#~ "megjelenítésére a mappában."
+
+#~ msgid "Do you wish to add read permissions to this folder for these users?"
+#~ msgstr ""
+#~ "Szeretne olvasási jogot adni erre a mappára ezeknek a felhasználóknak?"
+
+#~ msgid "Failed to add folder sharing permissions"
+#~ msgstr "A mappamegosztási jogosultságok hozzáadása meghiúsult"
+
+#~ msgid "%s %s %s"
+#~ msgstr "%s %s %s"
+
+#~ msgid "The provided filename exceeds the allowed length."
+#~ msgstr "A megadott fájlnév hossza meghaladja az engedélyezett méretet."
+
+#~ msgid "The allowed quota is reached."
+#~ msgstr "Az engedélyezett kvóta elérve."
+
+#~ msgid "This file has not been added"
+#~ msgstr "A fájl nincs hozzáadva"
+
+#~ msgid "Upload a new encrypted version"
+#~ msgstr "Új titkosított verzió feltöltése"
+
+#~ msgid "Upload file"
+#~ msgstr "Fájl feltöltése"
+
+#~ msgid "Version Comment"
+#~ msgstr "Megjegyzés a verzióhoz"
+
+#~ msgid "Upload new encrypted version"
+#~ msgstr "Új titkosított verzió feltöltése"
+
+#~ msgid "Uploading..."
+#~ msgstr "Feltöltés…"
+
+#~ msgid ""
+#~ "You are replying to an email that has not yet been decoded.  The "
+#~ "recipient will not be able to read the contents of the original email."
+#~ msgstr ""
+#~ "Olyan e-mailre válaszol, amely még nem lett visszafejtve. A címzett nem "
+#~ "fogja tudni elolvasni az eredeti levél tartalmát."
+
+#~ msgid ""
+#~ "You are forwarding an email that has not yet been decoded.  The recipient "
+#~ "will not be able to read the contents of the original email."
+#~ msgstr ""
+#~ "Olyan e-mailt küld tovább, amely még nem lett visszafejtve. A címzett nem "
+#~ "fogja tudni elolvasni az eredeti levél tartalmát."
+
+#~ msgid "Re: %1$s"
+#~ msgstr "Vá: %1$s"
+
+#~ msgid "Fwd: %1$s"
+#~ msgstr "Tov: %1$s"
+
+#~ msgid "Original Message"
+#~ msgstr "Eredeti üzenet"
+
+#~ msgid "From: %1$s"
+#~ msgstr "Feladó: %1$s"
+
+#~ msgid "To: %1$s"
+#~ msgstr "Címzett: %1$s"
+
+#~ msgid "CC: %1$s"
+#~ msgstr "CC: %1$s"
+
+#~ msgid "Date: %1$s"
+#~ msgstr "Dátum: %1$s"
+
+#~ msgid "Subject: %1$s"
+#~ msgstr "Tárgy: %1$s"
+
+#~ msgid "On %1$s at %2$s %3$s wrote:"
+#~ msgstr "%1$s %2$s %3$s üzenete:"
+
+#~ msgid "Attach My Key"
+#~ msgstr "Saját kulcs csatolása"
+
+#~ msgid "Do you really want to discard your message?"
+#~ msgstr "Valóban eldobja az üzenetet?"
+
+#~ msgctxt "dialog"
+#~ msgid "Discard message"
+#~ msgstr "Üzenet elvetése"
+
+#~ msgid "Save as draft"
+#~ msgstr "Mentés piszkozatként"
+
+#~ msgid "Mail has empty subject. Send it anyway?"
+#~ msgstr "A levél tárgya üres. Mindenképp elküldi?"
+
+#~ msgid "Yes, send without subject"
+#~ msgstr "Igen, küldés tárgy nélkül"
+
+#~ msgid "Add subject"
+#~ msgstr "Tárgy hozzáadása"
+
+#~ msgid "Unable to authorize against backend"
+#~ msgstr "Nem lehet azonosítani a háttérrendszeren"
+
+#~ msgid "Save"
+#~ msgstr "Mentés"
+
+#~ msgid "Saving attachment to Drive"
+#~ msgid_plural "Saving attachments to Drive"
+#~ msgstr[0] "Melléklet mentése a Drive-ra"
+#~ msgstr[1] "Mellékletek mentése a Drive-ra"
+
+#~ msgid "Attachment has been saved"
+#~ msgid_plural "Attachments have been saved"
+#~ msgstr[0] "A melléklet mentve"
+#~ msgstr[1] "A mellékletek mentve"
+
+#~ msgid "Failed to decrypt"
+#~ msgstr "A visszafejtés meghiúsult"
+
+#~ msgid "Failed to save attachments"
+#~ msgstr "A mellékletek mentése meghiúsult"
+
+#~ msgid "Unsupported browser"
+#~ msgstr "Nem támogatott böngésző"
+
+#~ msgid "Mail has no recipients"
+#~ msgstr "A levélnek nincs címzettje."
+
+#~ msgid "Mail saved as draft"
+#~ msgstr "Levél mentve piszkozatként"
+
+#~ msgid "Unable to get keys for all users"
+#~ msgstr "Nem kérhető le az összes felhasználó kulcsa"
+
+#~ msgid ""
+#~ "The from address you selected for this email is not associated with an "
+#~ "encryption key.  Please send from your primary account, or optionally, "
+#~ "add the email address to your key using the advanced settings."
+#~ msgstr ""
+#~ "Az e-mailhez kiválasztott küldőcímhez nincs titkosítókulcs rendelve. "
+#~ "Küldje a levelet az elsődleges e-mail címéről vagy a speciális "
+#~ "beállításokban adja meg az e-mail címet a kulcs használatához."
+
+#~ msgid "An error occurred saving the email."
+#~ msgstr "Hiba történt az e-mail mentése közben."
+
+#~ msgid "An error occurred sending the encrypted email."
+#~ msgstr "Hiba történt a titkosított e-mail küldésekor."
+
+#~ msgid ""
+#~ "At least one of your attachments are encrypted.  Please provide your %s "
+#~ "security password to decrypt before sending"
+#~ msgstr ""
+#~ "Legalább egy melléklet titkosított. Adja meg a(z) %s Security jelszavát "
+#~ "az elküldés előtti visszafejtéshez."
+
+#~ msgid "To"
+#~ msgstr "Címzett"
+
+#~ msgctxt "CC"
+#~ msgid "Copy"
+#~ msgstr "Másolat"
+
+#~ msgid "Decoding"
+#~ msgstr "Visszafejtés"
+
+#~ msgid ""
+#~ "Your pop-up blocker may have prevented a %s window that provides "
+#~ "application functionality."
+#~ msgstr ""
+#~ "A felugró ablakok blokkolása megakadályozhatta egy alkalmazásfunkciókat "
+#~ "ellátó %s ablak megjelenését."
+
+#~ msgid "VCard imported with warnings"
+#~ msgstr "VCard importálva figyelmeztetésekkel"
+
+#~ msgid "Failed to import vcard"
+#~ msgstr "A Vcard importálása meghiúsult"
+
+#~ msgid "VCard imported"
+#~ msgstr "VCard importálva"
+
+#~ msgid "Save Encrypted to Drive"
+#~ msgstr "Titkosított mentése a Drive-ra"
+
+#~ msgid "Save Decoded to Drive"
+#~ msgstr "Visszafejtett mentése a Drive-ra"
+
+#~ msgid "Open in browser"
+#~ msgstr "Megnyitás böngészőben"
+
+#~ msgid "Import as PGP Public Key"
+#~ msgstr "Importálás PGP nyilvános kulcsként"
+
+#~ msgid "Add to address book"
+#~ msgstr "Hozzáadás a címjegyzékhez"
+
+#~ msgid "no files"
+#~ msgstr "nincsenek fájlok"
+
+#~ msgid "Save attachment"
+#~ msgstr "Melléklet mentése"
+
+#~ msgid "Unable to save decrypted file"
+#~ msgstr "Nem menthető a visszafejtett fájl"
+
+#~ msgid "Unable to decrypt"
+#~ msgstr "Nem fejthető vissza"
+
+#~ msgid "Send copy by mail"
+#~ msgstr "Másolat küldése e-mailben"
+
+#~ msgid "Enter %s Security Password"
+#~ msgstr "Adja meg a(z) %s Security jelszavát"
+
+#~ msgid "Encrypt Files"
+#~ msgstr "Fájlok titkosítása"
+
+#~ msgid "Only the latest version of the files will be encrypted."
+#~ msgstr "Csak a fájlok legutóbbi változata lesz titkosítva."
+
+#~ msgid "All previous versions will be deleted."
+#~ msgstr "Minden korábbi verzió törlésre kerül."
+
+#~ msgid "This file could not be uploaded."
+#~ msgstr "A fájlt nem sikerült feltölteni."
+
+#~ msgid "Upload"
+#~ msgstr "Feltöltés"
+
+#~ msgid "Please provide your %s Security Password to share this file"
+#~ msgstr "Adja meg a(z) %s Security jelszavát a fájl megosztásához"
+
+#~ msgid "Bad private key"
+#~ msgstr "Hibás személyes kulcs"
+
+#~ msgid "On %1$s %2$s sent:"
+#~ msgstr " %1$s, %2$s küldte:"
+
+#~ msgid ""
+#~ "At least one of your attachments are encrypted.  Please provide your %s "
+#~ "Security Password to decrypt before sending"
+#~ msgstr ""
+#~ "Legalább egy melléklet titkosított. Adja meg a(z) %s Security jelszavát "
+#~ "az elküldés előtti visszafejtéshez."
+
+#~ msgid ""
+#~ "Upload your Mailvelope public keys to the %s server so that other people "
+#~ "can send you encrypted emails"
+#~ msgstr ""
+#~ "Töltse fel a Mailvelope nyilvános kulcsait a(z) %s kiszolgálóra, így "
+#~ "mások is tudnak Önnek titkosított levelet küldeni."
+
+#~ msgid "Extra Password"
+#~ msgstr "Extra jelszó"
+
+#~ msgid ""
+#~ "This allows you to set an extra password that will be required for "
+#~ "reading this item."
+#~ msgstr ""
+#~ "Ez lehetővé teszi extra jelszó beállítását, amely ezen elem olvasásához "
+#~ "lesz szükséges."
+
+#~ msgid "Please enter it below"
+#~ msgstr "Adja meg lentebb"
+
+#~ msgid "Please enter your %s Security password"
+#~ msgstr "Adja meg a(z) %s Security jelszavát"
+
+#~ msgid "Failed to add extra password"
+#~ msgstr "Nem sikerült az extra jelszó hozzáadása"
+
+#~ msgid "Remember Password"
+#~ msgstr "Jelszó megjegyzése"
+
+#~ msgid ""
+#~ "HTML formatted emails may cause issues with PGP inline.  Click OK to "
+#~ "change to Plain Text formatted Emails"
+#~ msgstr ""
+#~ "A HTML formátumú e-mailek problémákat okozhatnak a PGP beágyazással. "
+#~ "Kattintson az OK gombra az egyszerű szöveg formátumú e-mailekre váltáshoz"
+
+#~ msgid "Secure Email, enter your %s security password"
+#~ msgstr "Biztonságos e-mail, adja meg a(z) %s Security jelszavát"
+
+#~ msgid ""
+#~ "The new recipients listed below will be sent a password via email.  You "
+#~ "can also require a seperate pin, which is displayed below"
+#~ msgstr ""
+#~ "Az alább felsorolt új címzettek e-mailben kapni fognak egy jelszót. "
+#~ "Megkövetelhet egy külön PIN-t is, amely alább látható"
+
+#~ msgid ""
+#~ "You may deliver this pin any way you see fit, but we recommend doing it "
+#~ "in a second method other than email (Phone, SMS, Skype, etc)"
+#~ msgstr ""
+#~ "Ezt a PIN-t tetszőleges módon kézbesítheti, de az e-mailtől eltérő "
+#~ "módszert javaslunk (telefon, SMS, Skype stb.)"
+
+#~ msgid "If you want this extra pin requirement, click OK"
+#~ msgstr ""
+#~ "Ha szeretné megkövetelni ezt az extra PIN-t, akkor kattintson az OK-ra"
+
+#~ msgid "Please enter your %s password to sign this email"
+#~ msgstr "Adja meg a(z) %s jelszót az e-mail aláírásához"
+
+#~ msgid "Please enter your %s password for signing"
+#~ msgstr "Adja meg a(z) %s jelszót az aláírásához"
+
+#~ msgid "Problems creating keys, please try again later"
+#~ msgstr "Probléma a kulcsok létrehozásakor, próbálja újra később"
+
+#~ msgid ""
+#~ "Problems creating keys.  Keys already exist for this email address in "
+#~ "another account"
+#~ msgstr ""
+#~ "Problémák a kulcsok létrehozásakor. A kulcsok már léteznek ehhez az e-"
+#~ "mail címhez egy másik fiókban"
+
+#~ msgid ""
+#~ "Please choose the password you will use for %s. You will need to type "
+#~ "this password whenever you want to encrypt or decrypt items. Remember it "
+#~ "should be different from your login password, and will not change if you "
+#~ "change your login password"
+#~ msgstr ""
+#~ "Adjon meg egy jelszót, amelyet a(z) %s használatához. Akkor kell megadnia "
+#~ "ezt a jelszót, amikor valamit titkosítani vagy visszafejteni szeretne. Ez "
+#~ "a jelszó a bejelentkezési jelszótól különbözik és annak változtatásakor "
+#~ "nem fog változni."
+
+#~ msgid "Please enter a password to protect your new encrypted items"
+#~ msgstr "Írjon be egy jelszót a titkosított elemek védelméhez"
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password"
+#~ msgstr ""
+#~ "Írjon be egy másodlagos e-mail címet, arra az esetre, ha vissza kellene "
+#~ "állítania jelszavát"
+
+#~ msgid "Rember my password"
+#~ msgstr "Jelszó megjegyzése"
+
+#~ msgid "This Email was signed and verified"
+#~ msgstr "Az e-mail aláírva és ellenőrizve"
+
+#~ msgid "This Email was signed but unable to verify"
+#~ msgstr "Az e-mail aláírva, de nem sikerült ellenőrizni"
+
+#~ msgid "This Email was signed and failed verification"
+#~ msgstr "Az e-mail aláírva és az ellenőrizése meghiúsult"
+
+#~ msgid ""
+#~ "Please change the initial temporary %s security password that was sent to "
+#~ "you in a seperate email."
+#~ msgstr ""
+#~ "Módosítsa az átmeneti %s biztonsági jelszót, amelyet egy másik e-mailben "
+#~ "kapott meg."
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password</p>"
+#~ msgstr ""
+#~ "Írjon be egy másodlagos e-mail címet, arra az esetre, ha vissza kellene "
+#~ "állítania jelszavát.</p>"
+
+#~ msgid "This Email was signed by the sender and verified"
+#~ msgstr "Ezt az e-mailt a feladó aláírta és ellenőrizve lett"
+
+#~ msgid "If you already have a private key, you can upload it here"
+#~ msgstr "Ha már rendelkezik személyes kulccsal, itt feltöltheti"
+
+#~ msgid "Finally, you can have a new PGP Key Pair created for your account"
+#~ msgstr "Végül egy új PGP kulcspár jött létre a felhasználói fiókjához"
+
+#~ msgid "Add a name and email address to this public key"
+#~ msgstr "Adjon meg egy nevet egy e-mail címet ehhez a nyilvános kulcshoz"
+
+#~ msgid "PGP default to using PGP inline for compatibility"
+#~ msgstr ""
+#~ "Alapértelmezett a beágyazott PGP használata a kompatibilitás érdekében"
+
+#~ msgid "Please verify your password before deleting the recovery"
+#~ msgstr "Ellenőrizze a jelszavát mielőtt törli a jelszó-visszaállítást"
+
+#~ msgid "A new password has been sent to your email address"
+#~ msgstr "Elküldtünk egy új jelszót az e-mail címére"
+
+#~ msgid "A new password has been sent to your secondary email address"
+#~ msgstr "Elküldtünk egy új jelszót a másodlagos e-mail címére"
+
+#~ msgid "No password recovery is available"
+#~ msgstr "Nem érhető el jelszó-helyreállítás"
+
+#~ msgid "Password reset, but unable to send to your email address"
+#~ msgstr "A jelszó visszaállítva, de nem lehet az e-mail címére küldeni"
+
+#~ msgid "Unable to find email address to send password reset"
+#~ msgstr "Nem található e-mail cím a visszaállítási jelszó küldéséhez"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Enabling Advanced PGP Features will enable key management and specifying "
+#~ "sending formats"
+#~ msgstr ""
+#~ "A Speciális PGP funkciók engedélyezésével lehetőség van a kulcskezelésre "
+#~ "és küldő formátum meghatározására"
+
+#~ msgid "This email was sent with an extra password."
+#~ msgstr "Ezt az e-mailt extra jelszóval küldték."
+
+#~ msgid "Please enter below"
+#~ msgstr "Adja meg lentebb"
+
+#~ msgid "An error occurred during sending the encrypted email."
+#~ msgstr "Hiba történt a titkosított e-mail küldésekor."
+
+#~ msgid "This appears to be the first time you have used Encryption"
+#~ msgstr "Úgy tűnik, először használja a titkosítást"
+
+#~ msgid ""
+#~ "Please change the temporary %s security password that was sent to you in "
+#~ "a seperate email."
+#~ msgstr ""
+#~ "Módosítsa az átmeneti %s biztonsági jelszót, amelyet egy másik e-mailben "
+#~ "kapott meg."
+
+#~ msgid "%s PGP Settings"
+#~ msgstr "%s PGP beállításai"
+
+#~ msgid "Changed"
+#~ msgstr "Módosítva"
+
+#~ msgctxt "tour"
+#~ msgid "Sending without encryption"
+#~ msgstr "Küldés titkosítás nélkül"
+
+#~ msgctxt "tour"
+#~ msgid "Create Your %s Account"
+#~ msgstr "A(z) %s felhasználói fiók létrehozása"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You now need to choose a password which will be used to encrypt or "
+#~ "decrypt items. You only need to set this up once. Your password will then "
+#~ "remain valid until you change it."
+#~ msgstr ""
+#~ "Ki kell választani a jelszót, amellyel képes titkosítani és visszafejteni "
+#~ "az adott elemet. Ezt csak egyszer kell beállítania. A jelszó annak "
+#~ "megváltoztatásáig érvényben marad."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You successfully set up secure communication. Your private key has been "
+#~ "created."
+#~ msgstr "Sikeresen állította be a biztonságos kommunikációt."
+
+#~ msgid ""
+#~ "Upload your Mailvelope public keys to the Guard server so that other "
+#~ "people can send you encrypted emails"
+#~ msgstr ""
+#~ "Töltse fel a Mailvelope nyilvános kulcsait a Guard kiszolgálóra, így "
+#~ "mások is tudnak Önnek titkosított levelet küldeni."
+
+#~ msgid ""
+#~ "Your pop-up blocker may have prevented a Guard window that provides "
+#~ "application functionality."
+#~ msgstr ""
+#~ "A felugró ablakok blokkolása megakadályozhatta egy alkalmazásfunkciókat "
+#~ "ellátó Guard ablak megjelenését."
+
+#~ msgid "Please enter your Guard Security password"
+#~ msgstr "Adja meg a Guard Security jelszavát"
+
+#~ msgid "Enter Guard Security Password"
+#~ msgstr "Írja be a Guard Security jelszavát"
+
+#~ msgid "Please provide your Guard Security Password to share this file"
+#~ msgstr "Adja meg Guard Security jelszavát a fájl megosztásához"
+
+#~ msgid "Secure Email, enter your Guard security password"
+#~ msgstr "Biztonságos e-mail, adja meg a Guard biztonsági jelszavát"
+
+#~ msgid "Keep me logged into Guard"
+#~ msgstr "Maradjak bejelentkezve a Guardba"
+
+#~ msgid "Will create new guest account for Guard"
+#~ msgstr "Új vendég fiókot hoz létre a Guardhoz"
+
+#~ msgid "Have encryption key"
+#~ msgstr "Van titkosító kulcs"
+
+#~ msgid "Please enter your Guard password to sign this email"
+#~ msgstr "Adja meg a Guard jelszót az e-mail aláírásához"
+
+#~ msgid "Please enter your Guard password for signing"
+#~ msgstr "Adja meg a Guard jelszót az aláírásához"
+
+#~ msgid ""
+#~ "At least one of your attachments are encrypted.  Please provide your "
+#~ "Guard Security Password to decrypt before sending"
+#~ msgstr ""
+#~ "Legalább egy melléklet titkosított. Adja meg Guard Security jelszavát az "
+#~ "elküldés előtti visszafejtéshez."
+
+#~ msgid "Automated Email Language"
+#~ msgstr "Automatikus e-mail nyelve"
+
+#~ msgid "Create Guard Security Keys"
+#~ msgstr "A Guard Security kulcsok létrehozása"
+
+#~ msgid "First Guard Security Password Use"
+#~ msgstr "A Guard Security jelszó első használata"
+
+#~ msgid ""
+#~ "Please change the temporary Guard security password that was sent to you "
+#~ "in a seperate email."
+#~ msgstr ""
+#~ "Módosítsa az átmeneti Guard biztonsági jelszót, amelyet egy másik e-"
+#~ "mailben kapott meg."
+
+#~ msgid "Please enter your Guard password"
+#~ msgstr "Adja meg a Guard jelszavát"
+
+#~ msgid ""
+#~ "Please change the initial temporary Guard security password that was sent "
+#~ "to you in a seperate email."
+#~ msgstr ""
+#~ "Módosítsa a kiinduló Guard biztonsági jelszót, amelyet egy másik e-"
+#~ "mailben kapott meg."
+
+#~ msgid "Guard PGP Settings"
+#~ msgstr "Guard PGP beállításai"
+
+#~ msgid ""
+#~ "If you would like to upload a public key only, then do so here.  This "
+#~ "will allow you to encrypt files and receive encrypted emails using Guard, "
+#~ "but you will need to use the private key with another program to decode "
+#~ "the items."
+#~ msgstr ""
+#~ "Amennyiben csak a publikus kulcsát szeretné feltölteni, akkor ezt itt "
+#~ "megteheti. Ez lehetővé teszi fájlok titkosítását és titkosított e-mailek "
+#~ "fogadását a Guard segítségével, de a titkosításhoz a privát kulcsot kell "
+#~ "használni egy másik programmal."
+
+#~ msgid "Guided tour for Guard"
+#~ msgstr "A Guard bemutatója"
+
+#~ msgid "Sign out Guard"
+#~ msgstr "Kijelentkezés a Guardból"
+
+#~ msgctxt "app"
+#~ msgid "Guard Security"
+#~ msgstr "Guard Security"
+
+#~ msgid ""
+#~ "In order to start with Guard Security, you must set up a password for "
+#~ "your secured files."
+#~ msgstr ""
+#~ "A Guard Security használatának megkezdéséhez be kell állítani egy jelszót "
+#~ "a biztonságba helyezett fájljaihoz."
+
+#~ msgid "Guard Security Settings"
+#~ msgstr "Guard Security beállítások"
+
+#~ msgid "Change Guard Security Password."
+#~ msgstr "Guard Security jelszó megváltoztatása."
+
+#~ msgid "Enter current Guard security password"
+#~ msgstr "Írja be a Guard Security jelenlegi jelszavát"
+
+#~ msgid "Enter new Guard security password"
+#~ msgstr "Írja be a Guard Security új jelszavát"
+
+#~ msgid "Verify new Guard security password"
+#~ msgstr "Erősítse meg a Guard Security új jelszavát"
+
+#~ msgid "Change Guard security password"
+#~ msgstr "Guard Security jelszó megváltoztatása"
+
+#~ msgid "Reset Guard security password"
+#~ msgstr "Guard Security jelszó visszaállítása"
+
+#~ msgid ""
+#~ "Send a temporary Guard security password to my secondary Email address."
+#~ msgstr ""
+#~ "Ideiglenes Guard Security jelszó küldése a másodlagos e-mail címemre."
+
+#~ msgctxt "tour"
+#~ msgid "The Guard module"
+#~ msgstr "A Guard modul"
+
+#~ msgctxt "tour"
+#~ msgid "Guard Security Settings"
+#~ msgstr "Guard Security beállítások"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You already set up your Guard account. But you can always change your "
+#~ "encryption password, or request a temporary password if you forget it."
+#~ msgstr ""
+#~ "Már van Guard felhasználói fiókja. A titkosító jelszó bármikor "
+#~ "megváltoztatható, vagy amennyiben elfelejtette, kérhet átmeneti jelszót."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "By default Guard sends encrypted emails using PGP/Mime format. To "
+#~ "communicate with some systems you may need to use PGP Inline."
+#~ msgstr ""
+#~ "Alapértelmezés szerint a Guard küld titkosított e-mailt PGP/Mime "
+#~ "formátumban. Néhány rendszerhez történő kapcsolódáshoz lehet, hogy PGP "
+#~ "Inline-t kell használni."
+
+#~ msgctxt "tour"
+#~ msgid "Remove encryption"
+#~ msgstr "Titkosítás eltávolítása"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Removing the encryption is easy, too: Simply click on the lock icon again."
+#~ msgstr ""
+#~ "A titkosítás eltávolítása szintén egyszerű: kattintson újra a lakat "
+#~ "ikonra."
+
+#~ msgctxt "tour"
+#~ msgid "Create Your Guard Account"
+#~ msgstr "Hozzon létre Guard felhasználói fiókot"
+
+#~ msgctxt "tour"
+#~ msgid "Guard set up completed"
+#~ msgstr "A Guard beállítása elkészült"
+
+#~ msgctxt "Choice"
+#~ msgid "Works only in all browsers with all your contacts"
+#~ msgstr "Minden böngészővel és mindenkivel együttműködik"
+
+#~ msgid "Click to enable encryption"
+#~ msgstr "Kattintson a titkosítás engedélyezéséhez"
+
+#~ msgid "Click to disable encryption"
+#~ msgstr "Kattintson a titkosítás kikapcsolásához"
+
+#~ msgid "Error.  Please reload message"
+#~ msgstr "Hiba. Töltse újra az üzenetet"
+
+#~ msgid "You have exceeded bad password attempts.  Please wait %s minutes"
+#~ msgstr "Túllépte a megadható hibás jelszavak számát. Várjon %s percet."
+
+#~ msgid ""
+#~ "This email has expired and can no longer be accessed.  Contact the sender "
+#~ "for more information."
+#~ msgstr ""
+#~ "Ez az e-mail lejárt és már nem érhető el. További információkért keresse "
+#~ "meg a feladót."
+
+#~ msgid ""
+#~ "This Email has been retracted by the sender and can no longer be "
+#~ "accessed.  Contact the sender for more information."
+#~ msgstr ""
+#~ "Ezt az e-mailt a feladó visszavonta, és már nem érhető el. További "
+#~ "információkért keresse meg a feladót."
+
+#~ msgid "Unable to decrypt Email."
+#~ msgstr "Nem fejthető vissza az e-mail."
+
+#~ msgid "The sender added an extra password encryption."
+#~ msgstr "A feladó extra jelszavas titkosítást használt."
+
+#~ msgid "Save Encrypted"
+#~ msgstr "Mentés titkosítva"
+
+#~ msgid "Save Decrypted"
+#~ msgstr "Mentés visszafejtve"
+
+#~ msgid ""
+#~ "This Email was sent encrypted. It has been decrypted with your private key"
+#~ msgstr ""
+#~ "Ezt az e-mailt titkosítva küldték. Vissza lett fejtve a személyes "
+#~ "kulcsával"
+
+#~ msgid "Expires: "
+#~ msgstr "Lejárat: "
+
+#~ msgid "Retract Email"
+#~ msgstr "E-mail visszavonása"
+
+#~ msgid "Email status"
+#~ msgstr "E-mail állapota"
+
+#~ msgid "Retract all access"
+#~ msgstr "Minden hozzáférés visszavonása"
+
+#~ msgid "Email has not been opened."
+#~ msgstr "Az e-mailt nem nyitották meg."
+
+#~ msgid "Email has been opened."
+#~ msgstr "Az e-mailt megnyitották."
+
+#~ msgid "Email has been retracted."
+#~ msgstr "Az e-mailt visszavonták."
+
+#~ msgid "Unable to get email status, please try again later"
+#~ msgstr "Nem kérhető le az e-mail állapota, próbálja újra később"
+
+#~ msgid "This will retract the email for all recipients. Click OK to confirm."
+#~ msgstr ""
+#~ "Ez visszavonja az e-mailt minden címzettől. Kattintson az OK gombra a "
+#~ "megerősítéshez."
+
+#~ msgid "Item was retracted"
+#~ msgstr "Az elemet visszavonták"
+
+#~ msgid "Not all items retracted"
+#~ msgstr "Nem az összes elem került visszavonásra"
+
+#~ msgid "Failed to retract"
+#~ msgstr "A visszavonás meghiúsult"
+
+#~ msgctxt "tour"
+#~ msgid "Learn more …"
+#~ msgstr "További információ …"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "From here you can update you encryption settings. For example you can "
+#~ "choose to send encrypted emails by default."
+#~ msgstr ""
+#~ "Itt megváltoztathatja a titkosítási beállításokat. Például beállíthatja, "
+#~ "hogy alapértelmezettként titkosított levelet küldjön."
+
+#~ msgid "Message was saved"
+#~ msgstr "Az üzenet mentve"
+
+#~ msgid "Problem creating keys"
+#~ msgstr "Probléma a kulcsok létrehozásakor"
+
+#~ msgctxt "tour"
+#~ msgid "Please click on the lock icon."
+#~ msgstr "Kattintson a lakat ikonra."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Please choose your password now, enter a secondary email address and "
+#~ "click on Ok."
+#~ msgstr ""
+#~ "Válasszon ki most egy jelszót, adja meg a másodlagos e-mail címet és "
+#~ "kattintson az Ok gombra."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You can always change your encryption password, or request a temporary "
+#~ "password if you forget it."
+#~ msgstr ""
+#~ "A titkosító jelszó bármikor megváltoztatható, vagy amennyiben "
+#~ "elfelejtette, kérhet átmeneti jelszót."
+
+#~ msgctxt "tour"
+#~ msgid "Congratulations! You are now able to send secure emails."
+#~ msgstr "Gratulálunk! Mostantól képes biztonságos levelt küldeni."
+
+#~ msgctxt "tour"
+#~ msgid "Please remove the encryption now by clicking on the lock icon again."
+#~ msgstr "A titkosítás eltávolításához kattintson újra a lakat ikonra."
+
+#~ msgid "%s already encrypted"
+#~ msgstr "%s már titkosítva van"
+
+#~ msgid "Add folder"
+#~ msgstr "Mappa hozzáadása"
+
+#~ msgid "Already Protected With Additional Password"
+#~ msgstr "Már védi további jelszó"
+
+#~ msgid "Click to disable PGP encryption"
+#~ msgstr "Kattintson a PGP-titkosítás kikapcsolásához"
+
+#~ msgid "Done"
+#~ msgstr "Kész"
+
+#~ msgid "Drop here to upload a <b class=\"dndignore\">new encrypted file</b>"
+#~ msgstr ""
+#~ "Húzza ide a feltöltendő <b class='dndignore'>új titkosított fájlt</b>"
+
+#~ msgid "Encrypting "
+#~ msgstr "Titkosítás "
+
+#~ msgid "Encrypting %s"
+#~ msgstr "%s titkosítása"
+
+#~ msgid "FW: %1$s"
+#~ msgstr "Tov: %1$s"
+
+#~ msgid "Failed to encrypt file"
+#~ msgstr "A fájl titkosítása meghiúsult"
+
+#~ msgid "Folder name"
+#~ msgstr "Mappa neve"
+
+#~ msgid "New Encrypted folder"
+#~ msgstr "Új titkosított mappa"
+
+#~ msgid "New Encrypted subfolder"
+#~ msgstr "Új titkosított almappa"
+
+#~ msgid "New encrypted subfolder"
+#~ msgstr "Új titkosított almappa"
+
+#~ msgid "New folder"
+#~ msgstr "Új mappa"
+
+#~ msgid "New public folder"
+#~ msgstr "Új nyilvános mappa"
+
+#~ msgid ""
+#~ "One of your recipients requires emails to be sent as PGP Inline.  "
+#~ "Changing now."
+#~ msgstr ""
+#~ "Az egyik címzett miatt beágyazott PGP-t kell használni. Módosítás most."
+
+#~ msgid "PGP key exists for this person"
+#~ msgstr "A személynek van PGP-kulcsa"
+
+#~ msgid "Require Additional Password"
+#~ msgstr "További jelszó kérése"
+
+#~ msgid "Security Options"
+#~ msgstr "Biztonsági beállítások"
+
+#~ msgid "Send encrypted (PGP)"
+#~ msgstr "Küldés titkosít (PGP)"
+
+#~ msgid "Share keys with other users to decrypt this file"
+#~ msgstr ""
+#~ "Ossza meg a kulcsokat más felhasználókkal, hogy visszafejthessék a fájlt"
+
+#~ msgid "Share link"
+#~ msgstr "Hivatkozás megosztása"
+
+#~ msgid "Sharing"
+#~ msgstr "Megosztás"
+
+#~ msgid "Sign email"
+#~ msgstr "E-mail aláírása"
+
+#~ msgid "Status"
+#~ msgstr "Állapot"
+
+#~ msgid "Stop"
+#~ msgstr "Leállítás"
+
+#~ msgid "The key for %1$s is expired and should not be used"
+#~ msgstr "A(z) %1$s kulcs lejárt és már nem kellene használni"
+
+#~ msgid "Unable to create Guard account, please try again later"
+#~ msgstr "Nem hozható létre Guard fiók, próbálja újra később"
+
+#~ msgid "Upload new files to encrypt"
+#~ msgstr "Új fájlok feltöltése titkosításra"
+
+#~ msgid "Use PGP inline (compatibility)"
+#~ msgstr "PGP beágyazás használata (kompatibilitás)"
+
+#~ msgid "%s hours"
+#~ msgstr "%s óra"
+
+#~ msgid "%s week"
+#~ msgstr "%s hét"
+
+#~ msgid "%s weeks"
+#~ msgstr "%s hét"
+
+#~ msgid "Added keys:"
+#~ msgstr "Hozzáadott kulcsok:"
+
+#~ msgid "CC:"
+#~ msgstr "Másolat:"
+
+#~ msgid "Click to disable Guard"
+#~ msgstr "Kattintson a Guard kikapcsolásához"
+
+#~ msgid "Click to enable Guard"
+#~ msgstr "Kattintson a Guard bekapcsolásához"
+
+#~ msgid "Confirm Guard Password"
+#~ msgstr "Guard jelszó megerősítése"
+
+#~ msgid "Create Guard Account"
+#~ msgstr "Guard fiók létrehozása"
+
+#~ msgid "Date:"
+#~ msgstr "Dátum:"
+
+#~ msgid "Decode"
+#~ msgstr "Dekódolás"
+
+#~ msgid "Default signing outgoing PGP mails"
+#~ msgstr "Kimenő e-mailek aláírása PGP-vel alapértelmezésben"
+
+#~ msgid "Defaults"
+#~ msgstr "Alapértékek"
+
+#~ msgid "Download (OG)"
+#~ msgstr "Letöltés (OG)"
+
+#~ msgid "Enable Guard"
+#~ msgstr "Guard bekapcsolása"
+
+#~ msgid "Encrypted email has been sent successfully."
+#~ msgstr "A titkosított e-mail sikeresen elküldve."
+
+#~ msgid "Encrypting"
+#~ msgstr "Titkosítás"
+
+#~ msgid "From:"
+#~ msgstr "Feladó:"
+
+#~ msgid "Fwd:"
+#~ msgstr "Fwd:"
+
+#~ msgid "IDs:"
+#~ msgstr "Azonosítók:"
+
+#~ msgid "Initializing Guard, please wait"
+#~ msgstr "A Guard előkészítése, kis türelmet"
+
+#~ msgid "Inline"
+#~ msgstr "Beágyazott"
+
+#~ msgid "Make Guard default to PGP compliant"
+#~ msgstr "A Guard legyen alapértelmezetten PGP-nek megfelelő"
+
+#~ msgid "Never"
+#~ msgstr "Soha"
+
+#~ msgid "No recipients"
+#~ msgstr "Nincsenek címzettek"
+
+#~ msgid "None"
+#~ msgstr "Nincs"
+
+#~ msgid "Not able to contact guard server"
+#~ msgstr "Nem lehet kapcsolódni a Guard kiszolgálóhoz"
+
+#~ msgid "On"
+#~ msgstr "Ekkor"
+
+#~ msgid "Open"
+#~ msgstr "Megnyitás"
+
+#~ msgid "Open Decoded"
+#~ msgstr "Megnyitás dekódolva"
+
+#~ msgid "PGP Compliant Guard"
+#~ msgstr "PGP-nek megfelelő Guard"
+
+#~ msgid "PGP default to PGP inline for compatibility"
+#~ msgstr ""
+#~ "Beágyazott PGP használata alapértelmezésben, a kompatibilitás érdekében"
+
+#~ msgid "Please enter a password to protect your Guard account"
+#~ msgstr "Írjon be egy jelszót a Guard fiókja védelméhez"
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password.  A new password would be sent to this email."
+#~ msgstr ""
+#~ "Írjon be egy másodlagos e-mail címet, arra az esetre, ha vissza kellene "
+#~ "állítania jelszavát. Az új jelszó erre az e-mail címre kerül elküldésre."
+
+#~ msgid "Please select the file location of your private key."
+#~ msgstr "Válassza ki személyes kulcsának helyét."
+
+#~ msgid "Private Key Password"
+#~ msgstr "Személyes kulcs jelszava"
+
+#~ msgid "Problem uploading Private Key"
+#~ msgstr "Hiba a személyes kulcs feltöltésekor"
+
+#~ msgid "Public Key List"
+#~ msgstr "Nyilvános kulcsok listája"
+
+#~ msgid "Recipient has Guard"
+#~ msgstr "A címzett Guardot használ"
+
+#~ msgid "Retract in"
+#~ msgstr "Visszavonás:"
+
+#~ msgid "Save Decoded"
+#~ msgstr "Mentés dekódolva"
+
+#~ msgid "Shared"
+#~ msgstr "Megosztott"
+
+#~ msgid "Sign PGP"
+#~ msgstr "PGP aláírás"
+
+#~ msgid "Subject:"
+#~ msgstr "Tárgy:"
+
+#~ msgid ""
+#~ "The key will be used locally only.  It will not be sent to the server."
+#~ msgstr ""
+#~ "A kulcs csak helyileg lesz felhasználva, nem kerül elküldésre a "
+#~ "kiszolgálónak."
+
+#~ msgid "This appears to be the first time you have used Guard"
+#~ msgstr "Úgy tűnik, először használja a Guardot"
+
+#~ msgid "To:"
+#~ msgstr "Címzett:"
+
+#~ msgid "Unable to get key for encryption"
+#~ msgstr "Nem kérhető le a titkosítási kulcs"
+
+#~ msgid "Unable to load"
+#~ msgstr "Nem tölthető be"
+
+#~ msgid "Use Guard when composing a new email"
+#~ msgstr "A Guard használata új e-mail szerkesztéséhez"
+
+#~ msgid "Using a guest account for email"
+#~ msgstr "Vendég fiók használata e-mailhez"
+
+#~ msgid "Your private key"
+#~ msgstr "Az Ön személyes kulcsa"
+
+#~ msgid "Your public key"
+#~ msgstr "Az Ön nyilvános kulcsa"
+
+#~ msgid "popup blocked"
+#~ msgstr "felugró ablak letiltva"

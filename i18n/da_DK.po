@@ -1,0 +1,2620 @@
+# Jacob Sparre Andersen <jacob@jacob-sparre.dk>, 2014, 2015, 2016, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: open-xchange-guard-ui\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2018-01-12 09:03-0500\n"
+"Last-Translator: Greg Hill <greg.hill@open-xchange.com>\n"
+"Language-Team: Danish <kde-i18n-doc@kde.org>\n"
+"Language: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.10\n"
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "Toggle Encryption"
+msgstr ""
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "Not Supported"
+msgstr "Understøttes ikke"
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "%s is not supported with secured email and will be disabled."
+msgstr "%s er ikke understøttet med sikker e-mail og vil blive slået fra."
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "OK"
+msgstr "Ok"
+
+#. %s product Name
+#: apps/mailvelope/settings.js module:oxguard
+msgid "Mailvelope"
+msgstr "Mailvelope"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Mailvelope Not Supported"
+msgstr "Mailvelope understøttes ikke"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid ""
+"Mailvelope is only supported in Google Chrome or Mozilla Firefox.  Please "
+"use one of these broswers to set up encryption."
+msgstr ""
+"Mailvelope virker kun i Google Chrome og Mozilla Firefox.  Brug venligst en "
+"af disse browsere for at sætte kryptering op."
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Encrypted communication"
+msgstr "Krypteret kommunikation"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Download browser plugin"
+msgstr "Hent browser-plugin"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Generate"
+msgstr "Generér"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Congratulations! You have successfully set up encryption."
+msgstr "Tillykke!  Du har nu sat kryptering op."
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Prepare"
+msgstr "Forbered"
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Password"
+msgstr "Adgangskode"
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Three steps to setup encrypted communication:"
+msgstr "Tre trin for at sætte krypteret kommunikation op:"
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Download browser plugin “Mailvelope”"
+msgstr "Hent browser-plugin'et »Mailvelope«"
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Create encryption keys for secure communication"
+msgstr "Lav krypteringsnøgler til sikker kommunikation."
+
+#~ msgid "Mailvelope Advanced"
+#~ msgstr "Avanceret Mailvelope"
+
+#~ msgid "Error"
+#~ msgstr "Fejl"
+
+#~ msgid ""
+#~ "Backup your Mailvelope private keys to the server.  The keys will be "
+#~ "encrypted requiring a security code for restore"
+#~ msgstr ""
+#~ "Sikkerhedskopiér dine private Mailvelope-nøgler til serveren.  Nøglerne "
+#~ "vil blive krypteret og kræve en sikkerhedskode for at kunne gendannes."
+
+#~ msgid "Backup"
+#~ msgstr "Sikkerhedskopiér"
+
+#~ msgid "Discard previously saved private keys."
+#~ msgstr "Kassér tidligere gemte private nøgler."
+
+#~ msgid "Discard backup"
+#~ msgstr "Kassér sikkerhedskopi"
+
+#~ msgid "Restore previously saved private keys."
+#~ msgstr "Gendan tidligere gemte private nøgler."
+
+#~ msgid "Restore"
+#~ msgstr "Gendan"
+
+#~ msgid ""
+#~ "Upload your Mailvelope public keys to the %s server so that other people "
+#~ "can send you encrypted emails."
+#~ msgstr ""
+#~ "Overfør dine offentlige Mailvelope-nøgler til %s-serveren, så andre kan "
+#~ "sende dig krypterede e-mails."
+
+#~ msgid "Upload Public Key"
+#~ msgstr "Overfør offentlig nøgle"
+
+#~ msgid "Backup and Recovery"
+#~ msgstr "Sikkerhedskopiering og gendannelse"
+
+#~ msgid "No backup data available"
+#~ msgstr "Ingen sikkerhedskopieringsdata til rådighed"
+
+#~ msgid ""
+#~ "You can now backup your keys. Please store the provided password secure. "
+#~ "It is also possible to skip this step and do the backup later. You can "
+#~ "find it in the settings."
+#~ msgstr ""
+#~ "Du kan nu sikkerhedskopiere dine nøgler.  Gem venligst den givne "
+#~ "adgangskode sikkert.  Det er også muligt at springe dette trin over og "
+#~ "sikkerhedskopiere senere.  Du kan finde det i indstillingerne."
+
+#~ msgid "Skip without backup"
+#~ msgstr "Spring over uden sikkerhedskopiering"
+
+#~ msgid "Recommended: Setup key backup"
+#~ msgstr "Anbefalet: Sæt sikkerhedskopiering af nøgler op."
+
+#~ msgid "Enter %s security password"
+#~ msgstr "Indtast »%s«-krypteringsadgangskode"
+
+#~ msgid "Bad password"
+#~ msgstr "Forkert adgangskode"
+
+#~ msgid "Account Locked out"
+#~ msgstr "Konto låst ude"
+
+#~ msgid "Unspecified error"
+#~ msgstr "Uspecificeret fejl"
+
+#~ msgid "Problems creating keys, please try again later."
+#~ msgstr "Problemer med at oprette nøgler, prøv venligst igen senere."
+
+#~ msgid ""
+#~ "Problems creating keys.  Keys already exist for this email address in "
+#~ "another account."
+#~ msgstr ""
+#~ "Problemer med at danne nøgler.  Denne e-mail-adresse har allerede nøgler "
+#~ "under en anden konto."
+
+#~ msgid "Passwords must be at least %s characters in length"
+#~ msgstr "Adgangskoder skal mindst være %s tegn lange"
+
+#~ msgid "Passwords not equal"
+#~ msgstr "Adgangskoderne matcher ikke"
+
+#~ msgid "Enter new secondary Email address"
+#~ msgstr "Indtast ny sekundær e-mail-adresse"
+
+#~ msgid "Generating key, Please wait"
+#~ msgstr "Opretter nøgle, vent venligst"
+
+#~ msgid ""
+#~ "Please choose the password you will use for %s. You will need to type "
+#~ "this password whenever you want to encrypt or decrypt items. Remember it "
+#~ "should be different from your login password, and will not change if you "
+#~ "change your login password."
+#~ msgstr ""
+#~ "Vælg venligst den adgangskode du vil bruge til %s.  Du vil skulle "
+#~ "indtaste denne adgangskode hver gang du vil kryptere eller dekryptere "
+#~ "noget.  Husk at den bør være forskelligt fra din indlogningsadgangskode, "
+#~ "og at den ikke bliver ændret, hvis du ændrer din indlogningsadgangskode."
+
+#~ msgid "Please enter a password to protect your new encrypted items."
+#~ msgstr ""
+#~ "Indtast venligst et kodeord til at beskytte dine nye krypterede elementer."
+
+#~ msgid "Confirm"
+#~ msgstr "Bekræft"
+
+#~ msgid ""
+#~ "Warning: This password for encryption cannot be restored or recovered in "
+#~ "any way.  If forgotten, all encrypted data will be lost"
+#~ msgstr ""
+#~ "Advarsel: Denne krypteringsadgangskode kan ikke på nogen måde gendannes.  "
+#~ "Hvis du glemmer den, vil alle krypterede data være tabt."
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password."
+#~ msgstr ""
+#~ "Indtast venligst en sekundær e-mail-adresse for det tilfælde, at du får "
+#~ "brug for at nulstille din adgangskode."
+
+#~ msgid "Email:"
+#~ msgstr "E-mail:"
+
+#~ msgid "Create %s Security Keys"
+#~ msgstr "Opret »%s«-krypteringsnøgler"
+
+#~ msgid "Cancel"
+#~ msgstr "Afbryd"
+
+#~ msgid "Not valid email"
+#~ msgstr "Ikke en gyldig e-mail-adresse"
+
+#~ msgid "Emails not equal"
+#~ msgstr "E-mails er ikke ens"
+
+#~ msgid "Too short"
+#~ msgstr "For kort"
+
+#~ msgid "Strong"
+#~ msgstr "Stærk"
+
+#~ msgid "Weak"
+#~ msgstr "Svag"
+
+#~ msgid "First %s Security Use"
+#~ msgstr "Første brug af %s Security"
+
+#~ msgid "You have been sent an email using %s to secure the contents"
+#~ msgstr ""
+#~ "Du har modtaget en e-mail, hvor der er brugt %s til at beskytte indholdet."
+
+#~ msgid ""
+#~ "Please select a new password for use with %s.  This password will be used "
+#~ "to open encrypted emails and files that may be sent to you."
+#~ msgstr ""
+#~ "Vælg venligst en ny adgangskode til brug med %s.  Denne adgangskode vil "
+#~ "blive brugt til at åbne krypterede e-mails og filer der bliver sendt til "
+#~ "dig."
+
+#~ msgid "First %s Security Password Use"
+#~ msgstr "Første brug af »%s«-krypteringsadgangskode"
+
+#~ msgid ""
+#~ "Please change the initial temporary %s security password that was sent to "
+#~ "you in a separate email."
+#~ msgstr ""
+#~ "Vær venlig at ændre den midlertidige »%1«-krypteringsadgangskode, som "
+#~ "blev sendt til dig i en separat e-mail."
+
+#~ msgid "Initial Password"
+#~ msgstr "Indledende adgangskode"
+
+#~ msgid "New Password"
+#~ msgstr "Ny adgangskode"
+
+#~ msgid "Confirm New"
+#~ msgstr "Bekræft nyt"
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password.</p>"
+#~ msgstr ""
+#~ "Indtast venligst en sekundær e-mail-adresse for det tilfælde, at du får "
+#~ "brug for at nulstille din adgangskode.</p>"
+
+#~ msgid "Verify:"
+#~ msgstr "Verificér:"
+
+#~ msgid ""
+#~ "Warning: This password for encryption cannot be restored or recovered in "
+#~ "any way.  If forgotten, all encrypted data will be lost."
+#~ msgstr ""
+#~ "Advarsel: Denne krypteringsadgangskode kan ikke på nogen måde gendannes.  "
+#~ "Hvis du glemmer den, vil alle krypterede data være tabt."
+
+#~ msgid "Success"
+#~ msgstr "Succes"
+
+#~ msgid "Password changed successfully"
+#~ msgstr "Adgangskode ændret"
+
+#~ msgid "New password must be at least %s characters long"
+#~ msgstr "Ny adgangskode skal mindst være %s tegn lang"
+
+#~ msgid "Encryption key not found"
+#~ msgstr "Krypteringsnøgle ikke fundet"
+
+#~ msgid "Failed to change password"
+#~ msgstr "Kunne ikke ændre adgangskode"
+
+#~ msgid "Download decrypted"
+#~ msgstr "Hent afkodet"
+
+#~ msgid "Add and encrypt local file"
+#~ msgstr "Tilføj og kryptér lokal fil"
+
+#~ msgid "Remove encryption"
+#~ msgstr "Fjern kryptering"
+
+#~ msgid "Encrypt"
+#~ msgstr "Kryptér"
+
+#~ msgid "Send by mail"
+#~ msgstr "Send med e-mail"
+
+#~ msgid "Download encrypted"
+#~ msgstr "Hent krypteret"
+
+#~ msgid "Pop out"
+#~ msgstr "Hop ud"
+
+#~ msgid "Pop out standalone viewer"
+#~ msgstr "Hop ud selvstændig fremviser"
+
+#~ msgid "Decrypt and open"
+#~ msgstr "Afkod og åbn"
+
+#~ msgid "Drop files here to encrypt"
+#~ msgstr "Slip filer her for at kryptere dem"
+
+#~ msgid "Recipient Options"
+#~ msgstr "Indstillinger for modtagere"
+
+#~ msgid ""
+#~ "At least one of your recipients uses a different webmail system.  They "
+#~ "will receive an email with a link for them to read this message.  If you "
+#~ "like, you can add a personalized message that will appear at the top of "
+#~ "this message.  This will help identify the message as coming from you."
+#~ msgstr ""
+#~ "Mindst én af dine modtagere bruger et andet web-mail system. De vil "
+#~ "modtage et link, hvor de kan læse denne besked. Hvis du ønsker det, kan "
+#~ "du tilføje en personlig besked, som vil være i toppen af denne besked. "
+#~ "Det vil hjælpe med at bekræfte, at beskeden kommer fra dig."
+
+#~ msgid "Message:"
+#~ msgstr "Besked:"
+
+#~ msgid "Language for recipient Email"
+#~ msgstr "E-mail-modtagers sprog"
+
+#~ msgid "Note: Emails sent to mailing lists or groups will not work."
+#~ msgstr ""
+#~ "Bemærk: E-mails sendt til e-mail-lister eller grupper vil ikke virke."
+
+#~ msgid ""
+#~ "Mailing list / blocked email found.  Encrypted emails to this email will "
+#~ "fail.  %s"
+#~ msgstr ""
+#~ "E-mail-liste/blokeret e-mail-adresse fundet.  Krypteret e-mail til denne "
+#~ "e-mail-adresse vil fejle.  %s"
+
+#~ msgid ""
+#~ "The key for %s has expired.  You will not be able to send an encrypted "
+#~ "email to this recipient."
+#~ msgstr ""
+#~ "%s's nøgle er udløbet.  Du kan ikke sende krypteret e-mail til denne "
+#~ "modtager."
+
+#~ msgid "HTML Formatted Email"
+#~ msgstr "HTML-formateret e-mail"
+
+#~ msgid ""
+#~ "HTML formatted emails may cause issues with PGP inline.  Click OK to "
+#~ "change to Plain Text formatted Emails."
+#~ msgstr ""
+#~ "HTML-formaterede e-mails kan give problemer med PGP-inline.  Klik OK for "
+#~ "at skifte til e-mails i ren tekst."
+
+#~ msgid "HTML format is not recommended when using PGP Inline"
+#~ msgstr "HTML-formattering er ikke anbefalet, når man bruger PGP-Inline"
+
+#~ msgid "Recipients cannot be added to this encrypted reply"
+#~ msgstr "Modtagere kan ikke føjes til dette krypterede svar"
+
+#~ msgid "Reply must be encrypted"
+#~ msgstr "Svar skal være krypteret"
+
+#~ msgid "Unable to attach your public key"
+#~ msgstr "Kan ikke vedhæfte din offentlige nøgle."
+
+#~ msgid "Will create new guest account for %s"
+#~ msgstr "Vil oprette ny gæstekonto til %s"
+
+#~ msgid "Encryption Key Known"
+#~ msgstr "Kender krypteringsnøgle"
+
+#~ msgid "Send"
+#~ msgstr "Send"
+
+#~ msgid "Send Encrypted"
+#~ msgstr "Send krypteret"
+
+#~ msgid "Send Secure"
+#~ msgstr "Send sikker"
+
+#~ msgid "Loaded"
+#~ msgstr "Indlæst"
+
+#~ msgid "Secure Email, enter your %s security password."
+#~ msgstr "Sikker e-mail, indtast din »%s«-krypteringsadgangskode."
+
+#~ msgid "Keep me logged into %s"
+#~ msgstr "Forbliv logget ind i %s"
+
+#~ msgid "10 minutes"
+#~ msgstr "10 minutter"
+
+#~ msgid "20 minutes"
+#~ msgstr "20 minutter"
+
+#~ msgid "30 minutes"
+#~ msgstr "30 minutter"
+
+#~ msgid "1 hour"
+#~ msgstr "1 time"
+
+#~ msgid "2 hours"
+#~ msgstr "2 timer"
+
+#~ msgid "Session"
+#~ msgstr "Session"
+
+#~ msgid "Select Key Location"
+#~ msgstr "Vælg nøglens placering"
+
+#~ msgid "Temporary Lockout"
+#~ msgstr "Midlertidigt udelukket"
+
+#~ msgid "Security PIN"
+#~ msgstr "Sikkerheds-PIN"
+
+#~ msgid "Recipients:"
+#~ msgstr "Modtagere:"
+
+#~ msgid ""
+#~ "The new recipients listed below will be sent a password via email.  You "
+#~ "can also require a separate pin, which is displayed below."
+#~ msgstr ""
+#~ "De nye modtagere på listen nedenfor vil modtage en adgangskode per e-"
+#~ "mail.  Du kan også kræve en separat PIN-kode, vist nedenfor."
+
+#~ msgid ""
+#~ "You may deliver this pin any way you see fit, but we recommend doing it "
+#~ "in a second method other than email (Phone, SMS, Skype, etc)."
+#~ msgstr ""
+#~ "Du kan give folk PIN-koden præcist som det passer dig, men vi anbefaler "
+#~ "dig at bruge en anden metode end e-mail (for eksempel telefon, SMS, Skype "
+#~ "eller lignende)."
+
+#~ msgid "If you want this extra pin requirement, click OK."
+#~ msgstr "Hvis du vil kræve PIN-kode, klik »O.k.«."
+
+#~ msgid "Skip"
+#~ msgstr "Spring over"
+
+#~ msgid "Unable to get key"
+#~ msgstr "Kunne ikke få nøgle"
+
+#~ msgid "Please enter your %s password to sign this email."
+#~ msgstr ""
+#~ "Indtast venligst din »%s«-adgangskode for at underskrive denne e-mail."
+
+#~ msgid ""
+#~ "There appears to be an encrypted attachment.  Please enter your %s "
+#~ "password to decode the attachment for sending."
+#~ msgstr ""
+#~ "Der ser ud til at være vedhæftet en krypteret fil.  Indtast venligst din "
+#~ "»%s«-adgangskode for at afkode vedhæftningen før afsendelse."
+
+#~ msgid "Please re-enter your %s password before sending."
+#~ msgstr "Genindtast venligst din »%s«-adgangskode før afsendelse."
+
+#~ msgid "Please re-enter your %s password before saving."
+#~ msgstr "Genindtast venligst din »%s«-adgangskode før der gemmes."
+
+#~ msgid "Please re-enter your %s password."
+#~ msgstr "Genindtast venligst din »%s«-adgangskode."
+
+#~ msgid "Security"
+#~ msgstr "Sikkerhed"
+
+#~ msgid "PGP"
+#~ msgstr "PGP"
+
+#~ msgid "Secure"
+#~ msgstr "Sikker"
+
+#~ msgid "Sign"
+#~ msgstr "Underskriv"
+
+#~ msgid "Format"
+#~ msgstr "Format"
+
+#~ msgid "PGP Mime"
+#~ msgstr "PGP Mime"
+
+#~ msgid "PGP Inline"
+#~ msgstr "PGP-Inline"
+
+#~ msgid "Keys"
+#~ msgstr "Nøgler"
+
+#~ msgid "Attach my key"
+#~ msgstr "Vedhæft min nøgle"
+
+#~ msgid "Unable to find keys for all recipients."
+#~ msgstr "Kan ikke finde alle modtagernes nøgler."
+
+#~ msgid "Unable to connect to the encryption server."
+#~ msgstr "Kan ikke finde til krypteringsserveren."
+
+#~ msgid "Unable to find the item on the server"
+#~ msgstr "Kan ikke finde elementet på serveren"
+
+#~ msgid "Unable to get the key for that item"
+#~ msgstr "Kan ikke få nøglen til det element"
+
+#~ msgid "Unable to retrieve your user keys to decode"
+#~ msgstr "Kan ikke hente dine brugernøgler for at afkode"
+
+#~ msgid "Bad extra password"
+#~ msgstr "Forkert ekstra adgangskode"
+
+#~ msgid "No private key to decode this message"
+#~ msgstr "Ingen privat nøgle til at afkode denne besked"
+
+#~ msgid "Unable to decrypt Email, incorrect password."
+#~ msgstr "Kan ikke afkode e-mail, forkert adgangskode."
+
+#~ msgid "To reset or recover your password, click %s"
+#~ msgstr "For et nulstille eller generhverve din adgangskode, klik %s"
+
+#~ msgid "Settings"
+#~ msgstr "Indstillinger"
+
+#~ msgid "No Private Key available for this encrypted item."
+#~ msgstr ""
+#~ "Du har ikke en privat nøgle der passer til dette krypterede element."
+
+#~ msgid "Key Ids:"
+#~ msgstr "Nøgle-id'er:"
+
+#~ msgid "Your account is locked out for %s minutes"
+#~ msgstr "Din konto er låst de næste %s minutter"
+
+#~ msgid "Server Error: "
+#~ msgstr "Serverfejl: "
+
+#~ msgid "Password needed"
+#~ msgstr "Adgangskode nødvendig"
+
+#~ msgid "Please enter your %s password"
+#~ msgstr "Indtast venligst din »%s«-adgangskode"
+
+#~ msgid "Remember my password"
+#~ msgstr "Husk min adgangskode"
+
+#~ msgid "Account locked out due to bad attempts.  Please try again later."
+#~ msgstr ""
+#~ "Udelukket fra konto på grund af mislykkede forsøg.  Prøv venligst igen "
+#~ "senere."
+
+#~ msgid "Error checking password"
+#~ msgstr "Fejl ved tjek af adgangskode"
+
+#~ msgid "Delete Public Key"
+#~ msgstr "Slet offentlig nøgle"
+
+#~ msgid "Click OK to confirm"
+#~ msgstr "Klik Ok for at bekræfte"
+
+#~ msgid "Email"
+#~ msgstr "E-mail"
+
+#~ msgid "Key Ids"
+#~ msgstr "Nøgle-id'er"
+
+#~ msgid "Details"
+#~ msgstr "Detaljer"
+
+#~ msgid "Delete"
+#~ msgstr "Slet"
+
+#~ msgid "No Keys Found"
+#~ msgstr "Ingen nøgler fundet"
+
+#~ msgid "Key Details"
+#~ msgstr "Nøgledetaljer"
+
+#~ msgid "Share Keys"
+#~ msgstr "Del nøgler"
+
+#~ msgid "Use PGP Inline"
+#~ msgstr "Brug PGP-Inline"
+
+#~ msgid "Signatures"
+#~ msgstr "Underskrifter"
+
+#~ msgid "Expired"
+#~ msgstr "Udløbet"
+
+#~ msgid "Revoked"
+#~ msgstr "Trukket tilbage"
+
+#~ msgid "Fingerprint:"
+#~ msgstr "Fingeraftryk:"
+
+#~ msgid "Created:"
+#~ msgstr "Oprettet:"
+
+#~ msgid "Master:"
+#~ msgstr "Overordnet:"
+
+#~ msgid "True"
+#~ msgstr "Sand"
+
+#~ msgid "False"
+#~ msgstr "Falsk"
+
+#~ msgid "Encryption:"
+#~ msgstr "Kryptering:"
+
+#~ msgid "IDs: "
+#~ msgstr "ID'er: "
+
+#~ msgid "Expires in %1$s days"
+#~ msgstr "Udløber om %1$s dage"
+
+#~ msgid "Problem getting signatures"
+#~ msgstr "Problem med at få underskrifter"
+
+#~ msgid "Positive"
+#~ msgstr "Positivt"
+
+#~ msgid "Failed check"
+#~ msgstr "Tjek mislykket"
+
+#~ msgid "Missing public"
+#~ msgstr "Offentlig mangler"
+
+#~ msgid "Casual"
+#~ msgstr "Afslappet"
+
+#~ msgid "Revocation"
+#~ msgstr "Tilbagetrækning"
+
+#~ msgid "Direct cert"
+#~ msgstr "Verificeret direkte"
+
+#~ msgid "Default Certification"
+#~ msgstr "Standardverificering"
+
+#~ msgid "No signatures"
+#~ msgstr "Ingen underskrifter"
+
+#~ msgid "ID Signed"
+#~ msgstr "Id underskrevet"
+
+#~ msgid "Certification"
+#~ msgstr "Certificering"
+
+#~ msgid "Signed by"
+#~ msgstr "Underskrevet af"
+
+#~ msgid "Image"
+#~ msgstr "Billede"
+
+#~ msgid "Key Signatures"
+#~ msgstr "Nøgleunderskrifter"
+
+#~ msgid "PGP Public Key List"
+#~ msgstr "Liste med offentlige PGP-nøgler"
+
+#~ msgid "This Email was encrypted with PGP."
+#~ msgstr "Denne e-mail er krypteret med PGP."
+
+#~ msgid "This Email was signed and verified."
+#~ msgstr "Denne e-mail blev signeret af afsenderen, og er verificeret."
+
+#~ msgid "This Email was signed and failed verification."
+#~ msgstr ""
+#~ "Denne e-mail blev signeret af afsenderen, men fejlede i verificeringen."
+
+#~ msgid "This Email was signed but unable to verify."
+#~ msgstr "Denne e-mail blev signeret af afsenderen, men kan ikke verificeres."
+
+#~ msgid ""
+#~ "This Email was sent using PGP encryption. It has been decrypted with your "
+#~ "private key"
+#~ msgstr ""
+#~ "Denne e-mail blev sendt med PGP-kryptering. Den er blevet afkodet med din "
+#~ "private nøgle"
+
+#~ msgid "This Email was signed by the sender and verified."
+#~ msgstr "Denne e-mail blev signeret af afsenderen, og er verificeret."
+
+#~ msgid "PGP Public Key Found.  Click to Import"
+#~ msgstr "Offentlig PGP-nøgle fundet.  Klik for at importere."
+
+#~ msgid "Save encrypted to %1$s"
+#~ msgstr "Gem krypteret på %1$s"
+
+#~ msgctxt "app"
+#~ msgid "Drive"
+#~ msgstr "Drive"
+
+#~ msgid "Check assigned PIN"
+#~ msgstr "Tjek tildelt PIN"
+
+#~ msgid "PIN"
+#~ msgstr "PIN-kode"
+
+#~ msgid "Added keys: \r\n"
+#~ msgstr "Tilføjede nøgler: \r\n"
+
+#~ msgid "Key ID: "
+#~ msgstr "Nøgle-id: "
+
+#~ msgid "Service Unavailable"
+#~ msgstr "Service utilgængelig"
+
+#~ msgid "Advanced Settings"
+#~ msgstr "Avancerede indstillinger"
+
+#~ msgid "Download PGP Public Key"
+#~ msgstr "Hent offentlig PGP-nøgle"
+
+#~ msgid "Email your PGP Public Key"
+#~ msgstr "Send din offentlige PGP-nøgle per e-mail"
+
+#~ msgid "Your Keys"
+#~ msgstr "Dine nøgler"
+
+#~ msgid "Your Key List"
+#~ msgstr "Din nøgleliste"
+
+#~ msgid "Key ID"
+#~ msgstr "Nøgle-id"
+
+#~ msgid "Private Key"
+#~ msgstr "Privat nøgle"
+
+#~ msgid "Current"
+#~ msgstr "Aktuel"
+
+#~ msgid "Download"
+#~ msgstr "Hent"
+
+#~ msgid "Edit"
+#~ msgstr "Redigér"
+
+#~ msgid "Adding Keys"
+#~ msgstr "Tilføjer nøgler"
+
+#~ msgid "If you already have a private key, you can upload it here."
+#~ msgstr "Hvis du allerede har en privat nøgle, kan du overføre den her."
+
+#~ msgid "Upload Private Key"
+#~ msgstr "Overfør privat nøgle"
+
+#~ msgid "Finally, you can have a new PGP Key Pair created for your account."
+#~ msgstr "Endelig kan du få lavet et nyt PGP-nøglepar til din kontor."
+
+#~ msgid "Create New Keys"
+#~ msgstr "Lav nye nøgler"
+
+#~ msgid "Adding UserID"
+#~ msgstr "Tilføjer UserID"
+
+#~ msgid "Add a name and email address to this public key."
+#~ msgstr "Føj navn og e-mail-adresse til denne offentlige nøgle."
+
+#~ msgid "Name"
+#~ msgstr "Navn"
+
+#~ msgid "Please enter your key password"
+#~ msgstr "Indtast venligst din nøgleadgangskode"
+
+#~ msgid "Invalid Email Address"
+#~ msgstr "Ugyldig e-mail-adresse"
+
+#~ msgid "Invalid Name"
+#~ msgstr "Ugyldigt navn"
+
+#~ msgid "Enter password"
+#~ msgstr "Indtast adgangskode"
+
+#~ msgid "User ID added"
+#~ msgstr "Bruger-id tilføjet"
+
+#~ msgid "Failed to add UserID"
+#~ msgstr "Kunne ikke tilføje UserID"
+
+#~ msgid "Revoke Private Key"
+#~ msgstr "Træk privat nøgle tilbage"
+
+#~ msgid ""
+#~ "Revoke the key: This advises others that you no longer want this key "
+#~ "used.  You can continue to decode any encrypted data using the key."
+#~ msgstr ""
+#~ "Træk nøglen tilbage: Dette vil gøre andre opmærksomme på at du ikke "
+#~ "længere ønsker at denne nøgle bliver brugt.  Du kan fortsat afkode data "
+#~ "krypteret med nøglen."
+
+#~ msgid "Delete Private Key"
+#~ msgstr "Slet privat nøgle"
+
+#~ msgid "There are two options if you no longer want to use this key"
+#~ msgstr "Der er to muligheder, hvis du ikke længere vil bruge denne nøgle"
+
+#~ msgid ""
+#~ "Revoke the key: This advises others that you no longer want this key "
+#~ "used.  You can continue to decode any encrypted data using the key. "
+#~ "(Recommended)"
+#~ msgstr ""
+#~ "Træk nøglen tilbage: Dette vil gøre andre opmærksomme på at du ikke "
+#~ "længere ønsker at denne nøgle bliver brugt.  Du kan fortsat afkode data "
+#~ "krypteret med nøglen.  (Anbefalet)"
+
+#~ msgid ""
+#~ "Deleting the key: Deleting the private key will render all encrypted "
+#~ "items unreadable.  You will not be able to decode emails or files that "
+#~ "were enrypted with this key.  This cannot be undone."
+#~ msgstr ""
+#~ "Sletter nøglen: Det at slette den private nøgle vil gøre alle krypterede "
+#~ "data ulæselige.  Du vil ikke kunne afkode e-mails eller filer der blev "
+#~ "krypteret med denne nøgle.  Dette kan ikke fortrydes."
+
+#~ msgid "Revoke"
+#~ msgstr "Træk tilbage"
+
+#~ msgid ""
+#~ "You will no longer be able to decode any items that were encrypted with "
+#~ "this key!"
+#~ msgstr ""
+#~ "Du vil ikke længer kunne afkode data der blev krypteret med denne nøgle!"
+
+#~ msgid "Enter your password below to confirm and verify"
+#~ msgstr "Indtast venligst din adgangskode for at bekræfte og verificere"
+
+#~ msgid "Bad Password"
+#~ msgstr "Dårlig adgangskode"
+
+#~ msgid "Key Deleted"
+#~ msgstr "Nøgle slettet"
+
+#~ msgid "Failed to delete key"
+#~ msgstr "Kunne ikke slette nøgle"
+
+#~ msgid "Problem deleting key"
+#~ msgstr "Problemer med at slette nøgle"
+
+#~ msgid "Please verify you want to delete this key"
+#~ msgstr "Bekræft venligst at du vil slette denne nøgle"
+
+#~ msgid "Failed to delete"
+#~ msgstr "Kunne ikke slette"
+
+#~ msgid ""
+#~ "This will advise people not to use this key.  You can still use the key "
+#~ "to decode existing items."
+#~ msgstr ""
+#~ "Dette vil gøre andre opmærksomme på at du ikke længere ønsker at denne "
+#~ "nøgle bliver brugt.  Du kan fortsat afkode data krypteret med nøglen."
+
+#~ msgid "Reason"
+#~ msgstr "Begrundelse"
+
+#~ msgid "No Reason"
+#~ msgstr "Ingen begrundelse"
+
+#~ msgid "Key superseded"
+#~ msgstr "Nøgle udskiftet"
+
+#~ msgid "Key compromised"
+#~ msgstr "Nøgle kompromitteret"
+
+#~ msgid "Key retired"
+#~ msgstr "Nøgle trukket tilbage"
+
+#~ msgid "User no longer valid"
+#~ msgstr "Bruger ikke længere gyldig"
+
+#~ msgid "Key Revoked"
+#~ msgstr "Nøgle trukket tilbage"
+
+#~ msgid "Failed to revoke key"
+#~ msgstr "Kunne ikke trække nøgle tilbage"
+
+#~ msgid "Download Key"
+#~ msgstr "Hent nøgle"
+
+#~ msgid "Download your private key for use with other email programs"
+#~ msgstr "Hent din private nøgle for at bruge den med andre e-mail-programmer"
+
+#~ msgid "Do not distribute this key.  It is for your use only"
+#~ msgstr "Distribuér ikke denne nøgle.  Det er kun dig der må bruge den"
+
+#~ msgid "Download PGP Private Key"
+#~ msgstr "Hent privat PGP-nøgle"
+
+#~ msgid "Download Public and Private Key"
+#~ msgstr "Hent offentlig og privat nøgle"
+
+#~ msgid "Key ID:"
+#~ msgstr "Nøgle-id:"
+
+#~ msgid "Expires:"
+#~ msgstr "Udløber:"
+
+#~ msgid "Private Key: "
+#~ msgstr "Privat nøgle: "
+
+#~ msgid ""
+#~ "If you would like to upload a public key only, then do so here.  This "
+#~ "will allow you to encrypt files and receive encrypted emails using %s, "
+#~ "but you will need to use the private key with another program to decode "
+#~ "the items."
+#~ msgstr ""
+#~ "Hvis du ønsker kun at lægge en offentlig nøgle op, så gør det her.  Dette "
+#~ "vil lade dig kryptere filer og modtage krypterede e-mails med %s, men du "
+#~ "bliver nødt til at bruge den private nøgle med et andet program for at "
+#~ "afkode krypterede data."
+
+#~ msgid "Upload Public Key Only"
+#~ msgstr "Overfør kun offentlig nøgle"
+
+#~ msgid "PGP Public Key is attached"
+#~ msgstr "Offentlig PGP-nøgle vedhæftet"
+
+#~ msgid "Public Keys"
+#~ msgstr "Offentlige nøgler"
+
+#~ msgid "Failed to update settings"
+#~ msgstr "Kunne ikke opdatere indstillinger"
+
+#~ msgid "Email format"
+#~ msgstr "E-mail-format"
+
+#~ msgid ""
+#~ "Emails that contain HTML and are sent with PGP Inline will often result "
+#~ "in decoding errors and possible failure.  As a result, the default Email "
+#~ "format should be changed to plaintext.  Click OK to change the default to "
+#~ "plaintext, cancel to keep your current setting."
+#~ msgstr ""
+#~ "E-mails der indeholder HTML og sendes med »PGP Inline« vil ofte give "
+#~ "afkodningsfejl.  Derfor bør standardformatet for e-mails ændres til "
+#~ "klartekst.  Klik »O.k.« for at sætte standardformatet til klartekst.  "
+#~ "Klik »Annullér« for at beholde din nuværende opsætning."
+
+#~ msgid "Ask each time"
+#~ msgstr "Spørg hver gang"
+
+#~ msgid "Remember Password Default"
+#~ msgstr "Husk adgangskode-standard"
+
+#~ msgid "Default to send encrypted when composing email"
+#~ msgstr "Send som standard krypterede e-mails"
+
+#~ msgid "Encrypt all incoming emails"
+#~ msgstr "Kryptér alle indkommende e-mails"
+
+#~ msgid "Default adding signature to outgoing mails"
+#~ msgstr "Underskriv som standard udgående e-mails"
+
+#~ msgid "Default to using PGP inline for new mails"
+#~ msgstr "Brug PGP-Inline til nye e-mails"
+
+#~ msgid "Please wait"
+#~ msgstr "Vent venligst"
+
+#~ msgid "Advanced"
+#~ msgstr "Avanceret"
+
+#~ msgid "Enable Advanced PGP Features"
+#~ msgstr "Slå avanceret PGP-funktionalitet til"
+
+#~ msgid "PGP Encryption Settings"
+#~ msgstr "PGP-krypteringsindstillinger"
+
+#~ msgid "Security Settings"
+#~ msgstr "Sikkerhedsindstillinger"
+
+#~ msgid "Keys uploaded"
+#~ msgstr "Nøgler overført"
+
+#~ msgid "Failed to upload"
+#~ msgstr "Kunne ikke overføre"
+
+#~ msgid "The public key must have your primary email as a user ID"
+#~ msgstr ""
+#~ "Den offentlige nøgle er nødt til at have din primære e-mail-adresse som "
+#~ "bruger-id"
+
+#~ msgid "Upload Private Keys"
+#~ msgstr "Overfør private nøgler"
+
+#~ msgid "Please enter passwords for the upload"
+#~ msgstr "Indtast venligst adgangskoder for overførslen"
+
+#~ msgid "Enter new password for the key:"
+#~ msgstr "Indtast ny adgangskode for nøglen:"
+
+#~ msgid "Confirm Password:"
+#~ msgstr "Bekræft adgangskode:"
+
+#~ msgid "Private key password for the key you are uploading:"
+#~ msgstr "Adgangskode til den private nøgle du er ved at overføre:"
+
+#~ msgid "Private Key Uploaded"
+#~ msgstr "Privat nøgle overført"
+
+#~ msgid "This key already exists"
+#~ msgstr "Denne nøgle findes allerede"
+
+#~ msgid "Bad PGP Password"
+#~ msgstr "Dårlig PGP-adgangskode"
+
+#~ msgid "The private key must have your primary email as a user ID"
+#~ msgstr ""
+#~ "Den private nøgle er nødt til at have din primære e-mail-adresse som "
+#~ "bruger-id"
+
+#~ msgid "Must use same password as existing key to merge"
+#~ msgstr ""
+#~ "Må bruge samme adgangskode som eksisterende nøgler for at kunne flette "
+#~ "dem sammen"
+
+#~ msgid "Problem uploading Private Key "
+#~ msgstr "Problem med at overføre privat nøgle "
+
+#~ msgid "Logged out of %s"
+#~ msgstr "Logget ud af %s"
+
+#~ msgid "Failed to log out of %s"
+#~ msgstr "Kunne ikke logge ud af %s"
+
+#~ msgid "Guided tour for %s"
+#~ msgstr "Guidet tur for %s"
+
+#~ msgid "Sign out %s"
+#~ msgstr "Log ud af %s"
+
+#~ msgctxt "app"
+#~ msgid "%s Security"
+#~ msgstr "%s sikkerhed"
+
+#~ msgid "Get Started"
+#~ msgstr "Kom i gang"
+
+#~ msgid ""
+#~ "In order to start with %s Security, you must set up a password for your "
+#~ "secured files."
+#~ msgstr ""
+#~ "For at komme i gang med %1 sikkerhed, skal du vælge en adgangskode til "
+#~ "dine sikrede filer."
+
+#~ msgid "Start"
+#~ msgstr "Start"
+
+#~ msgid "%s Security Settings"
+#~ msgstr "Sikkerhedsindstillinger for %s"
+
+#~ msgid "Change %s Security Password."
+#~ msgstr "Ændr %s krypteringsadgangskode."
+
+#~ msgid "Enter current %s security password"
+#~ msgstr "Indtast aktuel »%s«-krypteringsadgangskode"
+
+#~ msgid "Enter new %s security password"
+#~ msgstr "Indtast ny %s krypteringsadgangskode"
+
+#~ msgid "Verify new %s security password"
+#~ msgstr "Gentag ny %s krypteringsadgangskode"
+
+#~ msgid "Change %s security password"
+#~ msgstr "Ændr %s krypteringsadgangskode"
+
+#~ msgid "Reset %s security password"
+#~ msgstr "Nulstil %s krypteringsadgangskode"
+
+#~ msgid "Send a temporary %s security password to my secondary Email address."
+#~ msgstr ""
+#~ "Send en midlertidig %s-krypteringsadgangskode til min sekundære e-mail-"
+#~ "adresse."
+
+#~ msgid "Delete Password Recovery"
+#~ msgstr "Slet adgangskodegendannelse"
+
+#~ msgid "Advanced Users Only!"
+#~ msgstr "Kun for avancerede brugere!"
+
+#~ msgid ""
+#~ "Delete the password recovery.  The recovery is used to reset your "
+#~ "password.  If you delete the recovery, you will not be able to reset your "
+#~ "password if you forget it.  Changing your password will restore the "
+#~ "recovery."
+#~ msgstr ""
+#~ "Slet adgangskodegendannelse.  Gendannelsen bruges til at nulstille din "
+#~ "adgangskode.  Hvis du sletter gendannelsen, vil du ikke kunne nulstille "
+#~ "din adgangskode, hvis du glemmer det.  Når du skifter adgangskode, vil "
+#~ "gendannelsen blive gendannet."
+
+#~ msgid "Please verify your password before deleting the recovery."
+#~ msgstr "Verificér venligst din adgangskode for gendannelsen slettes."
+
+#~ msgid "Recovery deleted"
+#~ msgstr "Gendannelse slettet"
+
+#~ msgid "Current Email address:"
+#~ msgstr "Nuværende e-mail-adresse:"
+
+#~ msgid "Secondary Email"
+#~ msgstr "Sekundær e-mail"
+
+#~ msgid "Change Email address used for password reset."
+#~ msgstr "Ændr e-mail-adresse som bruges til at nulstille adgangskode."
+
+#~ msgid "Verify Email address"
+#~ msgstr "Verificér e-mail-adresse"
+
+#~ msgid "Change Email address"
+#~ msgstr "Ændr e-mail-adresse"
+
+#~ msgid "None - Primary Email will be used"
+#~ msgstr "Ingen - Primær e-mail-adresse vil blive brugt"
+
+#~ msgid "Invalid email address"
+#~ msgstr "Ugyldig e-mail-adresse"
+
+#~ msgid "Successfully changed email address"
+#~ msgstr "Færdig med at ændre e-mail-adresse"
+
+#~ msgid "A new password has been sent to your email address."
+#~ msgstr "En ny adgangskode er blevet sendt til din e-mail-adresse."
+
+#~ msgid "A new password has been sent to your secondary email address."
+#~ msgstr "En ny adgangskode er blevet sendt til din sekundære e-mail-adresse."
+
+#~ msgid "No password recovery is available."
+#~ msgstr "Det er ikke muligt at gendanne adgangskode."
+
+#~ msgid "Password reset, but unable to send to your email address."
+#~ msgstr ""
+#~ "Adgangskode nulstillet, men kunne ikke sende til din e-mail-adresse."
+
+#~ msgid "Unable to find email address to send password reset."
+#~ msgstr "Kan ikke finde e-mail, til at sende nulstillet adgangskode til."
+
+#~ msgid "Unable to reset your password"
+#~ msgstr "Kan ikke nulstille din adgangskode"
+
+#~ msgid "Next"
+#~ msgstr "Næste"
+
+#~ msgid "Simple and Easy"
+#~ msgstr "Simpelt og let"
+
+#~ msgctxt "Choice"
+#~ msgid "One click encryption for Emails and files"
+#~ msgstr "Et-klik-kryptering af e-mail og filer."
+
+#~ msgctxt "Choice"
+#~ msgid "Works in all browsers with all your contacts"
+#~ msgstr "Virker i alle browsere med alle dine kontakter."
+
+#~ msgctxt "Choice"
+#~ msgid "Easy to use, every day"
+#~ msgstr "Let at bruge, hver dag"
+
+#~ msgctxt "Choice"
+#~ msgid "Security details managed by us"
+#~ msgstr "Sikkerhedsdetaljerne håndteres af os."
+
+#~ msgctxt "Choice"
+#~ msgid ""
+#~ "If you do not have deep knowledge of encryption, but you would like to "
+#~ "easily secure your communication with your friends or business contacts, "
+#~ "this option fits perfectly for you. Safe Email, made simple!"
+#~ msgstr ""
+#~ "Hvis du ikke ved en masse om kryptering, men du gerne vil sikre din "
+#~ "kommunikation med venner eller forretningskontakter på en let måde, så er "
+#~ "dette lige sagen for dig.  Sikker e-mail på den lette måde!"
+
+#~ msgctxt "Choice"
+#~ msgid "Encryption Expert"
+#~ msgstr "Krypteringsekspert"
+
+#~ msgctxt "Choice"
+#~ msgid "Expert encryption options available"
+#~ msgstr "Muligheder for krypteringseksperter tilgængelige"
+
+#~ msgctxt "Choice"
+#~ msgid "Works only in Firefox and Chrome"
+#~ msgstr "Virker kun i Firefox og Chrome."
+
+#~ msgctxt "Choice"
+#~ msgid "Browser plugin required"
+#~ msgstr "Kræver et browser-plugin."
+
+#~ msgctxt "Choice"
+#~ msgid "Security details managed by yourself"
+#~ msgstr "Sikkerhedsdetaljer styret af dig selv."
+
+#~ msgctxt "Choice"
+#~ msgid ""
+#~ "If you are an encryption expert, and would like to manage all encryption "
+#~ "details by yourself, this option fits best for you. You need to install a "
+#~ "third-party browser plugin to work with expert encryption."
+#~ msgstr ""
+#~ "Hvis du er krypteringsekspert, og gerne selv vil styre alle "
+#~ "krypteringsdetaljerne, så er dette valget for dig.  Du bliver nødt til at "
+#~ "installere en tredje-parts-browser-plugin for at arbejde med "
+#~ "ekspertkryptering."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You already set up your %s account. But you can always change your "
+#~ "encryption password, or request a temporary password if you forget it."
+#~ msgstr ""
+#~ "Du har allerede sat din %s-konto op, men du kan altid ændre din "
+#~ "krypteringsadgangskode eller bestille en midlertidig adgangskode, hvis du "
+#~ "glemmer den."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You already set up your %s account.  You can change your encryption "
+#~ "password here."
+#~ msgstr ""
+#~ "Du har allerede sat din %s-konto op.  Du kan ændre din "
+#~ "krypteringsadgangskode her."
+
+#~ msgctxt "tour"
+#~ msgid "The %s module"
+#~ msgstr "%s-modulet"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Security and privacy matters to everyone. That's why you can now send and "
+#~ "receive encrypted emails by simply clicking on the lock icon."
+#~ msgstr ""
+#~ "Datasikkerhed og privatliv er væsentligt for alle.  Derfor kan du nu "
+#~ "sende og modtage krypterede e-mails blot ved at klikke på låse-ikonet."
+
+#~ msgctxt "tour"
+#~ msgid "%s Security Settings"
+#~ msgstr "Sikkerhedsindstillinger for %s"
+
+#~ msgctxt "tour"
+#~ msgid "PGP Encryption Settings"
+#~ msgstr "PGP-krypteringsindstillinger"
+
+#~ msgctxt "tour"
+#~ msgid "Security Settings"
+#~ msgstr "Sikkerhedsindstillinger"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "From here you can update your encryption settings. For example you can "
+#~ "choose to send encrypted emails by default."
+#~ msgstr ""
+#~ "Herfra kan du opdatere dine krypteringsindstillinger.  For eksempel kan "
+#~ "du vælge som standard at sende e-mails krypterede."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "From here, you can update your security settings.  For example, you can "
+#~ "choose to send secure emails by default."
+#~ msgstr ""
+#~ "Herfra kan du opdatere dine sikkerhedsindstillinger.  For eksempel kan du "
+#~ "vælge at du i udgangspunktet vil sende sikre e-mails."
+
+#~ msgctxt "tour"
+#~ msgid "Signature"
+#~ msgstr "Underskrift"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "In addition to encrypting your emails you can also sign them. This means "
+#~ "that email recipients can be sure that the email really came from you. By "
+#~ "ticking this checkbox your signature will be added to outgoing emails by "
+#~ "default."
+#~ msgstr ""
+#~ "Ud over at kryptere dine e-mails kan du også underskrive dem.  Det "
+#~ "betyder at modtagerne kan sikre sig at dine e-mails virkelig kommer fra "
+#~ "dig.  Ved at krydse af her, føjer du som standard din digitale "
+#~ "underskrift til alle udgående e-mails."
+
+#~ msgctxt "tour"
+#~ msgid "Alternative: PGP Inline"
+#~ msgstr "Alternativ: PGP Inline"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "By default %s sends encrypted emails using PGP/Mime format. To "
+#~ "communicate with some systems you may need to use PGP Inline."
+#~ msgstr ""
+#~ "Som standard sender %s krypterede e-mails i PGP/MIME-formatet.  For at "
+#~ "kommunikere med nogle systemer kan det være nødvendigt i stedet at bruge "
+#~ "PGP Inline-formatet."
+
+#~ msgctxt "tour"
+#~ msgid "Advanced Settings"
+#~ msgstr "Avancerede indstillinger"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Advanced users can manage their key lists from the PGP Encryption "
+#~ "Settings."
+#~ msgstr ""
+#~ "Avancerede brugere kan håndtere deres nøglelister fra PGP-"
+#~ "krypteringsindstillingerne."
+
+#~ msgctxt "tour"
+#~ msgid "Advanced User Settings"
+#~ msgstr "Avancerede brugerindstillinger"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Enabling Advanced PGP Features will enable key management and specifying "
+#~ "sending formats."
+#~ msgstr ""
+#~ "Avanceret PGP-funktionalitet giver adgang til nøglehåndtering og styring "
+#~ "af forsendelsesformater."
+
+#~ msgctxt "tour"
+#~ msgid "Enabling and disabling encryption"
+#~ msgstr "Aktivering og deaktivering af kryptering"
+
+#~ msgctxt "tour"
+#~ msgid "You are now able to send secure emails."
+#~ msgstr "Du kan nu sende sikre e-mails."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Sending without encryption is easy, too: Simply click on the lock icon "
+#~ "again."
+#~ msgstr ""
+#~ "Det er også let at sende e-mail uden kryptering: Klik blot på låse-ikonet "
+#~ "igen."
+
+#~ msgctxt "tour"
+#~ msgid "Encrypt files"
+#~ msgstr "Kryptér filer"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You can also protect your files. Just click on Encrypt and the selected "
+#~ "file will be stored securely."
+#~ msgstr ""
+#~ "Du kan også beskytte dine filer.  Klik blot på »Kryptér« og den valgte "
+#~ "fil bliver gemt sikkert."
+
+#~ msgctxt "tour"
+#~ msgid "Encrypt your sensitive files in Drive"
+#~ msgstr "Kryptere dine følsomme filer i Drive"
+
+#~ msgctxt "tour"
+#~ msgid "Restart Guided Tour"
+#~ msgstr "Genstart rundvisning"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "<em>Hint:</em> you can start guided tours, any time you need them, from "
+#~ "the system menu."
+#~ msgstr ""
+#~ "<em>Vink:</em> Du kan tage en rundvisning, når som helst du har brug for "
+#~ "det fra systemmenuen."
+
+#~ msgctxt "tour"
+#~ msgid "Guided Tour completed"
+#~ msgstr "Rundvisning færdig"
+
+#~ msgctxt "tour"
+#~ msgid "You successfully learned how to protect your emails and files."
+#~ msgstr "Du har lært hvordan du kan beskytte dine e-mails og dine filer."
+
+#~ msgctxt "tour"
+#~ msgid "What you can do now:"
+#~ msgstr "Hvad du kan gøre nu:"
+
+#~ msgctxt "tour"
+#~ msgid "Write an encrypted email"
+#~ msgstr "Skrive en krypteret e-mail"
+
+#~ msgctxt "tour"
+#~ msgid "Activate encryption for all new emails"
+#~ msgstr "Aktivere kryptering af alle nye e-mails"
+
+#~ msgctxt "tour"
+#~ msgid "Review your encryption settings"
+#~ msgstr "Gennemse dine krypteringsindstillinger"
+
+#~ msgctxt "tour"
+#~ msgid "Learn more"
+#~ msgstr "Lær mere"
+
+#~ msgid "Start Setup"
+#~ msgstr "Start opsætning"
+
+#~ msgctxt "tour"
+#~ msgid "Setup %s"
+#~ msgstr "Opsætning af %s"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Welcome to %1$s. You will now be taken on a tour, showing you how to use "
+#~ "%1$s."
+#~ msgstr ""
+#~ "Velkommen til %1$s.  Du får nu en rundvisning, der vil vise dig hvordan "
+#~ "du kan bruge %1$s."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Firstly however, you’ll need to setup %1$s by choosing a password which "
+#~ "will be used to encrypt or decrypt items such as email or files."
+#~ msgstr ""
+#~ "Først bliver du dog nød til at sætte %1$s op.  Det gør du ved at vælge en "
+#~ "adgangskode der skal bruges til at kryptere og dekryptere ting som e-"
+#~ "mails og filer."
+
+#~ msgid "Choose %s Password"
+#~ msgstr "Vælg %s-adgangskode"
+
+#~ msgid "Close"
+#~ msgstr "Luk"
+
+#~ msgctxt "tour"
+#~ msgid "%s set up completed"
+#~ msgstr "Opsætning af %s gennemført"
+
+#~ msgctxt "tour"
+#~ msgid "Congratulations, you have successfully setup %s"
+#~ msgstr "Tillykke!  Du har nu sat %s op."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Now you can learn more about how to use %s by following the links below:"
+#~ msgstr ""
+#~ "Nu kan du lære mere om at bruge %s ved at følge henvisningerne nedenfor:"
+
+#~ msgctxt "tour"
+#~ msgid "Learn more about %s"
+#~ msgstr "Lær mere om %s"
+
+#~ msgid "Choose your security solution"
+#~ msgstr "Vælg din sikkerhedsløsning"
+
+#~ msgid "Key found for %1$s.  Import?"
+#~ msgstr "Nøgle fundet for %1$s.  Importér?"
+
+#~ msgid "Import"
+#~ msgstr "Importér"
+
+#~ msgid "Imported"
+#~ msgstr "Importeret"
+
+#~ msgid "Updated"
+#~ msgstr "Opdateret"
+
+#~ msgid "Invalidated"
+#~ msgstr "Ugyldiggjort"
+
+#~ msgid "Rejected"
+#~ msgstr "Afvist"
+
+#~ msgid "Warning"
+#~ msgstr "Advarsel"
+
+#~ msgid ""
+#~ "Sending an encrypted email from an account other than %s may cause "
+#~ "problems with the recipient being able to reply.  Consider using your "
+#~ "primary account."
+#~ msgstr ""
+#~ "Afsendelse af krypteret e-mail fra en anden konto en %s kan give "
+#~ "modtageren problemer med at svare.  Overvej at benytte din primære konto."
+
+#~ msgid "Do not warn me again"
+#~ msgstr "Advar mig ikke igen"
+
+#~ msgid "PGP Info"
+#~ msgstr "PGP-information"
+
+#~ msgid "Content Type"
+#~ msgstr "Indholdstype"
+
+#~ msgid "PGP Details"
+#~ msgstr "PGP-detaljer"
+
+#~ msgid ""
+#~ "Mailvelope is not supported in this browser.  Please use Chrome or "
+#~ "Firefox with Mailvelop installed."
+#~ msgstr ""
+#~ "Mailvelope virker ikke i denne browser.  Brug venligst Chrome eller "
+#~ "Firefox med Mailvelope installeret."
+
+#~ msgid "Enter re-enter %s security password"
+#~ msgstr "Genindtast »%s«-krypteringsadgangskode"
+
+#~ msgid "Download Decrypted"
+#~ msgstr "Hentning afkodet"
+
+#~ msgid "Download Encrypted"
+#~ msgstr "Hent krypteret"
+
+#~ msgid "View"
+#~ msgstr "Vis"
+
+#~ msgid "Decrypt and Open"
+#~ msgstr "Afkod og åbn"
+
+#~ msgid "Drop files here to upload"
+#~ msgstr "Slip filer her for at overføre dem"
+
+#~ msgid "Add"
+#~ msgstr "Tilføj"
+
+#~ msgid "Add:"
+#~ msgstr "Tilføj:"
+
+#~ msgid "Must be in the same global address book"
+#~ msgstr "Skal være i den samme globale adressebog"
+
+#~ msgid "Unable to add"
+#~ msgstr "Kan ikke tilføje"
+
+#~ msgid "Select"
+#~ msgstr "Vælg"
+
+#~ msgid "User"
+#~ msgstr "Bruger"
+
+#~ msgid "Retract"
+#~ msgstr "Træk tilbage"
+
+#~ msgid "Unable to share"
+#~ msgstr "Kan ikke dele"
+
+#~ msgid "Remove from share list"
+#~ msgstr "Fjern fra den delte liste"
+
+#~ msgid "Failed to remove the share"
+#~ msgstr "Kunne ikke fjerne deling"
+
+#~ msgid "Password Needed"
+#~ msgstr "Adgangskode nødvendig"
+
+#~ msgid "Please provide your %s security password to share this file"
+#~ msgstr ""
+#~ "Angiv venligst din »%s«-krypteringsadgangskode for at dele denne fil"
+
+#~ msgid "No users in same context"
+#~ msgstr "Ingen brugere i samme kontekst"
+
+#~ msgid "The following link will take you to the shared file"
+#~ msgstr "Det følgende link vil tage dig til den delte fil"
+
+#~ msgid "Shared file link"
+#~ msgstr "Delt fils link"
+
+#~ msgid "Attached encrypted file"
+#~ msgstr "Vedhæftet krypteret fil"
+
+#~ msgid "Shared file"
+#~ msgstr "Delt fil"
+
+#~ msgid "Add Permissions"
+#~ msgstr "Tilføj rettigheder"
+
+#~ msgid ""
+#~ "The following users do not have permission to view objects in this folder."
+#~ msgstr ""
+#~ "De følgende brugere har ikke rettigheder til at se objekter i denne mappe."
+
+#~ msgid "Do you wish to add read permissions to this folder for these users?"
+#~ msgstr ""
+#~ "Ønsker du at tilføje læse-rettigheder til denne mappe for disse brugere?"
+
+#~ msgid "Failed to add folder sharing permissions"
+#~ msgstr "Kunne ikke tilføje delte rettigheder til mappe"
+
+#~ msgid "%s %s %s"
+#~ msgstr "%s %s %s"
+
+#~ msgid "The provided filename exceeds the allowed length."
+#~ msgstr "Det givet filnavn overskrider den tilladte længde."
+
+#~ msgid "The allowed quota is reached."
+#~ msgstr "Den tilladte kvota er nået."
+
+#~ msgid "This file has not been added"
+#~ msgstr "Denne fil er ikke blevet tilføjet"
+
+#~ msgid "Upload a new encrypted version"
+#~ msgstr "Overfør en ny krypteret version"
+
+#~ msgid "Upload file"
+#~ msgstr "Overfør fil"
+
+#~ msgid "Version Comment"
+#~ msgstr "Kommentar til version"
+
+#~ msgid "Upload new encrypted version"
+#~ msgstr "Overfør en ny krypteret version"
+
+#~ msgid "Uploading..."
+#~ msgstr "Overføre..."
+
+#~ msgid ""
+#~ "You are replying to an email that has not yet been decoded.  The "
+#~ "recipient will not be able to read the contents of the original email."
+#~ msgstr ""
+#~ "Du svarer på en e-mail der ikke er blevet afkodet endnu.  Modtageren vil "
+#~ "ikke kunne læse indholdet af den oprindelige e-mail."
+
+#~ msgid ""
+#~ "You are forwarding an email that has not yet been decoded.  The recipient "
+#~ "will not be able to read the contents of the original email."
+#~ msgstr ""
+#~ "Du videresender en e-mail der ikke er blevet afkodet endnu.  Modtageren "
+#~ "vil ikke kunne læse indholdet af den oprindelige e-mail."
+
+#~ msgid "Re: %1$s"
+#~ msgstr "Re: %1$s"
+
+#~ msgid "Fwd: %1$s"
+#~ msgstr "Fwd: %1$s"
+
+#~ msgid "Original Message"
+#~ msgstr "Oprindelig besked"
+
+#~ msgid "From: %1$s"
+#~ msgstr "Fra: %1$s"
+
+#~ msgid "To: %1$s"
+#~ msgstr "Til: %1$s"
+
+#~ msgid "CC: %1$s"
+#~ msgstr "Cc: %1$s"
+
+#~ msgid "Date: %1$s"
+#~ msgstr "Dato: %1$s"
+
+#~ msgid "Subject: %1$s"
+#~ msgstr "Emne: %1$s"
+
+#~ msgid "On %1$s at %2$s %3$s wrote:"
+#~ msgstr "Den %1$s klokken %2$s skrev %3$s:"
+
+#~ msgid "Attach My Key"
+#~ msgstr "Vedhæft min nøgle"
+
+#~ msgid "Do you really want to discard your message?"
+#~ msgstr "Vil du virkelig kassere din besked?"
+
+#~ msgctxt "dialog"
+#~ msgid "Discard message"
+#~ msgstr "Kassér besked"
+
+#~ msgid "Save as draft"
+#~ msgstr "Gem som kladde"
+
+#~ msgid "Mail has empty subject. Send it anyway?"
+#~ msgstr "Beskedens emne er tomt.  Send alligevel?"
+
+#~ msgid "Yes, send without subject"
+#~ msgstr "Ja, send uden emne"
+
+#~ msgid "Add subject"
+#~ msgstr "Tilføj emne"
+
+#~ msgid "Unable to authorize against backend"
+#~ msgstr "Kan ikke autorisere imod »backend«"
+
+#~ msgid "Save"
+#~ msgstr "Gem"
+
+#~ msgid "Saving attachment to Drive"
+#~ msgid_plural "Saving attachments to Drive"
+#~ msgstr[0] "Gemmer vedhæftning i Drive"
+#~ msgstr[1] "Gemmer vedhæftninger i Drive"
+
+#~ msgid "Attachment has been saved"
+#~ msgid_plural "Attachments have been saved"
+#~ msgstr[0] "Vedhæftningen blev gemt"
+#~ msgstr[1] "Vedhæftningerne blev gemt"
+
+#~ msgid "Failed to decrypt"
+#~ msgstr "Kunne ikke afkode"
+
+#~ msgid "Failed to save attachments"
+#~ msgstr "Kunne ikke gemme vedhæftninger"
+
+#~ msgid "Unsupported browser"
+#~ msgstr "Uunderstøttet browser"
+
+#~ msgid "Mail has no recipients"
+#~ msgstr "E-mail har ingen modtagere"
+
+#~ msgid "Mail saved as draft"
+#~ msgstr "E-mail gemt som kladde"
+
+#~ msgid "Unable to get keys for all users"
+#~ msgstr "Kan ikke hente alle brugernes nøgler"
+
+#~ msgid ""
+#~ "The from address you selected for this email is not associated with an "
+#~ "encryption key.  Please send from your primary account, or optionally, "
+#~ "add the email address to your key using the advanced settings."
+#~ msgstr ""
+#~ "Afsenderadressen du valgte for denne e-mail har ikke en tilknyttet "
+#~ "krypteringsnøgle.  Send venligst fra din primære konto, eller "
+#~ "alternativt, føj denne e-mail-adresse til din nøgle under de avancerede "
+#~ "indstillinger."
+
+#~ msgid "An error occurred saving the email."
+#~ msgstr "En fejl opstod mens e-mail'en blev gemt."
+
+#~ msgid "An error occurred sending the encrypted email."
+#~ msgstr "Der opstod en fejl under afsendelsen af den krypterede e-mail."
+
+#~ msgid ""
+#~ "At least one of your attachments are encrypted.  Please provide your %s "
+#~ "security password to decrypt before sending"
+#~ msgstr ""
+#~ "Mindst én af dine vedhæftninger er krypteret. Angiv venligst din »%s«-"
+#~ "adgangskode for at afkode inden e-mail'en bliver sendt"
+
+#~ msgid "To"
+#~ msgstr "Til"
+
+#~ msgctxt "CC"
+#~ msgid "Copy"
+#~ msgstr "Kopi (Cc)"
+
+#~ msgid "Decoding"
+#~ msgstr "Afkoder"
+
+#~ msgid ""
+#~ "Your pop-up blocker may have prevented a %s window that provides "
+#~ "application functionality."
+#~ msgstr ""
+#~ "Din pop-op-blokering kan have blokeret et »%s«-vindue, der giver "
+#~ "programfunktionalitet."
+
+#~ msgid "VCard imported with warnings"
+#~ msgstr "VCard importeret med advarsler"
+
+#~ msgid "Failed to import vcard"
+#~ msgstr "Kunne ikke importere vCard"
+
+#~ msgid "VCard imported"
+#~ msgstr "VCard importeret"
+
+#~ msgid "Save Encrypted to Drive"
+#~ msgstr "Gem krypteret på Drive"
+
+#~ msgid "Save Decoded to Drive"
+#~ msgstr "Gem afkodet på Drive"
+
+#~ msgid "Open in browser"
+#~ msgstr "Åbn i browser"
+
+#~ msgid "Import as PGP Public Key"
+#~ msgstr "Importér som offentlig PGP-nøgle"
+
+#~ msgid "Add to address book"
+#~ msgstr "Føj til adressebog"
+
+#~ msgid "no files"
+#~ msgstr "ingen filer"
+
+#~ msgid "Save attachment"
+#~ msgstr "Gem vedhæftning"
+
+#~ msgid "Unable to save decrypted file"
+#~ msgstr "Afkodet fil kunne ikke gemmes"
+
+#~ msgid "Unable to decrypt"
+#~ msgstr "Kan ikke afkode"
+
+#~ msgid "Send copy by mail"
+#~ msgstr "Send kopi med e-mail"
+
+#~ msgid "Enter %s Security Password"
+#~ msgstr "Indtast »%s«-krypteringsadgangskode"
+
+#~ msgid "Encrypt Files"
+#~ msgstr "Kryptér filer"
+
+#~ msgid "Only the latest version of the files will be encrypted."
+#~ msgstr "Kun den nyeste udgave af filerne bliver krypteret."
+
+#~ msgid "All previous versions will be deleted."
+#~ msgstr "Alle tidligere versioner bliver slettet."
+
+#~ msgid "This file could not be uploaded."
+#~ msgstr "Denne fil kunne ikke overføres."
+
+#~ msgid "Upload"
+#~ msgstr "Overfør"
+
+#~ msgid "Please provide your %s Security Password to share this file"
+#~ msgstr ""
+#~ "Angiv venligst din »%s«-krypteringsadgangskode for at dele denne fil"
+
+#~ msgid "Bad private key"
+#~ msgstr "Forkert privat nøgle"
+
+#~ msgid "On %1$s %2$s sent:"
+#~ msgstr "Den %1$s sendte %2$s:"
+
+#~ msgid ""
+#~ "At least one of your attachments are encrypted.  Please provide your %s "
+#~ "Security Password to decrypt before sending"
+#~ msgstr ""
+#~ "Mindst én af dine vedhæftninger er krypteret. Angiv venligst din »%s«-"
+#~ "adgangskode for at afkode inden e-mail'en bliver sendt"
+
+#~ msgid ""
+#~ "Upload your Mailvelope public keys to the %s server so that other people "
+#~ "can send you encrypted emails"
+#~ msgstr ""
+#~ "Overfør dine offentlige Mailvelope-nøgler til %s-serveren, så andre kan "
+#~ "sende dig krypterede e-mails."
+
+#~ msgid "Extra Password"
+#~ msgstr "Ekstra adgangskode"
+
+#~ msgid ""
+#~ "This allows you to set an extra password that will be required for "
+#~ "reading this item."
+#~ msgstr ""
+#~ "Dette giver dig mulighed for, at sætte en ekstra adgangskode, som vil "
+#~ "blive nødvendig, for at læse dette element."
+
+#~ msgid "Please enter it below"
+#~ msgstr "Indtast det venligst nedenunder"
+
+#~ msgid "Please enter your %s Security password"
+#~ msgstr "Indtast venligst din »%s«-krypteringsadgangskode"
+
+#~ msgid "Failed to add extra password"
+#~ msgstr "Ekstra adgangskode kunne ikke tilføjes"
+
+#~ msgid "Remember Password"
+#~ msgstr "Husk adgangskode"
+
+#~ msgid ""
+#~ "HTML formatted emails may cause issues with PGP inline.  Click OK to "
+#~ "change to Plain Text formatted Emails"
+#~ msgstr ""
+#~ "HTML-formaterede e-mails kan give problemer med PGP-inline.  Klik OK for "
+#~ "at skifte til e-mails i ren tekst"
+
+#~ msgid "Secure Email, enter your %s security password"
+#~ msgstr "Sikker e-mail, indtast din »%s«-krypteringsadgangskode"
+
+#~ msgid ""
+#~ "The new recipients listed below will be sent a password via email.  You "
+#~ "can also require a seperate pin, which is displayed below"
+#~ msgstr ""
+#~ "De nye modtagere på listen nedenfor vil modtage en adgangskode per e-"
+#~ "mail.  Du kan også kræve en separat PIN-kode, vist nedenfor"
+
+#~ msgid ""
+#~ "You may deliver this pin any way you see fit, but we recommend doing it "
+#~ "in a second method other than email (Phone, SMS, Skype, etc)"
+#~ msgstr ""
+#~ "Du kan give folk PIN-koden præcist som det passer dig, men vi anbefaler "
+#~ "dig at bruge en anden metode end e-mail (for eksempel telefon, SMS, Skype "
+#~ "eller lignende)"
+
+#~ msgid "If you want this extra pin requirement, click OK"
+#~ msgstr "Hvis du vil kræve PIN-kode, klik »O.k.«"
+
+#~ msgid "Please enter your %s password to sign this email"
+#~ msgstr ""
+#~ "Indtast venligst din »%s«-adgangskode for at underskrive denne e-mail"
+
+#~ msgid "Please enter your %s password for signing"
+#~ msgstr "Indtast venligst din »%s«-adgangskode for at underskrive"
+
+#~ msgid "Problems creating keys, please try again later"
+#~ msgstr "Problemer med at oprette nøgler, prøv venligst igen senere"
+
+#~ msgid ""
+#~ "Problems creating keys.  Keys already exist for this email address in "
+#~ "another account"
+#~ msgstr ""
+#~ "Problemer med at danne nøgler.  Denne e-mail-adresse har allerede nøgler "
+#~ "under en anden konto."
+
+#~ msgid ""
+#~ "Please choose the password you will use for %s. You will need to type "
+#~ "this password whenever you want to encrypt or decrypt items. Remember it "
+#~ "should be different from your login password, and will not change if you "
+#~ "change your login password"
+#~ msgstr ""
+#~ "Vælg venligst den adgangskode du vil bruge til %s.  Du vil skulle "
+#~ "indtaste denne adgangskode hver gang du vil kryptere eller dekryptere "
+#~ "noget.  Husk at den bør være forskelligt fra din indlogningsadgangskode, "
+#~ "og at den ikke bliver ændret, hvis du ændrer din indlogningsadgangskode."
+
+#~ msgid "Please enter a password to protect your new encrypted items"
+#~ msgstr ""
+#~ "Indtast venligst et kodeord til at beskytte dine nye krypterede elementer"
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password"
+#~ msgstr ""
+#~ "Indtast venligst en sekundær e-mail-adresse for det tilfælde, at du får "
+#~ "brug for at nulstille din adgangskode"
+
+#~ msgid "Rember my password"
+#~ msgstr "Husk min adgangskode"
+
+#~ msgid "This Email was signed and verified"
+#~ msgstr "Denne e-mail blev signeret af afsenderen, og er verificeret"
+
+#~ msgid "This Email was signed but unable to verify"
+#~ msgstr "Denne e-mail blev signeret af afsenderen, men kan ikke verificeres"
+
+#~ msgid "This Email was signed and failed verification"
+#~ msgstr ""
+#~ "Denne e-mail blev signeret af afsenderen, men fejlede i verificeringen"
+
+#~ msgid ""
+#~ "Please change the initial temporary %s security password that was sent to "
+#~ "you in a seperate email."
+#~ msgstr ""
+#~ "Vær venlig at ændre den midlertidige »%1«-krypteringsadgangskode, som "
+#~ "blev sendt til dig i en separat e-mail."
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password</p>"
+#~ msgstr ""
+#~ "Indtast venligst en sekundær e-mail-adresse for det tilfælde, at du får "
+#~ "brug for at nulstille din adgangskode</p>"
+
+#~ msgid "This Email was signed by the sender and verified"
+#~ msgstr "Denne e-mail blev signeret af afsenderen, og er verificeret"
+
+#~ msgid "If you already have a private key, you can upload it here"
+#~ msgstr "Hvis du allerede har en privat nøgle, kan du overføre den her"
+
+#~ msgid "Finally, you can have a new PGP Key Pair created for your account"
+#~ msgstr "Endelig kan du få lavet et nyt PGP-nøglepar til din kontor"
+
+#~ msgid "Add a name and email address to this public key"
+#~ msgstr "Føj navn og e-mail-adresse til denne offentlige nøgle"
+
+#~ msgid "PGP default to using PGP inline for compatibility"
+#~ msgstr "Lad PGP bruge PGP-Inline som standard for kompatibilitet"
+
+#~ msgid "Please verify your password before deleting the recovery"
+#~ msgstr "Verificér venligst din adgangskode for gendannelsen slettes"
+
+#~ msgid "A new password has been sent to your email address"
+#~ msgstr "En ny adgangskode er blevet sendt til din e-mail-adresse"
+
+#~ msgid "A new password has been sent to your secondary email address"
+#~ msgstr "En ny adgangskode er blevet sendt til din sekundære e-mail-adresse"
+
+#~ msgid "No password recovery is available"
+#~ msgstr "Det er ikke muligt at gendanne adgangskode"
+
+#~ msgid "Password reset, but unable to send to your email address"
+#~ msgstr "Adgangskode nulstillet, men kunne ikke sende til din e-mail-adresse"
+
+#~ msgid "Unable to find email address to send password reset"
+#~ msgstr "Kan ikke finde e-mail, til at sende nulstillet adgangskode til"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Enabling Advanced PGP Features will enable key management and specifying "
+#~ "sending formats"
+#~ msgstr ""
+#~ "Avanceret PGP-funktionalitet giver adgang til nøglehåndtering og styring "
+#~ "af forsendelsesformater."
+
+#~ msgid "This email was sent with an extra password."
+#~ msgstr "Denne e-mail blev sendt med en ekstra adgangskode."
+
+#~ msgid "Please enter below"
+#~ msgstr "Indtast venligst nedenunder"
+
+#~ msgid "An error occurred during sending the encrypted email."
+#~ msgstr "En fejl opstod under afsendelse af den krypteret e-mail."
+
+#~ msgid "This appears to be the first time you have used Encryption"
+#~ msgstr "Dette ser ud til, at være første gang du bruger kryptering"
+
+#~ msgid ""
+#~ "Please change the temporary %s security password that was sent to you in "
+#~ "a seperate email."
+#~ msgstr ""
+#~ "Vær venlig at ændre den midlertidige »%s«-sikkerhedskode, som blev sendt "
+#~ "til dig i en separat e-mail."
+
+#~ msgid "%s PGP Settings"
+#~ msgstr "%Indstillinger for %s PGP"
+
+#~ msgid "Changed"
+#~ msgstr "Ændret"
+
+#~ msgctxt "tour"
+#~ msgid "Sending without encryption"
+#~ msgstr "Forsendelse uden kryptering"
+
+#~ msgctxt "tour"
+#~ msgid "Create Your %s Account"
+#~ msgstr "Opret din %s-konto"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You now need to choose a password which will be used to encrypt or "
+#~ "decrypt items. You only need to set this up once. Your password will then "
+#~ "remain valid until you change it."
+#~ msgstr ""
+#~ "Du skal nu vælge den adgangskode der skal bruges til at kryptere og "
+#~ "dekryptere data.  Du behøver kun at indstille dette én gang.  Din "
+#~ "adgangskode vil forblive gyldig indtil du ændrer den."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You successfully set up secure communication. Your private key has been "
+#~ "created."
+#~ msgstr ""
+#~ "Det lykkedes dig at sætte sikker kommunikation op.  Din private nøgle er "
+#~ "oprettet."
+
+#~ msgid ""
+#~ "Upload your Mailvelope public keys to the Guard server so that other "
+#~ "people can send you encrypted emails"
+#~ msgstr ""
+#~ "Overfør dine offentlige Mailvelope-nøgler til Guard-serveren, så andre "
+#~ "kan sende dig krypterede e-mails."
+
+#~ msgid ""
+#~ "Your pop-up blocker may have prevented a Guard window that provides "
+#~ "application functionality."
+#~ msgstr ""
+#~ "Din pop-op-blokering kan have blokeret et »Guard«-vindue, der giver "
+#~ "programfunktionalitet."
+
+#~ msgid "Please enter your Guard Security password"
+#~ msgstr "Indtast venligst din krypteringsadgangskode"
+
+#~ msgid "Enter Guard Security Password"
+#~ msgstr "Indtast krypteringsadgangskode"
+
+#~ msgid "Please provide your Guard Security Password to share this file"
+#~ msgstr "Angiv venligst din krypteringsadgangskode for at dele denne fil"
+
+#~ msgid "Secure Email, enter your Guard security password"
+#~ msgstr "Sikker e-mail, indtast din krypteringsadgangskode"
+
+#~ msgid "Keep me logged into Guard"
+#~ msgstr "Forbliv logget ind i Guard"
+
+#~ msgid "Will create new guest account for Guard"
+#~ msgstr "Vil oprette ny gæstekonto til Guard"
+
+#~ msgid "Have encryption key"
+#~ msgstr "Har krypteringsnøgle"
+
+#~ msgid "Please enter your Guard password to sign this email"
+#~ msgstr ""
+#~ "Indtast venligst din krypteringsadgangskode for at underskrive denne e-"
+#~ "mail"
+
+#~ msgid "Please enter your Guard password for signing"
+#~ msgstr "Indtast venligst din Guard-adgangskode for at underskrive"
+
+#~ msgid ""
+#~ "At least one of your attachments are encrypted.  Please provide your "
+#~ "Guard Security Password to decrypt before sending"
+#~ msgstr ""
+#~ "Mindst én af dine vedhæftninger er krypteret. Angiv venligst din »Guard«-"
+#~ "adgangskode for at afkode inden e-mail'en bliver sendt"
+
+#~ msgid "Automated Email Language"
+#~ msgstr "Automatisk e-mail sprog"
+
+#~ msgid "Create Guard Security Keys"
+#~ msgstr "Opret Guard Security-nøgler"
+
+#~ msgid "First Guard Security Password Use"
+#~ msgstr "Første brug af Guard krypteringsadgangskode"
+
+#~ msgid ""
+#~ "Please change the temporary Guard security password that was sent to you "
+#~ "in a seperate email."
+#~ msgstr ""
+#~ "Vær venlig at ændre den midlertidige Guard-sikkerhedskode, som blev sendt "
+#~ "til dig i en separat e-mail."
+
+#~ msgid "Please enter your Guard password"
+#~ msgstr "Indtast venligst din Guard-adgangskode"
+
+#~ msgid ""
+#~ "Please change the initial temporary Guard security password that was sent "
+#~ "to you in a seperate email."
+#~ msgstr ""
+#~ "Vær venlig at ændre den midlertidige Guard krypteringsadgangskode, som "
+#~ "blev sendt til dig i en separat e-mail."
+
+#~ msgid "Guard PGP Settings"
+#~ msgstr "Indstillinger for Guard PGP"
+
+#~ msgid ""
+#~ "If you would like to upload a public key only, then do so here.  This "
+#~ "will allow you to encrypt files and receive encrypted emails using Guard, "
+#~ "but you will need to use the private key with another program to decode "
+#~ "the items."
+#~ msgstr ""
+#~ "Hvis du ønsker kun at lægge en offentlig nøgle op, så gør det her.  Dette "
+#~ "vil lade dig kryptere filer og modtage krypterede e-mails med Guard, men "
+#~ "du bliver nødt til at bruge den private nøgle med et andet program for at "
+#~ "afkode krypterede data."
+
+#~ msgid "Guided tour for Guard"
+#~ msgstr "Guidet tur for Guard"
+
+#~ msgid "Sign out Guard"
+#~ msgstr "Log ud af Guard"
+
+#~ msgctxt "app"
+#~ msgid "Guard Security"
+#~ msgstr "Guard Sikkerhed"
+
+#~ msgid ""
+#~ "In order to start with Guard Security, you must set up a password for "
+#~ "your secured files."
+#~ msgstr ""
+#~ "For at komme i gang med »Guard Security«, skal du vælge en adgangskode "
+#~ "for dine sikrede filer."
+
+#~ msgid "Guard Security Settings"
+#~ msgstr "Indstillinger for Guard Security"
+
+#~ msgid "Change Guard Security Password."
+#~ msgstr "Ændr krypteringsadgangskode."
+
+#~ msgid "Enter current Guard security password"
+#~ msgstr "Indtast krypteringsadgangskode"
+
+#~ msgid "Enter new Guard security password"
+#~ msgstr "Indtast ny krypteringsadgangskode"
+
+#~ msgid "Verify new Guard security password"
+#~ msgstr "Gentag ny krypteringsadgangskode"
+
+#~ msgid "Change Guard security password"
+#~ msgstr "Ændr Guard krypteringsadgangskode"
+
+#~ msgid "Reset Guard security password"
+#~ msgstr "Nulstil Guard krypteringsadgangskode"
+
+#~ msgid ""
+#~ "Send a temporary Guard security password to my secondary Email address."
+#~ msgstr ""
+#~ "Send en midlertidig Guard krypteringsadgangskode til min sekundære e-mail-"
+#~ "adresse."
+
+#~ msgctxt "tour"
+#~ msgid "The Guard module"
+#~ msgstr "Guard-modulet"
+
+#~ msgctxt "tour"
+#~ msgid "Guard Security Settings"
+#~ msgstr "Indstillinger for Guard Security"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You already set up your Guard account. But you can always change your "
+#~ "encryption password, or request a temporary password if you forget it."
+#~ msgstr ""
+#~ "Du har allerede sat din Guard-konto op, men du kan altid ændre din "
+#~ "krypteringsadgangskode eller bestille en midlertidig adgangskode, hvis du "
+#~ "glemmer den."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "By default Guard sends encrypted emails using PGP/Mime format. To "
+#~ "communicate with some systems you may need to use PGP Inline."
+#~ msgstr ""
+#~ "Som standard sender Guard krypterede e-mails i PGP/MIME-formatet.  For at "
+#~ "kommunikere med nogle systemer kan det være nødvendigt i stedet at bruge "
+#~ "PGP Inline-formatet."
+
+#~ msgctxt "tour"
+#~ msgid "Remove encryption"
+#~ msgstr "Fjern kryptering"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Removing the encryption is easy, too: Simply click on the lock icon again."
+#~ msgstr ""
+#~ "Det er også let at fjerne krypteringen: Klik blot på låse-ikonet igen."
+
+#~ msgctxt "tour"
+#~ msgid "Create Your Guard Account"
+#~ msgstr "Opret din Guard-konto"
+
+#~ msgctxt "tour"
+#~ msgid "Guard set up completed"
+#~ msgstr "Opsætning af Guard gennemført"
+
+#~ msgctxt "Choice"
+#~ msgid "Works only in all browsers with all your contacts"
+#~ msgstr "Virker kun i alle browsere med alle dine kontakter."
+
+#~ msgid "Click to enable encryption"
+#~ msgstr "Klik for at aktivere kryptering"
+
+#~ msgid "Click to disable encryption"
+#~ msgstr "Klik for at slå kryptering fra"
+
+#~ msgid "Error.  Please reload message"
+#~ msgstr "Fejl.  Genindlæs venligst besked"
+
+#~ msgid "You have exceeded bad password attempts.  Please wait %s minutes"
+#~ msgstr ""
+#~ "Du har overskredet dårlige adgangskodeforsøg. Vent venligst %s minutter "
+#~ "før du prøver igen"
+
+#~ msgid ""
+#~ "This email has expired and can no longer be accessed.  Contact the sender "
+#~ "for more information."
+#~ msgstr ""
+#~ "Denne e-mail er udløbet, og kan ikke længere tilgås. Kantakt afsenderen "
+#~ "for mere information."
+
+#~ msgid ""
+#~ "This Email has been retracted by the sender and can no longer be "
+#~ "accessed.  Contact the sender for more information."
+#~ msgstr ""
+#~ "Denne e-mail er blevet trukket tilbage, og kan ikke længere tilgås. "
+#~ "Kontakt afsenderen for mere information."
+
+#~ msgid "Unable to decrypt Email."
+#~ msgstr "Kan ikke afkode e-mail."
+
+#~ msgid "The sender added an extra password encryption."
+#~ msgstr "Afsenderen tilføjede en ekstra adgangskodekryptering."
+
+#~ msgid "Save Encrypted"
+#~ msgstr "Gem krypteret"
+
+#~ msgid "Save Decrypted"
+#~ msgstr "Gem afkodet"
+
+#~ msgid ""
+#~ "This Email was sent encrypted. It has been decrypted with your private key"
+#~ msgstr ""
+#~ "Denne e-mail blev sendt krypteret. Den er blevet afkodet med din private "
+#~ "nøgle"
+
+#~ msgid "Expires: "
+#~ msgstr "Udløber: "
+
+#~ msgid "Retract Email"
+#~ msgstr "Træk e-mail tilbage"
+
+#~ msgid "Email status"
+#~ msgstr "E-mail status"
+
+#~ msgid "Retract all access"
+#~ msgstr "Træk al adgang tilbage"
+
+#~ msgid "Email has not been opened."
+#~ msgstr "E-mail er ikke blevet åbnet."
+
+#~ msgid "Email has been opened."
+#~ msgstr "E-mail er blevet åbnet."
+
+#~ msgid "Email has been retracted."
+#~ msgstr "E-mail er blevet trukket tilbage."
+
+#~ msgid "Unable to get email status, please try again later"
+#~ msgstr "Kan ikke få status på e-mail, prøv venligst igen senere"
+
+#~ msgid "This will retract the email for all recipients. Click OK to confirm."
+#~ msgstr ""
+#~ "Dette vil trække e-mail'en tilbage for alle modtagere. Tryk Ok for at "
+#~ "bekræfte."
+
+#~ msgid "Item was retracted"
+#~ msgstr "Elementet blev trukket tilbage"
+
+#~ msgid "Not all items retracted"
+#~ msgstr "Ikke alle elementer blev trukket tilbage"
+
+#~ msgid "Failed to retract"
+#~ msgstr "Kunne ikke trække tilbage"
+
+#~ msgctxt "tour"
+#~ msgid "Learn more …"
+#~ msgstr "Lære mere…"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "From here you can update you encryption settings. For example you can "
+#~ "choose to send encrypted emails by default."
+#~ msgstr ""
+#~ "Herfra kan du opdatere dine krypteringsindstillinger.  For eksempel kan "
+#~ "du vælge som standard at sende e-mails krypterede."
+
+#~ msgid "Message was saved"
+#~ msgstr "Besked blev gemt"
+
+#~ msgid "Problem creating keys"
+#~ msgstr "Problem med at danne nøgler"
+
+#~ msgctxt "tour"
+#~ msgid "Please click on the lock icon."
+#~ msgstr "Klik venligst på låse-ikonet."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Please choose your password now, enter a secondary email address and "
+#~ "click on Ok."
+#~ msgstr ""
+#~ "Vælg venligst din adgangskode nu, indtast en sekundær e-mail-adresse og "
+#~ "klik O.k."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You can always change your encryption password, or request a temporary "
+#~ "password if you forget it."
+#~ msgstr ""
+#~ "Du kan altid ændre din krypteringsadgangskode eller bestille en "
+#~ "midlertidig adgangskode, hvis du glemmer den."
+
+#~ msgctxt "tour"
+#~ msgid "Congratulations! You are now able to send secure emails."
+#~ msgstr "Tillykke!  Du kan nu sende sikre e-mails."
+
+#~ msgctxt "tour"
+#~ msgid "Please remove the encryption now by clicking on the lock icon again."
+#~ msgstr "Fjern venligst krypteringen nu ved at klikke på låse-ikonet igen."
+
+#~ msgid "%s already encrypted"
+#~ msgstr "%s er allerede krypteret"
+
+#~ msgid "Add folder"
+#~ msgstr "Tilføj mappe"
+
+#~ msgid "Already Protected With Additional Password"
+#~ msgstr "Allerede beskyttet med yderligere adgangskode"
+
+#~ msgid "Click to disable PGP encryption"
+#~ msgstr "Klik for at slå PGP-kryptering fra"
+
+#~ msgid "Done"
+#~ msgstr "Færdig"
+
+#~ msgid "Drop here to upload a <b class=\"dndignore\">new encrypted file</b>"
+#~ msgstr ""
+#~ "Slip her for at overføre en <b class=\"dndignore\">ny krypteret fil</b>"
+
+#~ msgid "Encrypting "
+#~ msgstr "Krypterer "
+
+#~ msgid "Encrypting %s"
+#~ msgstr "Kryptere %s"
+
+#~ msgid "FW: %1$s"
+#~ msgstr "Fwd: %1$s"
+
+#~ msgid "Failed to encrypt file"
+#~ msgstr "Kunne ikke kryptere fil"
+
+#~ msgid "Folder name"
+#~ msgstr "Mappenavn"
+
+#~ msgid "New Encrypted folder"
+#~ msgstr "Ny krypteret mappe"
+
+#~ msgid "New Encrypted subfolder"
+#~ msgstr "Ny krypteret undermappe"
+
+#~ msgid "New encrypted subfolder"
+#~ msgstr "Ny krypteret undermappe"
+
+#~ msgid "New folder"
+#~ msgstr "Ny mappe"
+
+#~ msgid "New public folder"
+#~ msgstr "Ny offentlig mappe"
+
+#~ msgid ""
+#~ "One of your recipients requires emails to be sent as PGP Inline.  "
+#~ "Changing now."
+#~ msgstr ""
+#~ "En af dine modtagere har brug for at e-mails bliver sendt som PGP-"
+#~ "Inline.  Skifter nu."
+
+#~ msgid "PGP key exists for this person"
+#~ msgstr "Der findes en PGP-nøgle for denne person"
+
+#~ msgid "Require Additional Password"
+#~ msgstr "Kræv yderligere adgangskode"
+
+#~ msgid "Security Options"
+#~ msgstr "Indstillinger for sikkerhed"
+
+#~ msgid "Send encrypted (PGP)"
+#~ msgstr "Send krypteret (PGP)"
+
+#~ msgid "Share keys with other users to decrypt this file"
+#~ msgstr "Del nøgler med andre brugere for at afkode denne fil"
+
+#~ msgid "Share link"
+#~ msgstr "Del link"
+
+#~ msgid "Sharing"
+#~ msgstr "Deling"
+
+#~ msgid "Sign email"
+#~ msgstr "Underskriv e-mail"
+
+#~ msgid "Status"
+#~ msgstr "Status"
+
+#~ msgid "Stop"
+#~ msgstr "Stop"
+
+#~ msgid "The key for %1$s is expired and should not be used"
+#~ msgstr "%1$ss nøgle er udløbet og bør ikke bruges"
+
+#~ msgid "Unable to create Guard account, please try again later"
+#~ msgstr "Kunne ikke oprette gæstekonto til Guard, prøv venligst igen senere"
+
+#~ msgid "Upload new files to encrypt"
+#~ msgstr "Overfør nye filer til kryptering"
+
+#~ msgid "Use PGP inline (compatibility)"
+#~ msgstr "Brug PGP inline (kompatibilitet)"
+
+#~ msgid "%s hours"
+#~ msgstr "%s timer"
+
+#~ msgid "%s week"
+#~ msgstr "%s uge"
+
+#~ msgid "%s weeks"
+#~ msgstr "%s uger"
+
+#~ msgid "Added keys:"
+#~ msgstr "Tilføjede nøgler:"
+
+#~ msgid "CC:"
+#~ msgstr "Kopi til (CC):"
+
+#~ msgid "Click to disable Guard"
+#~ msgstr "Klik for at deaktivere Guard"
+
+#~ msgid "Click to enable Guard"
+#~ msgstr "Klik for at aktivere Guard"
+
+#~ msgid "Confirm Guard Password"
+#~ msgstr "Bekræft Guard-adgangskode"
+
+#~ msgid "Create Guard Account"
+#~ msgstr "Opret Guard konto"
+
+#~ msgid "Date:"
+#~ msgstr "Dato:"
+
+#~ msgid "Decode"
+#~ msgstr "Afkod"
+
+#~ msgid "Default signing outgoing PGP mails"
+#~ msgstr "Standardsignering af udgående PGP-mails"
+
+#~ msgid "Defaults"
+#~ msgstr "Standardindstillinger"
+
+#~ msgid "Download (OG)"
+#~ msgstr "Hent (OG)"
+
+#~ msgid "Enable Guard"
+#~ msgstr "Aktivér Guard"
+
+#~ msgid "Encrypted email has been sent successfully."
+#~ msgstr "Krypteret e-mail blev sendt med succes."
+
+#~ msgid "Encrypting"
+#~ msgstr "Kryptere"
+
+#~ msgid "From:"
+#~ msgstr "Fra:"
+
+#~ msgid "Fwd:"
+#~ msgstr "Fwd:"
+
+#~ msgid "IDs:"
+#~ msgstr "Id'er:"
+
+#~ msgid "Initializing Guard, please wait"
+#~ msgstr "Initialisere Guard, vent venligst"
+
+#~ msgid "Inline"
+#~ msgstr "Indlejret"
+
+#~ msgid "Make Guard default to PGP compliant"
+#~ msgstr "Lad Guard være PGP-kompatibel som standard"
+
+#~ msgid "Never"
+#~ msgstr "Aldrig"
+
+#~ msgid "No recipients"
+#~ msgstr "Ingen modtagere"
+
+#~ msgid "None"
+#~ msgstr "Ingen"
+
+#~ msgid "Not able to contact guard server"
+#~ msgstr "Kunne ikke forbinde til »Guard«-serveren"
+
+#~ msgid "On"
+#~ msgstr "På"
+
+#~ msgid "Open"
+#~ msgstr "Åbn"
+
+#~ msgid "Open Decoded"
+#~ msgstr "Åbn afkodet"
+
+#~ msgid "PGP Compliant Guard"
+#~ msgstr "PGP-opfyldende Guard"
+
+#~ msgid "PGP default to PGP inline for compatibility"
+#~ msgstr "Lad PGP bruge PGP inline som standard for kompatiblitet"
+
+#~ msgid "Please enter a password to protect your Guard account"
+#~ msgstr "Indtast venligst en adgangskode til at beskytte din »Guard«-konto"
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password.  A new password would be sent to this email."
+#~ msgstr ""
+#~ "Indtast venligst en sekundær e-mail-adresse, for det tilfælde, at du skal "
+#~ "nulstille din adgangskode. En ny adgangskode ville blive sendt til denne "
+#~ "e-mail-adresse."
+
+#~ msgid "Please select the file location of your private key."
+#~ msgstr "Vælg venligst fil-placeringen for din private nøgle."
+
+#~ msgid "Private Key Password"
+#~ msgstr "Kodeord til privat nøgle"
+
+#~ msgid "Problem uploading Private Key"
+#~ msgstr "Problem med at overføre privat nøgle"
+
+#~ msgid "Public Key List"
+#~ msgstr "Liste med offentlige nøgler"
+
+#~ msgid "Recipient has Guard"
+#~ msgstr "Modtager har Guard"
+
+#~ msgid "Retract in"
+#~ msgstr "Træk tilbage om"
+
+#~ msgid "Save Decoded"
+#~ msgstr "Gem afkodet"
+
+#~ msgid "Shared"
+#~ msgstr "Delt"
+
+#~ msgid "Sign PGP"
+#~ msgstr "Underskriv PGP"
+
+#~ msgid "Subject:"
+#~ msgstr "Emne:"
+
+#~ msgid ""
+#~ "The key will be used locally only.  It will not be sent to the server."
+#~ msgstr "Nøglen vil kun blive brugt lokalt, og ikke sendt til serveren."
+
+#~ msgid "This appears to be the first time you have used Guard"
+#~ msgstr "Dette ser ud til at være første gang du har brugt Guard"
+
+#~ msgid "To:"
+#~ msgstr "Til:"
+
+#~ msgid "Unable to get key for encryption"
+#~ msgstr "Kan ikke få nøgle til kryptering"
+
+#~ msgid "Unable to load"
+#~ msgstr "Kan ikke indlæse"
+
+#~ msgid "Use Guard when composing a new email"
+#~ msgstr "Brug »Guard«, når du skriver ny e-mail"
+
+#~ msgid "Using a guest account for email"
+#~ msgstr "Bruger en gæstekonto til e-mail"
+
+#~ msgid "Your private key"
+#~ msgstr "Din private nøgle"
+
+#~ msgid "Your public key"
+#~ msgstr "Din offentlige nøgle"
+
+#~ msgid "popup blocked"
+#~ msgstr "pop-op blokeret"

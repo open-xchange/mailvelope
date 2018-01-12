@@ -1,0 +1,2609 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: open-xchange-guard-ui\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2018-01-12 09:05-0500\n"
+"Last-Translator: Greg Hill <greg.hill@open-xchange.com>\n"
+"Language-Team: NAME <EMAIL>\n"
+"Language: lv_LV\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : "
+"2);\n"
+"X-Generator: Poedit 1.6.10\n"
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "Toggle Encryption"
+msgstr ""
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "Not Supported"
+msgstr "Netiek atbalstīts"
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "%s is not supported with secured email and will be disabled."
+msgstr "%s tiks atspējots, jo netiek atbalstīts šifrētam e-pastam."
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "OK"
+msgstr "Labi"
+
+#. %s product Name
+#: apps/mailvelope/settings.js module:oxguard
+msgid "Mailvelope"
+msgstr "Mailvelope"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Mailvelope Not Supported"
+msgstr "\"Mailvelope' netiek atbalstīta"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid ""
+"Mailvelope is only supported in Google Chrome or Mozilla Firefox.  Please "
+"use one of these broswers to set up encryption."
+msgstr ""
+"'Mailvelope' tiek atbalstīta tikai Google Chrome vai Mozilla Firefox "
+"pārlūkos.  Lai iestatītu šifrēšanu, lūdzu lietojiet kādu no tiem."
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Encrypted communication"
+msgstr "Šifrētas komunikācijas"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Download browser plugin"
+msgstr "Lejupielādēt pārlūka spraudni"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Generate"
+msgstr "Ģenerēt"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Congratulations! You have successfully set up encryption."
+msgstr "Apsveicam! Šifrēšana ir veiksmīgi iestatīta."
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Prepare"
+msgstr "Sagatavot"
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Password"
+msgstr "Parole"
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Three steps to setup encrypted communication:"
+msgstr "Trīs soļi šifrētu komunikāciju iestatīšanai:"
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Download browser plugin “Mailvelope”"
+msgstr "Lejupielādējiet pārlūka spraudni “Mailvelope”"
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Create encryption keys for secure communication"
+msgstr "Izveidojiet šifrēšanas atslēgas"
+
+#~ msgid "Mailvelope Advanced"
+#~ msgstr "'Mailvelope' paplašināti"
+
+#~ msgid "Error"
+#~ msgstr "Kļūda"
+
+#~ msgid ""
+#~ "Backup your Mailvelope private keys to the server.  The keys will be "
+#~ "encrypted requiring a security code for restore"
+#~ msgstr ""
+#~ "Glabājiet savas 'Mailvelope' privātās atslēgas serverī.  Atslēgas tiks "
+#~ "šifrētas un to atjaunošanai būs jāievada drošības kods."
+
+#~ msgid "Backup"
+#~ msgstr "Kopēt"
+
+#~ msgid "Discard previously saved private keys."
+#~ msgstr "Izmest iepriekš saglabātās privātās atslēgas."
+
+#~ msgid "Discard backup"
+#~ msgstr "Izmest rezerves kopiju"
+
+#~ msgid "Restore previously saved private keys."
+#~ msgstr "Atgūt iepriekš saglabātās privātās atslēgas."
+
+#~ msgid "Restore"
+#~ msgstr "Atgūt"
+
+#~ msgid ""
+#~ "Upload your Mailvelope public keys to the %s server so that other people "
+#~ "can send you encrypted emails."
+#~ msgstr ""
+#~ "Pievienojiet Mailvelope publiskās atslēgas %s serverim, lai citi "
+#~ "lietotāji varētu jums nosūtīt šifrētu e-pastu."
+
+#~ msgid "Upload Public Key"
+#~ msgstr "Augšupielādēt publisko atslēgu"
+
+#~ msgid "Backup and Recovery"
+#~ msgstr "Kopēšana un atgūšana"
+
+#~ msgid "No backup data available"
+#~ msgstr "Nav atgūšanai nepieciešamo kopiju datu"
+
+#~ msgid ""
+#~ "You can now backup your keys. Please store the provided password secure. "
+#~ "It is also possible to skip this step and do the backup later. You can "
+#~ "find it in the settings."
+#~ msgstr ""
+#~ "Jūs tagad varat izveidot savu atslēgu rezerves kopijas. lūdzu saglabājiet "
+#~ "norādīto paroli drošā vietā. Šo soli var pašlaik arī izlaist un izveidot "
+#~ "rezerves kopijas vēlāk, izmantojot atbilstošo iestatījumu saīsni."
+
+#~ msgid "Skip without backup"
+#~ msgstr "Turpināt bez rezerves kopijas"
+
+#~ msgid "Recommended: Setup key backup"
+#~ msgstr "Ieteicami: Izveidojiet atslēgu rezerves kopijas"
+
+#~ msgid "Enter %s security password"
+#~ msgstr "Ievadiet %s drošības paroli"
+
+#~ msgid "Bad password"
+#~ msgstr "Nepareiza parole"
+
+#~ msgid "Account Locked out"
+#~ msgstr "Konts ir atslēgts"
+
+#~ msgid "Unspecified error"
+#~ msgstr "Reģistrēta kļūda"
+
+#~ msgid "Problems creating keys, please try again later."
+#~ msgstr "Kļūdas pie atslēgu izveides. Lūdzu mēģiniet vēlāk vēlreiz."
+
+#~ msgid ""
+#~ "Problems creating keys.  Keys already exist for this email address in "
+#~ "another account."
+#~ msgstr ""
+#~ "Problēma pie atslēgu izveides. Šai e-pasta adresei jau eksistē atslēgas "
+#~ "kādā citā kontā."
+
+#~ msgid "Passwords must be at least %s characters in length"
+#~ msgstr "Parolēm ir jābūt vismaz %s simbolus garām"
+
+#~ msgid "Passwords not equal"
+#~ msgstr "Paroles nesaskan"
+
+#~ msgid "Enter new secondary Email address"
+#~ msgstr "Jaunā alternatīvā e-pasta adrese"
+
+#~ msgid "Generating key, Please wait"
+#~ msgstr "Atslēgas izveide. Lūdzu uzgaidiet"
+
+#~ msgid ""
+#~ "Please choose the password you will use for %s. You will need to type "
+#~ "this password whenever you want to encrypt or decrypt items. Remember it "
+#~ "should be different from your login password, and will not change if you "
+#~ "change your login password."
+#~ msgstr ""
+#~ "Lūdzu, izvēlieties paroli, kuru izmantosiet pieslēgumam %s. Jums šī "
+#~ "parole būs jāievada ikreiz, kad vēlēsieties šifrēt vai atšifrēt vienumus. "
+#~ "Atcerieties, tai ir jāatšķiras no jūsu pieteikšanās paroles un tā "
+#~ "nemainīsies, ja mainīsiet savu pieteikšanās paroli."
+
+#~ msgid "Please enter a password to protect your new encrypted items."
+#~ msgstr "Lūdzu norādiet paroli savu aizsargāto vienumu šifrēšanai."
+
+#~ msgid "Confirm"
+#~ msgstr "Apstipināt"
+
+#~ msgid ""
+#~ "Warning: This password for encryption cannot be restored or recovered in "
+#~ "any way.  If forgotten, all encrypted data will be lost"
+#~ msgstr ""
+#~ "Brīdinājums: Šī šifrēšanas parole nevar tikt atgūta vai atjaunota ne ar "
+#~ "kādiem rīkiem. Ja tā tiks aizmirsta, tā būs zudusi uz visiem laikiem."
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password."
+#~ msgstr ""
+#~ "Lūdzu ievadiet alternatīvo e-pasta adresi gadījumiem, ja jums būtu jāveic "
+#~ "paroles atiestatīšana."
+
+#~ msgid "Email:"
+#~ msgstr "E-pasts:"
+
+#~ msgid "Create %s Security Keys"
+#~ msgstr "Izveidot %s drošības atslēgas"
+
+#~ msgid "Cancel"
+#~ msgstr "Atcelt"
+
+#~ msgid "Not valid email"
+#~ msgstr "Nav derīgs e-pasts"
+
+#~ msgid "Emails not equal"
+#~ msgstr "E-pasti nav vienādi"
+
+#~ msgid "Too short"
+#~ msgstr "Pārāk īsa"
+
+#~ msgid "Strong"
+#~ msgstr "Spēcīga"
+
+#~ msgid "Weak"
+#~ msgstr "Vāja"
+
+#~ msgid "First %s Security Use"
+#~ msgstr "Pirmā %s drošības izmantošana"
+
+#~ msgid "You have been sent an email using %s to secure the contents"
+#~ msgstr ""
+#~ "Izmantojot %s jums ir nosūtīts e-pasts satura drošības nodrošināšanai"
+
+#~ msgid ""
+#~ "Please select a new password for use with %s.  This password will be used "
+#~ "to open encrypted emails and files that may be sent to you."
+#~ msgstr ""
+#~ "Lūdzu izvēlieties jaunu paroli %s izmantošanai.  Šī parole tiks izmantota "
+#~ "lai atvērtu jums nosūtītos šifrētos e-pasta ziņojumus un failus."
+
+#~ msgid "First %s Security Password Use"
+#~ msgstr "Pirmā %s drošības paroles izmantošana"
+
+#~ msgid ""
+#~ "Please change the initial temporary %s security password that was sent to "
+#~ "you in a separate email."
+#~ msgstr ""
+#~ "Lūdzu nomainiet sākotnējo %s drošības režīma paroli, kura tika jums "
+#~ "nosūtīta atsevišķā e-pastā."
+
+#~ msgid "Initial Password"
+#~ msgstr "Sākotnējā parole"
+
+#~ msgid "New Password"
+#~ msgstr "Jaunā parole"
+
+#~ msgid "Confirm New"
+#~ msgstr "Apstiprinājums"
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password.</p>"
+#~ msgstr "Lūdzu norādiet alternatīvo e-pastu paroles atiestatīšanai.</p>"
+
+#~ msgid "Verify:"
+#~ msgstr "Pārbaude:"
+
+#~ msgid ""
+#~ "Warning: This password for encryption cannot be restored or recovered in "
+#~ "any way.  If forgotten, all encrypted data will be lost."
+#~ msgstr ""
+#~ "Brīdinājums: Šī šifrēšanas parole nevar tikt atgūta vai atjaunota ne ar "
+#~ "kādiem rīkiem. Ja tā tiks aizmirsta, visi šifrētie dati būs zaudēti."
+
+#~ msgid "Success"
+#~ msgstr "Veiksmīgi"
+
+#~ msgid "Password changed successfully"
+#~ msgstr "Paroles nomaiņa ir veiksmīga"
+
+#~ msgid "New password must be at least %s characters long"
+#~ msgstr "Jaunajai parolei ir jābūt vismaz %s simbolus garai"
+
+#~ msgid "Encryption key not found"
+#~ msgstr "Šifrēšanas atslēga nav atrasta"
+
+#~ msgid "Failed to change password"
+#~ msgstr "Kļūda pie paroles nomaiņas"
+
+#~ msgid "Download decrypted"
+#~ msgstr "Lejupielādēt atšifrētu"
+
+#~ msgid "Add and encrypt local file"
+#~ msgstr "Pievienot un šifrēt lokālo failu"
+
+#~ msgid "Remove encryption"
+#~ msgstr "Noņemt šifrēšanu"
+
+#~ msgid "Encrypt"
+#~ msgstr "Šifrēt"
+
+#~ msgid "Send by mail"
+#~ msgstr "Sūtīt ar pastu"
+
+#~ msgid "Download encrypted"
+#~ msgstr "Lejupielādēt šifrētu"
+
+#~ msgid "Pop out"
+#~ msgstr "Izlekt"
+
+#~ msgid "Pop out standalone viewer"
+#~ msgstr "Parādīt atsevišķu apskatlogu"
+
+#~ msgid "Decrypt and open"
+#~ msgstr "Atšifrēt un atvērt"
+
+#~ msgid "Drop files here to encrypt"
+#~ msgstr "Lai šifrētu, nomest failus šeit"
+
+#~ msgid "Recipient Options"
+#~ msgstr "Saņēmēja opcijas"
+
+#~ msgid ""
+#~ "At least one of your recipients uses a different webmail system.  They "
+#~ "will receive an email with a link for them to read this message.  If you "
+#~ "like, you can add a personalized message that will appear at the top of "
+#~ "this message.  This will help identify the message as coming from you."
+#~ msgstr ""
+#~ "Vismaz viens no saņēmējiem izmanto atšķirīgu web-pasta sistēmu. Viņi "
+#~ "saņems e-pastu ar saiti šī ziņojuma lasīšanai. Ja vēlaties, varat "
+#~ "pievienot personīgu paziņojumu, kurš tiks uzrādīts šī ziņojuma sākumā. "
+#~ "Tas palīdzēs identificēt jūs kā šī ziņojuma sūtītāju."
+
+#~ msgid "Message:"
+#~ msgstr "Ziņojums:"
+
+#~ msgid "Language for recipient Email"
+#~ msgstr "Saņēmēja e-pasta valoda"
+
+#~ msgid "Note: Emails sent to mailing lists or groups will not work."
+#~ msgstr ""
+#~ "Piezīme: Izplatīšanas sarakstiem vai grupām nosūtītās vēstules nestrādās"
+
+#~ msgid ""
+#~ "Mailing list / blocked email found.  Encrypted emails to this email will "
+#~ "fail.  %s"
+#~ msgstr ""
+#~ "Atrasts izplatīšanas saraksts vai bloķēta adrese. Vēstuļu šifrēšana šīm "
+#~ "adresēm nestrādās. %s"
+
+#~ msgid ""
+#~ "The key for %s has expired.  You will not be able to send an encrypted "
+#~ "email to this recipient."
+#~ msgstr ""
+#~ "%s atslēgas derīgums ir beidzies.  Jūs šim adresātam nevarat nosūtīt "
+#~ "šifrētu e-pastu."
+
+#~ msgid "HTML Formatted Email"
+#~ msgstr "HTML formatēts e-pasts"
+
+#~ msgid ""
+#~ "HTML formatted emails may cause issues with PGP inline.  Click OK to "
+#~ "change to Plain Text formatted Emails."
+#~ msgstr ""
+#~ "HTML formatētas vēstules var radīt iekšrindu PGP šifrēšanas problēmas. "
+#~ "Lai pārslēgtos uz vienkārša teksta formatējumu, piespiediet Labi."
+
+#~ msgid "HTML format is not recommended when using PGP Inline"
+#~ msgstr ""
+#~ "HTML formāts nav ieteicams, ja tiek izmantota PGP iekšrindu šifrēšana"
+
+#~ msgid "Recipients cannot be added to this encrypted reply"
+#~ msgstr "Adresāti nevar tikt pievienoti šai šifrētajai atbildei"
+
+#~ msgid "Reply must be encrypted"
+#~ msgstr "Atbildei ir jābūt šifrētai"
+
+#~ msgid "Unable to attach your public key"
+#~ msgstr "Nevar pievienot jūsu publisko atslēgu"
+
+#~ msgid "Will create new guest account for %s"
+#~ msgstr "Tiks izveidots jauns %s viesa konts"
+
+#~ msgid "Encryption Key Known"
+#~ msgstr "Šifrēšanas atslēga ir zināma"
+
+#~ msgid "Send"
+#~ msgstr "Nosūtīt"
+
+#~ msgid "Send Encrypted"
+#~ msgstr "Sūtīt šifrētu"
+
+#~ msgid "Send Secure"
+#~ msgstr "Sūtīt kā drošu"
+
+#~ msgid "Loaded"
+#~ msgstr "Ielādēts"
+
+#~ msgid "Secure Email, enter your %s security password."
+#~ msgstr "Šifrēts e-pasts, ievadiet savu %s drošības paroli."
+
+#~ msgid "Keep me logged into %s"
+#~ msgstr "Uzturēt nepārtrauktu %s pieslēgumu"
+
+#~ msgid "10 minutes"
+#~ msgstr "10 minūtes"
+
+#~ msgid "20 minutes"
+#~ msgstr "20 minūtes"
+
+#~ msgid "30 minutes"
+#~ msgstr "30 minūtes"
+
+#~ msgid "1 hour"
+#~ msgstr "1 stundu"
+
+#~ msgid "2 hours"
+#~ msgstr "2 stundas"
+
+#~ msgid "Session"
+#~ msgstr "Sesija"
+
+#~ msgid "Select Key Location"
+#~ msgstr "Norādiet atslēgas vietu"
+
+#~ msgid "Temporary Lockout"
+#~ msgstr "Īslaicīgs atslēgums"
+
+#~ msgid "Security PIN"
+#~ msgstr "Drošības PIN"
+
+#~ msgid "Recipients:"
+#~ msgstr "Saņēmēji:"
+
+#~ msgid ""
+#~ "The new recipients listed below will be sent a password via email.  You "
+#~ "can also require a separate pin, which is displayed below."
+#~ msgstr ""
+#~ "Zemāk pārskaitītajiem jaunajiem saņēmējiem paroles tiks nosūtītas ar e-"
+#~ "pastu. Jūs varat arī pieprasīt atsevišķu PIN, kurš ir parādīts zemāk."
+
+#~ msgid ""
+#~ "You may deliver this pin any way you see fit, but we recommend doing it "
+#~ "in a second method other than email (Phone, SMS, Skype, etc)."
+#~ msgstr ""
+#~ "Jūs varat piegādāt šo PIN saņēmējiem kādā veidā vēlaties, bet mēs "
+#~ "rekomendējam šim nolūkam izmantot kādu citu piegādes veidu (piem., SMS, "
+#~ "Skype, u.t.t.)."
+
+#~ msgid "If you want this extra pin requirement, click OK."
+#~ msgstr "Ja vēlaties izmantot papildus PIN prasību piespiediet 'Labi'."
+
+#~ msgid "Skip"
+#~ msgstr "Izlaist"
+
+#~ msgid "Unable to get key"
+#~ msgstr "Nevar iegūt atslēgu"
+
+#~ msgid "Please enter your %s password to sign this email."
+#~ msgstr "Lai parakstītu šo e-pastu, lūdzu ievadiet savu %s paroli."
+
+#~ msgid ""
+#~ "There appears to be an encrypted attachment.  Please enter your %s "
+#~ "password to decode the attachment for sending."
+#~ msgstr ""
+#~ "Atrasts šifrēts pielikums. Lūdzu ievadiet savu %s paroli pievienojuma "
+#~ "atšifrēšanai pirms nosūtīšanas."
+
+#~ msgid "Please re-enter your %s password before sending."
+#~ msgstr "Ludzu atkārtoti ievadiet savu %s paroli pirms nosūtīšanas."
+
+#~ msgid "Please re-enter your %s password before saving."
+#~ msgstr "Lūdzu atkārtoti ievadiet savu %s paroli pirms saglabāšanas."
+
+#~ msgid "Please re-enter your %s password."
+#~ msgstr "Lūdzu atkārtoti ievadiet savu %s paroli."
+
+#~ msgid "Security"
+#~ msgstr "Drošība"
+
+#~ msgid "PGP"
+#~ msgstr "PGP"
+
+#~ msgid "Secure"
+#~ msgstr "Drošs"
+
+#~ msgid "Sign"
+#~ msgstr "Parakstīt"
+
+#~ msgid "Format"
+#~ msgstr "Formāts"
+
+#~ msgid "PGP Mime"
+#~ msgstr "PGP Mime"
+
+#~ msgid "PGP Inline"
+#~ msgstr "PGP ietverts"
+
+#~ msgid "Keys"
+#~ msgstr "Atslēgas"
+
+#~ msgid "Attach my key"
+#~ msgstr "Pievienot manu atslēgu"
+
+#~ msgid "Unable to find keys for all recipients."
+#~ msgstr "Nevar atrast atslēgas visiem saņēmējiem."
+
+#~ msgid "Unable to connect to the encryption server."
+#~ msgstr "Kļūda pieslēdoties pie šifrēšanas servera."
+
+#~ msgid "Unable to find the item on the server"
+#~ msgstr "Vienība serverī nav atrasta"
+
+#~ msgid "Unable to get the key for that item"
+#~ msgstr "Nevar iegūt vienībai atbilstošo atslēgu"
+
+#~ msgid "Unable to retrieve your user keys to decode"
+#~ msgstr "Nevar iegūt atšifrēšanai nepieciešamās jūsu lietotāja atslēgas"
+
+#~ msgid "Bad extra password"
+#~ msgstr "Nepareiza papildus parole"
+
+#~ msgid "No private key to decode this message"
+#~ msgstr "Privātā atslēga ziņojuma atšifrēšanai nav pieejama"
+
+#~ msgid "Unable to decrypt Email, incorrect password."
+#~ msgstr "Kļūda pie e-pasta atkodēšanas, nepareiza parole."
+
+#~ msgid "To reset or recover your password, click %s"
+#~ msgstr "Lai atiestatītu vai atgūtu savu paroli, piespiediet %s"
+
+#~ msgid "Settings"
+#~ msgstr "Iestatījumi"
+
+#~ msgid "No Private Key available for this encrypted item."
+#~ msgstr "Privātā atslēga šai šifrētajai vienībai nav pieejama ."
+
+#~ msgid "Key Ids:"
+#~ msgstr "Atslēgas ID:"
+
+#~ msgid "Your account is locked out for %s minutes"
+#~ msgstr "Jūsu konts ir atslēgts uz %s minūtēm"
+
+#~ msgid "Server Error: "
+#~ msgstr "Servera kļūda: "
+
+#~ msgid "Password needed"
+#~ msgstr "Nepieciešama parole"
+
+#~ msgid "Please enter your %s password"
+#~ msgstr "Lūdzu ievadiet savu %s paroli"
+
+#~ msgid "Remember my password"
+#~ msgstr "Atcerēties manu paroli"
+
+#~ msgid "Account locked out due to bad attempts.  Please try again later."
+#~ msgstr ""
+#~ "Konts ir bloķēts nesekmīgu mēģinājumu rezultātā. Lūdzu mēģiniet vēlāk "
+#~ "vēlreiz."
+
+#~ msgid "Error checking password"
+#~ msgstr "Kļūda pie paroles pārbaudes"
+
+#~ msgid "Delete Public Key"
+#~ msgstr "Dzēst publisko atslēgu"
+
+#~ msgid "Click OK to confirm"
+#~ msgstr "Lai apstiprinātu piespiediet 'Labi'"
+
+#~ msgid "Email"
+#~ msgstr "E-pasts"
+
+#~ msgid "Key Ids"
+#~ msgstr "Atslēgu ID"
+
+#~ msgid "Details"
+#~ msgstr "Detaļas"
+
+#~ msgid "Delete"
+#~ msgstr "Dzēst"
+
+#~ msgid "No Keys Found"
+#~ msgstr "Atslēgas nav atrastas"
+
+#~ msgid "Key Details"
+#~ msgstr "Atslēgu detaļas"
+
+#~ msgid "Share Keys"
+#~ msgstr "Koplietot atslēgas"
+
+#~ msgid "Use PGP Inline"
+#~ msgstr "Lietot ietvertu PGP"
+
+#~ msgid "Signatures"
+#~ msgstr "Paraksti"
+
+#~ msgid "Expired"
+#~ msgstr "Derīgums beidzies"
+
+#~ msgid "Revoked"
+#~ msgstr "Atsaukts"
+
+#~ msgid "Fingerprint:"
+#~ msgstr "Pirkstu nospiedums:"
+
+#~ msgid "Created:"
+#~ msgstr "Izveidots:"
+
+#~ msgid "Master:"
+#~ msgstr "Galvenais:"
+
+#~ msgid "True"
+#~ msgstr "Patiess"
+
+#~ msgid "False"
+#~ msgstr "Nepatiess"
+
+#~ msgid "Encryption:"
+#~ msgstr "Šifrēšana:"
+
+#~ msgid "IDs: "
+#~ msgstr "ID:"
+
+#~ msgid "Expires in %1$s days"
+#~ msgstr "Derīgums beidzas pēc %1$s dienām"
+
+#~ msgid "Problem getting signatures"
+#~ msgstr "Kļūda pie parakstu iegūšanas"
+
+#~ msgid "Positive"
+#~ msgstr "Pozitīvs"
+
+#~ msgid "Failed check"
+#~ msgstr "Nesekmīga pārbaude"
+
+#~ msgid "Missing public"
+#~ msgstr "Iztrūkstoša publiskā atslēga"
+
+#~ msgid "Casual"
+#~ msgstr "Nejaušs"
+
+#~ msgid "Revocation"
+#~ msgstr "Atsaukts"
+
+#~ msgid "Direct cert"
+#~ msgstr "Tieši sertificēts"
+
+#~ msgid "Default Certification"
+#~ msgstr "Noklusēti sertificēts"
+
+#~ msgid "No signatures"
+#~ msgstr "Nav parakstu"
+
+#~ msgid "ID Signed"
+#~ msgstr "ID parakstīts"
+
+#~ msgid "Certification"
+#~ msgstr "Sertifikācija"
+
+#~ msgid "Signed by"
+#~ msgstr "Parakstītājs"
+
+#~ msgid "Image"
+#~ msgstr "Attēls"
+
+#~ msgid "Key Signatures"
+#~ msgstr "Atslēgu parakti"
+
+#~ msgid "PGP Public Key List"
+#~ msgstr "PGP publisko atslēgu saraksts"
+
+#~ msgid "This Email was encrypted with PGP."
+#~ msgstr "Šis e-pasts ir šifrēts, izmantojot PGP."
+
+#~ msgid "This Email was signed and verified."
+#~ msgstr "Šis e-pasts ir parakstīts un ir pārbaudīts."
+
+#~ msgid "This Email was signed and failed verification."
+#~ msgstr "Šis e-pasts ir parakstīts, bet pārbaude ir nesekmīga."
+
+#~ msgid "This Email was signed but unable to verify."
+#~ msgstr "Šis e-pasts ir parakstīts, bet to nav iespējams pārbaudīt."
+
+#~ msgid ""
+#~ "This Email was sent using PGP encryption. It has been decrypted with your "
+#~ "private key"
+#~ msgstr ""
+#~ "Šis e-pasts ir nosūtīts izmantojot PGP kodējumu un ir atkodēts, "
+#~ "izmantojot jūsu privāto atslēgu"
+
+#~ msgid "This Email was signed by the sender and verified."
+#~ msgstr "Šo e-pastu sūtītājs ir parakstījis un tas ir pārbaudīts."
+
+#~ msgid "PGP Public Key Found.  Click to Import"
+#~ msgstr "Atrasta PGP publiskā atslēga. Klikšķiniet lai importētu"
+
+#~ msgid "Save encrypted to %1$s"
+#~ msgstr "Saglabāt šifrēti iekš %1$s"
+
+#~ msgctxt "app"
+#~ msgid "Drive"
+#~ msgstr "Krātuve"
+
+#~ msgid "Check assigned PIN"
+#~ msgstr "Pārbaudīt pret PIN"
+
+#~ msgid "PIN"
+#~ msgstr "PIN"
+
+#~ msgid "Added keys: \r\n"
+#~ msgstr "Pievienotās atslēgas: \r\n"
+
+#~ msgid "Key ID: "
+#~ msgstr "Atslēgas ID:"
+
+#~ msgid "Service Unavailable"
+#~ msgstr "Serviss nav pieejams"
+
+#~ msgid "Advanced Settings"
+#~ msgstr "Paplašinātie iestatījumi"
+
+#~ msgid "Download PGP Public Key"
+#~ msgstr "Lejupielādēt PGP publisko atslēgu"
+
+#~ msgid "Email your PGP Public Key"
+#~ msgstr "Nosūtīt jūsu PGP publisko atslēgu"
+
+#~ msgid "Your Keys"
+#~ msgstr "Jūsu atslēgas"
+
+#~ msgid "Your Key List"
+#~ msgstr "Jūsu atslēgu saraksts"
+
+#~ msgid "Key ID"
+#~ msgstr "Atslēgas ID"
+
+#~ msgid "Private Key"
+#~ msgstr "Privātā atslēga"
+
+#~ msgid "Current"
+#~ msgstr "Pašreizēji"
+
+#~ msgid "Download"
+#~ msgstr "Lejupielādēt"
+
+#~ msgid "Edit"
+#~ msgstr "Rediģēt"
+
+#~ msgid "Adding Keys"
+#~ msgstr "Pievieno atslēgas"
+
+#~ msgid "If you already have a private key, you can upload it here."
+#~ msgstr "Ja jums jau ir privātā atslēga, jūs to varat augšupielādēt šeit."
+
+#~ msgid "Upload Private Key"
+#~ msgstr "Augšupielādēt privāto atslēgu"
+
+#~ msgid "Finally, you can have a new PGP Key Pair created for your account."
+#~ msgstr "Beidzot, jūs savam kontam varat izveidot jaunu PGP atslēgu pāri."
+
+#~ msgid "Create New Keys"
+#~ msgstr "Izveidot jaunas atslēgas"
+
+#~ msgid "Adding UserID"
+#~ msgstr "Pievieno lietotāja ID"
+
+#~ msgid "Add a name and email address to this public key."
+#~ msgstr "Pievienot publiskajai atslēgai vārdu un e-pasta adresi."
+
+#~ msgid "Name"
+#~ msgstr "Vārds"
+
+#~ msgid "Please enter your key password"
+#~ msgstr "Lūdzu ievadiet atslēgas paroli"
+
+#~ msgid "Invalid Email Address"
+#~ msgstr "Nepareiza e-pasta adrese"
+
+#~ msgid "Invalid Name"
+#~ msgstr "Nepareizs vārds"
+
+#~ msgid "Enter password"
+#~ msgstr "Ievadiet paroli"
+
+#~ msgid "User ID added"
+#~ msgstr "Lietotāja ID ir pievienots"
+
+#~ msgid "Failed to add UserID"
+#~ msgstr "Kļūda pie lietotāja ID pievienošanas"
+
+#~ msgid "Revoke Private Key"
+#~ msgstr "Atsaukt privāto atslēgu"
+
+#~ msgid ""
+#~ "Revoke the key: This advises others that you no longer want this key "
+#~ "used.  You can continue to decode any encrypted data using the key."
+#~ msgstr ""
+#~ "Atsaukt atslēgu: visiem tiks paziņots, ka jūs vairs nevēlaties izmantot "
+#~ "šo atslēgu. Tomēr, jūs varat turpināt ar šo atslēgu atkodēt šifrētās "
+#~ "vēstules."
+
+#~ msgid "Delete Private Key"
+#~ msgstr "Dzēst privāto atslēgu"
+
+#~ msgid "There are two options if you no longer want to use this key"
+#~ msgstr "Ja vairāk nevēlaties izmantot šo atslēgu, ir divas iespējas"
+
+#~ msgid ""
+#~ "Revoke the key: This advises others that you no longer want this key "
+#~ "used.  You can continue to decode any encrypted data using the key. "
+#~ "(Recommended)"
+#~ msgstr ""
+#~ "Atsaukt atslēgu: visiem tiks paziņots, ka jūs vairs nevēlaties izmantot "
+#~ "šo atslēgu. Tomēr, jūs varat turpināt ar šo atslēgu atkodēt šifrētās "
+#~ "vēstules. (Ieteicams)"
+
+#~ msgid ""
+#~ "Deleting the key: Deleting the private key will render all encrypted "
+#~ "items unreadable.  You will not be able to decode emails or files that "
+#~ "were enrypted with this key.  This cannot be undone."
+#~ msgstr ""
+#~ "Dzēst atslēgu Privātās atslēgas dzēšana padarīs visas šifrētās vēstules "
+#~ "nelasāmas. Jūs nevarēsit atšifrēt pastu vai skatīt failus, kuri ir "
+#~ "šifrēti, izmantojot šo atslēgu. Šī darbība nevar tikt atsaukta."
+
+#~ msgid "Revoke"
+#~ msgstr "Atsaukt"
+
+#~ msgid ""
+#~ "You will no longer be able to decode any items that were encrypted with "
+#~ "this key!"
+#~ msgstr ""
+#~ "Jūs vairs nevarēsiet atšifrēt nevienu vienību, kura ir šifrēta, "
+#~ "izmantojot šo atslēgu!"
+
+#~ msgid "Enter your password below to confirm and verify"
+#~ msgstr "Lai apstiprinātu un pārbaudītu, lūdzu ievadiet paroli"
+
+#~ msgid "Bad Password"
+#~ msgstr "Nepareiza parole"
+
+#~ msgid "Key Deleted"
+#~ msgstr "Atslēga ir izdzēsta"
+
+#~ msgid "Failed to delete key"
+#~ msgstr "Kļūda pie atslēgas dzēšanas"
+
+#~ msgid "Problem deleting key"
+#~ msgstr "Problēmas pie atslēgas dzēšanas"
+
+#~ msgid "Please verify you want to delete this key"
+#~ msgstr "Lūdzu apstipriniet, ka vēlaties dzēst šo atslēgu"
+
+#~ msgid "Failed to delete"
+#~ msgstr "Kļūda pie dzēšanas"
+
+#~ msgid ""
+#~ "This will advise people not to use this key.  You can still use the key "
+#~ "to decode existing items."
+#~ msgstr ""
+#~ "Visi korespondenti tiks brīdināti neizmantot šo atslēgu. Jūs joprojām "
+#~ "varēsit izmantot šo atslēgu esošo vienību atšifrēšanai."
+
+#~ msgid "Reason"
+#~ msgstr "Iemesls"
+
+#~ msgid "No Reason"
+#~ msgstr "Bez iemesla"
+
+#~ msgid "Key superseded"
+#~ msgstr "Atslēga ir aizstāta"
+
+#~ msgid "Key compromised"
+#~ msgstr "Atslēga ir nedroša"
+
+#~ msgid "Key retired"
+#~ msgstr "Atslēga ir atbrīvota"
+
+#~ msgid "User no longer valid"
+#~ msgstr "Lietotājs vairs nav derīgs"
+
+#~ msgid "Key Revoked"
+#~ msgstr "Atslēga ir atsaukta"
+
+#~ msgid "Failed to revoke key"
+#~ msgstr "Kļūda pie atslēgas atsaukšanas"
+
+#~ msgid "Download Key"
+#~ msgstr "Lejupielādēt atslēgu"
+
+#~ msgid "Download your private key for use with other email programs"
+#~ msgstr ""
+#~ "Lejupielādēt jūsu privāto atslēgu lietošanai citās e-pasta programmās"
+
+#~ msgid "Do not distribute this key.  It is for your use only"
+#~ msgstr "Nepārsūtiet tālāk šo atslēgu. Tā ir tikai jūsu lietošanai"
+
+#~ msgid "Download PGP Private Key"
+#~ msgstr "Lejupielādēt PGP privāto atslēgu"
+
+#~ msgid "Download Public and Private Key"
+#~ msgstr "Lejupielādēt publisko un privāto atslēgu"
+
+#~ msgid "Key ID:"
+#~ msgstr "Atslēgas ID:"
+
+#~ msgid "Expires:"
+#~ msgstr "Derīgums:"
+
+#~ msgid "Private Key: "
+#~ msgstr "Privātā atslēga:"
+
+#~ msgid ""
+#~ "If you would like to upload a public key only, then do so here.  This "
+#~ "will allow you to encrypt files and receive encrypted emails using %s, "
+#~ "but you will need to use the private key with another program to decode "
+#~ "the items."
+#~ msgstr ""
+#~ "Ja jūs vēlaties ielādēt tikai publisko atslēgu, dariet to šeit. Tas ļaus "
+#~ "jums šifrēt failus un saņemt šifrētu e-pastu, izmantojot %s. Tomēr, jums "
+#~ "vajadzēs izmantot privāto atslēgu, lai vienumus atšifrētu ar citu "
+#~ "programmu."
+
+#~ msgid "Upload Public Key Only"
+#~ msgstr "Ielādēt tikai publisko atslēgu"
+
+#~ msgid "PGP Public Key is attached"
+#~ msgstr "Publiskā PGP atslēga ir pievienota"
+
+#~ msgid "Public Keys"
+#~ msgstr "Publiskās atslēgas"
+
+#~ msgid "Failed to update settings"
+#~ msgstr "Kļūda pie iestatījumu jaunināšanas"
+
+#~ msgid "Email format"
+#~ msgstr "E-pasta formāts"
+
+#~ msgid ""
+#~ "Emails that contain HTML and are sent with PGP Inline will often result "
+#~ "in decoding errors and possible failure.  As a result, the default Email "
+#~ "format should be changed to plaintext.  Click OK to change the default to "
+#~ "plaintext, cancel to keep your current setting."
+#~ msgstr ""
+#~ "HTML saturošas e-pasta vēstules, kuras ir nosūtītas ar iekšrindu PGP "
+#~ "šifrējumu bieži izraisa atšifrēšanas kļūdas. Tāpēc noklusētais e-pasta "
+#~ "formāts ir jāizmaina uz tīra teksta formātu. Lai atbilstoši izmainītu "
+#~ "noklusēto e-pasta formātu, noklikšķiniet uz Labi. Lai saglaātu pašreizējo "
+#~ "formātu, noklikšķiniet uz Atcelt."
+
+#~ msgid "Ask each time"
+#~ msgstr "Vaicāt katru reizi"
+
+#~ msgid "Remember Password Default"
+#~ msgstr "Atcerēties Paroli Noklusējums"
+
+#~ msgid "Default to send encrypted when composing email"
+#~ msgstr "Pēc noklusējuma sūtīt šifrētas vēstules"
+
+#~ msgid "Encrypt all incoming emails"
+#~ msgstr "Šifrēt visu ienākošo pastu"
+
+#~ msgid "Default adding signature to outgoing mails"
+#~ msgstr "Pēc noklusējuma izejošajam e-pastam pievienot parakstu"
+
+#~ msgid "Default to using PGP inline for new mails"
+#~ msgstr "Jaunām vēstulēm pēc noklusējuma izmantot PGP iekšrindu šifrēšanu"
+
+#~ msgid "Please wait"
+#~ msgstr "Lūdzu uzgaidiet"
+
+#~ msgid "Advanced"
+#~ msgstr "Paplašināti"
+
+#~ msgid "Enable Advanced PGP Features"
+#~ msgstr "Iespējot paplašinātos PGP iestatījumus"
+
+#~ msgid "PGP Encryption Settings"
+#~ msgstr "PGP šifrēšanas iestatījumi"
+
+#~ msgid "Security Settings"
+#~ msgstr "Drošības iestatījumi"
+
+#~ msgid "Keys uploaded"
+#~ msgstr "Atslēga ir augšupielādēta"
+
+#~ msgid "Failed to upload"
+#~ msgstr "Kļūda pie augšupielādes"
+
+#~ msgid "The public key must have your primary email as a user ID"
+#~ msgstr ""
+#~ "Publiskajai atslēgai kā lietotāja ID ir jāizmanto jūsu primārā e-pasta "
+#~ "adrese"
+
+#~ msgid "Upload Private Keys"
+#~ msgstr "Augšupielādēt privāto atslēgu"
+
+#~ msgid "Please enter passwords for the upload"
+#~ msgstr "Lūdzu ievadiet paroles augšupielādei"
+
+#~ msgid "Enter new password for the key:"
+#~ msgstr "Atslēgas jaunā parole:"
+
+#~ msgid "Confirm Password:"
+#~ msgstr "Apstiprināt paroli:"
+
+#~ msgid "Private key password for the key you are uploading:"
+#~ msgstr "Privātās atslēgas parole atslēgai, kuru ielādēsiet:"
+
+#~ msgid "Private Key Uploaded"
+#~ msgstr "Privātā atslēga augšupielādēta"
+
+#~ msgid "This key already exists"
+#~ msgstr "Šī atslēga jau eksistē"
+
+#~ msgid "Bad PGP Password"
+#~ msgstr "Nepareiza PGP parole"
+
+#~ msgid "The private key must have your primary email as a user ID"
+#~ msgstr ""
+#~ "Privātajai atslēgai kā lietotāja ID ir jāizmanto jūsu primārā e-pasta "
+#~ "adrese"
+
+#~ msgid "Must use same password as existing key to merge"
+#~ msgstr "Sapludināšanai ir jāizmanto tā pati esošās atslēgas parole"
+
+#~ msgid "Problem uploading Private Key "
+#~ msgstr "Problēmas pie privātās atslēgas ielādes"
+
+#~ msgid "Logged out of %s"
+#~ msgstr "Atslēgts no %s"
+
+#~ msgid "Failed to log out of %s"
+#~ msgstr "Kļūda atslēdzoties no %s"
+
+#~ msgid "Guided tour for %s"
+#~ msgstr "Iepazīstināšana ar %s"
+
+#~ msgid "Sign out %s"
+#~ msgstr "Atslēgties no %s"
+
+#~ msgctxt "app"
+#~ msgid "%s Security"
+#~ msgstr "%s drošība"
+
+#~ msgid "Get Started"
+#~ msgstr "Uzsākšana"
+
+#~ msgid ""
+#~ "In order to start with %s Security, you must set up a password for your "
+#~ "secured files."
+#~ msgstr ""
+#~ "Lai uzsāktu darbu ar %s, jums ir jāiestata parole, kura tiks izmantota "
+#~ "failu aizsardzībai."
+
+#~ msgid "Start"
+#~ msgstr "Sākt"
+
+#~ msgid "%s Security Settings"
+#~ msgstr "%s drošības iestatījumi"
+
+#~ msgid "Change %s Security Password."
+#~ msgstr "%s drošības paroles maiņa."
+
+#~ msgid "Enter current %s security password"
+#~ msgstr "Ievadiet pašreizējo %s paroli"
+
+#~ msgid "Enter new %s security password"
+#~ msgstr "Ievadiet jauno %s paroli"
+
+#~ msgid "Verify new %s security password"
+#~ msgstr "Atkārtojiet jauno %s paroli"
+
+#~ msgid "Change %s security password"
+#~ msgstr "Mainīt %s drošības paroli"
+
+#~ msgid "Reset %s security password"
+#~ msgstr "Atiestatīt %s drošības paroli"
+
+#~ msgid "Send a temporary %s security password to my secondary Email address."
+#~ msgstr ""
+#~ "Nosūtīt pagaidu %s drošības paroli uz manu alternatīvo e-pasta adresi."
+
+#~ msgid "Delete Password Recovery"
+#~ msgstr "Dzēst paroles atgūšanas informāciju"
+
+#~ msgid "Advanced Users Only!"
+#~ msgstr "Tikai lietpratējiem!"
+
+#~ msgid ""
+#~ "Delete the password recovery.  The recovery is used to reset your "
+#~ "password.  If you delete the recovery, you will not be able to reset your "
+#~ "password if you forget it.  Changing your password will restore the "
+#~ "recovery."
+#~ msgstr ""
+#~ "Paroles atgūšanas informācijas dzēšana. Paroles atgūšanas informācija "
+#~ "tiek izmantota, lai atiestatītu jūsu paroli. Ja šī informācija tiks "
+#~ "dzēsta, jūs nevarēsit atiestatīt paroli, ja tā būs aizmirsta."
+
+#~ msgid "Please verify your password before deleting the recovery."
+#~ msgstr "Pirms atgūšanas informācijas dzēšanas lūdzu apstipriniet paroli."
+
+#~ msgid "Recovery deleted"
+#~ msgstr "Atgūšanas informācija ir izdzēsta"
+
+#~ msgid "Current Email address:"
+#~ msgstr "Pašreizējā e-pasta adrese:"
+
+#~ msgid "Secondary Email"
+#~ msgstr "Alternatīvais e-pasts"
+
+#~ msgid "Change Email address used for password reset."
+#~ msgstr "Nomainīt e-pasta adresi paroles atiestatīšanai."
+
+#~ msgid "Verify Email address"
+#~ msgstr "Pārbaudīt e-pasta adresi"
+
+#~ msgid "Change Email address"
+#~ msgstr "Nomainīt e-pasta adresi"
+
+#~ msgid "None - Primary Email will be used"
+#~ msgstr "Nenorādīts - tiks izmantota primārā e-pasta adrese"
+
+#~ msgid "Invalid email address"
+#~ msgstr "Nepareiza e-pasta adrese"
+
+#~ msgid "Successfully changed email address"
+#~ msgstr "E-pasta adrese ir veiksmīgi nomainīta"
+
+#~ msgid "A new password has been sent to your email address."
+#~ msgstr "Jaunā parole ir nosūtīta uz jūsu e-pasta adresi."
+
+#~ msgid "A new password has been sent to your secondary email address."
+#~ msgstr "Jaunā parole ir nosūtīta uz jūsu alternatīvo e-pasta adresi."
+
+#~ msgid "No password recovery is available."
+#~ msgstr "Paroles atgūšana nav iespējama."
+
+#~ msgid "Password reset, but unable to send to your email address."
+#~ msgstr ""
+#~ "Parole ir atiestatīta, bet nevar tikt nosūtīta uz jūsu e-pasta adresi."
+
+#~ msgid "Unable to find email address to send password reset."
+#~ msgstr "Nav pieejama e-pasta adrese atiestatītās paroles nosūtīšanai."
+
+#~ msgid "Unable to reset your password"
+#~ msgstr "Paroles atiestatīšana nav iespējama"
+
+#~ msgid "Next"
+#~ msgstr "Tālāk"
+
+#~ msgid "Simple and Easy"
+#~ msgstr "Vienkārši un viegli"
+
+#~ msgctxt "Choice"
+#~ msgid "One click encryption for Emails and files"
+#~ msgstr "Viena klikšķa šifrēšana vēstulēm un failiem"
+
+#~ msgctxt "Choice"
+#~ msgid "Works in all browsers with all your contacts"
+#~ msgstr "Darbojas visās pārlūkprogrammās ar visiem jūsu kontaktiem"
+
+#~ msgctxt "Choice"
+#~ msgid "Easy to use, every day"
+#~ msgstr "Viegli lietot, katru dienu"
+
+#~ msgctxt "Choice"
+#~ msgid "Security details managed by us"
+#~ msgstr "Drošības detaļas pārvaldām mēs"
+
+#~ msgctxt "Choice"
+#~ msgid ""
+#~ "If you do not have deep knowledge of encryption, but you would like to "
+#~ "easily secure your communication with your friends or business contacts, "
+#~ "this option fits perfectly for you. Safe Email, made simple!"
+#~ msgstr ""
+#~ "Ja jums nav plašu šifrēšanas zināšanu, bet jūs vēlaties ērti šifrēt savas "
+#~ "komunikācijas ar draugiem vai biznesa partneriem, šī opcija jums ir "
+#~ "labākā izvēle. Vienkāršs risinājums drošam šifrētam e-pastam!"
+
+#~ msgctxt "Choice"
+#~ msgid "Encryption Expert"
+#~ msgstr "Šifrēšana ekspertiem"
+
+#~ msgctxt "Choice"
+#~ msgid "Expert encryption options available"
+#~ msgstr "Pieejamas šifrēšanas opcijas ekspertiem"
+
+#~ msgctxt "Choice"
+#~ msgid "Works only in Firefox and Chrome"
+#~ msgstr "Darbojas tikai Firefox un Chrome pārlūkos"
+
+#~ msgctxt "Choice"
+#~ msgid "Browser plugin required"
+#~ msgstr "Nepieciešams pārlūka spraudnis"
+
+#~ msgctxt "Choice"
+#~ msgid "Security details managed by yourself"
+#~ msgstr "Drošības detaļas pārvaldiet jūs pats"
+
+#~ msgctxt "Choice"
+#~ msgid ""
+#~ "If you are an encryption expert, and would like to manage all encryption "
+#~ "details by yourself, this option fits best for you. You need to install a "
+#~ "third-party browser plugin to work with expert encryption."
+#~ msgstr ""
+#~ "Ja esiet šifrēšanas eksperts un vēlaties pats pārvaldīt visas šifrēšanas "
+#~ "detaļas, šī opcija jums ir labākā izvēle. Jums ir jāuzstāda atbilstošais "
+#~ "pārlūka spraudnis darbam šifrēšanas eksperta režīmā."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You already set up your %s account. But you can always change your "
+#~ "encryption password, or request a temporary password if you forget it."
+#~ msgstr ""
+#~ "Jūs jau esat iestatījis savu %s kontu. Tomēr jūs jebkurā brīdī varat "
+#~ "izmainīt savu šifrēšanas paroli, vai arī pieprasīt pagaidu paroli "
+#~ "gadījumiem, ja tā ir aizmirsta."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You already set up your %s account.  You can change your encryption "
+#~ "password here."
+#~ msgstr ""
+#~ "Jūs jau esat iestatījis savu %s kontu. šeit jūs varat izmainīt savu "
+#~ "šifrēšanas drošība paroli."
+
+#~ msgctxt "tour"
+#~ msgid "The %s module"
+#~ msgstr "%s modulis"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Security and privacy matters to everyone. That's why you can now send and "
+#~ "receive encrypted emails by simply clicking on the lock icon."
+#~ msgstr ""
+#~ "Drošība un konfidencialitāte ir nozīmīga ikvienam. Tāpēc tagad jūs varat "
+#~ "nosūtīt un saņemt šifrētus e-pastus, vienkārši uzklikšķinot uz slēdzenes "
+#~ "ikonas."
+
+#~ msgctxt "tour"
+#~ msgid "%s Security Settings"
+#~ msgstr "%s drošības iestatījumi"
+
+#~ msgctxt "tour"
+#~ msgid "PGP Encryption Settings"
+#~ msgstr "PGP šifrēšanas iestatījumi"
+
+#~ msgctxt "tour"
+#~ msgid "Security Settings"
+#~ msgstr "Drošības iestatījumi"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "From here you can update your encryption settings. For example you can "
+#~ "choose to send encrypted emails by default."
+#~ msgstr ""
+#~ "Šeit jūs varat jaunināt savus šifrēšanas iestatījumus. Piemēram, jūs "
+#~ "varat iestatīt šifrēta e-pasta sūtīšanu pēc noklusējuma."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "From here, you can update your security settings.  For example, you can "
+#~ "choose to send secure emails by default."
+#~ msgstr ""
+#~ "Šeit jūs varat jaunināt savus drošības iestatījumus. Piemēram, jūs varat "
+#~ "iestatīt šifrēta e-pasta sūtīšanu pēc noklusējuma."
+
+#~ msgctxt "tour"
+#~ msgid "Signature"
+#~ msgstr "Paraksti"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "In addition to encrypting your emails you can also sign them. This means "
+#~ "that email recipients can be sure that the email really came from you. By "
+#~ "ticking this checkbox your signature will be added to outgoing emails by "
+#~ "default."
+#~ msgstr ""
+#~ "Papiuldus e-pastu šifrēšanai, jūs varat tos arī parakstīt. Tas nozīmē to, "
+#~ "ka e-pasta saņēmēji var būt pārliecināti, ka vēstules esat nosūtījis jūs. "
+#~ "Pie šīs izvēles rūtiņas aktivizēšanas visa jūsu nosūtītajā korespondence "
+#~ "tiks pēc noklusējuma parakstīta."
+
+#~ msgctxt "tour"
+#~ msgid "Alternative: PGP Inline"
+#~ msgstr "Alternatīva: iekšrindu PGP"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "By default %s sends encrypted emails using PGP/Mime format. To "
+#~ "communicate with some systems you may need to use PGP Inline."
+#~ msgstr ""
+#~ "Pēc noklusējuma %s e-pasts tiek nosūtīts, izmantojot PGP/Mime formātu. "
+#~ "Lai komunicētu ar atsevišķām sistēmām jums var būt nepieciešams iekšrindu "
+#~ "PGP formāts."
+
+#~ msgctxt "tour"
+#~ msgid "Advanced Settings"
+#~ msgstr "Paplašināti iestatījumi"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Advanced users can manage their key lists from the PGP Encryption "
+#~ "Settings."
+#~ msgstr ""
+#~ "Zinoši lietotāji var pārvaldīt savus atslēgu sarakstus, izmantojot PGP "
+#~ "šifrēšanas iestatījumus."
+
+#~ msgctxt "tour"
+#~ msgid "Advanced User Settings"
+#~ msgstr "Paplašinātie iestatījumi"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Enabling Advanced PGP Features will enable key management and specifying "
+#~ "sending formats."
+#~ msgstr ""
+#~ "Paplašināto PGP iestatījumu iespējošana ļaus pārvaldīt atslēgas un "
+#~ "specificēt sūtīšanas formātus."
+
+#~ msgctxt "tour"
+#~ msgid "Enabling and disabling encryption"
+#~ msgstr "Šifrēšanas iespējošana un atspējošana"
+
+#~ msgctxt "tour"
+#~ msgid "You are now able to send secure emails."
+#~ msgstr "Tagad jūs varat nosūtīt drošu šifrētu e-pastu."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Sending without encryption is easy, too: Simply click on the lock icon "
+#~ "again."
+#~ msgstr ""
+#~ "Sūtīšana bez šifrēšanas ir vienkārša. Jums ir tikai jānoklikšķina vēlreiz "
+#~ "uz atslēgas ikonas."
+
+#~ msgctxt "tour"
+#~ msgid "Encrypt files"
+#~ msgstr "Failu šifrēšana"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You can also protect your files. Just click on Encrypt and the selected "
+#~ "file will be stored securely."
+#~ msgstr ""
+#~ "Jūs varat arī aizsargāt savus failus. Lai droši saglabātus izvēlēto "
+#~ "failu, vienkārši noklikšķiniet uz 'Šifrēt'."
+
+#~ msgctxt "tour"
+#~ msgid "Encrypt your sensitive files in Drive"
+#~ msgstr "Šifrēt jums būtiskos failus"
+
+#~ msgctxt "tour"
+#~ msgid "Restart Guided Tour"
+#~ msgstr "Atsākt ekskursiju"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "<em>Hint:</em> you can start guided tours, any time you need them, from "
+#~ "the system menu."
+#~ msgstr ""
+#~ "<em>Padoms:</em> jūs varat sākt ekskursijas jebkurā jums vēlamajā laikā, "
+#~ "aktivizējot tās sistēmas izvēlnē."
+
+#~ msgctxt "tour"
+#~ msgid "Guided Tour completed"
+#~ msgstr "Iepazīšanās ekskursija pabeigta"
+
+#~ msgctxt "tour"
+#~ msgid "You successfully learned how to protect your emails and files."
+#~ msgstr "Jūs esat veiksmīgi apguvis kā aizsargāt savu e-pastu un failus."
+
+#~ msgctxt "tour"
+#~ msgid "What you can do now:"
+#~ msgstr "Ko jūs tagad varat paveikt:"
+
+#~ msgctxt "tour"
+#~ msgid "Write an encrypted email"
+#~ msgstr "Rakstīt un nosūtīt šifrētu e-pastu"
+
+#~ msgctxt "tour"
+#~ msgid "Activate encryption for all new emails"
+#~ msgstr "Aktivizēt visu jauno e-pastu šifrēšanu"
+
+#~ msgctxt "tour"
+#~ msgid "Review your encryption settings"
+#~ msgstr "Pārlūkot savus šifrēšanas iestatījumus"
+
+#~ msgctxt "tour"
+#~ msgid "Learn more"
+#~ msgstr "Uzzināt vairāk"
+
+#~ msgid "Start Setup"
+#~ msgstr "Iestatīšanas uzsākšana"
+
+#~ msgctxt "tour"
+#~ msgid "Setup %s"
+#~ msgstr "%s iestatīšana"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Welcome to %1$s. You will now be taken on a tour, showing you how to use "
+#~ "%1$s."
+#~ msgstr ""
+#~ "Esiet sveicināti %1$s. Tagad jums tiks novadīta ekskursija, kurā jūs "
+#~ "iepazīsieties kā izmantot %1$s."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Firstly however, you’ll need to setup %1$s by choosing a password which "
+#~ "will be used to encrypt or decrypt items such as email or files."
+#~ msgstr ""
+#~ "Tomēr vispirms jums ir jāveic %1$s iestatīšana, norādot paroli, kura tiks "
+#~ "izmantota e-pasta vēstuļu un failu šifrēšanai un atšifrēšanai."
+
+#~ msgid "Choose %s Password"
+#~ msgstr "Izvēlieties %s paroli"
+
+#~ msgid "Close"
+#~ msgstr "Aizvērt"
+
+#~ msgctxt "tour"
+#~ msgid "%s set up completed"
+#~ msgstr "%s iestatīšana pabeigta"
+
+#~ msgctxt "tour"
+#~ msgid "Congratulations, you have successfully setup %s"
+#~ msgstr "Apsveicam, jūs esat veiksmīgi iestatījis %s"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Now you can learn more about how to use %s by following the links below:"
+#~ msgstr ""
+#~ "Tagad jūs varat uzzināt vairāk par %s izmantošanu, aktivizējot zemāk "
+#~ "redzamās saites:"
+
+#~ msgctxt "tour"
+#~ msgid "Learn more about %s"
+#~ msgstr "Uzzināt vairāk par %s"
+
+#~ msgid "Choose your security solution"
+#~ msgstr "Izvēlieties sev atbilstošo drošības risinājumu"
+
+#~ msgid "Key found for %1$s.  Import?"
+#~ msgstr "Atrasta atslēga priekš %1$s.  Vai importēt?"
+
+#~ msgid "Import"
+#~ msgstr "Importēt"
+
+#~ msgid "Imported"
+#~ msgstr "Ieimportēts"
+
+#~ msgid "Updated"
+#~ msgstr "Jaunināts"
+
+#~ msgid "Invalidated"
+#~ msgstr "Nepārbaudīts"
+
+#~ msgid "Rejected"
+#~ msgstr "Atteikts"
+
+#~ msgid "Warning"
+#~ msgstr "Brīdinājums"
+
+#~ msgid ""
+#~ "Sending an encrypted email from an account other than %s may cause "
+#~ "problems with the recipient being able to reply.  Consider using your "
+#~ "primary account."
+#~ msgstr ""
+#~ "Šifrēta e-pasta sūtīšana no konta, kurš nav %s konts, var izraisīt "
+#~ "problēmas saņēmējam atbildēt uz šīm vēstulēm. Ieteicams ir izmantot jūsu "
+#~ "primāro kontu."
+
+#~ msgid "Do not warn me again"
+#~ msgstr "Nebrīdināt mani atkārtoti"
+
+#~ msgid "PGP Info"
+#~ msgstr "PGP informācija"
+
+#~ msgid "Content Type"
+#~ msgstr "Satura tips"
+
+#~ msgid "PGP Details"
+#~ msgstr "PGP detaļas"
+
+#~ msgid ""
+#~ "Mailvelope is not supported in this browser.  Please use Chrome or "
+#~ "Firefox with Mailvelop installed."
+#~ msgstr ""
+#~ "Šajā pārlūkprogrammā 'Mailvelope' netiek atbalstīts. Lūdzu izmantojiet "
+#~ "Chrome vai Firefox ar uzstādītu 'Mailvelope' spraudni."
+
+#~ msgid "Enter re-enter %s security password"
+#~ msgstr "Ievadiet atkārtoti %s drošības paroli"
+
+#~ msgid "Download Decrypted"
+#~ msgstr "Lejupielāde ir atkodēta"
+
+#~ msgid "Download Encrypted"
+#~ msgstr "Lejupielādēt šifrēti"
+
+#~ msgid "View"
+#~ msgstr "Skats"
+
+#~ msgid "Decrypt and Open"
+#~ msgstr "Atšifrēt un atvērt"
+
+#~ msgid "Drop files here to upload"
+#~ msgstr "Lai augšupielādētu failus, pārvelciet un nometiet tos šeit"
+
+#~ msgid "Add"
+#~ msgstr "Pievienot"
+
+#~ msgid "Add:"
+#~ msgstr "Pievienot:"
+
+#~ msgid "Must be in the same global address book"
+#~ msgstr "Jābūt vienā globālajā adrešu grāmatā"
+
+#~ msgid "Unable to add"
+#~ msgstr "Nevar pievinot"
+
+#~ msgid "Select"
+#~ msgstr "Izvēlēties"
+
+#~ msgid "User"
+#~ msgstr "Lietotājs"
+
+#~ msgid "Retract"
+#~ msgstr "Atsaukt"
+
+#~ msgid "Unable to share"
+#~ msgstr "Nevar koplietot"
+
+#~ msgid "Remove from share list"
+#~ msgstr "Noņemt no koplietojuma saraksta"
+
+#~ msgid "Failed to remove the share"
+#~ msgstr "Kļūda pie koplietojuma noņemšanas"
+
+#~ msgid "Password Needed"
+#~ msgstr "Nepieciešama parole"
+
+#~ msgid "Please provide your %s security password to share this file"
+#~ msgstr "Lai koplietotu šo failu lūdzu ievadiet savu %s drošības paroli"
+
+#~ msgid "No users in same context"
+#~ msgstr "Nav tā paša konteksta lietotāju"
+
+#~ msgid "The following link will take you to the shared file"
+#~ msgstr "Sekojošā saite norāda uz koplietojuma failu"
+
+#~ msgid "Shared file link"
+#~ msgstr "Koplietojuma faila saite"
+
+#~ msgid "Attached encrypted file"
+#~ msgstr "Pievienots šifrētais fails"
+
+#~ msgid "Shared file"
+#~ msgstr "Koplietojuma fails"
+
+#~ msgid "Add Permissions"
+#~ msgstr "Pievienot tiesības"
+
+#~ msgid ""
+#~ "The following users do not have permission to view objects in this folder."
+#~ msgstr "Sekojošiem lietotājiem nav tiesību skatīt šīs mapes saturu."
+
+#~ msgid "Do you wish to add read permissions to this folder for these users?"
+#~ msgstr ""
+#~ "Vai vēlaties piešķirt šiem lietotājiem lasīšanas tiesības šai mapei?"
+
+#~ msgid "Failed to add folder sharing permissions"
+#~ msgstr "Klūda pie mapes koplietošanas tiesību pievienošanas"
+
+#~ msgid "%s %s %s"
+#~ msgstr "%s %s %s"
+
+#~ msgid "The provided filename exceeds the allowed length."
+#~ msgstr "Norādītas faila vārds pārsniedz atļauto garumu."
+
+#~ msgid "The allowed quota is reached."
+#~ msgstr "Pārsniegta pieejamā kvota."
+
+#~ msgid "This file has not been added"
+#~ msgstr "Fails nav pievienots"
+
+#~ msgid "Upload a new encrypted version"
+#~ msgstr "Jaunas šifrētās versijas ielāde"
+
+#~ msgid "Upload file"
+#~ msgstr "Faila ielāde"
+
+#~ msgid "Version Comment"
+#~ msgstr "Versijas komentārs"
+
+#~ msgid "Upload new encrypted version"
+#~ msgstr "Jaunas šifrētās versijas ielāde"
+
+#~ msgid "Uploading..."
+#~ msgstr "Ielāde..."
+
+#~ msgid ""
+#~ "You are replying to an email that has not yet been decoded.  The "
+#~ "recipient will not be able to read the contents of the original email."
+#~ msgstr ""
+#~ "Jūs atbildat uz e-pastu, kurš vēl nav atkodēts. Saņēmējs nevarēs izlasīt "
+#~ "oriģinālā e-pasta saturu."
+
+#~ msgid ""
+#~ "You are forwarding an email that has not yet been decoded.  The recipient "
+#~ "will not be able to read the contents of the original email."
+#~ msgstr ""
+#~ "Jūs pārsūtat e-pastu, kurš vēla nav atkodēts. Saņēmējs nevarēs izlasīt "
+#~ "oriģinālā e-pasta saturu."
+
+#~ msgid "Re: %1$s"
+#~ msgstr "Re: %1$s"
+
+#~ msgid "Fwd: %1$s"
+#~ msgstr "Fwd: %1$s"
+
+#~ msgid "Original Message"
+#~ msgstr "Oriģinālais ziņojums"
+
+#~ msgid "From: %1$s"
+#~ msgstr "No: %1$s"
+
+#~ msgid "To: %1$s"
+#~ msgstr "Kam: %1$s"
+
+#~ msgid "CC: %1$s"
+#~ msgstr "CC: %1$s"
+
+#~ msgid "Date: %1$s"
+#~ msgstr "Datums: %1$s"
+
+#~ msgid "Subject: %1$s"
+#~ msgstr "Tēma: %1$s"
+
+#~ msgid "On %1$s at %2$s %3$s wrote:"
+#~ msgstr "%1$s %2$s %3$s rakstīja:"
+
+#~ msgid "Attach My Key"
+#~ msgstr "Pievienot manu atslēgu"
+
+#~ msgid "Do you really want to discard your message?"
+#~ msgstr "Vai tiešām vēlaties atsaukt šo ziņojumu?"
+
+#~ msgctxt "dialog"
+#~ msgid "Discard message"
+#~ msgstr "Atsaukt ziņojumu"
+
+#~ msgid "Save as draft"
+#~ msgstr "Saglabāt melnrakstu"
+
+#~ msgid "Mail has empty subject. Send it anyway?"
+#~ msgstr "Vēstulei nav subjekta temata. Vai vienalga sūtīt?"
+
+#~ msgid "Yes, send without subject"
+#~ msgstr "Jā, nosūtīt bez temata"
+
+#~ msgid "Add subject"
+#~ msgstr "Pievienot tematu"
+
+#~ msgid "Unable to authorize against backend"
+#~ msgstr "Nevar autorizēties serverī"
+
+#~ msgid "Save"
+#~ msgstr "Saglabāt"
+
+#~ msgid "Saving attachment to Drive"
+#~ msgid_plural "Saving attachments to Drive"
+#~ msgstr[0] "Pievienojuma saglabāšana 'Drive'"
+#~ msgstr[1] "Pievienojumu saglabāšana 'Drive'"
+#~ msgstr[2] "Pievienojuma saglabāšana 'Drive'"
+
+#~ msgid "Attachment has been saved"
+#~ msgid_plural "Attachments have been saved"
+#~ msgstr[0] "Pievienojums ir saglabāts"
+#~ msgstr[1] "Pievienojumi ir saglabāti"
+#~ msgstr[2] "Pievienojums ir saglabāts"
+
+#~ msgid "Failed to decrypt"
+#~ msgstr "Kļūda pie atšifrēšanas"
+
+#~ msgid "Failed to save attachments"
+#~ msgstr "Kļūda pie pievienojumu saglabāšanas"
+
+#~ msgid "Unsupported browser"
+#~ msgstr "Neatbalstīta pārlūkprogramma"
+
+#~ msgid "Mail has no recipients"
+#~ msgstr "Vēstulei nav saņēmēju"
+
+#~ msgid "Mail saved as draft"
+#~ msgstr "Vēstule ir saglabāta kā melnraksts"
+
+#~ msgid "Unable to get keys for all users"
+#~ msgstr "Nevar iegūt visu lietotāju atslēgas"
+
+#~ msgid ""
+#~ "The from address you selected for this email is not associated with an "
+#~ "encryption key.  Please send from your primary account, or optionally, "
+#~ "add the email address to your key using the advanced settings."
+#~ msgstr ""
+#~ "Jūsu izvēlētā nosūtīšanas (no) adrese nav saistīta ne ar vienu šifrēšanas "
+#~ "atslēgu. Lūdzu veiciet nosūtīšanu no sava primārā konta, vai arī "
+#~ "pievienojiet šo adresi savai atslēgai, izmantojot paplašinātos "
+#~ "iestatījumus."
+
+#~ msgid "An error occurred saving the email."
+#~ msgstr "Kļūda pie e-pasta saglabāšanas."
+
+#~ msgid "An error occurred sending the encrypted email."
+#~ msgstr "Kļūda pie šifrētā e-pasta nosūtīšanas."
+
+#~ msgid ""
+#~ "At least one of your attachments are encrypted.  Please provide your %s "
+#~ "security password to decrypt before sending"
+#~ msgstr ""
+#~ "Vismaz viens no pievienojumiem ir šifrēts. Lūdzu norādiet savu %s "
+#~ "drošības paroli tā atkodēšanai pirms nosūtīšanas."
+
+#~ msgid "To"
+#~ msgstr "Kam"
+
+#~ msgctxt "CC"
+#~ msgid "Copy"
+#~ msgstr "Kopija"
+
+#~ msgid "Decoding"
+#~ msgstr "Atkodēšana"
+
+#~ msgid ""
+#~ "Your pop-up blocker may have prevented a %s window that provides "
+#~ "application functionality."
+#~ msgstr ""
+#~ "Uznirstošo logu bloķētājs ir nobloķējis %s logu, kurš nodrošina "
+#~ "aplikācijas funkcionalitāti."
+
+#~ msgid "VCard imported with warnings"
+#~ msgstr "VCard ir importēts ar brīdinājumiem"
+
+#~ msgid "Failed to import vcard"
+#~ msgstr "Kļūda pie VCard importa"
+
+#~ msgid "VCard imported"
+#~ msgstr "VCard ir importēta"
+
+#~ msgid "Save Encrypted to Drive"
+#~ msgstr "Saglabāt šifrētu Drive diskā"
+
+#~ msgid "Save Decoded to Drive"
+#~ msgstr "Saglabāt atkodētu Drive diskā"
+
+#~ msgid "Open in browser"
+#~ msgstr "Atvērt pārlūkā"
+
+#~ msgid "Import as PGP Public Key"
+#~ msgstr "Importēt kā PGP publisko atslēgu"
+
+#~ msgid "Add to address book"
+#~ msgstr "Pievienot adrešu grāmatai"
+
+#~ msgid "no files"
+#~ msgstr "nav failu"
+
+#~ msgid "Save attachment"
+#~ msgstr "Saglabāt pievienojumu"
+
+#~ msgid ""
+#~ "Upload your Mailvelope public keys to the %s server so that other people "
+#~ "can send you encrypted emails"
+#~ msgstr ""
+#~ "Pievienot Mailvelope publiskās atslēgas %s serverim, lai citi lietotāji "
+#~ "varētu jums nosūtīt šifrētu e-pastu"
+
+#~ msgid "Unable to save decrypted file"
+#~ msgstr "Nevar saglabāt atkodēto failu"
+
+#~ msgid "Unable to decrypt"
+#~ msgstr "Nevar atkodēt"
+
+#~ msgid "Extra Password"
+#~ msgstr "Papildus parole"
+
+#~ msgid ""
+#~ "This allows you to set an extra password that will be required for "
+#~ "reading this item."
+#~ msgstr ""
+#~ "Šī funkcija ļauj jums iestatīt papildus paroli, kura būs nepieciešama "
+#~ "informācijas nolasīšanai."
+
+#~ msgid "Please enter it below"
+#~ msgstr "Lūdzu ievadiet to laukā zemāk"
+
+#~ msgid "Please enter your %s Security password"
+#~ msgstr "Lūdzu ievadiet savu %s drošības paroli"
+
+#~ msgid "Failed to add extra password"
+#~ msgstr "Kļūda pie papildus paroles pievienošanas"
+
+#~ msgid "Send copy by mail"
+#~ msgstr "Nosūtīt kopiju ar e-pastu"
+
+#~ msgid "Enter %s Security Password"
+#~ msgstr "Ievadiet %s drošības paroli"
+
+#~ msgid "Remember Password"
+#~ msgstr "Atcerēties paroli"
+
+#~ msgid "Encrypt Files"
+#~ msgstr "Šifrēt failus"
+
+#~ msgid "Only the latest version of the files will be encrypted."
+#~ msgstr "Tikai failu jaunākās versijas tiks šifrētas."
+
+#~ msgid "All previous versions will be deleted."
+#~ msgstr "Visas iepriekšējās versijas tiks izdzēstas."
+
+#~ msgid "This file could not be uploaded."
+#~ msgstr "Šo failu nevar augšupielādēt."
+
+#~ msgid "Upload"
+#~ msgstr "Augšupielāde"
+
+#~ msgid "Please provide your %s Security Password to share this file"
+#~ msgstr "Lai koplietotu šo failu lūdzu ievadiet savu %s drošības paroli"
+
+#~ msgid ""
+#~ "HTML formatted emails may cause issues with PGP inline.  Click OK to "
+#~ "change to Plain Text formatted Emails"
+#~ msgstr ""
+#~ "HTML formatētas vēstules var radīt iekšrindu PGP šifrēšanas problēmas. "
+#~ "Lai pārslēgtos uz vienkārša teksta formatējumu, piespiediet Labi."
+
+#~ msgid "Bad private key"
+#~ msgstr "Nepareiza privātā atslēga"
+
+#~ msgid "Secure Email, enter your %s security password"
+#~ msgstr "Šifrēts e-pasts, ievadiet savu %s drošības paroli"
+
+#~ msgid ""
+#~ "The new recipients listed below will be sent a password via email.  You "
+#~ "can also require a seperate pin, which is displayed below"
+#~ msgstr ""
+#~ "Zemāk pārskaitītajiem jaunajiem saņēmējiem paroles tiks nosūtītas ar e-"
+#~ "pastu. Jūs varat arī pieprasīt atsevišķu PIN, kurš ir parādīts zemāk"
+
+#~ msgid ""
+#~ "You may deliver this pin any way you see fit, but we recommend doing it "
+#~ "in a second method other than email (Phone, SMS, Skype, etc)"
+#~ msgstr ""
+#~ "Jūs varat piegādāt šo PIN saņēmējiem kādā veidā vēlaties, bet mēs "
+#~ "rekomendējam šim nolūkam izmantot kādu citu piegādes veidu (piem., SMS, "
+#~ "Skype, u.t.t.)"
+
+#~ msgid "If you want this extra pin requirement, click OK"
+#~ msgstr "Ja vēlaties izmantot papildus PIN prasību piespiediet 'Labi'"
+
+#~ msgid "On %1$s %2$s sent:"
+#~ msgstr "%1$s %2$s nosūtīja:"
+
+#~ msgid "Please enter your %s password to sign this email"
+#~ msgstr "Lai parakstītu šo e-pastu, lūdzu ievadiet savu %s paroli"
+
+#~ msgid "Please enter your %s password for signing"
+#~ msgstr "Lūdzu ievadiet savu %s paroli parakstīšanai"
+
+#~ msgid ""
+#~ "At least one of your attachments are encrypted.  Please provide your %s "
+#~ "Security Password to decrypt before sending"
+#~ msgstr ""
+#~ "Vismaz viens no pievienojumiem ir šifrēts. Lūdzu norādiet savu %s "
+#~ "drošības paroli tā atkodēšanai pirms nosūtīšanas."
+
+#~ msgid "Problems creating keys, please try again later"
+#~ msgstr "Kļūdas pie atslēgu izveides. Lūdzu mēģiniet vēlāk vēlreiz."
+
+#~ msgid ""
+#~ "Problems creating keys.  Keys already exist for this email address in "
+#~ "another account"
+#~ msgstr ""
+#~ "Problēma pie atslēgu izveides. Šai e-pasta adresei jau eksistē atslēgas "
+#~ "kādā citā kontā."
+
+#~ msgid ""
+#~ "Please choose the password you will use for %s. You will need to type "
+#~ "this password whenever you want to encrypt or decrypt items. Remember it "
+#~ "should be different from your login password, and will not change if you "
+#~ "change your login password"
+#~ msgstr ""
+#~ "Lūdzu, izvēlieties paroli, kuru izmantosiet pieslēgumam %s. Jums šī "
+#~ "parole būs jāievada ikreiz, kad vēlēsieties šifrēt vai atšifrēt vienumus. "
+#~ "Atcerieties, tai ir jāatšķiras no jūsu pieteikšanās paroles un tā "
+#~ "nemainīsies, ja mainīsiet savu pieteikšanās paroli."
+
+#~ msgid "Please enter a password to protect your new encrypted items"
+#~ msgstr "Lūdzu norādiet paroli savu aizsargāto vienumu šifrēšanai"
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password"
+#~ msgstr ""
+#~ "Lūdzu ievadiet alternatīvo e-pasta adresi gadījumiem, ja jums būtu jāveic "
+#~ "paroles atiestatīšana"
+
+#~ msgid "Rember my password"
+#~ msgstr "Atcerēties manu paroli"
+
+#~ msgid "This Email was signed and verified"
+#~ msgstr "Šis e-pasts ir parakstīts un ir pārbaudīts"
+
+#~ msgid "This Email was signed but unable to verify"
+#~ msgstr "Šis e-pasts ir parakstīts, bet to nav iespējams pŗbaudīt"
+
+#~ msgid "This Email was signed and failed verification"
+#~ msgstr "Šis e-pasts ir parakstīts, bet pārbaude ir nesekmīga"
+
+#~ msgid ""
+#~ "Please change the initial temporary %s security password that was sent to "
+#~ "you in a seperate email."
+#~ msgstr ""
+#~ "Lūdzu nomainiet sākotnējo %s drošības režīma paroli, kura tika jums "
+#~ "nosūtīta atsevišķā e-pastā."
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password</p>"
+#~ msgstr "Lūdzu norādiet alternatīvo e-pastu paroles atiestatīšanaki</p>"
+
+#~ msgid "This Email was signed by the sender and verified"
+#~ msgstr "Šis e-pasts ir parakstīts un ir pārbaudīts"
+
+#~ msgid "If you already have a private key, you can upload it here"
+#~ msgstr "Ja jums jau ir privātā atslēga, jūs to varat augšupielādēt šeit"
+
+#~ msgid "Finally, you can have a new PGP Key Pair created for your account"
+#~ msgstr "Beidzot, jūs varat izveidot jaunu PGP atslēgu pāri savam kontam"
+
+#~ msgid "Add a name and email address to this public key"
+#~ msgstr "Pievienot publiskajai atslēgai vārdu un e-pasta adresi"
+
+#~ msgid "PGP default to using PGP inline for compatibility"
+#~ msgstr "Savietojamībai noklusēti izmantot ietvertu PGP"
+
+#~ msgid "Please verify your password before deleting the recovery"
+#~ msgstr "Pirms atgūšanas informācijas dzēšanas lūdzu apstipriniet paroli"
+
+#~ msgid "A new password has been sent to your email address"
+#~ msgstr "Jaunā parole ir nosūtīta uz jūsu e-pasta adresi"
+
+#~ msgid "A new password has been sent to your secondary email address"
+#~ msgstr "Jaunā parole ir nosūtīta uz jūsu alternatīvo e-pasta adresi"
+
+#~ msgid "No password recovery is available"
+#~ msgstr "Paroles atgūšana nav iespējama"
+
+#~ msgid "Password reset, but unable to send to your email address"
+#~ msgstr ""
+#~ "Parole ir atiestatīta, bet nevar tikt nosūtīta uz jūsu e-pasta adresi"
+
+#~ msgid "Unable to find email address to send password reset"
+#~ msgstr "Nav pieejama e-pasta adrese atiestatītās paroles nosūtīšanai"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Enabling Advanced PGP Features will enable key management and specifying "
+#~ "sending formats"
+#~ msgstr ""
+#~ "Paplašināto PGP iestatījumu iespējošana ļaus pārvaldīt atslēgas un "
+#~ "specificēt sūtīšanas formātus"
+
+#~ msgid "This email was sent with an extra password."
+#~ msgstr "Šis e-pasts ir nosūtīts ar papildus paroli."
+
+#~ msgid "Please enter below"
+#~ msgstr "Lūdzu norādiet to zemāk"
+
+#~ msgid "An error occurred during sending the encrypted email."
+#~ msgstr "Kļūda pie šifrētā e-pasta nosūtīšanas."
+
+#~ msgid "This appears to be the first time you have used Encryption"
+#~ msgstr "Šī ir pirmā reize kad izmantojiet šifrēšanu"
+
+#~ msgid ""
+#~ "Please change the temporary %s security password that was sent to you in "
+#~ "a seperate email."
+#~ msgstr ""
+#~ "Lūdzu nomainiet sākotnējo %s drošības režīma paroli, kura tika jums "
+#~ "nosūtīta atsevišķā e-pastā."
+
+#~ msgid "%s PGP Settings"
+#~ msgstr "%s PGP iestatījumi"
+
+#~ msgid "Changed"
+#~ msgstr "Nomainīts"
+
+#~ msgctxt "tour"
+#~ msgid "Sending without encryption"
+#~ msgstr "Sūtīšana bez šifrēšanas"
+
+#~ msgctxt "tour"
+#~ msgid "Create Your %s Account"
+#~ msgstr "%s konta izveidošana"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You now need to choose a password which will be used to encrypt or "
+#~ "decrypt items. You only need to set this up once. Your password will then "
+#~ "remain valid until you change it."
+#~ msgstr ""
+#~ "jums tagad ir jāizvēlas parole, kura tiks lietota vienību šifrēšanai un "
+#~ "dekodēšanai. Tas jums ir jāiestata tikai vienu reizi. Jūsu parole būs "
+#~ "spēkā līdz brīdim, kamēr to izmainīsiet."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You successfully set up secure communication. Your private key has been "
+#~ "created."
+#~ msgstr ""
+#~ "Jūs esat veiksmīgi iestatījis drošās komunikācijas režīmu. Jūsu privātā "
+#~ "atslēga ir izveidota."
+
+#~ msgid ""
+#~ "Upload your Mailvelope public keys to the Guard server so that other "
+#~ "people can send you encrypted emails"
+#~ msgstr ""
+#~ "Ielādējiet savas 'Mailvelope' publiskās atslēgas 'Guard' serverī, lai "
+#~ "citas personas varētu nosūtīt jums šifrētas vēstules"
+
+#~ msgid ""
+#~ "Your pop-up blocker may have prevented a Guard window that provides "
+#~ "application functionality."
+#~ msgstr ""
+#~ "Uznirstošo logu bloķētājs ir nobloķējis drošības režīma logu, kurš "
+#~ "nodrošina aplikācijas funkcionalitāti."
+
+#~ msgid "Please enter your Guard Security password"
+#~ msgstr "Lūdzu ievadiet savu drošās aizsardzības paroli"
+
+#~ msgid "Enter Guard Security Password"
+#~ msgstr "Ievadiet drošības paroli"
+
+#~ msgid "Please provide your Guard Security Password to share this file"
+#~ msgstr "Lai koplietotu šo failu lūdzu ievadiet savu drošības paroli"
+
+#~ msgid "Secure Email, enter your Guard security password"
+#~ msgstr "Šifrēts e-pasts, ievadiet savu drošības paroli"
+
+#~ msgid "Keep me logged into Guard"
+#~ msgstr "Saglabāt drošības pieslēgumu"
+
+#~ msgid "Will create new guest account for Guard"
+#~ msgstr "Tiks izveidots jauns drošības režīma viesa konts"
+
+#~ msgid "Have encryption key"
+#~ msgstr "Ir šifra atslēga"
+
+#~ msgid "Please enter your Guard password to sign this email"
+#~ msgstr "Lai parakstītu e-pastu, lūdzu ievadiet savu drošības paroli"
+
+#~ msgid "Please enter your Guard password for signing"
+#~ msgstr "Lūdzu ievadiet savu drošās aizsardzības paroli"
+
+#~ msgid ""
+#~ "At least one of your attachments are encrypted.  Please provide your "
+#~ "Guard Security Password to decrypt before sending"
+#~ msgstr ""
+#~ "Vismaz viens no pievienojumiem ir šifrēts. Pirms nosūtīšanas lūdzu "
+#~ "norādiet savu drošības režīma paroli tā atšifrēšanai."
+
+#~ msgid "Automated Email Language"
+#~ msgstr "Automātiska e-pasta valoda"
+
+#~ msgid "Create Guard Security Keys"
+#~ msgstr "Izveidot drošības atslēgas"
+
+#~ msgid "First Guard Security Password Use"
+#~ msgstr "Pirmā drošības režīma paroles izmantošana"
+
+#~ msgid ""
+#~ "Please change the temporary Guard security password that was sent to you "
+#~ "in a seperate email."
+#~ msgstr ""
+#~ "Lūdzu nomainiet drošības režīma pagaidu paroli, kura tika jums nosūtīta "
+#~ "atsevišķā e-pastā."
+
+#~ msgid "Please enter your Guard password"
+#~ msgstr "Lūdzu ievadiet savu drošības paroli"
+
+#~ msgid ""
+#~ "Please change the initial temporary Guard security password that was sent "
+#~ "to you in a seperate email."
+#~ msgstr ""
+#~ "Lūdzu nomainiet sākotnējo drošības režīma paroli, kura tika jums nosūtīta "
+#~ "atsevišķā e-pastā."
+
+#~ msgid "Guard PGP Settings"
+#~ msgstr "Drošības PGP iestatījumi"
+
+#~ msgid ""
+#~ "If you would like to upload a public key only, then do so here.  This "
+#~ "will allow you to encrypt files and receive encrypted emails using Guard, "
+#~ "but you will need to use the private key with another program to decode "
+#~ "the items."
+#~ msgstr ""
+#~ "Ja jūs vēlaties ielādēt tikai publisko atslēgu, dariet to šeit. Tas ļaus "
+#~ "jums šifrēt failus un saņemt aizsargātu šifrētu e-pastu. Tomēr, jums "
+#~ "vajadzēs izmantot privāto atslēgu, lai vienumus atšifrētu ar citu "
+#~ "programmu."
+
+#~ msgid "Guided tour for Guard"
+#~ msgstr "Iepazīstināšana ar Guard"
+
+#~ msgid "Sign out Guard"
+#~ msgstr "Atslēgties no drošības režīma"
+
+#~ msgctxt "app"
+#~ msgid "Guard Security"
+#~ msgstr "Guard drošība"
+
+#~ msgid ""
+#~ "In order to start with Guard Security, you must set up a password for "
+#~ "your secured files."
+#~ msgstr ""
+#~ "Lai uzsāktu drošības režīmu, jums ir jāiestata parole, kura tiks "
+#~ "izmantota aizsargātajiem failiem."
+
+#~ msgid "Guard Security Settings"
+#~ msgstr "Drošības iestatījumi"
+
+#~ msgid "Change Guard Security Password."
+#~ msgstr "Nomainīt drošības režīma paroli"
+
+#~ msgid "Enter current Guard security password"
+#~ msgstr "Pašreizējā drošības režīma parole"
+
+#~ msgid "Enter new Guard security password"
+#~ msgstr "Jaunā drošības režīma parole"
+
+#~ msgid "Verify new Guard security password"
+#~ msgstr "Jaunās paroles apstiprinājums"
+
+#~ msgid "Change Guard security password"
+#~ msgstr "Nomainīt drošības režīma paroli"
+
+#~ msgid "Reset Guard security password"
+#~ msgstr "Atiestatīt drošības režīma paroli"
+
+#~ msgid ""
+#~ "Send a temporary Guard security password to my secondary Email address."
+#~ msgstr ""
+#~ "Nosūtīt pagaidu drošības režīma paroli uz manu alternatīvo e-pasta adresi."
+
+#~ msgctxt "tour"
+#~ msgid "The Guard module"
+#~ msgstr "Aizsarga (Guard) modulis"
+
+#~ msgctxt "tour"
+#~ msgid "Guard Security Settings"
+#~ msgstr "Drošības iestatījumi"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You already set up your Guard account. But you can always change your "
+#~ "encryption password, or request a temporary password if you forget it."
+#~ msgstr ""
+#~ "Jūs jau esat iestatījis savu Guard kontu. Tomēr jūs jebkurā brīdī varat "
+#~ "izmainīt savu šifrēšanas paroli, vai arī pieprasīt pagaidu paroli "
+#~ "gadījumiem, ja tā ir aizmirsta."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "By default Guard sends encrypted emails using PGP/Mime format. To "
+#~ "communicate with some systems you may need to use PGP Inline."
+#~ msgstr ""
+#~ "Pēc noklusējuma drošajā režīmā e-pasts tiek nosūtīts, izmantojot PGP/Mime "
+#~ "formātu. Lai komunicētu ar atsevišķām sistēmām jums var būt nepieciešams "
+#~ "iekšrindu PGP formāts."
+
+#~ msgctxt "tour"
+#~ msgid "Remove encryption"
+#~ msgstr "Šifrēšanas noņemšana"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Removing the encryption is easy, too: Simply click on the lock icon again."
+#~ msgstr ""
+#~ "Šifrēšanas noņemšana ir vienkārša. Jums ir tikai jānoklikšķina vēlreiz uz "
+#~ "atslēgas ikonas."
+
+#~ msgctxt "tour"
+#~ msgid "Create Your Guard Account"
+#~ msgstr "Izveidojiet savu drošības kontu"
+
+#~ msgctxt "tour"
+#~ msgid "Guard set up completed"
+#~ msgstr "Drošā režīma iestatīšana pabeigta"
+
+#~ msgctxt "Choice"
+#~ msgid "Works only in all browsers with all your contacts"
+#~ msgstr "Strādā tikai pārlūkprogrammās ar visiem kontaktiem"
+
+#~ msgid "Click to enable encryption"
+#~ msgstr "Noklikšķiniet šifrēšanas aktivizēšanai"
+
+#~ msgid "Click to disable encryption"
+#~ msgstr "Noklikšķiniet, lai atspējotu šifrēšanu"
+
+#~ msgid "Error.  Please reload message"
+#~ msgstr "Kļūda. Lūdzu pārlādējiet ziņojumu"
+
+#~ msgid "You have exceeded bad password attempts.  Please wait %s minutes"
+#~ msgstr ""
+#~ "Pārsniegts paroles ievad mēģinājumu skaits. Lūdzu gaidiet %s minūtes"
+
+#~ msgid ""
+#~ "This email has expired and can no longer be accessed.  Contact the sender "
+#~ "for more information."
+#~ msgstr ""
+#~ "Šī e-pasta derīguma termiņš ir beidzies un to vairs nevar nolasīt. "
+#~ "Papildus informācijai sazinieties ar nosūtītāju."
+
+#~ msgid ""
+#~ "This Email has been retracted by the sender and can no longer be "
+#~ "accessed.  Contact the sender for more information."
+#~ msgstr ""
+#~ "Šo e-pastu nosūtītājs ir atsaucis un tas vairs nav pieejams lasīšanai. "
+#~ "Papildus informācijai sazinieties ar nosūtītāju."
+
+#~ msgid "Unable to decrypt Email."
+#~ msgstr "Kļūda pie e-pasta atkodēšanas"
+
+#~ msgid "The sender added an extra password encryption."
+#~ msgstr "Nosūtītājs ir pievienojis šifrēšanas papildus paroli."
+
+#~ msgid "Save Encrypted"
+#~ msgstr "Saglabāt šifrētu"
+
+#~ msgid "Save Decrypted"
+#~ msgstr "Saglabāt šifrētu"
+
+#~ msgid ""
+#~ "This Email was sent encrypted. It has been decrypted with your private key"
+#~ msgstr ""
+#~ "Šis e-pasts ir nosūtīts kā šifrēts un ir atkodēts, izmantojot jūsu "
+#~ "privāto atslēgu"
+
+#~ msgid "Expires: "
+#~ msgstr "Derīgums:"
+
+#~ msgid "Retract Email"
+#~ msgstr "Atsaukt e-pastu"
+
+#~ msgid "Email status"
+#~ msgstr "E-pasta statuss"
+
+#~ msgid "Retract all access"
+#~ msgstr "Atsaukt visas piekļuves"
+
+#~ msgid "Email has not been opened."
+#~ msgstr "E-pasts nav atvērts"
+
+#~ msgid "Email has been opened."
+#~ msgstr "E-pasts jau ir atvērts."
+
+#~ msgid "Email has been retracted."
+#~ msgstr "E-pasts ir atsaukts."
+
+#~ msgid "Unable to get email status, please try again later"
+#~ msgstr "Nevar iegūt e-pasta statusu. Lūdzu mēģiniet vēlāk vēlreiz."
+
+#~ msgid "This will retract the email for all recipients. Click OK to confirm."
+#~ msgstr ""
+#~ "Šīs darbības rezultātā e-pasts tiks atsaukts visiem saņēmējiem. Lai "
+#~ "apstiprinātu, piespiediet 'Labi'."
+
+#~ msgid "Item was retracted"
+#~ msgstr "Vienums ir atsaukts"
+
+#~ msgid "Not all items retracted"
+#~ msgstr "Ne visi vienumi ir atsaukti"
+
+#~ msgid "Failed to retract"
+#~ msgstr "Kļūda pie atsaukšanas"
+
+#~ msgctxt "tour"
+#~ msgid "Learn more …"
+#~ msgstr "Uzzināt vairāk ..."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "From here you can update you encryption settings. For example you can "
+#~ "choose to send encrypted emails by default."
+#~ msgstr ""
+#~ "Šeit jūs varat izmainīt savus šifrēšanas iestatījumus. Piemēram, jūs "
+#~ "varat izvēlēties sūtīt šifrētu e-pastu pēc noklusēšanas."
+
+#~ msgid "Message was saved"
+#~ msgstr "Ziņojums ir saglabāts"
+
+#~ msgid "Problem creating keys"
+#~ msgstr "Problēmas pie atslēgu izveides"
+
+#~ msgctxt "tour"
+#~ msgid "Please click on the lock icon."
+#~ msgstr "Lūdzu uzklikšķiniet uz slēdzenes ikonas."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Please choose your password now, enter a secondary email address and "
+#~ "click on Ok."
+#~ msgstr ""
+#~ "Lūdzu tagad norādiet savu paroli, ievadiet otro (rezerves) e-pasta adresi "
+#~ "un piespiediet taustiņu 'Labi'."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You can always change your encryption password, or request a temporary "
+#~ "password if you forget it."
+#~ msgstr ""
+#~ "Jūs varat izmainīt savu šifrēšanas paroli jebkurā laikā, kā arī pieprasīt "
+#~ "pagaidu paroli, ja esat paroli aizmirsis."
+
+#~ msgctxt "tour"
+#~ msgid "Congratulations! You are now able to send secure emails."
+#~ msgstr "Apsveicam! tagad jūs varat nosūtīt šifrētu e-pastu."
+
+#~ msgctxt "tour"
+#~ msgid "Please remove the encryption now by clicking on the lock icon again."
+#~ msgstr ""
+#~ "Lūdzu tagad noņemiet šifrēšanu, atkārtoti uzklikšķinot uz slēdzenes "
+#~ "ikonas."
+
+#~ msgid "%s already encrypted"
+#~ msgstr "%s jau ir šifrēts"
+
+#~ msgid "Add folder"
+#~ msgstr "Pievienot mapi"
+
+#~ msgid "Already Protected With Additional Password"
+#~ msgstr "Jau ir aizsargāts ar papildus paroli"
+
+#~ msgid "Click to disable PGP encryption"
+#~ msgstr "Noklikšķiniet, lai atspējotu PGP šifrēšanu"
+
+#~ msgid "Done"
+#~ msgstr "Paveikts"
+
+#~ msgid "Drop here to upload a <b class=\"dndignore\">new encrypted file</b>"
+#~ msgstr ""
+#~ "Pārvelciet šeit lai augšupielādētu <b class=\"dndignore\">jaunu šifrēto "
+#~ "failu</b>"
+
+#~ msgid "Encrypting "
+#~ msgstr "Šifrēšana"
+
+#~ msgid "Encrypting %s"
+#~ msgstr "Šifrē %s"
+
+#~ msgid "FW: %1$s"
+#~ msgstr "FW: %1$s"
+
+#~ msgid "Failed to encrypt file"
+#~ msgstr "Kļūda pie faila šifrēšanas"
+
+#~ msgid "Folder name"
+#~ msgstr "Mapes vārds"
+
+#~ msgid "New Encrypted folder"
+#~ msgstr "Jauna šifrēta mape"
+
+#~ msgid "New Encrypted subfolder"
+#~ msgstr "Jauna šifrēta apakšmape"
+
+#~ msgid "New encrypted subfolder"
+#~ msgstr "Jauna šifrēta apakšmape"
+
+#~ msgid "New folder"
+#~ msgstr "Jauna mape"
+
+#~ msgid "New public folder"
+#~ msgstr "Jauna publiska mape"
+
+#~ msgid ""
+#~ "One of your recipients requires emails to be sent as PGP Inline.  "
+#~ "Changing now."
+#~ msgstr ""
+#~ "Vismaz viens no saņēmējiem prasa PGP ietverta e-pasta sūtīšanu. Tiek "
+#~ "mainīts režīms."
+
+#~ msgid "PGP key exists for this person"
+#~ msgstr "Šai personai ir PGP atslēga"
+
+#~ msgid "Require Additional Password"
+#~ msgstr "Prasīt papildus paroli"
+
+#~ msgid "Security Options"
+#~ msgstr "Drošības iestatījumi"
+
+#~ msgid "Send encrypted (PGP)"
+#~ msgstr "Nosūtīt šifrētu (PGP)"
+
+#~ msgid "Share keys with other users to decrypt this file"
+#~ msgstr "Koplietot atslēgas ar citiem lietotājiem  faila atkodēšanai"
+
+#~ msgid "Share link"
+#~ msgstr "Saglabāt saiti"
+
+#~ msgid "Sharing"
+#~ msgstr "Koplietošana"
+
+#~ msgid "Sign email"
+#~ msgstr "Parakstīt e-pastu"
+
+#~ msgid "Status"
+#~ msgstr "Statuss"
+
+#~ msgid "Stop"
+#~ msgstr "Apturēt"
+
+#~ msgid "The key for %1$s is expired and should not be used"
+#~ msgstr "Atslēgai %1$s ir beidzies derīguma termiņš un to nevar izmantot"
+
+#~ msgid "Unable to create Guard account, please try again later"
+#~ msgstr "Kļūda pie drošības konta izveides. Lūdzu mēģiniet vēlreiz vēlāk."
+
+#~ msgid "Upload new files to encrypt"
+#~ msgstr "Jaunu failu augšupielāde šifrēšanai"
+
+#~ msgid "Use PGP inline (compatibility)"
+#~ msgstr "Lietot iekšrindu PGP (savietojamība)"
+
+#~ msgid "%s hours"
+#~ msgstr "% stundām"
+
+#~ msgid "%s week"
+#~ msgstr "% nedēļas"
+
+#~ msgid "%s weeks"
+#~ msgstr "%s nedēļām"
+
+#~ msgid "Added keys:"
+#~ msgstr "Pievienotās atslēgas:"
+
+#~ msgid "CC:"
+#~ msgstr "Kopija:"
+
+#~ msgid "Click to disable Guard"
+#~ msgstr "Noklikšķiniet lai atspējotu drošības režīmu"
+
+#~ msgid "Click to enable Guard"
+#~ msgstr "Noklikšķiniet lai iespējotu drošības režīmu"
+
+#~ msgid "Confirm Guard Password"
+#~ msgstr "Apstiprināt drošības paroli"
+
+#~ msgid "Create Guard Account"
+#~ msgstr "Izveidot viesa kontu"
+
+#~ msgid "Date:"
+#~ msgstr "Datums:"
+
+#~ msgid "Decode"
+#~ msgstr "Atkodēt"
+
+#~ msgid "Default signing outgoing PGP mails"
+#~ msgstr "Noklusēti parakstīt izejošās PGP vēstules"
+
+#~ msgid "Defaults"
+#~ msgstr "Noklusētais"
+
+#~ msgid "Download (OG)"
+#~ msgstr "Lejupielāde (OG)"
+
+#~ msgid "Enable Guard"
+#~ msgstr "Iespējot drošības režīmu"
+
+#~ msgid "Encrypted email has been sent successfully."
+#~ msgstr "Šifrētais e-pasts ir veiksnīgi nosūtīts."
+
+#~ msgid "Encrypting"
+#~ msgstr "Šifrēšana"
+
+#~ msgid "From:"
+#~ msgstr "No:"
+
+#~ msgid "Fwd:"
+#~ msgstr "Pārsūtīt:"
+
+#~ msgid "IDs:"
+#~ msgstr "ID:"
+
+#~ msgid "Initializing Guard, please wait"
+#~ msgstr "Drošības režīma aktivizēšana, lūdzu uzgaidiet"
+
+#~ msgid "Inline"
+#~ msgstr "Iekšrindas"
+
+#~ msgid "Make Guard default to PGP compliant"
+#~ msgstr "Noklusēti izmantot PGP savietojamību"
+
+#~ msgid "Never"
+#~ msgstr "Nekad"
+
+#~ msgid "No recipients"
+#~ msgstr "Nav saņēmēju"
+
+#~ msgid "None"
+#~ msgstr "Nekas"
+
+#~ msgid "Not able to contact guard server"
+#~ msgstr "Nevar pieslēgties drošības režīma serverim"
+
+#~ msgid "On"
+#~ msgstr "Kad"
+
+#~ msgid "Open"
+#~ msgstr "Atvērt"
+
+#~ msgid "Open Decoded"
+#~ msgstr "Atvērt atkodēto"
+
+#~ msgid "PGP Compliant Guard"
+#~ msgstr "PGP saderīga aizsardzība"
+
+#~ msgid "PGP default to PGP inline for compatibility"
+#~ msgstr "Noklusēti iekšrindas PGP savietojamībai"
+
+#~ msgid "Please enter a password to protect your Guard account"
+#~ msgstr "Lūdzu norādiet savu drošības režīma paroli"
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password.  A new password would be sent to this email."
+#~ msgstr ""
+#~ "Lūdzu norādiet alternatīvo e-pasta adresi gadījumam, ja jums būtu "
+#~ "nepieciešams atiestatīt paroli. Jaunā parole tiks nosūtīta uz šo e-pasta "
+#~ "adresi."
+
+#~ msgid "Please select the file location of your private key."
+#~ msgstr "Lūdzu norādiet savu privāto atslēgu."
+
+#~ msgid "Private Key Password"
+#~ msgstr "Privātās atslēgas parole"
+
+#~ msgid "Problem uploading Private Key"
+#~ msgstr "Kļūda pie privātās atslēgas augšupielādes"
+
+#~ msgid "Public Key List"
+#~ msgstr "Publisko atslēgu saraksts"
+
+#~ msgid "Recipient has Guard"
+#~ msgstr "Saņēmejam ir drošības režīms"
+
+#~ msgid "Retract in"
+#~ msgstr "Atsaukt pēc"
+
+#~ msgid "Save Decoded"
+#~ msgstr "Saglabāt atkodētu"
+
+#~ msgid "Shared"
+#~ msgstr "Koplietots"
+
+#~ msgid "Sign PGP"
+#~ msgstr "Parakstīt PGP"
+
+#~ msgid "Subject:"
+#~ msgstr "Tēma:"
+
+#~ msgid ""
+#~ "The key will be used locally only.  It will not be sent to the server."
+#~ msgstr "Atslēga tiks izmantota tikai lokāli un netiks nosūtīta serverim."
+
+#~ msgid "This appears to be the first time you have used Guard"
+#~ msgstr "Šī ir pirmā reize, kad jūs lietojiet drošības režīmu"
+
+#~ msgid "To:"
+#~ msgstr "Kam:"
+
+#~ msgid "Unable to get key for encryption"
+#~ msgstr "Kļūda pie šifrēšanas atslēgas iegūšanas"
+
+#~ msgid "Unable to load"
+#~ msgstr "Nevar ielādēt"
+
+#~ msgid "Use Guard when composing a new email"
+#~ msgstr "Izmantot drošo režīmu jauna e-pasta sastādīšanai"
+
+#~ msgid "Using a guest account for email"
+#~ msgstr "E-pastam izmanto viesa kontu"
+
+#~ msgid "Your private key"
+#~ msgstr "Jūsu privātā atslēga"
+
+#~ msgid "Your public key"
+#~ msgstr "Jūsu publiskā atslēga"
+
+#~ msgid "popup blocked"
+#~ msgstr "uznirstošais logs ir bloķēts"

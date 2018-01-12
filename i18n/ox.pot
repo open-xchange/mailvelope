@@ -32,7 +32,6 @@ msgstr ""
 #. %s product Name
 #: apps/mailvelope/settings.js
 #: module:oxguard
-msgctxt "app"
 msgid "Mailvelope"
 msgstr ""
 

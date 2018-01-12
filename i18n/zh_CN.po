@@ -1,0 +1,2460 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: open-xchange-guard-ui\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2018-01-12 09:06-0500\n"
+"Last-Translator: Greg Hill <greg.hill@open-xchange.com>\n"
+"Language-Team: NAME <EMAIL>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.6.10\n"
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "Toggle Encryption"
+msgstr ""
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "Not Supported"
+msgstr "不支持"
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "%s is not supported with secured email and will be disabled."
+msgstr "安全电子邮件不支持 %s 将会停用。"
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "OK"
+msgstr "好的"
+
+#. %s product Name
+#: apps/mailvelope/settings.js module:oxguard
+msgid "Mailvelope"
+msgstr "Mailvelope"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Mailvelope Not Supported"
+msgstr "不支持 Mailvelope"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid ""
+"Mailvelope is only supported in Google Chrome or Mozilla Firefox.  Please "
+"use one of these broswers to set up encryption."
+msgstr ""
+"Mailvelope 只支持 Google Chrome 或 Mozilla Firefox。請使用以下其中一個瀏覽器"
+"以設置加密。"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Encrypted communication"
+msgstr "已加密沟通"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Download browser plugin"
+msgstr "下载浏览器插件"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Generate"
+msgstr "生成"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Congratulations! You have successfully set up encryption."
+msgstr "恭喜!您成功设置了加密"
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Prepare"
+msgstr "预备"
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Password"
+msgstr "密码"
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Three steps to setup encrypted communication:"
+msgstr "三步设置加密沟通:"
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Download browser plugin “Mailvelope”"
+msgstr "下载浏览器插件 \"Mailvelope\""
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Create encryption keys for secure communication"
+msgstr "為安全沟通创建加密键"
+
+#~ msgid "Mailvelope Advanced"
+#~ msgstr "Mailvelope Advanced"
+
+#~ msgid "Error"
+#~ msgstr "错误"
+
+#~ msgid ""
+#~ "Backup your Mailvelope private keys to the server.  The keys will be "
+#~ "encrypted requiring a security code for restore"
+#~ msgstr ""
+#~ "备份您的 Mailvelope 私键到服务器。这些键将会以需要保安码作恢复层级的加密。"
+
+#~ msgid "Backup"
+#~ msgstr "备份"
+
+#~ msgid "Discard previously saved private keys."
+#~ msgstr "丢弃之前保存的私键。"
+
+#~ msgid "Discard backup"
+#~ msgstr "丢弃备份"
+
+#~ msgid "Restore previously saved private keys."
+#~ msgstr "恢复之前保存私键。"
+
+#~ msgid "Restore"
+#~ msgstr "恢复"
+
+#~ msgid ""
+#~ "Upload your Mailvelope public keys to the %s server so that other people "
+#~ "can send you encrypted emails."
+#~ msgstr ""
+#~ "发送您的 Mailvelope 公钥到 %s 服务器，让其他人能够发送已加密电子邮件给您。"
+
+#~ msgid "Upload Public Key"
+#~ msgstr "上载公共键"
+
+#~ msgid "Backup and Recovery"
+#~ msgstr "备份和恢复"
+
+#~ msgid "No backup data available"
+#~ msgstr "无可用备份数据"
+
+#~ msgid ""
+#~ "You can now backup your keys. Please store the provided password secure. "
+#~ "It is also possible to skip this step and do the backup later. You can "
+#~ "find it in the settings."
+#~ msgstr ""
+#~ "您现在能够备份的您的键,请储存好提供的密码;也有可能跳过此步骤,稍後再作备"
+#~ "份。您能在设置裏找到。"
+
+#~ msgid "Skip without backup"
+#~ msgstr "不備份跳過"
+
+#~ msgid "Recommended: Setup key backup"
+#~ msgstr "建议:设置键补"
+
+#~ msgid "Enter %s security password"
+#~ msgstr "输入％s 安全密码"
+
+#~ msgid "Bad password"
+#~ msgstr "错误密码"
+
+#~ msgid "Account Locked out"
+#~ msgstr "户口锁上"
+
+#~ msgid "Unspecified error"
+#~ msgstr "无指定错误"
+
+#~ msgid "Problems creating keys, please try again later."
+#~ msgstr "创建键出问题，请稍后再试。"
+
+#~ msgid ""
+#~ "Problems creating keys.  Keys already exist for this email address in "
+#~ "another account."
+#~ msgstr "创建键发生问题。键已经在别的户口为此电子邮件而存在。"
+
+#~ msgid "Passwords must be at least %s characters in length"
+#~ msgstr "密码最小长必须为 %s 字节"
+
+#~ msgid "Passwords not equal"
+#~ msgstr "密码不一样"
+
+#~ msgid "Enter new secondary Email address"
+#~ msgstr "输入新的副电子邮件地址"
+
+#~ msgid "Generating key, Please wait"
+#~ msgstr "键生成中，请稍候"
+
+#~ msgid ""
+#~ "Please choose the password you will use for %s. You will need to type "
+#~ "this password whenever you want to encrypt or decrypt items. Remember it "
+#~ "should be different from your login password, and will not change if you "
+#~ "change your login password."
+#~ msgstr ""
+#~ "请选择您将会使用 %s 的密码。您将会需要在您要加密或解密项目的任何时候输入此"
+#~ "密码。记得密码必须与您的登录密码不同，而在您更改您的登录密码时将不会更改该"
+#~ "密码。"
+
+#~ msgid "Please enter a password to protect your new encrypted items."
+#~ msgstr "请输入一个密码以保护您的新已加密项目。"
+
+#~ msgid "Confirm"
+#~ msgstr "确定"
+
+#~ msgid ""
+#~ "Warning: This password for encryption cannot be restored or recovered in "
+#~ "any way.  If forgotten, all encrypted data will be lost"
+#~ msgstr ""
+#~ "警告：此加密用密码不能以任何方法恢复。万一忘记了将会失去所有已加密数据。"
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password."
+#~ msgstr "请输入您的副电子邮件，以免您需要重设您的密码。"
+
+#~ msgid "Email:"
+#~ msgstr "电子邮件："
+
+#~ msgid "Create %s Security Keys"
+#~ msgstr "创建 %s 安全钥"
+
+#~ msgid "Cancel"
+#~ msgstr "取消"
+
+#~ msgid "Not valid email"
+#~ msgstr "无效的电子邮件"
+
+#~ msgid "Emails not equal"
+#~ msgstr "电子邮件不一样"
+
+#~ msgid "Too short"
+#~ msgstr "太短"
+
+#~ msgid "Strong"
+#~ msgstr "强"
+
+#~ msgid "Weak"
+#~ msgstr "弱"
+
+#~ msgid "First %s Security Use"
+#~ msgstr "首个 %s 安全使用"
+
+#~ msgid "You have been sent an email using %s to secure the contents"
+#~ msgstr "您已使用 %s 确保内容发送一个电子邮件"
+
+#~ msgid ""
+#~ "Please select a new password for use with %s.  This password will be used "
+#~ "to open encrypted emails and files that may be sent to you."
+#~ msgstr ""
+#~ "请选择一个使用 %s 的新密码。此密码将会使用作打开发送给您的已加密电子邮件和"
+#~ "文件。"
+
+#~ msgid "First %s Security Password Use"
+#~ msgstr "首个 %s 安全密码使用"
+
+#~ msgid ""
+#~ "Please change the initial temporary %s security password that was sent to "
+#~ "you in a separate email."
+#~ msgstr "请更改发送给您的与另一电子邮件的最初临时 %s 安全密码。"
+
+#~ msgid "Initial Password"
+#~ msgstr "初始密码"
+
+#~ msgid "New Password"
+#~ msgstr "新密码"
+
+#~ msgid "Confirm New"
+#~ msgstr "确定新密码"
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password.</p>"
+#~ msgstr "请输入一个副电子邮件地址，万一您需要重设您的密码。</p>"
+
+#~ msgid "Verify:"
+#~ msgstr "核实："
+
+#~ msgid ""
+#~ "Warning: This password for encryption cannot be restored or recovered in "
+#~ "any way.  If forgotten, all encrypted data will be lost."
+#~ msgstr ""
+#~ "警告：此加密用密码不能以任何方法恢复。万一忘记了将会失去所有已加密数据。"
+
+#~ msgid "Success"
+#~ msgstr "成功"
+
+#~ msgid "Password changed successfully"
+#~ msgstr "已成功更改密码"
+
+#~ msgid "New password must be at least %s characters long"
+#~ msgstr "新密码必须最小长 %s 字节"
+
+#~ msgid "Encryption key not found"
+#~ msgstr "找不到加密键"
+
+#~ msgid "Failed to change password"
+#~ msgstr "更改密码失败"
+
+#~ msgid "Download decrypted"
+#~ msgstr "下载已解码"
+
+#~ msgid "Add and encrypt local file"
+#~ msgstr "添加和加密本地文件"
+
+#~ msgid "Remove encryption"
+#~ msgstr "移除加密"
+
+#~ msgid "Encrypt"
+#~ msgstr "加密"
+
+#~ msgid "Send by mail"
+#~ msgstr "以电子邮件发送"
+
+#~ msgid "Download encrypted"
+#~ msgstr "下载已加密"
+
+#~ msgid "Pop out"
+#~ msgstr "弹出窗口"
+
+#~ msgid "Pop out standalone viewer"
+#~ msgstr "弹出独立检视器"
+
+#~ msgid "Decrypt and open"
+#~ msgstr "解码后打开"
+
+#~ msgid "Drop files here to encrypt"
+#~ msgstr "把文件投下这里以加密"
+
+#~ msgid "Recipient Options"
+#~ msgstr "收件人选项"
+
+#~ msgid ""
+#~ "At least one of your recipients uses a different webmail system.  They "
+#~ "will receive an email with a link for them to read this message.  If you "
+#~ "like, you can add a personalized message that will appear at the top of "
+#~ "this message.  This will help identify the message as coming from you."
+#~ msgstr ""
+#~ "您有最少一个收件人使用不同的网页邮件系统。他们将会收到一个带有链接的电子邮"
+#~ "件，以让他们阅读此消息。如果您愿意，您可以在此添加一个自选消息，它将会在此"
+#~ "消息的顶部出现。这样将会帮忙确认消息是来自于您的。"
+
+#~ msgid "Message:"
+#~ msgstr "消息："
+
+#~ msgid "Language for recipient Email"
+#~ msgstr "接收者电子邮件的语言"
+
+#~ msgid "Note: Emails sent to mailing lists or groups will not work."
+#~ msgstr "备注：发送到邮件列表或群组的电子邮件将不能用。"
+
+#~ msgid ""
+#~ "Mailing list / blocked email found.  Encrypted emails to this email will "
+#~ "fail.  %s"
+#~ msgstr ""
+#~ "发现邮件列表 / 已封锁电子邮件。 到此电子邮件的加密电子邮件将会失败。 %s"
+
+#~ msgid ""
+#~ "The key for %s has expired.  You will not be able to send an encrypted "
+#~ "email to this recipient."
+#~ msgstr "%s 密钥已过期。 你将无法向此收件人发送一个已加密的电子邮件。"
+
+#~ msgid "HTML Formatted Email"
+#~ msgstr "HTML 格式电子邮件"
+
+#~ msgid ""
+#~ "HTML formatted emails may cause issues with PGP inline.  Click OK to "
+#~ "change to Plain Text formatted Emails."
+#~ msgstr ""
+#~ "HTML 格式电子邮件可能和直列 PGP 产生问题。单击 OK 以更改成纯文字格式电子邮"
+#~ "件。"
+
+#~ msgid "HTML format is not recommended when using PGP Inline"
+#~ msgstr "不建议在使用直列 PGP 时使用 HTML 格式"
+
+#~ msgid "Recipients cannot be added to this encrypted reply"
+#~ msgstr "不能添加收件人到此已加密回复"
+
+#~ msgid "Reply must be encrypted"
+#~ msgstr "回复必须加密"
+
+#~ msgid "Unable to attach your public key"
+#~ msgstr "无法附上您的公共键"
+
+#~ msgid "Will create new guest account for %s"
+#~ msgstr "将会为 %s 创建新访客户口"
+
+#~ msgid "Encryption Key Known"
+#~ msgstr "认识的加密钥"
+
+#~ msgid "Send"
+#~ msgstr "发送"
+
+#~ msgid "Send Encrypted"
+#~ msgstr "发送已加密"
+
+#~ msgid "Send Secure"
+#~ msgstr "发送安全"
+
+#~ msgid "Loaded"
+#~ msgstr "已加载"
+
+#~ msgid "Secure Email, enter your %s security password."
+#~ msgstr "安全电子邮件，输入您的 %s 安全密码。"
+
+#~ msgid "Keep me logged into %s"
+#~ msgstr "保持我登录在 %s"
+
+#~ msgid "10 minutes"
+#~ msgstr "10 分钟"
+
+#~ msgid "20 minutes"
+#~ msgstr "20 分钟"
+
+#~ msgid "30 minutes"
+#~ msgstr "30 分钟"
+
+#~ msgid "1 hour"
+#~ msgstr "1 小时"
+
+#~ msgid "2 hours"
+#~ msgstr "2 小时"
+
+#~ msgid "Session"
+#~ msgstr "段落"
+
+#~ msgid "Select Key Location"
+#~ msgstr "选择键位置"
+
+#~ msgid "Temporary Lockout"
+#~ msgstr "临时锁上"
+
+#~ msgid "Security PIN"
+#~ msgstr "保安个人身份号码"
+
+#~ msgid "Recipients:"
+#~ msgstr "收件人："
+
+#~ msgid ""
+#~ "The new recipients listed below will be sent a password via email.  You "
+#~ "can also require a separate pin, which is displayed below."
+#~ msgstr ""
+#~ "将会经由电子邮件发送一个密码给以下列出的新收件人。您也可以要求下面显示的一"
+#~ "个分离的个人身份号码。"
+
+#~ msgid ""
+#~ "You may deliver this pin any way you see fit, but we recommend doing it "
+#~ "in a second method other than email (Phone, SMS, Skype, etc)."
+#~ msgstr ""
+#~ "您可以在觉得应该时送出此个人身份号码，可是我们建议以电子邮件以外的方法送出"
+#~ "（电话、短讯、Skype 等等）。"
+
+#~ msgid "If you want this extra pin requirement, click OK."
+#~ msgstr "如果您要此额外个人身份号码要去，单击确定。"
+
+#~ msgid "Skip"
+#~ msgstr "跳过"
+
+#~ msgid "Unable to get key"
+#~ msgstr "无法获得键"
+
+#~ msgid "Please enter your %s password to sign this email."
+#~ msgstr "请输入您签署此电子邮件的 %s 密码。"
+
+#~ msgid ""
+#~ "There appears to be an encrypted attachment.  Please enter your %s "
+#~ "password to decode the attachment for sending."
+#~ msgstr "附件可见是已加密的。 请为输入您的 %s 密码以解码附件发送。"
+
+#~ msgid "Please re-enter your %s password before sending."
+#~ msgstr "发送前请重新输入您的 %s 密码。"
+
+#~ msgid "Please re-enter your %s password before saving."
+#~ msgstr "保存前请重新输入您的 %s 密码。"
+
+#~ msgid "Please re-enter your %s password."
+#~ msgstr "请重新输入你的 %s 密码。"
+
+#~ msgid "Security"
+#~ msgstr "保安"
+
+#~ msgid "PGP"
+#~ msgstr "PGP"
+
+#~ msgid "Secure"
+#~ msgstr "安全"
+
+#~ msgid "Sign"
+#~ msgstr "签署"
+
+#~ msgid "Format"
+#~ msgstr "格式"
+
+#~ msgid "PGP Mime"
+#~ msgstr "PGP Mime"
+
+#~ msgid "PGP Inline"
+#~ msgstr "PGP Inline"
+
+#~ msgid "Keys"
+#~ msgstr "键"
+
+#~ msgid "Attach my key"
+#~ msgstr "附上我的钥匙"
+
+#~ msgid "Unable to find keys for all recipients."
+#~ msgstr "无法找到所有收件人的键。"
+
+#~ msgid "Unable to connect to the encryption server."
+#~ msgstr "无法连接加密服务器。"
+
+#~ msgid "Unable to find the item on the server"
+#~ msgstr "无法在服务器上找到项目"
+
+#~ msgid "Unable to get the key for that item"
+#~ msgstr "无法为那项目获得键"
+
+#~ msgid "Unable to retrieve your user keys to decode"
+#~ msgstr "无法获取您的用户键以解码"
+
+#~ msgid "Bad extra password"
+#~ msgstr "错误额外密码"
+
+#~ msgid "No private key to decode this message"
+#~ msgstr "无解码此消息的私键"
+
+#~ msgid "Unable to decrypt Email, incorrect password."
+#~ msgstr "无法加密电子邮件，不正确密码。"
+
+#~ msgid "To reset or recover your password, click %s"
+#~ msgstr "要重设或复原您的密码，单击 %s"
+
+#~ msgid "Settings"
+#~ msgstr "设置"
+
+#~ msgid "No Private Key available for this encrypted item."
+#~ msgstr "无可用于此已加密项目的私键。"
+
+#~ msgid "Key Ids:"
+#~ msgstr "键 ID："
+
+#~ msgid "Your account is locked out for %s minutes"
+#~ msgstr "您的户口已被锁定 %s 分钟"
+
+#~ msgid "Server Error: "
+#~ msgstr "服务器错误："
+
+#~ msgid "Password needed"
+#~ msgstr "需要密码"
+
+#~ msgid "Please enter your %s password"
+#~ msgstr "请输入您的 %s 密码"
+
+#~ msgid "Remember my password"
+#~ msgstr "记得我的密码"
+
+#~ msgid "Account locked out due to bad attempts.  Please try again later."
+#~ msgstr "由于不当尝试，帐户已被锁定。请稍后再试。"
+
+#~ msgid "Error checking password"
+#~ msgstr "错误检查密码"
+
+#~ msgid "Delete Public Key"
+#~ msgstr "删除公键"
+
+#~ msgid "Click OK to confirm"
+#~ msgstr "单击 OK 以确定"
+
+#~ msgid "Email"
+#~ msgstr "电子邮件"
+
+#~ msgid "Key Ids"
+#~ msgstr "键 ID"
+
+#~ msgid "Details"
+#~ msgstr "详情"
+
+#~ msgid "Delete"
+#~ msgstr "删除"
+
+#~ msgid "No Keys Found"
+#~ msgstr "没找到键"
+
+#~ msgid "Key Details"
+#~ msgstr "键详情"
+
+#~ msgid "Share Keys"
+#~ msgstr "分享键"
+
+#~ msgid "Use PGP Inline"
+#~ msgstr "使用 PGP 直列"
+
+#~ msgid "Signatures"
+#~ msgstr "签名"
+
+#~ msgid "Expired"
+#~ msgstr "失效"
+
+#~ msgid "Revoked"
+#~ msgstr "废除"
+
+#~ msgid "Fingerprint:"
+#~ msgstr "指模："
+
+#~ msgid "Created:"
+#~ msgstr "创建："
+
+#~ msgid "Master:"
+#~ msgstr "原版："
+
+#~ msgid "True"
+#~ msgstr "是"
+
+#~ msgid "False"
+#~ msgstr "否"
+
+#~ msgid "Encryption:"
+#~ msgstr "加密："
+
+#~ msgid "IDs: "
+#~ msgstr "ID"
+
+#~ msgid "Expires in %1$s days"
+#~ msgstr "在 %1$s 后失效"
+
+#~ msgid "Problem getting signatures"
+#~ msgstr "获得签名出了问题"
+
+#~ msgid "Positive"
+#~ msgstr "正面"
+
+#~ msgid "Failed check"
+#~ msgstr "检查失败"
+
+#~ msgid "Missing public"
+#~ msgstr "缺乏公共"
+
+#~ msgid "Casual"
+#~ msgstr "非正式鉴定"
+
+#~ msgid "Revocation"
+#~ msgstr "废除"
+
+#~ msgid "Direct cert"
+#~ msgstr "直接鉴定"
+
+#~ msgid "Default Certification"
+#~ msgstr "默认"
+
+#~ msgid "No signatures"
+#~ msgstr "没有签名"
+
+#~ msgid "ID Signed"
+#~ msgstr "已签署 ID"
+
+#~ msgid "Certification"
+#~ msgstr "鉴定"
+
+#~ msgid "Signed by"
+#~ msgstr "签署者："
+
+#~ msgid "Image"
+#~ msgstr "图像"
+
+#~ msgid "Key Signatures"
+#~ msgstr "键签名"
+
+#~ msgid "PGP Public Key List"
+#~ msgstr "PGP 公共键列表"
+
+#~ msgid "This Email was encrypted with PGP."
+#~ msgstr "此电子邮件已用 PGP 加密。"
+
+#~ msgid "This Email was signed and verified."
+#~ msgstr "此电子邮件已签名和核实。"
+
+#~ msgid "This Email was signed and failed verification."
+#~ msgstr "此电子邮件已签名但核实失败"
+
+#~ msgid "This Email was signed but unable to verify."
+#~ msgstr "此电子邮件已由签名但无法核实"
+
+#~ msgid ""
+#~ "This Email was sent using PGP encryption. It has been decrypted with your "
+#~ "private key"
+#~ msgstr "此电子邮件已使用 PGP 加密发送。它已使用您的私键解密"
+
+#~ msgid "This Email was signed by the sender and verified."
+#~ msgstr "此电子邮件已由发送人签名和核实。"
+
+#~ msgid "PGP Public Key Found.  Click to Import"
+#~ msgstr "找到 PGP 公键，单击导入。"
+
+#~ msgid "Save encrypted to %1$s"
+#~ msgstr "加密保存到 %1$s"
+
+#~ msgctxt "app"
+#~ msgid "Drive"
+#~ msgstr "云盘"
+
+#~ msgid "Check assigned PIN"
+#~ msgstr "检查被分派的 PIN"
+
+#~ msgid "PIN"
+#~ msgstr "个人身份号码"
+
+#~ msgid "Added keys: \r\n"
+#~ msgstr "已添加键: \r\n"
+
+#~ msgid "Key ID: "
+#~ msgstr "键 ID："
+
+#~ msgid "Service Unavailable"
+#~ msgstr "服务不可用"
+
+#~ msgid "Advanced Settings"
+#~ msgstr "进阶设置"
+
+#~ msgid "Download PGP Public Key"
+#~ msgstr "下载 PGP 公共键"
+
+#~ msgid "Email your PGP Public Key"
+#~ msgstr "用电子邮件寄出您的 PGP 公共键"
+
+#~ msgid "Your Keys"
+#~ msgstr "您的键"
+
+#~ msgid "Your Key List"
+#~ msgstr "您的键列表"
+
+#~ msgid "Key ID"
+#~ msgstr "键 ID"
+
+#~ msgid "Private Key"
+#~ msgstr "私键"
+
+#~ msgid "Current"
+#~ msgstr "当前"
+
+#~ msgid "Download"
+#~ msgstr "下载"
+
+#~ msgid "Edit"
+#~ msgstr "编辑"
+
+#~ msgid "Adding Keys"
+#~ msgstr "添加键"
+
+#~ msgid "If you already have a private key, you can upload it here."
+#~ msgstr "如果您已经有一个私键，您能上载到这里。"
+
+#~ msgid "Upload Private Key"
+#~ msgstr "更新私键"
+
+#~ msgid "Finally, you can have a new PGP Key Pair created for your account."
+#~ msgstr "最后，您能为您的户口创建一对新的 PGP 键。"
+
+#~ msgid "Create New Keys"
+#~ msgstr "创建新键"
+
+#~ msgid "Adding UserID"
+#~ msgstr "添加 UserID"
+
+#~ msgid "Add a name and email address to this public key."
+#~ msgstr "添加一个名称和电子邮件地址到此公共键。"
+
+#~ msgid "Name"
+#~ msgstr "名称"
+
+#~ msgid "Please enter your key password"
+#~ msgstr "请输入您的键密码"
+
+#~ msgid "Invalid Email Address"
+#~ msgstr "无效电子邮件地址"
+
+#~ msgid "Invalid Name"
+#~ msgstr "无效名称"
+
+#~ msgid "Enter password"
+#~ msgstr "输入密码"
+
+#~ msgid "User ID added"
+#~ msgstr "已添加用户 ID"
+
+#~ msgid "Failed to add UserID"
+#~ msgstr "添加 UserID 失败"
+
+#~ msgid "Revoke Private Key"
+#~ msgstr "废除私键"
+
+#~ msgid ""
+#~ "Revoke the key: This advises others that you no longer want this key "
+#~ "used.  You can continue to decode any encrypted data using the key."
+#~ msgstr ""
+#~ "废除键：此动作告诉其他人您不再想使用此键。您能继续使用此键解码任何已加密数"
+#~ "据。"
+
+#~ msgid "Delete Private Key"
+#~ msgstr "删除私键"
+
+#~ msgid "There are two options if you no longer want to use this key"
+#~ msgstr "如果您不再想使用此键，有两种选项"
+
+#~ msgid ""
+#~ "Revoke the key: This advises others that you no longer want this key "
+#~ "used.  You can continue to decode any encrypted data using the key. "
+#~ "(Recommended)"
+#~ msgstr ""
+#~ "废除键：此动作告诉其他人您不再想使用此键。您能继续使用此键解码任何已加密数"
+#~ "据。（建议）"
+
+#~ msgid ""
+#~ "Deleting the key: Deleting the private key will render all encrypted "
+#~ "items unreadable.  You will not be able to decode emails or files that "
+#~ "were enrypted with this key.  This cannot be undone."
+#~ msgstr ""
+#~ "删除键：删除私键将会让所有已加密项目无法读取。您将无法解码任何使用此键加密"
+#~ "的电子邮件和文件，而且无法挽回。"
+
+#~ msgid "Revoke"
+#~ msgstr "废除"
+
+#~ msgid ""
+#~ "You will no longer be able to decode any items that were encrypted with "
+#~ "this key!"
+#~ msgstr "您将会无法再解码任何使用此键加密的项目！"
+
+#~ msgid "Enter your password below to confirm and verify"
+#~ msgstr "在以下输入您的密码以确认"
+
+#~ msgid "Bad Password"
+#~ msgstr "错误密码"
+
+#~ msgid "Key Deleted"
+#~ msgstr "已删除键"
+
+#~ msgid "Failed to delete key"
+#~ msgstr "删除键失败"
+
+#~ msgid "Problem deleting key"
+#~ msgstr "删除键出现问题"
+
+#~ msgid "Please verify you want to delete this key"
+#~ msgstr "请确认您要删除此键"
+
+#~ msgid "Failed to delete"
+#~ msgstr "删除失败"
+
+#~ msgid ""
+#~ "This will advise people not to use this key.  You can still use the key "
+#~ "to decode existing items."
+#~ msgstr "此动作告诉人们不要使用此键。您还是能使用此键解码现有项目。"
+
+#~ msgid "Reason"
+#~ msgstr "原因"
+
+#~ msgid "No Reason"
+#~ msgstr "没有原因"
+
+#~ msgid "Key superseded"
+#~ msgstr "已取代键"
+
+#~ msgid "Key compromised"
+#~ msgstr "已破解键"
+
+#~ msgid "Key retired"
+#~ msgstr "已除役键"
+
+#~ msgid "User no longer valid"
+#~ msgstr "用户不再有效"
+
+#~ msgid "Key Revoked"
+#~ msgstr "已废除键"
+
+#~ msgid "Failed to revoke key"
+#~ msgstr "废除键失败"
+
+#~ msgid "Download Key"
+#~ msgstr "下载键"
+
+#~ msgid "Download your private key for use with other email programs"
+#~ msgstr "下载您的私键以在其他电子邮件程序使用"
+
+#~ msgid "Do not distribute this key.  It is for your use only"
+#~ msgstr "不要分发此键，这是给您一人使用的"
+
+#~ msgid "Download PGP Private Key"
+#~ msgstr "下载 PGP 私键"
+
+#~ msgid "Download Public and Private Key"
+#~ msgstr "下载公共和私人键"
+
+#~ msgid "Key ID:"
+#~ msgstr "键 ID："
+
+#~ msgid "Expires:"
+#~ msgstr "过期："
+
+#~ msgid "Private Key: "
+#~ msgstr "私键："
+
+#~ msgid ""
+#~ "If you would like to upload a public key only, then do so here.  This "
+#~ "will allow you to encrypt files and receive encrypted emails using %s, "
+#~ "but you will need to use the private key with another program to decode "
+#~ "the items."
+#~ msgstr ""
+#~ "如果您只要上载一个公钥，请再次进行。此将会允许您使用 %s 加密文件和接收已加"
+#~ "密电子邮件，可是您将需要以别的程序和私钥去解码项目。"
+
+#~ msgid "Upload Public Key Only"
+#~ msgstr "只上载公键"
+
+#~ msgid "PGP Public Key is attached"
+#~ msgstr "附带 PGP 公共键"
+
+#~ msgid "Public Keys"
+#~ msgstr "公共键"
+
+#~ msgid "Failed to update settings"
+#~ msgstr "保存更新设置失败"
+
+#~ msgid "Email format"
+#~ msgstr "电子邮件格式"
+
+#~ msgid ""
+#~ "Emails that contain HTML and are sent with PGP Inline will often result "
+#~ "in decoding errors and possible failure.  As a result, the default Email "
+#~ "format should be changed to plaintext.  Click OK to change the default to "
+#~ "plaintext, cancel to keep your current setting."
+#~ msgstr ""
+#~ "包括 HTML 和以 PGP Inline 发送的电子邮件，将会经常导致解码错误和失败可能。"
+#~ "因此，默认电子邮件格式必定更改成纯文字。单击 OK 以更改默认成纯文字、单击取"
+#~ "消以保留您的当前设置。"
+
+#~ msgid "Ask each time"
+#~ msgstr "每次询问"
+
+#~ msgid "Remember Password Default"
+#~ msgstr "记住密码默认"
+
+#~ msgid "Default to send encrypted when composing email"
+#~ msgstr "默认编写电子邮件以加密发送"
+
+#~ msgid "Encrypt all incoming emails"
+#~ msgstr "加密所有外来电子邮件"
+
+#~ msgid "Default adding signature to outgoing mails"
+#~ msgstr "默认添加签名到向外的邮件"
+
+#~ msgid "Default to using PGP inline for new mails"
+#~ msgstr "新邮件默认使用直列 PGP "
+
+#~ msgid "Please wait"
+#~ msgstr "请稍候"
+
+#~ msgid "Advanced"
+#~ msgstr "进阶"
+
+#~ msgid "Enable Advanced PGP Features"
+#~ msgstr "启用进阶 PGP 功能"
+
+#~ msgid "PGP Encryption Settings"
+#~ msgstr "PGP 加密设置"
+
+#~ msgid "Security Settings"
+#~ msgstr "安全设置"
+
+#~ msgid "Keys uploaded"
+#~ msgstr "已上载键"
+
+#~ msgid "Failed to upload"
+#~ msgstr "上载失败"
+
+#~ msgid "The public key must have your primary email as a user ID"
+#~ msgstr "公键必须有您的主电子邮件作为用户 ID"
+
+#~ msgid "Upload Private Keys"
+#~ msgstr "上载私键"
+
+#~ msgid "Please enter passwords for the upload"
+#~ msgstr "请为上载输入密码"
+
+#~ msgid "Enter new password for the key:"
+#~ msgstr "为键输入新密码："
+
+#~ msgid "Confirm Password:"
+#~ msgstr "确认密码："
+
+#~ msgid "Private key password for the key you are uploading:"
+#~ msgstr "您在上载的键之私键密码："
+
+#~ msgid "Private Key Uploaded"
+#~ msgstr "以上载私键"
+
+#~ msgid "This key already exists"
+#~ msgstr "此键已经存在"
+
+#~ msgid "Bad PGP Password"
+#~ msgstr "错误 PGP 密码"
+
+#~ msgid "The private key must have your primary email as a user ID"
+#~ msgstr "私键必须有您的主电子邮件作为用户 ID"
+
+#~ msgid "Must use same password as existing key to merge"
+#~ msgstr "必须使用用—密码作现有键的融合"
+
+#~ msgid "Problem uploading Private Key "
+#~ msgstr "上载私键时出现问题"
+
+#~ msgid "Logged out of %s"
+#~ msgstr "已从 %s 注销"
+
+#~ msgid "Failed to log out of %s"
+#~ msgstr "从 %s 注销失败"
+
+#~ msgid "Guided tour for %s"
+#~ msgstr "%s 的向导"
+
+#~ msgid "Sign out %s"
+#~ msgstr "注销 %s"
+
+#~ msgctxt "app"
+#~ msgid "%s Security"
+#~ msgstr "%s 安全"
+
+#~ msgid "Get Started"
+#~ msgstr "开始"
+
+#~ msgid ""
+#~ "In order to start with %s Security, you must set up a password for your "
+#~ "secured files."
+#~ msgstr "为了以 %s 安全开始，您必须为您的安全文件设置一个密码。"
+
+#~ msgid "Start"
+#~ msgstr "开始"
+
+#~ msgid "%s Security Settings"
+#~ msgstr "%s 安全设置"
+
+#~ msgid "Change %s Security Password."
+#~ msgstr "更改 %s 安全密码。"
+
+#~ msgid "Enter current %s security password"
+#~ msgstr "输入当前 %s 安全密码"
+
+#~ msgid "Enter new %s security password"
+#~ msgstr "输入新的 %s 安全密码"
+
+#~ msgid "Verify new %s security password"
+#~ msgstr "核实新 %s 安全密码"
+
+#~ msgid "Change %s security password"
+#~ msgstr "更改 %s 安全密码"
+
+#~ msgid "Reset %s security password"
+#~ msgstr "重设 %s 安全密码"
+
+#~ msgid "Send a temporary %s security password to my secondary Email address."
+#~ msgstr "发送一个临时 %s 安全密码到我的次要电子邮件地址。"
+
+#~ msgid "Delete Password Recovery"
+#~ msgstr "删除密码恢复"
+
+#~ msgid "Advanced Users Only!"
+#~ msgstr "只限进阶用户！"
+
+#~ msgid ""
+#~ "Delete the password recovery.  The recovery is used to reset your "
+#~ "password.  If you delete the recovery, you will not be able to reset your "
+#~ "password if you forget it.  Changing your password will restore the "
+#~ "recovery."
+#~ msgstr ""
+#~ "删除密码恢复。恢复是用以重设密码的，如果您删除恢复，您将无法在您忘记密码时"
+#~ "重设。更改您的密码将会还原恢复。"
+
+#~ msgid "Please verify your password before deleting the recovery."
+#~ msgstr "请在您删除恢复前，确认您的密码。"
+
+#~ msgid "Recovery deleted"
+#~ msgstr "已删除恢复"
+
+#~ msgid "Current Email address:"
+#~ msgstr "当前电子邮件地址："
+
+#~ msgid "Secondary Email"
+#~ msgstr "副电子邮件"
+
+#~ msgid "Change Email address used for password reset."
+#~ msgstr "更改用作密码重设的电子邮件地址。"
+
+#~ msgid "Verify Email address"
+#~ msgstr "核实电子邮件地址"
+
+#~ msgid "Change Email address"
+#~ msgstr "更改电子邮件密码"
+
+#~ msgid "None - Primary Email will be used"
+#~ msgstr "无 - 将会使用主要电子邮件"
+
+#~ msgid "Invalid email address"
+#~ msgstr "无效电子邮件地址"
+
+#~ msgid "Successfully changed email address"
+#~ msgstr "成功更改电子邮件地址"
+
+#~ msgid "A new password has been sent to your email address."
+#~ msgstr "已发送一个新密码到您的电子邮件地址。"
+
+#~ msgid "A new password has been sent to your secondary email address."
+#~ msgstr "已发送一个新密码到您的副电子邮件地址。"
+
+#~ msgid "No password recovery is available."
+#~ msgstr "无可用的密码复原。"
+
+#~ msgid "Password reset, but unable to send to your email address."
+#~ msgstr "已重设密码，然而无法发送到您的电子邮件地址。"
+
+#~ msgid "Unable to find email address to send password reset."
+#~ msgstr "无法找到电子邮件地址已发送密码重设"
+
+#~ msgid "Unable to reset your password"
+#~ msgstr "无法重设您的密码"
+
+#~ msgid "Next"
+#~ msgstr "下一个"
+
+#~ msgid "Simple and Easy"
+#~ msgstr "簡單和容易"
+
+#~ msgctxt "Choice"
+#~ msgid "One click encryption for Emails and files"
+#~ msgstr "一键加密电址邮件与文件"
+
+#~ msgctxt "Choice"
+#~ msgid "Works in all browsers with all your contacts"
+#~ msgstr "在所有浏览器里使用您所有联系人。"
+
+#~ msgctxt "Choice"
+#~ msgid "Easy to use, every day"
+#~ msgstr "易於每天使用"
+
+#~ msgctxt "Choice"
+#~ msgid "Security details managed by us"
+#~ msgstr "我们管理的保安详情"
+
+#~ msgctxt "Choice"
+#~ msgid ""
+#~ "If you do not have deep knowledge of encryption, but you would like to "
+#~ "easily secure your communication with your friends or business contacts, "
+#~ "this option fits perfectly for you. Safe Email, made simple!"
+#~ msgstr ""
+#~ "如果您没有深厚的加密知识,但要简易地加密与您朋友或生意联係的沟通,此选项就是"
+#~ "為您而设的。安全的电子郫件将万事简化。"
+
+#~ msgctxt "Choice"
+#~ msgid "Encryption Expert"
+#~ msgstr "专家加密"
+
+#~ msgctxt "Choice"
+#~ msgid "Expert encryption options available"
+#~ msgstr "专家加密选项可用"
+
+#~ msgctxt "Choice"
+#~ msgid "Works only in Firefox and Chrome"
+#~ msgstr "只能於  Firefox 或 Chrome 上作用"
+
+#~ msgctxt "Choice"
+#~ msgid "Browser plugin required"
+#~ msgstr "需要浏览器插件"
+
+#~ msgctxt "Choice"
+#~ msgid "Security details managed by yourself"
+#~ msgstr "您自己管理的保安详情"
+
+#~ msgctxt "Choice"
+#~ msgid ""
+#~ "If you are an encryption expert, and would like to manage all encryption "
+#~ "details by yourself, this option fits best for you. You need to install a "
+#~ "third-party browser plugin to work with expert encryption."
+#~ msgstr ""
+#~ "如果您是一名加密专家,亦想自行管理所有加密详情;那此选项就是為您而设的,你需"
+#~ "要安装一个第三方浏览器插件以专家加密工作。"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You already set up your %s account. But you can always change your "
+#~ "encryption password, or request a temporary password if you forget it."
+#~ msgstr ""
+#~ "您已经设置您的 %s 户口，但是您能随时更改您的加密用密码，或在您忘记时请求一"
+#~ "个临时密码。"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You already set up your %s account.  You can change your encryption "
+#~ "password here."
+#~ msgstr "您已经设置您的 %s 户口。您能在此更改您的加密用密码。"
+
+#~ msgctxt "tour"
+#~ msgid "The %s module"
+#~ msgstr "%s 模组"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Security and privacy matters to everyone. That's why you can now send and "
+#~ "receive encrypted emails by simply clicking on the lock icon."
+#~ msgstr ""
+#~ "安全和隐私对每一个人都很重要，因此您能简单地单击锁图标，以发送和接收已加密"
+#~ "电子邮件。"
+
+#~ msgctxt "tour"
+#~ msgid "%s Security Settings"
+#~ msgstr "%s 安全设置"
+
+#~ msgctxt "tour"
+#~ msgid "PGP Encryption Settings"
+#~ msgstr "PGP 加密设置"
+
+#~ msgctxt "tour"
+#~ msgid "Security Settings"
+#~ msgstr "安全设置"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "From here you can update your encryption settings. For example you can "
+#~ "choose to send encrypted emails by default."
+#~ msgstr "从此这里您能更新您的加密设置。例如您能选择默认发送已加密电子邮件。"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "From here, you can update your security settings.  For example, you can "
+#~ "choose to send secure emails by default."
+#~ msgstr "从此您能更新您的安全设置。例如，您能选择默认发送安全电子邮件。"
+
+#~ msgctxt "tour"
+#~ msgid "Signature"
+#~ msgstr "签名"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "In addition to encrypting your emails you can also sign them. This means "
+#~ "that email recipients can be sure that the email really came from you. By "
+#~ "ticking this checkbox your signature will be added to outgoing emails by "
+#~ "default."
+#~ msgstr ""
+#~ "除了加密您的电子邮件您也能签署它们，这代表电子邮件收件人能够确定电子邮件真"
+#~ "的来自于您。选择此复选框您的签名将会默认添加到外送电子邮件。"
+
+#~ msgctxt "tour"
+#~ msgid "Alternative: PGP Inline"
+#~ msgstr "替代：PGP 内联"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "By default %s sends encrypted emails using PGP/Mime format. To "
+#~ "communicate with some systems you may need to use PGP Inline."
+#~ msgstr ""
+#~ "默认 %s 使用 PGP/Mime 格式发送已加密电子邮件。要与一些系统沟通您可能要使用"
+#~ "直列 PGP。"
+
+#~ msgctxt "tour"
+#~ msgid "Advanced Settings"
+#~ msgstr "进阶设置"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Advanced users can manage their key lists from the PGP Encryption "
+#~ "Settings."
+#~ msgstr "进阶用户能从 PGP 设置管理他们的键列表。"
+
+#~ msgctxt "tour"
+#~ msgid "Advanced User Settings"
+#~ msgstr "进阶用户设置"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Enabling Advanced PGP Features will enable key management and specifying "
+#~ "sending formats."
+#~ msgstr "启用进阶 PGP 功能将会启用键管理和指定发送格式。"
+
+#~ msgctxt "tour"
+#~ msgid "Enabling and disabling encryption"
+#~ msgstr "启用和停用加密"
+
+#~ msgctxt "tour"
+#~ msgid "You are now able to send secure emails."
+#~ msgstr "您现在可以发送安全电子邮件。"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Sending without encryption is easy, too: Simply click on the lock icon "
+#~ "again."
+#~ msgstr "不加密发送也很简单：只要在锁图标上再单击。"
+
+#~ msgctxt "tour"
+#~ msgid "Encrypt files"
+#~ msgstr "加密文件"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You can also protect your files. Just click on Encrypt and the selected "
+#~ "file will be stored securely."
+#~ msgstr "您也能保护文件，只需在选中文件单击加密将会安全的保存。"
+
+#~ msgctxt "tour"
+#~ msgid "Encrypt your sensitive files in Drive"
+#~ msgstr "在 Drive 加密您的敏感文件"
+
+#~ msgctxt "tour"
+#~ msgid "Restart Guided Tour"
+#~ msgstr "重启导游"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "<em>Hint:</em> you can start guided tours, any time you need them, from "
+#~ "the system menu."
+#~ msgstr "<em>提示：</em>您能随时在需要时，从系统菜单开始导游。"
+
+#~ msgctxt "tour"
+#~ msgid "Guided Tour completed"
+#~ msgstr "导游完成"
+
+#~ msgctxt "tour"
+#~ msgid "You successfully learned how to protect your emails and files."
+#~ msgstr "您成功学习了如何保护您的电子邮件和文件。"
+
+#~ msgctxt "tour"
+#~ msgid "What you can do now:"
+#~ msgstr "您现在能做什么："
+
+#~ msgctxt "tour"
+#~ msgid "Write an encrypted email"
+#~ msgstr "写一封加密电子邮件"
+
+#~ msgctxt "tour"
+#~ msgid "Activate encryption for all new emails"
+#~ msgstr "为所有新电子邮件激活加密"
+
+#~ msgctxt "tour"
+#~ msgid "Review your encryption settings"
+#~ msgstr "审核您的加密设置"
+
+#~ msgctxt "tour"
+#~ msgid "Learn more"
+#~ msgstr "学习更多"
+
+#~ msgid "Start Setup"
+#~ msgstr "开始设置"
+
+#~ msgctxt "tour"
+#~ msgid "Setup %s"
+#~ msgstr "设置 %s"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Welcome to %1$s. You will now be taken on a tour, showing you how to use "
+#~ "%1$s."
+#~ msgstr "欢迎到 %1$s。您现在将会引领到一个向导，为您展示如何使用 %1$s。"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Firstly however, you’ll need to setup %1$s by choosing a password which "
+#~ "will be used to encrypt or decrypt items such as email or files."
+#~ msgstr ""
+#~ "但是首先，您将会需要选择一个用作加密和解密项目（例如：电子邮件或文件），以"
+#~ "设置 %1$s。"
+
+#~ msgid "Choose %s Password"
+#~ msgstr "选择 %s 密码"
+
+#~ msgid "Close"
+#~ msgstr "关闭"
+
+#~ msgctxt "tour"
+#~ msgid "%s set up completed"
+#~ msgstr "%s 设置完成"
+
+#~ msgctxt "tour"
+#~ msgid "Congratulations, you have successfully setup %s"
+#~ msgstr "恭喜！您成功设置了 %s"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Now you can learn more about how to use %s by following the links below:"
+#~ msgstr "现在只需跟随以下链接，您就能了解更多有关如何使用 %s 的信息："
+
+#~ msgctxt "tour"
+#~ msgid "Learn more about %s"
+#~ msgstr "了解更多有关 %s"
+
+#~ msgid "Choose your security solution"
+#~ msgstr "选择您的保安解决方法"
+
+#~ msgid "Key found for %1$s.  Import?"
+#~ msgstr "找到 %1$s 的键,靖问要导入吗?"
+
+#~ msgid "Import"
+#~ msgstr "导入"
+
+#~ msgid "Imported"
+#~ msgstr "已导入"
+
+#~ msgid "Updated"
+#~ msgstr "已更新"
+
+#~ msgid "Invalidated"
+#~ msgstr "无效"
+
+#~ msgid "Rejected"
+#~ msgstr "已拒绝"
+
+#~ msgid "Warning"
+#~ msgstr "警告"
+
+#~ msgid ""
+#~ "Sending an encrypted email from an account other than %s may cause "
+#~ "problems with the recipient being able to reply.  Consider using your "
+#~ "primary account."
+#~ msgstr ""
+#~ "从一个不同于 %s 的户口发送一个已加密电子邮件，可能会引致收件人无法回复。考"
+#~ "虑使用您的首要户口。"
+
+#~ msgid "Do not warn me again"
+#~ msgstr "不要再警告我"
+
+#~ msgid "PGP Info"
+#~ msgstr "PGP 信息"
+
+#~ msgid "Content Type"
+#~ msgstr "內容类别"
+
+#~ msgid "PGP Details"
+#~ msgstr "PGP 详情"
+
+#~ msgid ""
+#~ "Mailvelope is not supported in this browser.  Please use Chrome or "
+#~ "Firefox with Mailvelop installed."
+#~ msgstr ""
+#~ "Mailvelope 不被此浏览器支持。请使用 Chrome 或安装了 Mailvelop 的 Firefox "
+
+#~ msgid "Enter re-enter %s security password"
+#~ msgstr "输入重新输入 %s 的安全密码"
+
+#~ msgid "Download Decrypted"
+#~ msgstr "下载已解码"
+
+#~ msgid "Download Encrypted"
+#~ msgstr "加密下载"
+
+#~ msgid "View"
+#~ msgstr "检视"
+
+#~ msgid "Decrypt and Open"
+#~ msgstr "解码后打开"
+
+#~ msgid "Drop files here to upload"
+#~ msgstr "把文件投下这里以上载"
+
+#~ msgid "Add"
+#~ msgstr "添加"
+
+#~ msgid "Add:"
+#~ msgstr "添加："
+
+#~ msgid "Must be in the same global address book"
+#~ msgstr "必须在同一个总地址簿里"
+
+#~ msgid "Unable to add"
+#~ msgstr "无法添加"
+
+#~ msgid "Select"
+#~ msgstr "选择"
+
+#~ msgid "User"
+#~ msgstr "用户"
+
+#~ msgid "Retract"
+#~ msgstr "收回"
+
+#~ msgid "Unable to share"
+#~ msgstr "无法分享"
+
+#~ msgid "Remove from share list"
+#~ msgstr "从分享列表移除"
+
+#~ msgid "Failed to remove the share"
+#~ msgstr "移除分享失败"
+
+#~ msgid "Password Needed"
+#~ msgstr "需要密码"
+
+#~ msgid "Please provide your %s security password to share this file"
+#~ msgstr "请提供您的 %s 安全密码以分享此文件"
+
+#~ msgid "No users in same context"
+#~ msgstr "没有在同一环境的用户"
+
+#~ msgid "The following link will take you to the shared file"
+#~ msgstr "以下链接将会带您到分享的文件"
+
+#~ msgid "Shared file link"
+#~ msgstr "已分享文件链接"
+
+#~ msgid "Attached encrypted file"
+#~ msgstr "已依附加密文件"
+
+#~ msgid "Shared file"
+#~ msgstr "已分享文件"
+
+#~ msgid "Add Permissions"
+#~ msgstr "添加权限"
+
+#~ msgid ""
+#~ "The following users do not have permission to view objects in this folder."
+#~ msgstr "以下用户没有在此文件夹检视对象的权限。"
+
+#~ msgid "Do you wish to add read permissions to this folder for these users?"
+#~ msgstr "您希望为这些用户添加读取权限到此文件夹吗？"
+
+#~ msgid "Failed to add folder sharing permissions"
+#~ msgstr "添加文件夹分享权限失败"
+
+#~ msgid "%s %s %s"
+#~ msgstr "%s %s %s"
+
+#~ msgid "The provided filename exceeds the allowed length."
+#~ msgstr "提供的文件名称超出允许长度。"
+
+#~ msgid "The allowed quota is reached."
+#~ msgstr "已到达允许限额。"
+
+#~ msgid "This file has not been added"
+#~ msgstr "此文件还未被添加"
+
+#~ msgid "Upload a new encrypted version"
+#~ msgstr "上载一个新已加密版本"
+
+#~ msgid "Upload file"
+#~ msgstr "上载文件"
+
+#~ msgid "Version Comment"
+#~ msgstr "版本注释"
+
+#~ msgid "Upload new encrypted version"
+#~ msgstr "上载新已加密版本"
+
+#~ msgid "Uploading..."
+#~ msgstr "上载中..."
+
+#~ msgid ""
+#~ "You are replying to an email that has not yet been decoded.  The "
+#~ "recipient will not be able to read the contents of the original email."
+#~ msgstr ""
+#~ "您正在回复一个还没有解码的电子邮件。收件人将无法阅读原电子邮件的内容。"
+
+#~ msgid ""
+#~ "You are forwarding an email that has not yet been decoded.  The recipient "
+#~ "will not be able to read the contents of the original email."
+#~ msgstr ""
+#~ "您正在转发一个还没有解码的电子邮件。收件人将无法阅读原电子邮件的内容。"
+
+#~ msgid "Re: %1$s"
+#~ msgstr "Re（回复）: %1$s"
+
+#~ msgid "Fwd: %1$s"
+#~ msgstr "Fwd（转发）: %1$s"
+
+#~ msgid "Original Message"
+#~ msgstr "原始消息"
+
+#~ msgid "From: %1$s"
+#~ msgstr "发送人：%1$s"
+
+#~ msgid "To: %1$s"
+#~ msgstr "收件人：%1$s"
+
+#~ msgid "CC: %1$s"
+#~ msgstr "副本：%1$s"
+
+#~ msgid "Date: %1$s"
+#~ msgstr "日期：%1$s"
+
+#~ msgid "Subject: %1$s"
+#~ msgstr "主题：%1$s"
+
+#~ msgid "On %1$s at %2$s %3$s wrote:"
+#~ msgstr "在 %1$s 的 %2$s，%3$s 写道︰"
+
+#~ msgid "Attach My Key"
+#~ msgstr "附加我的键"
+
+#~ msgid "Do you really want to discard your message?"
+#~ msgstr "您真的要丢弃您的消失？"
+
+#~ msgctxt "dialog"
+#~ msgid "Discard message"
+#~ msgstr "丢弃消息"
+
+#~ msgid "Save as draft"
+#~ msgstr "保存成草稿："
+
+#~ msgid "Mail has empty subject. Send it anyway?"
+#~ msgstr "邮件没有主题，照样发送？"
+
+#~ msgid "Yes, send without subject"
+#~ msgstr "是的，不带主题发送。"
+
+#~ msgid "Add subject"
+#~ msgstr "添加主题"
+
+#~ msgid "Unable to authorize against backend"
+#~ msgstr "无法授权后台"
+
+#~ msgid "Save"
+#~ msgstr "保存"
+
+#~ msgid "Saving attachment to Drive"
+#~ msgid_plural "Saving attachments to Drive"
+#~ msgstr[0] "保存附件到 Drive 中"
+
+#~ msgid "Attachment has been saved"
+#~ msgid_plural "Attachments have been saved"
+#~ msgstr[0] "已保存附件"
+
+#~ msgid "Failed to decrypt"
+#~ msgstr "解密文件失败"
+
+#~ msgid "Failed to save attachments"
+#~ msgstr "保存附件失败"
+
+#~ msgid "Unsupported browser"
+#~ msgstr "不支持的浏览器"
+
+#~ msgid "Mail has no recipients"
+#~ msgstr "邮件没有收件人"
+
+#~ msgid "Mail saved as draft"
+#~ msgstr "邮件保存成草稿"
+
+#~ msgid "Unable to get keys for all users"
+#~ msgstr "无法为所有用户获得键"
+
+#~ msgid ""
+#~ "The from address you selected for this email is not associated with an "
+#~ "encryption key.  Please send from your primary account, or optionally, "
+#~ "add the email address to your key using the advanced settings."
+#~ msgstr ""
+#~ "您选择使用此电子邮件的发送地址为与一个加密键联系。请从您的主要户口，或使用"
+#~ "进阶设置添加电子邮件地址。"
+
+#~ msgid "An error occurred saving the email."
+#~ msgstr "保存电子邮件时发生一个错误。"
+
+#~ msgid "An error occurred sending the encrypted email."
+#~ msgstr "发送已加密电子邮件时发生一个错误。"
+
+#~ msgid ""
+#~ "At least one of your attachments are encrypted.  Please provide your %s "
+#~ "security password to decrypt before sending"
+#~ msgstr "您至少一个附件为已加密的。 请提供您的 %s 安全密码在发送之前解密"
+
+#~ msgid "To"
+#~ msgstr "发送到"
+
+#~ msgctxt "CC"
+#~ msgid "Copy"
+#~ msgstr "副本 [CC]"
+
+#~ msgid "Decoding"
+#~ msgstr "解码中"
+
+#~ msgid ""
+#~ "Your pop-up blocker may have prevented a %s window that provides "
+#~ "application functionality."
+#~ msgstr "您的弹出窗口拦截器可能阻止了一个提供应用程序功能的 %s 窗口。"
+
+#~ msgid "VCard imported with warnings"
+#~ msgstr "VCard 已导入（带警告）"
+
+#~ msgid "Failed to import vcard"
+#~ msgstr "导入 vcard 失败"
+
+#~ msgid "VCard imported"
+#~ msgstr "已导入 VCard"
+
+#~ msgid "Save Encrypted to Drive"
+#~ msgstr "保存已加密的数据到 Drive"
+
+#~ msgid "Save Decoded to Drive"
+#~ msgstr "保存已解码的数据到 Drive"
+
+#~ msgid "Open in browser"
+#~ msgstr "在浏览器打开"
+
+#~ msgid "Import as PGP Public Key"
+#~ msgstr "导入成 PGP 公共键"
+
+#~ msgid "Add to address book"
+#~ msgstr "添加到地址簿"
+
+#~ msgid "no files"
+#~ msgstr "没有文件"
+
+#~ msgid "Save attachment"
+#~ msgstr "保存附件"
+
+#~ msgid "Unable to save decrypted file"
+#~ msgstr "无法保存已解码文件"
+
+#~ msgid "Unable to decrypt"
+#~ msgstr "无法解密"
+
+#~ msgid "Send copy by mail"
+#~ msgstr "以电子邮件发送复印件"
+
+#~ msgid "Enter %s Security Password"
+#~ msgstr "输入 %s 安全密码"
+
+#~ msgid "Encrypt Files"
+#~ msgstr "加密文件"
+
+#~ msgid "Only the latest version of the files will be encrypted."
+#~ msgstr "将会只加密文件的最新版本。"
+
+#~ msgid "All previous versions will be deleted."
+#~ msgstr "将会删除所有之前版本。"
+
+#~ msgid "This file could not be uploaded."
+#~ msgstr "不可以上载此文件。"
+
+#~ msgid "Upload"
+#~ msgstr "上载"
+
+#~ msgid "Please provide your %s Security Password to share this file"
+#~ msgstr "请提供您的 %s 安全密码以分享此文件"
+
+#~ msgid "Bad private key"
+#~ msgstr "错误私键"
+
+#~ msgid "On %1$s %2$s sent:"
+#~ msgstr "已在 %1$s %2$s 发送："
+
+#~ msgid ""
+#~ "At least one of your attachments are encrypted.  Please provide your %s "
+#~ "Security Password to decrypt before sending"
+#~ msgstr "您最少一个附件加密了。请提供您的 %s 安全密码以在发送前解密"
+
+#~ msgid ""
+#~ "Upload your Mailvelope public keys to the %s server so that other people "
+#~ "can send you encrypted emails"
+#~ msgstr ""
+#~ "发送您的 Mailvelope 公钥到 %s 服务器，让其他人能够发送已加密电子邮件给您"
+
+#~ msgid "Extra Password"
+#~ msgstr "额外密码"
+
+#~ msgid ""
+#~ "This allows you to set an extra password that will be required for "
+#~ "reading this item."
+#~ msgstr "这允许您设定一个读取此项目时将会要求的额外密码。"
+
+#~ msgid "Please enter it below"
+#~ msgstr "请在下面输入"
+
+#~ msgid "Please enter your %s Security password"
+#~ msgstr "请输入您的 %s 安全密码"
+
+#~ msgid "Failed to add extra password"
+#~ msgstr "添加额外密码失败"
+
+#~ msgid "Remember Password"
+#~ msgstr "记下密码"
+
+#~ msgid ""
+#~ "HTML formatted emails may cause issues with PGP inline.  Click OK to "
+#~ "change to Plain Text formatted Emails"
+#~ msgstr ""
+#~ "HTML 格式电子邮件可能和直列 PGP 产生问题。单击 OK 以更改成纯文字格式电子邮"
+#~ "件"
+
+#~ msgid "Secure Email, enter your %s security password"
+#~ msgstr "安全电子邮件，输入您的 %s 安全密码"
+
+#~ msgid ""
+#~ "The new recipients listed below will be sent a password via email.  You "
+#~ "can also require a seperate pin, which is displayed below"
+#~ msgstr ""
+#~ "将会经由电子邮件发送一个密码给以下列出的新收件人。您也可以要求下面显示的一"
+#~ "个分离的个人身份号码。"
+
+#~ msgid ""
+#~ "You may deliver this pin any way you see fit, but we recommend doing it "
+#~ "in a second method other than email (Phone, SMS, Skype, etc)"
+#~ msgstr ""
+#~ "您可以在觉得应该时送出此个人身份号码，可是我们建议以电子邮件以外的方法送出"
+#~ "（电话、短讯、Skype 等等）"
+
+#~ msgid "If you want this extra pin requirement, click OK"
+#~ msgstr "如果您要此额外个人身份号码要去，单击确定"
+
+#~ msgid "Please enter your %s password to sign this email"
+#~ msgstr "请输入您签署此电子邮件的 %s 密码"
+
+#~ msgid "Please enter your %s password for signing"
+#~ msgstr "请输入您登录的 %s 密码"
+
+#~ msgid "Problems creating keys, please try again later"
+#~ msgstr "创建键出问题，请稍后再试"
+
+#~ msgid ""
+#~ "Problems creating keys.  Keys already exist for this email address in "
+#~ "another account"
+#~ msgstr "创建键发生问题。键已经在别的户口为此电子邮件而存在"
+
+#~ msgid ""
+#~ "Please choose the password you will use for %s. You will need to type "
+#~ "this password whenever you want to encrypt or decrypt items. Remember it "
+#~ "should be different from your login password, and will not change if you "
+#~ "change your login password"
+#~ msgstr ""
+#~ "请选择您将会使用 %s 的密码。您将会需要在您要加密或解密项目的任何时候输入此"
+#~ "密码。记得密码必须与您的登录密码不同，而在您更改您的登录密码时将不会更改该"
+#~ "密码。"
+
+#~ msgid "Please enter a password to protect your new encrypted items"
+#~ msgstr "请输入一个密码以保护您的新已加密项目"
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password"
+#~ msgstr "请输入您的副电子邮件，以免您需要重设您的密码。"
+
+#~ msgid "Rember my password"
+#~ msgstr "记得我的密码"
+
+#~ msgid "This Email was signed and verified"
+#~ msgstr "此电子邮件已签名和核实"
+
+#~ msgid "This Email was signed but unable to verify"
+#~ msgstr "此电子邮件已由签名但无法核实"
+
+#~ msgid "This Email was signed and failed verification"
+#~ msgstr "此电子邮件已签名但核实失败"
+
+#~ msgid ""
+#~ "Please change the initial temporary %s security password that was sent to "
+#~ "you in a seperate email."
+#~ msgstr "请更改发送给您的与另一电子邮件的最初临时 %s 安全密码。"
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password</p>"
+#~ msgstr "请输入一个副电子邮件地址，万一您需要重设您的密码</p>"
+
+#~ msgid "This Email was signed by the sender and verified"
+#~ msgstr "此电子邮件已由发送人签名和核实"
+
+#~ msgid "If you already have a private key, you can upload it here"
+#~ msgstr "如果您已经有一个私键，您能上载到这里"
+
+#~ msgid "Finally, you can have a new PGP Key Pair created for your account"
+#~ msgstr "最后，您能为您的户口创建一对新的 PGP 键"
+
+#~ msgid "Add a name and email address to this public key"
+#~ msgstr "添加一个名称和电子邮件地址到此公共键"
+
+#~ msgid "PGP default to using PGP inline for compatibility"
+#~ msgstr "PGP 默认使用直列 PGP 作兼容性"
+
+#~ msgid "Please verify your password before deleting the recovery"
+#~ msgstr "请在您删除恢复前，确认您的密码"
+
+#~ msgid "A new password has been sent to your email address"
+#~ msgstr "已发送一个新密码到您的电子邮件地址"
+
+#~ msgid "A new password has been sent to your secondary email address"
+#~ msgstr "已发送一个新密码到您的副电子邮件地址"
+
+#~ msgid "No password recovery is available"
+#~ msgstr "无可用的密码复原"
+
+#~ msgid "Password reset, but unable to send to your email address"
+#~ msgstr "已重设密码，然而无法发送到您的电子邮件地址"
+
+#~ msgid "Unable to find email address to send password reset"
+#~ msgstr "无法找到电子邮件地址已发送密码重设"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Enabling Advanced PGP Features will enable key management and specifying "
+#~ "sending formats"
+#~ msgstr "启用进阶 PGP 功能将会启用键管理和指定发送格式"
+
+#~ msgid "This email was sent with an extra password."
+#~ msgstr "此电子邮件已带有额外密码发送。"
+
+#~ msgid "Please enter below"
+#~ msgstr "请在下面输入"
+
+#~ msgid "An error occurred during sending the encrypted email."
+#~ msgstr "发送已加密电子邮件是发生一个错误。"
+
+#~ msgid "This appears to be the first time you have used Encryption"
+#~ msgstr "这应该是您初次使用加密"
+
+#~ msgid ""
+#~ "Please change the temporary %s security password that was sent to you in "
+#~ "a seperate email."
+#~ msgstr "请更改发送给您的与另一电子邮件的临时 %s 安全密码。"
+
+#~ msgid "%s PGP Settings"
+#~ msgstr "%s PGP 设置"
+
+#~ msgid "Changed"
+#~ msgstr "已更改"
+
+#~ msgctxt "tour"
+#~ msgid "Sending without encryption"
+#~ msgstr "不加密发送"
+
+#~ msgctxt "tour"
+#~ msgid "Create Your %s Account"
+#~ msgstr "创建您的 %s 户口"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You now need to choose a password which will be used to encrypt or "
+#~ "decrypt items. You only need to set this up once. Your password will then "
+#~ "remain valid until you change it."
+#~ msgstr ""
+#~ "您现在需要选择一个将会加密或解密项目的密码。您只需要设置一次，您的密码将会"
+#~ "保持有效直至您更改它。"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You successfully set up secure communication. Your private key has been "
+#~ "created."
+#~ msgstr "您成功设置了安全沟通。您的私键已经创建。"
+
+#~ msgid ""
+#~ "Upload your Mailvelope public keys to the Guard server so that other "
+#~ "people can send you encrypted emails"
+#~ msgstr ""
+#~ "上载您的 Mailvelope 公键到 Guard 服务器, 让其他人能向您发送已加密电子邮"
+#~ "件。"
+
+#~ msgid ""
+#~ "Your pop-up blocker may have prevented a Guard window that provides "
+#~ "application functionality."
+#~ msgstr "您的弹出窗口拦截器，可能防止了提供应用程序功能运作的 Guard 窗口。"
+
+#~ msgid "Please enter your Guard Security password"
+#~ msgstr "请输入您的 Guard Security 密码"
+
+#~ msgid "Enter Guard Security Password"
+#~ msgstr "输入 Guard Security 密码"
+
+#~ msgid "Please provide your Guard Security Password to share this file"
+#~ msgstr "请提供您的 Guard Security 密码以分享此文件"
+
+#~ msgid "Secure Email, enter your Guard security password"
+#~ msgstr "安全电子邮件，输入您的 Guard 保安密码"
+
+#~ msgid "Keep me logged into Guard"
+#~ msgstr "保留我登录在 Guard 里"
+
+#~ msgid "Will create new guest account for Guard"
+#~ msgstr "将会为 Guard 创建新访客户口"
+
+#~ msgid "Have encryption key"
+#~ msgstr "有加密键"
+
+#~ msgid "Please enter your Guard password to sign this email"
+#~ msgstr "请输入您的 Guard 密码以签署此电子邮件"
+
+#~ msgid "Please enter your Guard password for signing"
+#~ msgstr "请输入您的 Guard 密码以登录"
+
+#~ msgid ""
+#~ "At least one of your attachments are encrypted.  Please provide your "
+#~ "Guard Security Password to decrypt before sending"
+#~ msgstr ""
+#~ "您最少有一个附件已加密。请提供您的 Guard Security 密码以在发送前解密"
+
+#~ msgid "Automated Email Language"
+#~ msgstr "自动化电子邮件语言"
+
+#~ msgid "Create Guard Security Keys"
+#~ msgstr "创建 Guard Security 键"
+
+#~ msgid "First Guard Security Password Use"
+#~ msgstr "初次使用 Guard Security 密码"
+
+#~ msgid ""
+#~ "Please change the temporary Guard security password that was sent to you "
+#~ "in a seperate email."
+#~ msgstr "请更改在另外发送给您那电子邮件里面的临时 Guard 保安密码。"
+
+#~ msgid "Please enter your Guard password"
+#~ msgstr "请输入您的 Guard 密码"
+
+#~ msgid ""
+#~ "Please change the initial temporary Guard security password that was sent "
+#~ "to you in a seperate email."
+#~ msgstr "请更改分别发送给您的电子邮件里面，初始的临时 Guard 保安密码。"
+
+#~ msgid "Guard PGP Settings"
+#~ msgstr "Guard PGP 设置"
+
+#~ msgid ""
+#~ "If you would like to upload a public key only, then do so here.  This "
+#~ "will allow you to encrypt files and receive encrypted emails using Guard, "
+#~ "but you will need to use the private key with another program to decode "
+#~ "the items."
+#~ msgstr ""
+#~ "如果您只要上载公键，那在此做。此动作将会允许您使用 Guard 加密文件和接收已"
+#~ "加密电子邮件，可是您将会需要在别的程序使用此私键以解码项目。"
+
+#~ msgid "Guided tour for Guard"
+#~ msgstr "Guard 之导游"
+
+#~ msgid "Sign out Guard"
+#~ msgstr "注销 Guard"
+
+#~ msgctxt "app"
+#~ msgid "Guard Security"
+#~ msgstr "Guard 保安"
+
+#~ msgid ""
+#~ "In order to start with Guard Security, you must set up a password for "
+#~ "your secured files."
+#~ msgstr "为了以 Guard Security 开始，您必须为您的安全保管文件设置一个密码。"
+
+#~ msgid "Guard Security Settings"
+#~ msgstr "Guard Security 设置"
+
+#~ msgid "Change Guard Security Password."
+#~ msgstr "更改 Guard Security 密码。"
+
+#~ msgid "Enter current Guard security password"
+#~ msgstr "输入当前 Guard 保安密码"
+
+#~ msgid "Enter new Guard security password"
+#~ msgstr "输入新 Guard 安全密码"
+
+#~ msgid "Verify new Guard security password"
+#~ msgstr "核实新 Guard 保安密码"
+
+#~ msgid "Change Guard security password"
+#~ msgstr "更改 Guard 保安密码"
+
+#~ msgid "Reset Guard security password"
+#~ msgstr "重设 Guard 保安密码"
+
+#~ msgid ""
+#~ "Send a temporary Guard security password to my secondary Email address."
+#~ msgstr "发送一个临时 Guard 保安密码到我的副电子邮件地址。"
+
+#~ msgctxt "tour"
+#~ msgid "The Guard module"
+#~ msgstr "Guard 模组"
+
+#~ msgctxt "tour"
+#~ msgid "Guard Security Settings"
+#~ msgstr "Guard 安全设置"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You already set up your Guard account. But you can always change your "
+#~ "encryption password, or request a temporary password if you forget it."
+#~ msgstr ""
+#~ "您已经设置了您的 Guard 户口，但是您永远能更改您的加密密码、或在您忘记它时"
+#~ "请求一个临时密码。"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "By default Guard sends encrypted emails using PGP/Mime format. To "
+#~ "communicate with some systems you may need to use PGP Inline."
+#~ msgstr ""
+#~ "默认时 Guard 使用 PGP/Mime 发送已加密电子邮件。要与一些系统沟通您可能需要"
+#~ "使用 PGP 内联。"
+
+#~ msgctxt "tour"
+#~ msgid "Remove encryption"
+#~ msgstr "移除加密"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Removing the encryption is easy, too: Simply click on the lock icon again."
+#~ msgstr "移除加密也很简单：只需再单击锁定图标。"
+
+#~ msgctxt "tour"
+#~ msgid "Create Your Guard Account"
+#~ msgstr "创建您的 Guard 户口"
+
+#~ msgctxt "tour"
+#~ msgid "Guard set up completed"
+#~ msgstr "Guard 设置完成"
+
+#~ msgctxt "Choice"
+#~ msgid "Works only in all browsers with all your contacts"
+#~ msgstr "只在所有带有您所有联系人的浏览器有"
+
+#~ msgid "Click to enable encryption"
+#~ msgstr "单击一个启用加密"
+
+#~ msgid "Click to disable encryption"
+#~ msgstr "单击以停用加密"
+
+#~ msgid "Error.  Please reload message"
+#~ msgstr "错误。请重载消息"
+
+#~ msgid "You have exceeded bad password attempts.  Please wait %s minutes"
+#~ msgstr "您已超过错误密码的尝试数。请等候 %s 分钟"
+
+#~ msgid ""
+#~ "This email has expired and can no longer be accessed.  Contact the sender "
+#~ "for more information."
+#~ msgstr "此电子邮件已过期而再无法访问。联系发送人获得更多信息。"
+
+#~ msgid ""
+#~ "This Email has been retracted by the sender and can no longer be "
+#~ "accessed.  Contact the sender for more information."
+#~ msgstr "此电子邮件已被发送人收回而无法再访问。联系发送人获得更多信息。"
+
+#~ msgid "Unable to decrypt Email."
+#~ msgstr "无法解密电子邮件。"
+
+#~ msgid "The sender added an extra password encryption."
+#~ msgstr "发送人添加了一个额外密码加密。"
+
+#~ msgid "Save Encrypted"
+#~ msgstr "保存已加密"
+
+#~ msgid "Save Decrypted"
+#~ msgstr "保存已加密"
+
+#~ msgid ""
+#~ "This Email was sent encrypted. It has been decrypted with your private key"
+#~ msgstr "此电子邮件已加密发送。它已以您的私键解密"
+
+#~ msgid "Expires: "
+#~ msgstr "失效："
+
+#~ msgid "Retract Email"
+#~ msgstr "收回电子邮件"
+
+#~ msgid "Email status"
+#~ msgstr "电子邮件状态"
+
+#~ msgid "Retract all access"
+#~ msgstr "收回所有访问"
+
+#~ msgid "Email has not been opened."
+#~ msgstr "还未打开电子邮件。"
+
+#~ msgid "Email has been opened."
+#~ msgstr "已打开电子邮件。"
+
+#~ msgid "Email has been retracted."
+#~ msgstr "已收回电子邮件。"
+
+#~ msgid "Unable to get email status, please try again later"
+#~ msgstr "无法获得电子邮件状态，请稍后再试"
+
+#~ msgid "This will retract the email for all recipients. Click OK to confirm."
+#~ msgstr "这将会收回所有收件人的电子邮件。单击 OK 以确定。"
+
+#~ msgid "Item was retracted"
+#~ msgstr "已收回项目。"
+
+#~ msgid "Not all items retracted"
+#~ msgstr "没有收回所有项目"
+
+#~ msgid "Failed to retract"
+#~ msgstr "收回失败"
+
+#~ msgctxt "tour"
+#~ msgid "Learn more …"
+#~ msgstr "了解更多 ..."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "From here you can update you encryption settings. For example you can "
+#~ "choose to send encrypted emails by default."
+#~ msgstr "您能从这里更新您的加密设置。例如您能选择默认发送已加密电子邮件。"
+
+#~ msgid "Message was saved"
+#~ msgstr "已保存消息"
+
+#~ msgid "Problem creating keys"
+#~ msgstr "创建键出现问题"
+
+#~ msgctxt "tour"
+#~ msgid "Please click on the lock icon."
+#~ msgstr "请单击锁图标。"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Please choose your password now, enter a secondary email address and "
+#~ "click on Ok."
+#~ msgstr "请现在选择您的密码，输入一个备用电子邮件地址后单击 Ok。"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You can always change your encryption password, or request a temporary "
+#~ "password if you forget it."
+#~ msgstr "您永远能更改您的密码、或假若您忘记密码时请求一个临时密码。"
+
+#~ msgctxt "tour"
+#~ msgid "Congratulations! You are now able to send secure emails."
+#~ msgstr "恭喜您！您现在可以发送安全电子邮件了。"
+
+#~ msgctxt "tour"
+#~ msgid "Please remove the encryption now by clicking on the lock icon again."
+#~ msgstr "请现在再单击锁图标，以移除加密。"
+
+#~ msgid "%s already encrypted"
+#~ msgstr "%s 已经加密"
+
+#~ msgid "Add folder"
+#~ msgstr "添加文件夹"
+
+#~ msgid "Already Protected With Additional Password"
+#~ msgstr "已使用额外密码保护"
+
+#~ msgid "Click to disable PGP encryption"
+#~ msgstr "单击以停用 PGP 加密"
+
+#~ msgid "Done"
+#~ msgstr "完成"
+
+#~ msgid "Drop here to upload a <b class=\"dndignore\">new encrypted file</b>"
+#~ msgstr "放到此处以上载一个 <b class=\"dndignore\">新已加密文件</b>"
+
+#~ msgid "Encrypting "
+#~ msgstr "加密中"
+
+#~ msgid "Encrypting %s"
+#~ msgstr "加密 %s 中"
+
+#~ msgid "FW: %1$s"
+#~ msgstr "转发：%1$s"
+
+#~ msgid "Failed to encrypt file"
+#~ msgstr "解密文件失败"
+
+#~ msgid "Folder name"
+#~ msgstr "文件夹名称"
+
+#~ msgid "New Encrypted folder"
+#~ msgstr "新已加密文件夹"
+
+#~ msgid "New Encrypted subfolder"
+#~ msgstr "新已加密子文件夹"
+
+#~ msgid "New encrypted subfolder"
+#~ msgstr "新已加密子文件夹"
+
+#~ msgid "New folder"
+#~ msgstr "新文件夹"
+
+#~ msgid "New public folder"
+#~ msgstr "新公共文件夹"
+
+#~ msgid ""
+#~ "One of your recipients requires emails to be sent as PGP Inline.  "
+#~ "Changing now."
+#~ msgstr "您的一位收件人需要以 PGP 直列的电子邮件发送。现在正更改。"
+
+#~ msgid "PGP key exists for this person"
+#~ msgstr "有此人的 PGP 键存在"
+
+#~ msgid "Require Additional Password"
+#~ msgstr "要求额外密码"
+
+#~ msgid "Security Options"
+#~ msgstr "保安选项"
+
+#~ msgid "Send encrypted (PGP)"
+#~ msgstr "发送已加密（PGP）"
+
+#~ msgid "Share keys with other users to decrypt this file"
+#~ msgstr "和其他用户分享键，以解码此文件"
+
+#~ msgid "Share link"
+#~ msgstr "分享链接"
+
+#~ msgid "Sharing"
+#~ msgstr "分享中"
+
+#~ msgid "Sign email"
+#~ msgstr "签署电子邮件"
+
+#~ msgid "Status"
+#~ msgstr "状态"
+
+#~ msgid "Stop"
+#~ msgstr "停止"
+
+#~ msgid "The key for %1$s is expired and should not be used"
+#~ msgstr "此 %1$s 的键已过时，不应使用"
+
+#~ msgid "Unable to create Guard account, please try again later"
+#~ msgstr "无法创建 Guard 户口，请稍后再试"
+
+#~ msgid "Upload new files to encrypt"
+#~ msgstr "上载一个新文件以作加密"
+
+#~ msgid "Use PGP inline (compatibility)"
+#~ msgstr "使用直列的 PGP（兼容性）"
+
+#~ msgid "%s hours"
+#~ msgstr "%s 小时"
+
+#~ msgid "%s week"
+#~ msgstr "%s 星期"
+
+#~ msgid "%s weeks"
+#~ msgstr "%s 星期"
+
+#~ msgid "Added keys:"
+#~ msgstr "添加键："
+
+#~ msgid "CC:"
+#~ msgstr "抄送："
+
+#~ msgid "Click to disable Guard"
+#~ msgstr "单击已停用 Guard"
+
+#~ msgid "Click to enable Guard"
+#~ msgstr "单击以启用 Guard"
+
+#~ msgid "Confirm Guard Password"
+#~ msgstr "确认 Guard 密码"
+
+#~ msgid "Create Guard Account"
+#~ msgstr "创建 Guard 户口"
+
+#~ msgid "Date:"
+#~ msgstr "日期："
+
+#~ msgid "Decode"
+#~ msgstr "解码"
+
+#~ msgid "Default signing outgoing PGP mails"
+#~ msgstr "默认签名往外 PGP 电子邮件"
+
+#~ msgid "Defaults"
+#~ msgstr "默认"
+
+#~ msgid "Download (OG)"
+#~ msgstr "下载（OG）"
+
+#~ msgid "Enable Guard"
+#~ msgstr "启用 Guard"
+
+#~ msgid "Encrypted email has been sent successfully."
+#~ msgstr "已加密电子邮件已经成功发送。"
+
+#~ msgid "Encrypting"
+#~ msgstr "加密中"
+
+#~ msgid "From:"
+#~ msgstr "发送人："
+
+#~ msgid "Fwd:"
+#~ msgstr "转发："
+
+#~ msgid "IDs:"
+#~ msgstr "ID："
+
+#~ msgid "Initializing Guard, please wait"
+#~ msgstr "Guard 初始中，请稍候"
+
+#~ msgid "Inline"
+#~ msgstr "直列的"
+
+#~ msgid "Make Guard default to PGP compliant"
+#~ msgstr "设置 Guard 成 PGP 符合的默认"
+
+#~ msgid "Never"
+#~ msgstr "从未"
+
+#~ msgid "No recipients"
+#~ msgstr "无收件人"
+
+#~ msgid "None"
+#~ msgstr "无"
+
+#~ msgid "Not able to contact guard server"
+#~ msgstr "不能联系 guard 服务器"
+
+#~ msgid "On"
+#~ msgstr "在"
+
+#~ msgid "Open"
+#~ msgstr "打开"
+
+#~ msgid "Open Decoded"
+#~ msgstr "打开已解码"
+
+#~ msgid "PGP Compliant Guard"
+#~ msgstr "PGP 符合 Guard"
+
+#~ msgid "PGP default to PGP inline for compatibility"
+#~ msgstr "PGP 为兼容性默认成直列 PGP"
+
+#~ msgid "Please enter a password to protect your Guard account"
+#~ msgstr "请输入一个密码以保护您的 Guard 户口"
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password.  A new password would be sent to this email."
+#~ msgstr ""
+#~ "请输入一个副电子邮件地址，万一您需要重设您的密码。一个新密码将会发送到此电"
+#~ "子邮件。"
+
+#~ msgid "Please select the file location of your private key."
+#~ msgstr "请选择您私键的文件位置。"
+
+#~ msgid "Private Key Password"
+#~ msgstr "私键密码"
+
+#~ msgid "Problem uploading Private Key"
+#~ msgstr "上载私键出现问题"
+
+#~ msgid "Public Key List"
+#~ msgstr "公共键列表"
+
+#~ msgid "Recipient has Guard"
+#~ msgstr "收件人有 Guard"
+
+#~ msgid "Retract in"
+#~ msgstr "以下时间内收回："
+
+#~ msgid "Save Decoded"
+#~ msgstr "保存已解码"
+
+#~ msgid "Shared"
+#~ msgstr "已分享"
+
+#~ msgid "Sign PGP"
+#~ msgstr "签名 PGP"
+
+#~ msgid "Subject:"
+#~ msgstr "主题："
+
+#~ msgid ""
+#~ "The key will be used locally only.  It will not be sent to the server."
+#~ msgstr "键将只能在本地使用，它将不会发送到服务器。"
+
+#~ msgid "This appears to be the first time you have used Guard"
+#~ msgstr "这应该是您初次使用 Guard"
+
+#~ msgid "To:"
+#~ msgstr "收件人："
+
+#~ msgid "Unable to get key for encryption"
+#~ msgstr "无法获得键以作加密"
+
+#~ msgid "Unable to load"
+#~ msgstr "无法加载"
+
+#~ msgid "Use Guard when composing a new email"
+#~ msgstr "在创建一个新电子邮件时使用 Guard"
+
+#~ msgid "Using a guest account for email"
+#~ msgstr "为电子邮件使用一个访客户口"
+
+#~ msgid "Your private key"
+#~ msgstr "您的私键"
+
+#~ msgid "Your public key"
+#~ msgstr "您的公共键"
+
+#~ msgid "popup blocked"
+#~ msgstr "已拦截弹出窗口"

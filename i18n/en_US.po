@@ -1,0 +1,1729 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: open-xchange-guard-ui\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2018-01-12 09:04-0500\n"
+"Last-Translator: Greg Hill <greg.hill@open-xchange.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.10\n"
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "Toggle Encryption"
+msgstr "Toggle Encryption"
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "Not Supported"
+msgstr ""
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "%s is not supported with secured email and will be disabled."
+msgstr ""
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "OK"
+msgstr "OK"
+
+#. %s product Name
+#: apps/mailvelope/settings.js module:oxguard
+msgid "Mailvelope"
+msgstr "Mailvelope"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Mailvelope Not Supported"
+msgstr "Mailvelope Not Supported"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid ""
+"Mailvelope is only supported in Google Chrome or Mozilla Firefox.  Please "
+"use one of these broswers to set up encryption."
+msgstr ""
+"Mailvelope is only supported in Google Chrome or Mozilla Firefox.  Please "
+"use one of these broswers to set up encryption."
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Encrypted communication"
+msgstr "Encrypted communication"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Download browser plugin"
+msgstr "Download browser plugin"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Generate"
+msgstr "Generate"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Congratulations! You have successfully set up encryption."
+msgstr "Congratulations! You have successfully set up encryption."
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Prepare"
+msgstr "Prepare"
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Password"
+msgstr "Password"
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Three steps to setup encrypted communication:"
+msgstr "Three steps to setup encrypted communication:"
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Download browser plugin “Mailvelope”"
+msgstr "Download browser plugin “Mailvelope”"
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Create encryption keys for secure communication"
+msgstr "Create encryption keys for secure communication"
+
+#~ msgid "Mailvelope Advanced"
+#~ msgstr "Mailvelope Advanced"
+
+#~ msgid "Error"
+#~ msgstr "Error"
+
+#~ msgid ""
+#~ "Backup your Mailvelope private keys to the server.  The keys will be "
+#~ "encrypted requiring a security code for restore"
+#~ msgstr ""
+#~ "Backup your Mailvelope private keys to the server.  The keys will be "
+#~ "encrypted requiring a security code for restore."
+
+#~ msgid "Backup"
+#~ msgstr "Backup"
+
+#~ msgid "Discard previously saved private keys."
+#~ msgstr "Discard previously saved private keys."
+
+#~ msgid "Discard backup"
+#~ msgstr "Discard backup"
+
+#~ msgid "Restore previously saved private keys."
+#~ msgstr "Restore previously saved private keys."
+
+#~ msgid "Restore"
+#~ msgstr "Restore"
+
+#~ msgid ""
+#~ "Upload your Mailvelope public keys to the %s server so that other people "
+#~ "can send you encrypted emails."
+#~ msgstr ""
+#~ "Upload your Mailvelope public keys to the %s server so that other people "
+#~ "can send you encrypted emails."
+
+#~ msgid "Upload Public Key"
+#~ msgstr "Upload Public Key"
+
+#~ msgid "Backup and Recovery"
+#~ msgstr "Backup and Recovery"
+
+#~ msgid "No backup data available"
+#~ msgstr "No backup data available"
+
+#~ msgid ""
+#~ "You can now backup your keys. Please store the provided password secure. "
+#~ "It is also possible to skip this step and do the backup later. You can "
+#~ "find it in the settings."
+#~ msgstr ""
+#~ "You can now backup your keys. Please store the provided password secure. "
+#~ "It is also possible to skip this step and do the backup later. You can "
+#~ "find it in the settings."
+
+#~ msgid "Skip without backup"
+#~ msgstr "Skip without backup"
+
+#~ msgid "Recommended: Setup key backup"
+#~ msgstr "Recommended: Setup key backup"
+
+#~ msgid "Not valid email"
+#~ msgstr "Not valid email"
+
+#~ msgid "Emails not equal"
+#~ msgstr "Emails not equal"
+
+#~ msgid "Passwords not equal"
+#~ msgstr "Passwords not equal"
+
+#~ msgid "Too short"
+#~ msgstr "Too short"
+
+#~ msgid "Strong"
+#~ msgstr "Strong"
+
+#~ msgid "Weak"
+#~ msgstr "Weak"
+
+#~ msgid "Bad Password"
+#~ msgstr "Bad Password"
+
+#~ msgid "Unable to save decrypted file"
+#~ msgstr "Unable to save decrypted file"
+
+#~ msgid "Unable to decrypt"
+#~ msgstr "Unable to decrypt"
+
+#~ msgid ""
+#~ "Your pop-up blocker may have prevented a %s window that provides "
+#~ "application functionality."
+#~ msgstr ""
+#~ "Your pop-up blocker may have prevented a %s window that provides "
+#~ "application functionality."
+
+#~ msgid "Download Decrypted"
+#~ msgstr "Download Decrypted"
+
+#~ msgid "Add and encrypt local file"
+#~ msgstr "Add and encrypt local file"
+
+#~ msgid "Encrypt"
+#~ msgstr "Encrypt"
+
+#~ msgid "Send by mail"
+#~ msgstr "Send by mail"
+
+#~ msgid "Send copy by mail"
+#~ msgstr "Send copy by mail"
+
+#~ msgid "Pop out"
+#~ msgstr "Pop out"
+
+#~ msgid "Pop out standalone viewer"
+#~ msgstr "Pop out standalone viewer"
+
+#~ msgid "View"
+#~ msgstr "View"
+
+#~ msgid "Decrypt and Open"
+#~ msgstr "Decrypt and Open"
+
+#~ msgid "Drop files here to upload"
+#~ msgstr "Drop files here to upload"
+
+#~ msgid "Drop files here to encrypt"
+#~ msgstr "Drop files here to encrypt"
+
+#~ msgid "Enter %s Security Password"
+#~ msgstr "Enter %s Security Password"
+
+#~ msgid "Encrypt Files"
+#~ msgstr "Encrypt Files"
+
+#~ msgid "Only the latest version of the files will be encrypted."
+#~ msgstr "Only the latest version of the files will be encrypted."
+
+#~ msgid "All previous versions will be deleted."
+#~ msgstr "All previous versions will be deleted."
+
+#~ msgid "Click OK to confirm"
+#~ msgstr "Click OK to confirm"
+
+#~ msgid "Cancel"
+#~ msgstr "Cancel"
+
+#~ msgid "The allowed quota is reached."
+#~ msgstr "The allowed quota is reached."
+
+#~ msgid "This file could not be uploaded."
+#~ msgstr "This file could not be uploaded."
+
+#~ msgid "Version Comment"
+#~ msgstr "Version Comment"
+
+#~ msgid "Upload"
+#~ msgstr "Upload"
+
+#~ msgid "Bad password"
+#~ msgstr "Bad password"
+
+#~ msgid "Temporary Lockout"
+#~ msgstr "Temporary Lockout"
+
+#~ msgid "Add"
+#~ msgstr "Add"
+
+#~ msgid "Add:"
+#~ msgstr "Add:"
+
+#~ msgid "Must be in the same global address book"
+#~ msgstr "Must be in the same global address book."
+
+#~ msgid "Unable to add"
+#~ msgstr "Unable to add"
+
+#~ msgid "Select"
+#~ msgstr "Select"
+
+#~ msgid "User"
+#~ msgstr "User"
+
+#~ msgid "Retract"
+#~ msgstr "Retract"
+
+#~ msgid "Unable to share"
+#~ msgstr "Unable to share"
+
+#~ msgid "Remove from share list"
+#~ msgstr "Remove from share list"
+
+#~ msgid "Failed to remove the share"
+#~ msgstr "Failed to remove the share."
+
+#~ msgid "Password Needed"
+#~ msgstr "Password Needed"
+
+#~ msgid "Please provide your %s Security Password to share this file"
+#~ msgstr "Please provide your %s Security Password to share this file."
+
+#~ msgid "No users in same context"
+#~ msgstr "No users in same context"
+
+#~ msgid "The following link will take you to the shared file"
+#~ msgstr "The following link will take you to the shared file"
+
+#~ msgid "Shared file link"
+#~ msgstr "Shared file link"
+
+#~ msgid "Attached encrypted file"
+#~ msgstr "Attached encrypted file"
+
+#~ msgid "Shared file"
+#~ msgstr "Shared file"
+
+#~ msgid "Add Permissions"
+#~ msgstr "Add Permissions"
+
+#~ msgid ""
+#~ "The following users do not have permission to view objects in this folder."
+#~ msgstr ""
+#~ "The following users do not have permission to view objects in this folder."
+
+#~ msgid "Do you wish to add read permissions to this folder for these users?"
+#~ msgstr "Do you wish to add read permissions to this folder for these users?"
+
+#~ msgid "Failed to add folder sharing permissions"
+#~ msgstr "Failed to add folder sharing permissions."
+
+#~ msgid "%s %s %s"
+#~ msgstr "%s %s %s"
+
+#~ msgid "The provided filename exceeds the allowed length."
+#~ msgstr "The provided filename exceeds the allowed length."
+
+#~ msgid "This file has not been added"
+#~ msgstr "This file has not been added."
+
+#~ msgid "Upload a new encrypted version"
+#~ msgstr "Upload a new encrypted version"
+
+#~ msgid "Upload file"
+#~ msgstr "Upload file"
+
+#~ msgid "Upload new encrypted version"
+#~ msgstr "Upload new encrypted version"
+
+#~ msgid "Uploading..."
+#~ msgstr "Uploading..."
+
+#~ msgid ""
+#~ "You are replying to an email that has not yet been decoded.  The "
+#~ "recipient will not be able to read the contents of the original email."
+#~ msgstr ""
+#~ "You are replying to an email that has not yet been decoded.  The "
+#~ "recipient will not be able to read the contents of the original email."
+
+#~ msgid ""
+#~ "You are forwarding an email that has not yet been decoded.  The recipient "
+#~ "will not be able to read the contents of the original email."
+#~ msgstr ""
+#~ "You are forwarding an email that has not yet been decoded.  The recipient "
+#~ "will not be able to read the contents of the original email."
+
+#~ msgid "Re: %1$s"
+#~ msgstr "Re: %1$s"
+
+#~ msgid "Fwd: %1$s"
+#~ msgstr "Fwd: %1$s"
+
+#~ msgid "HTML Formatted Email"
+#~ msgstr "HTML Formatted Email"
+
+#~ msgid ""
+#~ "HTML formatted emails may cause issues with PGP inline.  Click OK to "
+#~ "change to Plain Text formatted Emails."
+#~ msgstr ""
+#~ "HTML formatted emails may cause issues with PGP inline.  Click OK to "
+#~ "change to Plain Text formatted Emails."
+
+#~ msgid "Recipients cannot be added to this encrypted reply"
+#~ msgstr "Recipients cannot be added to this encrypted reply."
+
+#~ msgid "Reply must be encrypted"
+#~ msgstr "Reply must be encrypted"
+
+#~ msgid "Unable to attach your public key"
+#~ msgstr "Unable to attach your public key"
+
+#~ msgid "Loaded"
+#~ msgstr "Loaded"
+
+#~ msgid "Bad private key"
+#~ msgstr "Bad private key"
+
+#~ msgid "Failed to decrypt"
+#~ msgstr "Failed to decrypt"
+
+#~ msgid "Secure Email, enter your %s security password."
+#~ msgstr "Secure Email, enter your %s security password."
+
+#~ msgid "Keep me logged into %s"
+#~ msgstr "Keep me logged into %s."
+
+#~ msgid "10 minutes"
+#~ msgstr "10 minutes"
+
+#~ msgid "20 minutes"
+#~ msgstr "20 minutes"
+
+#~ msgid "30 minutes"
+#~ msgstr "30 minutes"
+
+#~ msgid "1 hour"
+#~ msgstr "1 hour"
+
+#~ msgid "2 hours"
+#~ msgstr "2 hours"
+
+#~ msgid "Session"
+#~ msgstr "Session"
+
+#~ msgid "Select Key Location"
+#~ msgstr "Select Key Location"
+
+#~ msgid "Will create new guest account for %s"
+#~ msgstr "Will create new guest account for %s"
+
+#~ msgid "Encryption Key Known"
+#~ msgstr "Encryption Key Known"
+
+#~ msgid "Send"
+#~ msgstr "Send"
+
+#~ msgid "Send Encrypted"
+#~ msgstr "Send Encrypted"
+
+#~ msgid "Send Secure"
+#~ msgstr "Send Secure"
+
+#~ msgid "Security PIN"
+#~ msgstr "Security PIN"
+
+#~ msgid "Recipients:"
+#~ msgstr "Recipients:"
+
+#~ msgid ""
+#~ "The new recipients listed below will be sent a password via email.  You "
+#~ "can also require a separate pin, which is displayed below."
+#~ msgstr ""
+#~ "The new recipients listed below will be sent a password via email.  You "
+#~ "can also require a separate pin, which is displayed below."
+
+#~ msgid ""
+#~ "You may deliver this pin any way you see fit, but we recommend doing it "
+#~ "in a second method other than email (Phone, SMS, Skype, etc)."
+#~ msgstr ""
+#~ "You may deliver this pin any way you see fit, but we recommend doing it "
+#~ "in a second method other than email (Phone, SMS, Skype, etc)."
+
+#~ msgid "If you want this extra pin requirement, click OK."
+#~ msgstr "If you want this extra pin requirement, click OK."
+
+#~ msgid "Skip"
+#~ msgstr "Skip"
+
+#~ msgid "Original Message"
+#~ msgstr "Original Message"
+
+#~ msgid "From: %1$s"
+#~ msgstr "From: %1$s"
+
+#~ msgid "To: %1$s"
+#~ msgstr "To: %1$s"
+
+#~ msgid "CC: %1$s"
+#~ msgstr "CC: %1$s"
+
+#~ msgid "Date: %1$s"
+#~ msgstr "Date: %1$s"
+
+#~ msgid "Subject: %1$s"
+#~ msgstr "Subject: %1$s"
+
+#~ msgid "On %1$s %2$s sent:"
+#~ msgstr "On %1$s %2$s sent:"
+
+#~ msgid "Unable to get key"
+#~ msgstr "Unable to get key"
+
+#~ msgid "Security"
+#~ msgstr "Security"
+
+#~ msgid "PGP"
+#~ msgstr "PGP"
+
+#~ msgid "Secure"
+#~ msgstr "Secure"
+
+#~ msgid "Sign"
+#~ msgstr "Sign"
+
+#~ msgid "Format"
+#~ msgstr "Format"
+
+#~ msgid "PGP Mime"
+#~ msgstr "PGP Mime"
+
+#~ msgid "PGP Inline"
+#~ msgstr "PGP Inline"
+
+#~ msgid "Keys"
+#~ msgstr "Keys"
+
+#~ msgid "Attach My Key"
+#~ msgstr "Attach My Key"
+
+#~ msgid "Do you really want to discard your message?"
+#~ msgstr "Do you really want to discard your message?"
+
+#~ msgctxt "dialog"
+#~ msgid "Discard message"
+#~ msgstr "Discard message"
+
+#~ msgid "Save as draft"
+#~ msgstr "Save as draft"
+
+#~ msgid "Mail has empty subject. Send it anyway?"
+#~ msgstr "Mail has empty subject. Send it anyway?"
+
+#~ msgid "Yes, send without subject"
+#~ msgstr "Yes, send without subject"
+
+#~ msgid "Add subject"
+#~ msgstr "Add subject"
+
+#~ msgid "Please enter your %s password to sign this email."
+#~ msgstr "Please enter your %s password to sign this email."
+
+#~ msgid "Unable to authorize against backend"
+#~ msgstr "Unable to authorize against backend."
+
+#~ msgid "Save"
+#~ msgstr "Save"
+
+#~ msgid "Saving attachment to Drive"
+#~ msgid_plural "Saving attachments to Drive"
+#~ msgstr[0] "Saving attachment to Drive"
+#~ msgstr[1] "Saving attachments to Drive"
+
+#~ msgid "Attachment has been saved"
+#~ msgid_plural "Attachments have been saved"
+#~ msgstr[0] "Attachment has been saved"
+#~ msgstr[1] "Attachments have been saved"
+
+#~ msgid "Failed to save attachments"
+#~ msgstr "Failed to save attachments"
+
+#~ msgid "Unsupported browser"
+#~ msgstr "Unsupported browser"
+
+#~ msgid "Service Unavailable"
+#~ msgstr "Service Unavailable"
+
+#~ msgid "Mail has no recipients"
+#~ msgstr "Mail has no recipients"
+
+#~ msgid "Mail saved as draft"
+#~ msgstr "Mail saved as draft"
+
+#~ msgid "Unable to get keys for all users"
+#~ msgstr "Unable to get keys for all users"
+
+#~ msgid ""
+#~ "The from address you selected for this email is not associated with an "
+#~ "encryption key.  Please send from your primary account, or optionally, "
+#~ "add the email address to your key using the advanced settings."
+#~ msgstr ""
+#~ "The from address you selected for this email is not associated with an "
+#~ "encryption key.  Please send from your primary account, or optionally, "
+#~ "add the email address to your key using the advanced settings."
+
+#~ msgid "An error occurred saving the email."
+#~ msgstr "An error occurred saving the email."
+
+#~ msgid "An error occurred sending the encrypted email."
+#~ msgstr "An error occurred sending the encrypted email."
+
+#~ msgid ""
+#~ "At least one of your attachments are encrypted.  Please provide your %s "
+#~ "Security Password to decrypt before sending"
+#~ msgstr ""
+#~ "At least one of your attachments are encrypted.  Please provide your %s "
+#~ "Security Password to decrypt before sending."
+
+#~ msgid "Recipient Options"
+#~ msgstr "Recipient Options"
+
+#~ msgid ""
+#~ "At least one of your recipients uses a different webmail system.  They "
+#~ "will receive an email with a link for them to read this message.  If you "
+#~ "like, you can add a personalized message that will appear at the top of "
+#~ "this message.  This will help identify the message as coming from you."
+#~ msgstr ""
+#~ "At least one of your recipients uses a different webmail system.  They "
+#~ "will receive an email with a link for them to read this message.  If you "
+#~ "like, you can add a personalized message that will appear at the top of "
+#~ "this message.  This will help identify the message as coming from you."
+
+#~ msgid "Message:"
+#~ msgstr "Message:"
+
+#~ msgid "Language for recipient Email"
+#~ msgstr "Language for recipient Email"
+
+#~ msgid "Problems creating keys, please try again later."
+#~ msgstr "Problems creating keys, please try again later."
+
+#~ msgid ""
+#~ "Problems creating keys.  Keys already exist for this email address in "
+#~ "another account."
+#~ msgstr ""
+#~ "Problems creating keys.  Keys already exist for this email address in "
+#~ "another account."
+
+#~ msgid "Passwords must be at least %s characters in length"
+#~ msgstr "Passwords must be at least %s characters in length."
+
+#~ msgid "Enter new secondary Email address"
+#~ msgstr "Enter new secondary Email address"
+
+#~ msgid "Generating key, Please wait"
+#~ msgstr "Generating key, Please wait"
+
+#~ msgid ""
+#~ "Please choose the password you will use for %s. You will need to type "
+#~ "this password whenever you want to encrypt or decrypt items. Remember it "
+#~ "should be different from your login password, and will not change if you "
+#~ "change your login password."
+#~ msgstr ""
+#~ "Please choose the password you will use for %s. You will need to type "
+#~ "this password whenever you want to encrypt or decrypt items. Remember it "
+#~ "should be different from your login password, and will not change if you "
+#~ "change your login password."
+
+#~ msgid "Please enter a password to protect your new encrypted items."
+#~ msgstr "Please enter a password to protect your new encrypted items"
+
+#~ msgid "Confirm"
+#~ msgstr "Confirm"
+
+#~ msgid ""
+#~ "Warning: This password for encryption cannot be restored or recovered in "
+#~ "any way.  If forgotten, all encrypted data will be lost"
+#~ msgstr ""
+#~ "Warning: This password for encryption cannot be restored or recovered in "
+#~ "any way.  If forgotten, all encrypted data will be lost."
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password."
+#~ msgstr ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password."
+
+#~ msgid "Email:"
+#~ msgstr "Email:"
+
+#~ msgid "Create %s Security Keys"
+#~ msgstr "Create %s Security Keys"
+
+#~ msgid "Unable to connect to the encryption server."
+#~ msgstr "Unable to connect to the encryption server."
+
+#~ msgid "Unable to find the item on the server"
+#~ msgstr "Unable to find the item on the server."
+
+#~ msgid "Unable to get the key for that item"
+#~ msgstr "Unable to get the key for that item."
+
+#~ msgid "Unable to retrieve your user keys to decode"
+#~ msgstr "Unable to retrieve your user keys to decode"
+
+#~ msgid "Bad extra password"
+#~ msgstr "Bad extra password"
+
+#~ msgid "No private key to decode this message"
+#~ msgstr "No private key to decode this message."
+
+#~ msgid "Unable to decrypt Email, incorrect password."
+#~ msgstr "Unable to decrypt Email, incorrect password."
+
+#~ msgid "To reset or recover your password, click %s"
+#~ msgstr "To reset or recover your password, click %s"
+
+#~ msgid "Settings"
+#~ msgstr "Settings"
+
+#~ msgid "No Private Key available for this encrypted item."
+#~ msgstr "No Private Key available for this encrypted item."
+
+#~ msgid "Key Ids:"
+#~ msgstr "Key Ids:"
+
+#~ msgid "Your account is locked out for %s minutes"
+#~ msgstr "Your account is locked out for %s minutes."
+
+#~ msgid "Server Error: "
+#~ msgstr "Server Error: "
+
+#~ msgid "Unspecified error"
+#~ msgstr "Unspecified error"
+
+#~ msgid "Please enter your %s password"
+#~ msgstr "Please enter your %s password."
+
+#~ msgid "Remember my password"
+#~ msgstr "Remember my password"
+
+#~ msgid "This Email was signed and verified."
+#~ msgstr "This Email was signed and verified."
+
+#~ msgid "This Email was signed but unable to verify."
+#~ msgstr "This Email was signed but unable to verify."
+
+#~ msgid "This Email was signed and failed verification."
+#~ msgstr "This Email was signed and failed verification."
+
+#~ msgid "First %s Security Use"
+#~ msgstr "First %s Security Use"
+
+#~ msgid "You have been sent an email using %s to secure the contents"
+#~ msgstr "You have been sent an email using %s to secure the contents."
+
+#~ msgid ""
+#~ "Please select a new password for use with %s.  This password will be used "
+#~ "to open encrypted emails and files that may be sent to you."
+#~ msgstr ""
+#~ "Please select a new password for use with %s.  This password will be used "
+#~ "to open encrypted emails and files that may be sent to you."
+
+#~ msgid "First %s Security Password Use"
+#~ msgstr "First %s Security Password Use"
+
+#~ msgid ""
+#~ "Please change the initial temporary %s security password that was sent to "
+#~ "you in a separate email."
+#~ msgstr ""
+#~ "Please change the initial temporary %s security password that was sent to "
+#~ "you in a separate email."
+
+#~ msgid "Initial Password"
+#~ msgstr "Initial Password"
+
+#~ msgid "New Password"
+#~ msgstr "New Password"
+
+#~ msgid "Confirm New"
+#~ msgstr "Confirm New"
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password.</p>"
+#~ msgstr ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password.</p>"
+
+#~ msgid "Verify:"
+#~ msgstr "Verify:"
+
+#~ msgid ""
+#~ "Warning: This password for encryption cannot be restored or recovered in "
+#~ "any way.  If forgotten, all encrypted data will be lost."
+#~ msgstr ""
+#~ "Warning: This password for encryption cannot be restored or recovered in "
+#~ "any way.  If forgotten, all encrypted data will be lost."
+
+#~ msgid "Success"
+#~ msgstr "Success"
+
+#~ msgid "Password changed successfully"
+#~ msgstr "Password changed successfully."
+
+#~ msgid "New password must be at least %s characters long"
+#~ msgstr "New password must be at least %s characters long."
+
+#~ msgid "Encryption key not found"
+#~ msgstr "Encryption key not found"
+
+#~ msgid "Failed to change password"
+#~ msgstr "Failed to change password"
+
+#~ msgid "To"
+#~ msgstr "To"
+
+#~ msgctxt "CC"
+#~ msgid "Copy"
+#~ msgstr "Copy"
+
+#~ msgid "Delete Public Key"
+#~ msgstr "Delete Public Key"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Key Ids"
+#~ msgstr "Key Ids"
+
+#~ msgid "Details"
+#~ msgstr "Details"
+
+#~ msgid "Delete"
+#~ msgstr "Delete"
+
+#~ msgid "No Keys Found"
+#~ msgstr "No Keys Found"
+
+#~ msgid "Key Details"
+#~ msgstr "Key Details"
+
+#~ msgid "Share Keys"
+#~ msgstr "Share Keys"
+
+#~ msgid "Use PGP Inline"
+#~ msgstr "Use PGP Inline"
+
+#~ msgid "Signatures"
+#~ msgstr "Signatures"
+
+#~ msgid "Expired"
+#~ msgstr "Expired"
+
+#~ msgid "Revoked"
+#~ msgstr "Revoked"
+
+#~ msgid "Fingerprint:"
+#~ msgstr "Fingerprint:"
+
+#~ msgid "Created:"
+#~ msgstr "Created:"
+
+#~ msgid "Master:"
+#~ msgstr "Master:"
+
+#~ msgid "True"
+#~ msgstr "True"
+
+#~ msgid "False"
+#~ msgstr "False"
+
+#~ msgid "Encryption:"
+#~ msgstr "Encryption:"
+
+#~ msgid "IDs: "
+#~ msgstr "IDs: "
+
+#~ msgid "Expires in %1$s days"
+#~ msgstr "Expires in %1$s days"
+
+#~ msgid "Problem getting signatures"
+#~ msgstr "Problem getting signatures"
+
+#~ msgid "Positive"
+#~ msgstr "Positive"
+
+#~ msgid "Failed check"
+#~ msgstr "Failed check"
+
+#~ msgid "Missing public"
+#~ msgstr "Missing public"
+
+#~ msgid "Casual"
+#~ msgstr "Casual"
+
+#~ msgid "Revocation"
+#~ msgstr "Revocation"
+
+#~ msgid "Direct cert"
+#~ msgstr "Direct cert"
+
+#~ msgid "Default Certification"
+#~ msgstr "Default Certification"
+
+#~ msgid "No signatures"
+#~ msgstr "No signatures"
+
+#~ msgid "ID Signed"
+#~ msgstr "ID Signed"
+
+#~ msgid "Certification"
+#~ msgstr "Certification"
+
+#~ msgid "Signed by"
+#~ msgstr "Signed by"
+
+#~ msgid "Image"
+#~ msgstr "Image"
+
+#~ msgid "Key Signatures"
+#~ msgstr "Key Signatures"
+
+#~ msgid "PGP Public Key List"
+#~ msgstr "PGP Public Key List"
+
+#~ msgid "Decoding"
+#~ msgstr "Decoding"
+
+#~ msgid "This Email was encrypted with PGP."
+#~ msgstr "This Email was encrypted with PGP."
+
+#~ msgid ""
+#~ "This Email was sent using PGP encryption. It has been decrypted with your "
+#~ "private key"
+#~ msgstr ""
+#~ "This Email was sent using PGP encryption. It has been decrypted with your "
+#~ "private key."
+
+#~ msgid "This Email was signed by the sender and verified."
+#~ msgstr "This Email was signed by the sender and verified."
+
+#~ msgid "PGP Public Key Found.  Click to Import"
+#~ msgstr "PGP Public Key Found.  Click to Import."
+
+#~ msgid "VCard imported with warnings"
+#~ msgstr "VCard imported with warnings."
+
+#~ msgid "Failed to import vcard"
+#~ msgstr "Failed to import vcard."
+
+#~ msgid "VCard imported"
+#~ msgstr "VCard imported"
+
+#~ msgid "Download"
+#~ msgstr "Download"
+
+#~ msgid "Save Encrypted to Drive"
+#~ msgstr "Save Encrypted to Drive"
+
+#~ msgid "Save Decoded to Drive"
+#~ msgstr "Save Decoded to Drive"
+
+#~ msgid "Open in browser"
+#~ msgstr "Open in browser"
+
+#~ msgid "Import as PGP Public Key"
+#~ msgstr "Import as PGP Public Key"
+
+#~ msgid "Add to address book"
+#~ msgstr "Add to address book"
+
+#~ msgid "Check assigned PIN"
+#~ msgstr "Check assigned PIN"
+
+#~ msgid "PIN"
+#~ msgstr "PIN"
+
+#~ msgid "Added keys: \r\n"
+#~ msgstr "Added keys: \r\n"
+
+#~ msgid "Key ID: "
+#~ msgstr "Key ID: "
+
+#~ msgid "no files"
+#~ msgstr "no files"
+
+#~ msgid "Save attachment"
+#~ msgstr "Save attachment"
+
+#~ msgid "Advanced Settings"
+#~ msgstr "Advanced Settings"
+
+#~ msgid "Download PGP Public Key"
+#~ msgstr "Download PGP Public Key"
+
+#~ msgid "Email your PGP Public Key"
+#~ msgstr "Email your PGP Public Key"
+
+#~ msgid "Your Keys"
+#~ msgstr "Your Keys"
+
+#~ msgid "Your Key List"
+#~ msgstr "Your Key List"
+
+#~ msgid "Key ID"
+#~ msgstr "Key ID"
+
+#~ msgid "Private Key"
+#~ msgstr "Private Key"
+
+#~ msgid "Current"
+#~ msgstr "Current"
+
+#~ msgid "Edit"
+#~ msgstr "Edit"
+
+#~ msgid "Adding Keys"
+#~ msgstr "Adding Keys"
+
+#~ msgid "If you already have a private key, you can upload it here."
+#~ msgstr "If you already have a private key, you can upload it here."
+
+#~ msgid "Upload Private Key"
+#~ msgstr "Upload Private Key"
+
+#~ msgid "Finally, you can have a new PGP Key Pair created for your account."
+#~ msgstr "Finally, you can have a new PGP Key Pair created for your account."
+
+#~ msgid "Create New Keys"
+#~ msgstr "Create New Keys"
+
+#~ msgid "Adding UserID"
+#~ msgstr "Adding UserID"
+
+#~ msgid "Add a name and email address to this public key."
+#~ msgstr "Add a name and email address to this public key."
+
+#~ msgid "Name"
+#~ msgstr "Name"
+
+#~ msgid "Please enter your key password"
+#~ msgstr "Please enter your key password"
+
+#~ msgid "Invalid Email Address"
+#~ msgstr "Invalid Email Address"
+
+#~ msgid "Invalid Name"
+#~ msgstr "Invalid Name"
+
+#~ msgid "Enter password"
+#~ msgstr "Enter password"
+
+#~ msgid "User ID added"
+#~ msgstr "User ID added"
+
+#~ msgid "Failed to add UserID"
+#~ msgstr "Failed to add UserID"
+
+#~ msgid "Revoke Private Key"
+#~ msgstr "Revoke Private Key"
+
+#~ msgid ""
+#~ "Revoke the key: This advises others that you no longer want this key "
+#~ "used.  You can continue to decode any encrypted data using the key."
+#~ msgstr ""
+#~ "Revoke the key: This advises others that you no longer want this key "
+#~ "used.  You can continue to decode any encrypted data using the key."
+
+#~ msgid "Delete Private Key"
+#~ msgstr "Delete Private Key"
+
+#~ msgid "There are two options if you no longer want to use this key"
+#~ msgstr "There are two options if you no longer want to use this key"
+
+#~ msgid ""
+#~ "Revoke the key: This advises others that you no longer want this key "
+#~ "used.  You can continue to decode any encrypted data using the key. "
+#~ "(Recommended)"
+#~ msgstr ""
+#~ "Revoke the key: This advises others that you no longer want this key "
+#~ "used.  You can continue to decode any encrypted data using the key. "
+#~ "(Recommended)"
+
+#~ msgid ""
+#~ "Deleting the key: Deleting the private key will render all encrypted "
+#~ "items unreadable.  You will not be able to decode emails or files that "
+#~ "were enrypted with this key.  This cannot be undone."
+#~ msgstr ""
+#~ "Deleting the key: Deleting the private key will render all encrypted "
+#~ "items unreadable.  You will not be able to decode emails or files that "
+#~ "were enrypted with this key.  This cannot be undone."
+
+#~ msgid "Revoke"
+#~ msgstr "Revoke"
+
+#~ msgid ""
+#~ "You will no longer be able to decode any items that were encrypted with "
+#~ "this key!"
+#~ msgstr ""
+#~ "You will no longer be able to decode any items that were encrypted with "
+#~ "this key!"
+
+#~ msgid "Enter your password below to confirm and verify"
+#~ msgstr "Enter your password below to confirm and verify"
+
+#~ msgid "Key Deleted"
+#~ msgstr "Key Deleted"
+
+#~ msgid "Failed to delete key"
+#~ msgstr "Failed to delete key"
+
+#~ msgid "Problem deleting key"
+#~ msgstr "Problem deleting key"
+
+#~ msgid "Please verify you want to delete this key"
+#~ msgstr "Please verify you want to delete this key"
+
+#~ msgid "Failed to delete"
+#~ msgstr "Failed to delete"
+
+#~ msgid ""
+#~ "This will advise people not to use this key.  You can still use the key "
+#~ "to decode existing items."
+#~ msgstr ""
+#~ "This will advise people not to use this key.  You can still use the key "
+#~ "to decode existing items."
+
+#~ msgid "Reason"
+#~ msgstr "Reason"
+
+#~ msgid "No Reason"
+#~ msgstr "No Reason"
+
+#~ msgid "Key superseded"
+#~ msgstr "Key superseded"
+
+#~ msgid "Key compromised"
+#~ msgstr "Key compromised"
+
+#~ msgid "Key retired"
+#~ msgstr "Key retired"
+
+#~ msgid "User no longer valid"
+#~ msgstr "User no longer valid"
+
+#~ msgid "Key Revoked"
+#~ msgstr "Key Revoked"
+
+#~ msgid "Failed to revoke key"
+#~ msgstr "Failed to revoke key"
+
+#~ msgid "Download Key"
+#~ msgstr "Download Key"
+
+#~ msgid "Download your private key for use with other email programs"
+#~ msgstr "Download your private key for use with other email programs."
+
+#~ msgid "Do not distribute this key.  It is for your use only"
+#~ msgstr "Do not distribute this key.  It is for your use only."
+
+#~ msgid "Download PGP Private Key"
+#~ msgstr "Download PGP Private Key"
+
+#~ msgid "Download Public and Private Key"
+#~ msgstr "Download Public and Private Key"
+
+#~ msgid "Key ID:"
+#~ msgstr "Key ID:"
+
+#~ msgid "Expires:"
+#~ msgstr "Expires:"
+
+#~ msgid "Private Key: "
+#~ msgstr "Private Key: "
+
+#~ msgid "Account Locked out"
+#~ msgstr "Account Locked out"
+
+#~ msgid ""
+#~ "If you would like to upload a public key only, then do so here.  This "
+#~ "will allow you to encrypt files and receive encrypted emails using %s, "
+#~ "but you will need to use the private key with another program to decode "
+#~ "the items."
+#~ msgstr ""
+#~ "If you would like to upload a public key only, then do so here.  This "
+#~ "will allow you to encrypt files and receive encrypted emails using %s, "
+#~ "but you will need to use the private key with another program to decode "
+#~ "the items."
+
+#~ msgid "Upload Public Key Only"
+#~ msgstr "Upload Public Key Only"
+
+#~ msgid "PGP Public Key is attached"
+#~ msgstr "PGP Public Key is attached"
+
+#~ msgid "Public Keys"
+#~ msgstr "Public Keys"
+
+#~ msgid "Failed to update settings"
+#~ msgstr "Failed to update settings"
+
+#~ msgid "Email format"
+#~ msgstr "Email format"
+
+#~ msgid ""
+#~ "Emails that contain HTML and are sent with PGP Inline will often result "
+#~ "in decoding errors and possible failure.  As a result, the default Email "
+#~ "format should be changed to plaintext.  Click OK to change the default to "
+#~ "plaintext, cancel to keep your current setting."
+#~ msgstr ""
+#~ "Emails that contain HTML and are sent with PGP Inline will often result "
+#~ "in decoding errors and possible failure.  As a result, the default Email "
+#~ "format should be changed to plaintext.  Click OK to change the default to "
+#~ "plaintext, cancel to keep your current setting."
+
+#~ msgid "Default to send encrypted when composing email"
+#~ msgstr "Default to send encrypted when composing email"
+
+#~ msgid "Default adding signature to outgoing mails"
+#~ msgstr "Default adding signature to outgoing mails"
+
+#~ msgid "Please wait"
+#~ msgstr "Please wait"
+
+#~ msgid "Advanced"
+#~ msgstr "Advanced"
+
+#~ msgid "Enable Advanced PGP Features"
+#~ msgstr "Enable Advanced PGP Features"
+
+#~ msgid "PGP Encryption Settings"
+#~ msgstr "PGP Encryption Settings"
+
+#~ msgid "Security Settings"
+#~ msgstr "Security Settings"
+
+#~ msgid "Keys uploaded"
+#~ msgstr "Keys uploaded"
+
+#~ msgid "Failed to upload"
+#~ msgstr "Failed to upload"
+
+#~ msgid "The public key must have your primary email as a user ID"
+#~ msgstr "The public key must have your primary email as a user ID"
+
+#~ msgid "Upload Private Keys"
+#~ msgstr "Upload Private Keys"
+
+#~ msgid "Please enter passwords for the upload"
+#~ msgstr "Please enter passwords for the upload"
+
+#~ msgid "Enter new password for the key:"
+#~ msgstr "Enter new password for the key:"
+
+#~ msgid "Confirm Password:"
+#~ msgstr "Confirm Password:"
+
+#~ msgid "Private key password for the key you are uploading:"
+#~ msgstr "Private key password for the key you are uploading:"
+
+#~ msgid "Private Key Uploaded"
+#~ msgstr "Private Key Uploaded"
+
+#~ msgid "This key already exists"
+#~ msgstr "This key already exists"
+
+#~ msgid "Bad PGP Password"
+#~ msgstr "Bad PGP Password"
+
+#~ msgid "The private key must have your primary email as a user ID"
+#~ msgstr "The private key must have your primary email as a user ID."
+
+#~ msgid "Must use same password as existing key to merge"
+#~ msgstr "Must use same password as existing key to merge."
+
+#~ msgid "Problem uploading Private Key "
+#~ msgstr "Problem uploading Private Key "
+
+#~ msgid "Guided tour for %s"
+#~ msgstr "Guided tour for %s"
+
+#~ msgid "Sign out %s"
+#~ msgstr "Sign out %s"
+
+#~ msgctxt "app"
+#~ msgid "%s Security"
+#~ msgstr "%s Security"
+
+#~ msgid "Get Started"
+#~ msgstr "Get Started"
+
+#~ msgid ""
+#~ "In order to start with %s Security, you must set up a password for your "
+#~ "secured files."
+#~ msgstr ""
+#~ "In order to start with %s Security, you must set up a password for your "
+#~ "secured files."
+
+#~ msgid "Start"
+#~ msgstr "Start"
+
+#~ msgid "%s Security Settings"
+#~ msgstr "%s Security Settings"
+
+#~ msgid "Change %s Security Password."
+#~ msgstr "Change %s Security Password."
+
+#~ msgid "Enter current %s security password"
+#~ msgstr "Enter current %s security password"
+
+#~ msgid "Enter new %s security password"
+#~ msgstr "Enter new %s security password"
+
+#~ msgid "Verify new %s security password"
+#~ msgstr "Verify new %s security password"
+
+#~ msgid "Change %s security password"
+#~ msgstr "Change %s security password"
+
+#~ msgid "Reset %s security password"
+#~ msgstr "Reset %s security password"
+
+#~ msgid "Send a temporary %s security password to my secondary Email address."
+#~ msgstr ""
+#~ "Send a temporary %s security password to my secondary Email address."
+
+#~ msgid "Delete Password Recovery"
+#~ msgstr "Delete Password Recovery"
+
+#~ msgid "Advanced Users Only!"
+#~ msgstr "Advanced Users Only!"
+
+#~ msgid ""
+#~ "Delete the password recovery.  The recovery is used to reset your "
+#~ "password.  If you delete the recovery, you will not be able to reset your "
+#~ "password if you forget it.  Changing your password will restore the "
+#~ "recovery."
+#~ msgstr ""
+#~ "Delete the password recovery.  The recovery is used to reset your "
+#~ "password.  If you delete the recovery, you will not be able to reset your "
+#~ "password if you forget it.  Changing your password will restore the "
+#~ "recovery."
+
+#~ msgid "Please verify your password before deleting the recovery."
+#~ msgstr "Please verify your password before deleting the recovery."
+
+#~ msgid "Recovery deleted"
+#~ msgstr "Recovery deleted"
+
+#~ msgid "Secondary Email"
+#~ msgstr "Secondary Email"
+
+#~ msgid "Change Email address used for password reset."
+#~ msgstr "Change Email address used for password reset."
+
+#~ msgid "Current Email address:"
+#~ msgstr "Current Email address:"
+
+#~ msgid "Verify Email address"
+#~ msgstr "Verify Email address"
+
+#~ msgid "Change Email address"
+#~ msgstr "Change Email address"
+
+#~ msgid "None - Primary Email will be used"
+#~ msgstr "None - Primary Email will be used"
+
+#~ msgid "Invalid email address"
+#~ msgstr "Invalid email address"
+
+#~ msgid "Successfully changed email address"
+#~ msgstr "Successfully changed email address"
+
+#~ msgid "A new password has been sent to your email address."
+#~ msgstr "A new password has been sent to your email address."
+
+#~ msgid "A new password has been sent to your secondary email address."
+#~ msgstr "A new password has been sent to your secondary email address."
+
+#~ msgid "No password recovery is available."
+#~ msgstr "No password recovery is available"
+
+#~ msgid "Password reset, but unable to send to your email address."
+#~ msgstr "Password reset, but unable to send to your email address."
+
+#~ msgid "Unable to find email address to send password reset."
+#~ msgstr "Unable to find email address to send password reset."
+
+#~ msgid "Unable to reset your password"
+#~ msgstr "Unable to reset your password"
+
+#~ msgid "Next"
+#~ msgstr "Next"
+
+#~ msgid "Simple and Easy"
+#~ msgstr "Simple and Easy"
+
+#~ msgctxt "Choice"
+#~ msgid "One click encryption for Emails and files"
+#~ msgstr "One click encryption for Emails and files"
+
+#~ msgctxt "Choice"
+#~ msgid "Works in all browsers with all your contacts"
+#~ msgstr "Works in all browsers with all your contacts"
+
+#~ msgctxt "Choice"
+#~ msgid "Easy to use, every day"
+#~ msgstr "Easy to use, every day"
+
+#~ msgctxt "Choice"
+#~ msgid "Security details managed by us"
+#~ msgstr "Security details managed by us"
+
+#~ msgctxt "Choice"
+#~ msgid ""
+#~ "If you do not have deep knowledge of encryption, but you would like to "
+#~ "easily secure your communication with your friends or business contacts, "
+#~ "this option fits perfectly for you. Safe Email, made simple!"
+#~ msgstr ""
+#~ "If you do not have deep knowledge of encryption, but you would like to "
+#~ "easily secure your communication with your friends or business contacts, "
+#~ "this option fits perfectly for you. Safe Email, made simple!"
+
+#~ msgctxt "Choice"
+#~ msgid "Encryption Expert"
+#~ msgstr "Encryption Expert"
+
+#~ msgctxt "Choice"
+#~ msgid "Expert encryption options available"
+#~ msgstr "Expert encryption options available"
+
+#~ msgctxt "Choice"
+#~ msgid "Works only in Firefox and Chrome"
+#~ msgstr "Works only in Firefox and Chrome"
+
+#~ msgctxt "Choice"
+#~ msgid "Browser plugin required"
+#~ msgstr "Browser plugin required"
+
+#~ msgctxt "Choice"
+#~ msgid "Security details managed by yourself"
+#~ msgstr "Security details managed by yourself"
+
+#~ msgctxt "Choice"
+#~ msgid ""
+#~ "If you are an encryption expert, and would like to manage all encryption "
+#~ "details by yourself, this option fits best for you. You need to install a "
+#~ "third-party browser plugin to work with expert encryption."
+#~ msgstr ""
+#~ "If you are an encryption expert, and would like to manage all encryption "
+#~ "details by yourself, this option fits best for you. You need to install a "
+#~ "third-party browser plugin to work with expert encryption."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You already set up your %s account. But you can always change your "
+#~ "encryption password, or request a temporary password if you forget it."
+#~ msgstr ""
+#~ "You already set up your %s account. But you can always change your "
+#~ "encryption password, or request a temporary password if you forget it."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You already set up your %s account.  You can change your encryption "
+#~ "password here."
+#~ msgstr ""
+#~ "You already set up your %s account.  You can change your encryption "
+#~ "password here."
+
+#~ msgctxt "tour"
+#~ msgid "The %s module"
+#~ msgstr "The %s module"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Security and privacy matters to everyone. That's why you can now send and "
+#~ "receive encrypted emails by simply clicking on the lock icon."
+#~ msgstr ""
+#~ "Security and privacy matters to everyone. That's why you can now send and "
+#~ "receive encrypted emails by simply clicking on the lock icon."
+
+#~ msgctxt "tour"
+#~ msgid "%s Security Settings"
+#~ msgstr "%s Security Settings"
+
+#~ msgctxt "tour"
+#~ msgid "PGP Encryption Settings"
+#~ msgstr "PGP Encryption Settings"
+
+#~ msgctxt "tour"
+#~ msgid "Security Settings"
+#~ msgstr "Security Settings"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "From here you can update your encryption settings. For example you can "
+#~ "choose to send encrypted emails by default."
+#~ msgstr ""
+#~ "From here you can update your encryption settings. For example you can "
+#~ "choose to send encrypted emails by default."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "From here, you can update your security settings.  For example, you can "
+#~ "choose to send secure emails by default."
+#~ msgstr ""
+#~ "From here, you can update your security settings.  For example, you can "
+#~ "choose to send secure emails by default."
+
+#~ msgctxt "tour"
+#~ msgid "Signature"
+#~ msgstr "Signature"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "In addition to encrypting your emails you can also sign them. This means "
+#~ "that email recipients can be sure that the email really came from you. By "
+#~ "ticking this checkbox your signature will be added to outgoing emails by "
+#~ "default."
+#~ msgstr ""
+#~ "In addition to encrypting your emails you can also sign them. This means "
+#~ "that email recipients can be sure that the email really came from you. By "
+#~ "ticking this checkbox your signature will be added to outgoing emails by "
+#~ "default."
+
+#~ msgctxt "tour"
+#~ msgid "Alternative: PGP Inline"
+#~ msgstr "Alternative: PGP Inline"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "By default %s sends encrypted emails using PGP/Mime format. To "
+#~ "communicate with some systems you may need to use PGP Inline."
+#~ msgstr ""
+#~ "By default %s sends encrypted emails using PGP/Mime format. To "
+#~ "communicate with some systems you may need to use PGP Inline."
+
+#~ msgctxt "tour"
+#~ msgid "Advanced Settings"
+#~ msgstr "Advanced Settings"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Advanced users can manage their key lists from the PGP Encryption "
+#~ "Settings."
+#~ msgstr ""
+#~ "Advanced users can manage their key lists from the PGP Encryption "
+#~ "Settings."
+
+#~ msgctxt "tour"
+#~ msgid "Advanced User Settings"
+#~ msgstr "Advanced User Settings"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Enabling Advanced PGP Features will enable key management and specifying "
+#~ "sending formats."
+#~ msgstr ""
+#~ "Enabling Advanced PGP Features will enable key management and specifying "
+#~ "sending formats."
+
+#~ msgctxt "tour"
+#~ msgid "Enabling and disabling encryption"
+#~ msgstr "Enabling and disabling encryption"
+
+#~ msgctxt "tour"
+#~ msgid "You are now able to send secure emails."
+#~ msgstr "You are now able to send secure emails."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Sending without encryption is easy, too: Simply click on the lock icon "
+#~ "again."
+#~ msgstr ""
+#~ "Sending without encryption is easy, too: Simply click on the lock icon "
+#~ "again."
+
+#~ msgctxt "tour"
+#~ msgid "Encrypt files"
+#~ msgstr "Encrypt files"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You can also protect your files. Just click on Encrypt and the selected "
+#~ "file will be stored securely."
+#~ msgstr ""
+#~ "You can also protect your files. Just click on Encrypt and the selected "
+#~ "file will be stored securely."
+
+#~ msgctxt "tour"
+#~ msgid "Encrypt your sensitive files in Drive"
+#~ msgstr "Encrypt your sensitive files in Drive"
+
+#~ msgctxt "tour"
+#~ msgid "Restart Guided Tour"
+#~ msgstr "Restart Guided Tour"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "<em>Hint:</em> you can start guided tours, any time you need them, from "
+#~ "the system menu."
+#~ msgstr ""
+#~ "<em>Hint:</em> you can start guided tours, any time you need them, from "
+#~ "the system menu."
+
+#~ msgctxt "tour"
+#~ msgid "Guided Tour completed"
+#~ msgstr "Guided Tour completed"
+
+#~ msgctxt "tour"
+#~ msgid "You successfully learned how to protect your emails and files."
+#~ msgstr "You successfully learned how to protect your emails and files."
+
+#~ msgctxt "tour"
+#~ msgid "What you can do now:"
+#~ msgstr "What you can do now:"
+
+#~ msgctxt "tour"
+#~ msgid "Write an encrypted email"
+#~ msgstr "Write an encrypted email"
+
+#~ msgctxt "tour"
+#~ msgid "Activate encryption for all new emails"
+#~ msgstr "Activate encryption for all new emails"
+
+#~ msgctxt "tour"
+#~ msgid "Review your encryption settings"
+#~ msgstr "Review your encryption settings"
+
+#~ msgctxt "tour"
+#~ msgid "Learn more"
+#~ msgstr "Learn more"
+
+#~ msgid "Start Setup"
+#~ msgstr "Start Setup"
+
+#~ msgctxt "tour"
+#~ msgid "Setup %s"
+#~ msgstr "Setup %s"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Welcome to %1$s. You will now be taken on a tour, showing you how to use "
+#~ "%1$s."
+#~ msgstr ""
+#~ "Welcome to %1$s. You will now be taken on a tour, showing you how to use "
+#~ "%1$s."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Firstly however, you’ll need to setup %1$s by choosing a password which "
+#~ "will be used to encrypt or decrypt items such as email or files."
+#~ msgstr ""
+#~ "Firstly however, you’ll need to setup %1$s by choosing a password which "
+#~ "will be used to encrypt or decrypt items such as email or files."
+
+#~ msgid "Choose %s Password"
+#~ msgstr "Choose %s Password"
+
+#~ msgid "Close"
+#~ msgstr "Close"
+
+#~ msgctxt "tour"
+#~ msgid "%s set up completed"
+#~ msgstr "%s set up completed"
+
+#~ msgctxt "tour"
+#~ msgid "Congratulations, you have successfully setup %s"
+#~ msgstr "Congratulations, you have successfully setup %s."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Now you can learn more about how to use %s by following the links below:"
+#~ msgstr ""
+#~ "Now you can learn more about how to use %s by following the links below:"
+
+#~ msgctxt "tour"
+#~ msgid "Learn more about %s"
+#~ msgstr "Learn more about %s"
+
+#~ msgid "Choose your security solution"
+#~ msgstr "Choose your security solution"
+
+#~ msgid "Key found for %1$s.  Import?"
+#~ msgstr "Key found for %1$s.  Import?"
+
+#~ msgid "Import"
+#~ msgstr "Import"
+
+#~ msgid "Imported"
+#~ msgstr "Imported"
+
+#~ msgid "Updated"
+#~ msgstr "Updated"
+
+#~ msgid "Invalidated"
+#~ msgstr "Invalidated"
+
+#~ msgid "Rejected"
+#~ msgstr "Rejected"
+
+#~ msgid "Warning"
+#~ msgstr "Warning"
+
+#~ msgid ""
+#~ "Sending an encrypted email from an account other than %s may cause "
+#~ "problems with the recipient being able to reply.  Consider using your "
+#~ "primary account."
+#~ msgstr ""
+#~ "Sending an encrypted email from an account other than %s may cause "
+#~ "problems with the recipient being able to reply.  Consider using your "
+#~ "primary account."
+
+#~ msgid "Do not warn me again"
+#~ msgstr "Do not warn me again"
+
+#~ msgid "PGP Info"
+#~ msgstr "PGP Info"
+
+#~ msgid "Content Type"
+#~ msgstr "Content Type"
+
+#~ msgid "PGP Details"
+#~ msgstr "PGP Details"
+
+#~ msgid ""
+#~ "Mailvelope is not supported in this browser.  Please use Chrome or "
+#~ "Firefox with Mailvelop installed."
+#~ msgstr ""
+#~ "Mailvelope is not supported in this browser.  Please use Chrome or "
+#~ "Firefox with Mailvelop installed."
+
+#~ msgid "Remember Password"
+#~ msgstr "Remember Password"
+
+#~ msgid "Extra Password"
+#~ msgstr "Extra Password"
+
+#~ msgid "PGP default to using PGP inline for compatibility"
+#~ msgstr "PGP default to using PGP inline for compatibility"
+
+#~ msgid ""
+#~ "This allows you to set an extra password that will be required for "
+#~ "reading this item."
+#~ msgstr ""
+#~ "This allows you to set an extra password that will be required for "
+#~ "reading this item."
+
+#~ msgid "Please enter it below"
+#~ msgstr "Please enter it below"
+
+#~ msgid "Please enter your %s Security password"
+#~ msgstr "Please enter your %s Security password."
+
+#~ msgid "Failed to add extra password"
+#~ msgstr "Failed to add extra password"
+
+#~ msgid "This email was sent with an extra password."
+#~ msgstr "This email was sent with an extra password."
+
+#~ msgid "Please enter below"
+#~ msgstr "Please enter below"
+
+#~ msgid "Please enter your %s password for signing"
+#~ msgstr "Please enter your %s password for signing."
+
+#~ msgid "Changed"
+#~ msgstr "Changed"

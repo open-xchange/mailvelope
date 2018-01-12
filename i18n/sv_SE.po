@@ -1,0 +1,2603 @@
+# Arve Eriksson <arve@bureau-cornavin.com>, 2014, 2015, 2016, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: open-xchange-guard-ui\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2018-01-12 09:06-0500\n"
+"Last-Translator: Greg Hill <greg.hill@open-xchange.com>\n"
+"Language-Team: Swedish <ox@workshop-chapina.com>\n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.10\n"
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "Toggle Encryption"
+msgstr ""
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "Not Supported"
+msgstr "Stöds inte"
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "%s is not supported with secured email and will be disabled."
+msgstr "%s stöds inte med säker e-post och kommer avaktiveras."
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "OK"
+msgstr "Ok"
+
+#. %s product Name
+#: apps/mailvelope/settings.js module:oxguard
+msgid "Mailvelope"
+msgstr "Mailvelope"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Mailvelope Not Supported"
+msgstr "Mailvelope stöds inte"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid ""
+"Mailvelope is only supported in Google Chrome or Mozilla Firefox.  Please "
+"use one of these broswers to set up encryption."
+msgstr ""
+"Mailvelope stöds bara i Google Chrome eller Mozilla Firefox. Använd en av "
+"dessa webbläsare för att ställa in kryptering."
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Encrypted communication"
+msgstr "Krypterad kommunikation"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Download browser plugin"
+msgstr "Ladda ner insticksprogram för webbläsare"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Generate"
+msgstr "Generera"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Congratulations! You have successfully set up encryption."
+msgstr "Grattis! Du har ställt in krypteringen."
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Prepare"
+msgstr "Förbered"
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Password"
+msgstr "Lösenord"
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Three steps to setup encrypted communication:"
+msgstr "Tre steg för att ställa in krypterad kommunikation:"
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Download browser plugin “Mailvelope”"
+msgstr "Ladda ner insticksprogrammet \"Mailvelope\""
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Create encryption keys for secure communication"
+msgstr "Skapa krypteringsnycklar för säker kommunikation"
+
+#~ msgid "Mailvelope Advanced"
+#~ msgstr "Mailvelope avancerat"
+
+#~ msgid "Error"
+#~ msgstr "Fel"
+
+#~ msgid ""
+#~ "Backup your Mailvelope private keys to the server.  The keys will be "
+#~ "encrypted requiring a security code for restore"
+#~ msgstr ""
+#~ "Säkerhetskopiera dina privata Mailvelope-nycklar till servern. Nycklarna "
+#~ "kommer krypteras, och kräver en säkerhetskod för återställning"
+
+#~ msgid "Backup"
+#~ msgstr "Säkerhetskopiera"
+
+#~ msgid "Discard previously saved private keys."
+#~ msgstr "Kasta tidigare sparade privata nycklar."
+
+#~ msgid "Discard backup"
+#~ msgstr "Kasta säkerhetskopia"
+
+#~ msgid "Restore previously saved private keys."
+#~ msgstr "Återställ tidigare sparade privata nycklar."
+
+#~ msgid "Restore"
+#~ msgstr "Återställ"
+
+#~ msgid ""
+#~ "Upload your Mailvelope public keys to the %s server so that other people "
+#~ "can send you encrypted emails."
+#~ msgstr ""
+#~ "Ladda upp dina publika Mailvelope-nycklar till %s-servern så att andra "
+#~ "kan skicka dig krypterad e-post."
+
+#~ msgid "Upload Public Key"
+#~ msgstr "Ladda upp offentlig nyckel"
+
+#~ msgid "Backup and Recovery"
+#~ msgstr "Säkerhetskopia och återställning"
+
+#~ msgid "No backup data available"
+#~ msgstr "Ingen säkerhetskopia tillgänglig"
+
+#~ msgid ""
+#~ "You can now backup your keys. Please store the provided password secure. "
+#~ "It is also possible to skip this step and do the backup later. You can "
+#~ "find it in the settings."
+#~ msgstr ""
+#~ "Du kan nu säkerhetskopiera dina nycklar. Lagra lösenordet på säkert sätt. "
+#~ "Det är också möjligt att hoppa över det här steget och utföra "
+#~ "säkerhetskopieringen senare. Du hittar steget i inställningarna."
+
+#~ msgid "Skip without backup"
+#~ msgstr "Hoppa över utan kopiering"
+
+#~ msgid "Recommended: Setup key backup"
+#~ msgstr "Rekommenderas: Ställ in säkerhetskopia för nyckel"
+
+#~ msgid "Enter %s security password"
+#~ msgstr "Ange %s-säkerhetslösenord"
+
+#~ msgid "Bad password"
+#~ msgstr "Fel lösenord"
+
+#~ msgid "Account Locked out"
+#~ msgstr "Kontot utelåst"
+
+#~ msgid "Unspecified error"
+#~ msgstr "Ospecificerat fel"
+
+#~ msgid "Problems creating keys, please try again later."
+#~ msgstr "Problem uppstod när nycklar skapades, försök igen senare."
+
+#~ msgid ""
+#~ "Problems creating keys.  Keys already exist for this email address in "
+#~ "another account."
+#~ msgstr ""
+#~ "Problem när nycklarna skapades. Nycklar finns redan för den här e-"
+#~ "postadressen i ett annat konto."
+
+#~ msgid "Passwords must be at least %s characters in length"
+#~ msgstr "Lösenord måste vara minst %s tecken långa"
+
+#~ msgid "Passwords not equal"
+#~ msgstr "Lösenorden inte lika"
+
+#~ msgid "Enter new secondary Email address"
+#~ msgstr "Ange ny sekundär e-postadress"
+
+#~ msgid "Generating key, Please wait"
+#~ msgstr "Skapar nyckel, var god vänta"
+
+#~ msgid ""
+#~ "Please choose the password you will use for %s. You will need to type "
+#~ "this password whenever you want to encrypt or decrypt items. Remember it "
+#~ "should be different from your login password, and will not change if you "
+#~ "change your login password."
+#~ msgstr ""
+#~ "Välj det lösenord du vill använda för %s. Du kommer behöva skriva det här "
+#~ "lösenordet varje gång du vill kryptera eller avkryptera objekt. Kom ihåg "
+#~ "att det bör vara annorlunda än ditt inloggningslösenord, och kommer inte "
+#~ "ändras om du byter inloggningslösenord."
+
+#~ msgid "Please enter a password to protect your new encrypted items."
+#~ msgstr "Ange ett lösenord för att skydda dina nya krypterade objekt."
+
+#~ msgid "Confirm"
+#~ msgstr "Bekräfta"
+
+#~ msgid ""
+#~ "Warning: This password for encryption cannot be restored or recovered in "
+#~ "any way.  If forgotten, all encrypted data will be lost"
+#~ msgstr ""
+#~ "Varning: Detta krypteringslösenord kan inte återställas eller återskapas "
+#~ "under några som helst omständigheter. Om du glömmer det kommer all "
+#~ "krypterad data förloras"
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password."
+#~ msgstr ""
+#~ "Ange en sekundär e-postadress om du skulle behöva återställa ditt "
+#~ "lösenord."
+
+#~ msgid "Email:"
+#~ msgstr "E-post:"
+
+#~ msgid "Create %s Security Keys"
+#~ msgstr "Skapa %s säkerhetsnycklar"
+
+#~ msgid "Cancel"
+#~ msgstr "Avbryt"
+
+#~ msgid "Not valid email"
+#~ msgstr "Inte ett giltigt meddelande"
+
+#~ msgid "Emails not equal"
+#~ msgstr "Meddelanden inte lika"
+
+#~ msgid "Too short"
+#~ msgstr "För kort"
+
+#~ msgid "Strong"
+#~ msgstr "Starkt"
+
+#~ msgid "Weak"
+#~ msgstr "Svagt"
+
+#~ msgid "First %s Security Use"
+#~ msgstr "Första användningen av %s-säkerhet"
+
+#~ msgid "You have been sent an email using %s to secure the contents"
+#~ msgstr ""
+#~ "Du har fått ett meddelande som använder %s för att skydda innehållet"
+
+#~ msgid ""
+#~ "Please select a new password for use with %s.  This password will be used "
+#~ "to open encrypted emails and files that may be sent to you."
+#~ msgstr ""
+#~ "Välj ett nytt lösenord för %s. Detta lösenord kommer användas för att "
+#~ "öppna krypterade meddelanden och filer som du tar emot."
+
+#~ msgid "First %s Security Password Use"
+#~ msgstr "Första användningen av %s säkerhetslösenord"
+
+#~ msgid ""
+#~ "Please change the initial temporary %s security password that was sent to "
+#~ "you in a separate email."
+#~ msgstr ""
+#~ "Ändra det första tillfälliga %s säkerhetslösenordet som du fick i ett "
+#~ "separat meddelande."
+
+#~ msgid "Initial Password"
+#~ msgstr "Ursprungligt lösenord"
+
+#~ msgid "New Password"
+#~ msgstr "Nytt lösenord"
+
+#~ msgid "Confirm New"
+#~ msgstr "Bekräfta nytt"
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password.</p>"
+#~ msgstr ""
+#~ "Skriv in en sekundär e-postadress om du skulle behöva återställa ditt "
+#~ "lösenord.</p>"
+
+#~ msgid "Verify:"
+#~ msgstr "Verifiera:"
+
+#~ msgid ""
+#~ "Warning: This password for encryption cannot be restored or recovered in "
+#~ "any way.  If forgotten, all encrypted data will be lost."
+#~ msgstr ""
+#~ "Varning: Detta krypteringslösenord kan inte återställas eller återskapas "
+#~ "under några som helst omständigheter. Om du glömmer det kommer all "
+#~ "krypterad data förloras."
+
+#~ msgid "Success"
+#~ msgstr "Lyckades"
+
+#~ msgid "Password changed successfully"
+#~ msgstr "Lösenordet ändrades"
+
+#~ msgid "New password must be at least %s characters long"
+#~ msgstr "Nytt lösenord måste vara minst %s tecken långt"
+
+#~ msgid "Encryption key not found"
+#~ msgstr "Krypteringsnyckel hittades inte"
+
+#~ msgid "Failed to change password"
+#~ msgstr "Kunde inte byta lösenord"
+
+#~ msgid "Download decrypted"
+#~ msgstr "Ladda ner avkrypterat"
+
+#~ msgid "Add and encrypt local file"
+#~ msgstr "Lägg till och kryptera lokal fil"
+
+#~ msgid "Remove encryption"
+#~ msgstr "Ta bort kryptering"
+
+#~ msgid "Encrypt"
+#~ msgstr "Kryptera"
+
+#~ msgid "Send by mail"
+#~ msgstr "Skicka via e-post"
+
+#~ msgid "Download encrypted"
+#~ msgstr "Ladda ner krypterat"
+
+#~ msgid "Pop out"
+#~ msgstr "Pop out"
+
+#~ msgid "Pop out standalone viewer"
+#~ msgstr "Hoppa ut fristående visare"
+
+#~ msgid "Decrypt and open"
+#~ msgstr "Avkryptera och öppna"
+
+#~ msgid "Drop files here to encrypt"
+#~ msgstr "Släpp filer här för att kryptera"
+
+#~ msgid "Recipient Options"
+#~ msgstr "Mottagaralternativ"
+
+#~ msgid ""
+#~ "At least one of your recipients uses a different webmail system.  They "
+#~ "will receive an email with a link for them to read this message.  If you "
+#~ "like, you can add a personalized message that will appear at the top of "
+#~ "this message.  This will help identify the message as coming from you."
+#~ msgstr ""
+#~ "Åtminstone en av dina mottagare använder ett annat webbmail-system. De "
+#~ "kommer få ett meddelande med en länk som leder till det här meddelandet. "
+#~ "Om du önskar kan du lägga till ett personligt meddelande som visas längst "
+#~ "upp. Detta gör det lättare att se att meddelandet kommer från dig."
+
+#~ msgid "Message:"
+#~ msgstr "Meddelande:"
+
+#~ msgid "Language for recipient Email"
+#~ msgstr "Språk för mottagarens e-post"
+
+#~ msgid "Note: Emails sent to mailing lists or groups will not work."
+#~ msgstr ""
+#~ "OBS: Meddelanden som skicks till sändlistor eller grupper kommer inte att "
+#~ "fungera."
+
+#~ msgid ""
+#~ "Mailing list / blocked email found.  Encrypted emails to this email will "
+#~ "fail.  %s"
+#~ msgstr ""
+#~ "Sändliste-/blockerat meddelande hittat. Krypterade meddelanden till den "
+#~ "här e-posten kommer att misslyckas.  %s"
+
+#~ msgid ""
+#~ "The key for %s has expired.  You will not be able to send an encrypted "
+#~ "email to this recipient."
+#~ msgstr ""
+#~ "Nyckeln för %s har gått ut. Du kommer inte kunna skicka krypterad e-post "
+#~ "till den här mottagaren."
+
+#~ msgid "HTML Formatted Email"
+#~ msgstr "HTML-formaterad e-post"
+
+#~ msgid ""
+#~ "HTML formatted emails may cause issues with PGP inline.  Click OK to "
+#~ "change to Plain Text formatted Emails."
+#~ msgstr ""
+#~ "HTML-formaterad e-post kan leda till problem med PGP inline. Klicka på OK "
+#~ "för att ändra till klartextformaterad e-post."
+
+#~ msgid "HTML format is not recommended when using PGP Inline"
+#~ msgstr "HTML-formatering rekommenderas inte för PGP Inline"
+
+#~ msgid "Recipients cannot be added to this encrypted reply"
+#~ msgstr "Mottagare kan inte läggas till detta krypterade svaret"
+
+#~ msgid "Reply must be encrypted"
+#~ msgstr "Svar måste krypteras"
+
+#~ msgid "Unable to attach your public key"
+#~ msgstr "Kunde inte bifoga din offentliga nyckel"
+
+#~ msgid "Will create new guest account for %s"
+#~ msgstr "Kommer skapa nytt gästkonto för %s"
+
+#~ msgid "Encryption Key Known"
+#~ msgstr "Krypteringsnyckel känd"
+
+#~ msgid "Send"
+#~ msgstr "Skicka"
+
+#~ msgid "Send Encrypted"
+#~ msgstr "Skicka krypterat"
+
+#~ msgid "Send Secure"
+#~ msgstr "Skicka säkert"
+
+#~ msgid "Loaded"
+#~ msgstr "Laddad"
+
+#~ msgid "Secure Email, enter your %s security password."
+#~ msgstr "Säker e-post, ange ditt %s säkerhetslösenord."
+
+#~ msgid "Keep me logged into %s"
+#~ msgstr "Förbli inloggad på %s"
+
+#~ msgid "10 minutes"
+#~ msgstr "10 minuter"
+
+#~ msgid "20 minutes"
+#~ msgstr "20 minuter"
+
+#~ msgid "30 minutes"
+#~ msgstr "30 minuter"
+
+#~ msgid "1 hour"
+#~ msgstr "1 timme"
+
+#~ msgid "2 hours"
+#~ msgstr "2 timmar"
+
+#~ msgid "Session"
+#~ msgstr "Session"
+
+#~ msgid "Select Key Location"
+#~ msgstr "Välj nyckelplats"
+
+#~ msgid "Temporary Lockout"
+#~ msgstr "Tillfällig utelåsning"
+
+#~ msgid "Security PIN"
+#~ msgstr "Säkerhets-PIN"
+
+#~ msgid "Recipients:"
+#~ msgstr "Mottagare:"
+
+#~ msgid ""
+#~ "The new recipients listed below will be sent a password via email.  You "
+#~ "can also require a separate pin, which is displayed below."
+#~ msgstr ""
+#~ "De nya mottagarna i listan nedanför kommer skickas ett lösenord via e-"
+#~ "post. Du kan också kräva ett separat PIN, vilket visas nedanför."
+
+#~ msgid ""
+#~ "You may deliver this pin any way you see fit, but we recommend doing it "
+#~ "in a second method other than email (Phone, SMS, Skype, etc)."
+#~ msgstr ""
+#~ "Du kan leverera det här pin-numret hur du vill, men vi rekommenderar att "
+#~ "du gör det på ett annat sätt än e-post (telefon, SMS, Skype, osv.)."
+
+#~ msgid "If you want this extra pin requirement, click OK."
+#~ msgstr "Om du vill kräva ett extra pin, klicka på OK."
+
+#~ msgid "Skip"
+#~ msgstr "Hoppa över"
+
+#~ msgid "Unable to get key"
+#~ msgstr "Kunde inte hämta nyckel"
+
+#~ msgid "Please enter your %s password to sign this email."
+#~ msgstr "Ange ditt %s-lösenord för att signera meddelandet."
+
+#~ msgid ""
+#~ "There appears to be an encrypted attachment.  Please enter your %s "
+#~ "password to decode the attachment for sending."
+#~ msgstr ""
+#~ "Det ser ut att vara en krypterad bilaga. Ange ditt %s-lösenord för att "
+#~ "avkoda bilagan när meddelandet skickas."
+
+#~ msgid "Please re-enter your %s password before sending."
+#~ msgstr "Skriv in ditt %s-lösenord igen innan meddelandet skickas."
+
+#~ msgid "Please re-enter your %s password before saving."
+#~ msgstr "Skriv in ditt %s-lösenord igen innan du sparar."
+
+#~ msgid "Please re-enter your %s password."
+#~ msgstr "Skriv in ditt %s-lösenord igen."
+
+#~ msgid "Security"
+#~ msgstr "Säkerhet"
+
+#~ msgid "PGP"
+#~ msgstr "PGP"
+
+#~ msgid "Secure"
+#~ msgstr "Säker"
+
+#~ msgid "Sign"
+#~ msgstr "Signera"
+
+#~ msgid "Format"
+#~ msgstr "Format"
+
+#~ msgid "PGP Mime"
+#~ msgstr "PGP Mime"
+
+#~ msgid "PGP Inline"
+#~ msgstr "PGP Inline"
+
+#~ msgid "Keys"
+#~ msgstr "Nycklar"
+
+#~ msgid "Attach my key"
+#~ msgstr "Bifoga min nyckel"
+
+#~ msgid "Unable to find keys for all recipients."
+#~ msgstr "Kunde inte hitta nycklar för alla mottagare."
+
+#~ msgid "Unable to connect to the encryption server."
+#~ msgstr "Kunde inte ansluta till krypteringsservern."
+
+#~ msgid "Unable to find the item on the server"
+#~ msgstr "Kunde inte hitta objektet på servern"
+
+#~ msgid "Unable to get the key for that item"
+#~ msgstr "Kunde inte hämta nyckel för det objektet"
+
+#~ msgid "Unable to retrieve your user keys to decode"
+#~ msgstr "Kunde inte hämta dina användarnycklar för att avkoda"
+
+#~ msgid "Bad extra password"
+#~ msgstr "Fel ytterligare lösenord"
+
+#~ msgid "No private key to decode this message"
+#~ msgstr "Ingen privat nyckel för att avkoda detta meddelande"
+
+#~ msgid "Unable to decrypt Email, incorrect password."
+#~ msgstr "Kunde inte avkoda meddelande, fel lösenord."
+
+#~ msgid "To reset or recover your password, click %s"
+#~ msgstr "För att nollställa eller begära ut ditt lösenord, klicka på %s"
+
+#~ msgid "Settings"
+#~ msgstr "Inställningar"
+
+#~ msgid "No Private Key available for this encrypted item."
+#~ msgstr "Ingen privat nyckel tillgänglig för detta krypterade objektet."
+
+#~ msgid "Key Ids:"
+#~ msgstr "Nyckel-ID:"
+
+#~ msgid "Your account is locked out for %s minutes"
+#~ msgstr "Ditt konto har blockerats för %s minuter"
+
+#~ msgid "Server Error: "
+#~ msgstr "Serverfel: "
+
+#~ msgid "Password needed"
+#~ msgstr "Lösenord krävs"
+
+#~ msgid "Please enter your %s password"
+#~ msgstr "Ange ditt %s-lösenord"
+
+#~ msgid "Remember my password"
+#~ msgstr "Kom ihåg mitt lösenord"
+
+#~ msgid "Account locked out due to bad attempts.  Please try again later."
+#~ msgstr ""
+#~ "Kontot har blockerats på grund av misslyckade inloggningsförsök. Försök "
+#~ "igen senare."
+
+#~ msgid "Error checking password"
+#~ msgstr "Fel vid lösenordskontroll"
+
+#~ msgid "Delete Public Key"
+#~ msgstr "Ta bort publik nyckel"
+
+#~ msgid "Click OK to confirm"
+#~ msgstr "Klicka på Ok för att bekräfta"
+
+#~ msgid "Email"
+#~ msgstr "E-post"
+
+#~ msgid "Key Ids"
+#~ msgstr "Nyckel-ID"
+
+#~ msgid "Details"
+#~ msgstr "Detaljer"
+
+#~ msgid "Delete"
+#~ msgstr "Radera"
+
+#~ msgid "No Keys Found"
+#~ msgstr "Inga nycklar hittades"
+
+#~ msgid "Key Details"
+#~ msgstr "Nyckeldetaljer"
+
+#~ msgid "Share Keys"
+#~ msgstr "Dela ut nycklar"
+
+#~ msgid "Use PGP Inline"
+#~ msgstr "Använd PGP Inline"
+
+#~ msgid "Signatures"
+#~ msgstr "Signaturer"
+
+#~ msgid "Expired"
+#~ msgstr "Utgått"
+
+#~ msgid "Revoked"
+#~ msgstr "Annulerad"
+
+#~ msgid "Fingerprint:"
+#~ msgstr "Fingeravtryck:"
+
+#~ msgid "Created:"
+#~ msgstr "Skapades:"
+
+#~ msgid "Master:"
+#~ msgstr "Master:"
+
+#~ msgid "True"
+#~ msgstr "Sant"
+
+#~ msgid "False"
+#~ msgstr "Falskt"
+
+#~ msgid "Encryption:"
+#~ msgstr "Kryptering:"
+
+#~ msgid "IDs: "
+#~ msgstr "ID: "
+
+#~ msgid "Expires in %1$s days"
+#~ msgstr "Går ut om %1$s dagar"
+
+#~ msgid "Problem getting signatures"
+#~ msgstr "Problem vid hämtning av signaturer"
+
+#~ msgid "Positive"
+#~ msgstr "Positiv"
+
+#~ msgid "Failed check"
+#~ msgstr "Passerade inte kontroll"
+
+#~ msgid "Missing public"
+#~ msgstr "Saknar publik"
+
+#~ msgid "Casual"
+#~ msgstr "Avslappnad"
+
+#~ msgid "Revocation"
+#~ msgstr "Upphävande"
+
+#~ msgid "Direct cert"
+#~ msgstr "Direktcertifierad"
+
+#~ msgid "Default Certification"
+#~ msgstr "Vanlig certifiering"
+
+#~ msgid "No signatures"
+#~ msgstr "Inga signaturer"
+
+#~ msgid "ID Signed"
+#~ msgstr "ID signerat"
+
+#~ msgid "Certification"
+#~ msgstr "Certifiering"
+
+#~ msgid "Signed by"
+#~ msgstr "Signerat av"
+
+#~ msgid "Image"
+#~ msgstr "Bild"
+
+#~ msgid "Key Signatures"
+#~ msgstr "Nyckelsignaturer"
+
+#~ msgid "PGP Public Key List"
+#~ msgstr "Lista över publika PGP-nycklar"
+
+#~ msgid "This Email was encrypted with PGP."
+#~ msgstr "Detta meddelande krypterades med PGP."
+
+#~ msgid "This Email was signed and verified."
+#~ msgstr "Meddelandet signerades och är verifierat."
+
+#~ msgid "This Email was signed and failed verification."
+#~ msgstr "Meddelandet signerades och passerade inte verifiering."
+
+#~ msgid "This Email was signed but unable to verify."
+#~ msgstr "Meddelandet signerades men kunde inte verifieras."
+
+#~ msgid ""
+#~ "This Email was sent using PGP encryption. It has been decrypted with your "
+#~ "private key"
+#~ msgstr ""
+#~ "Meddelandet skickades med PGP-kryptering. Det har avkrypterats med din "
+#~ "privata nyckel"
+
+#~ msgid "This Email was signed by the sender and verified."
+#~ msgstr "Meddelandet signerades av avsändaren och är äkta."
+
+#~ msgid "PGP Public Key Found.  Click to Import"
+#~ msgstr "PGP publik nyckel hittades. Klicka för att importera"
+
+#~ msgid "Save encrypted to %1$s"
+#~ msgstr "Spara krypterat till %1$s"
+
+#~ msgctxt "app"
+#~ msgid "Drive"
+#~ msgstr "Drive"
+
+#~ msgid "Check assigned PIN"
+#~ msgstr "Kontrollera tilldelad PIN"
+
+#~ msgid "PIN"
+#~ msgstr "PIN"
+
+#~ msgid "Added keys: \r\n"
+#~ msgstr "Tillagda nycklar: \r\n"
+
+#~ msgid "Key ID: "
+#~ msgstr "Nyckel-ID: "
+
+#~ msgid "Service Unavailable"
+#~ msgstr "Tjänst ej tillgänglig"
+
+#~ msgid "Advanced Settings"
+#~ msgstr "Avancerade inställningar"
+
+#~ msgid "Download PGP Public Key"
+#~ msgstr "Ladda ner offentlig PGP-nyckel"
+
+#~ msgid "Email your PGP Public Key"
+#~ msgstr "Skicka din offentliga PGP-nyckel via e-post"
+
+#~ msgid "Your Keys"
+#~ msgstr "Dina nycklar"
+
+#~ msgid "Your Key List"
+#~ msgstr "Lista över dina nycklar"
+
+#~ msgid "Key ID"
+#~ msgstr "Nyckel-ID"
+
+#~ msgid "Private Key"
+#~ msgstr "Privat nyckel"
+
+#~ msgid "Current"
+#~ msgstr "Aktuell"
+
+#~ msgid "Download"
+#~ msgstr "Ladda ner"
+
+#~ msgid "Edit"
+#~ msgstr "Redigera"
+
+#~ msgid "Adding Keys"
+#~ msgstr "Lägg till nycklar"
+
+#~ msgid "If you already have a private key, you can upload it here."
+#~ msgstr "Om du redan har en privat nyckel kan du ladda upp den här."
+
+#~ msgid "Upload Private Key"
+#~ msgstr "Ladda upp privat nyckel"
+
+#~ msgid "Finally, you can have a new PGP Key Pair created for your account."
+#~ msgstr "Till sist kan du skapa ett nytt PGP-nyckelpar för ditt konto."
+
+#~ msgid "Create New Keys"
+#~ msgstr "Skapa nya nycklar"
+
+#~ msgid "Adding UserID"
+#~ msgstr "Lägger till användar-ID"
+
+#~ msgid "Add a name and email address to this public key."
+#~ msgstr "Lägg till ett namn och e-postadress till denna publika nyckel."
+
+#~ msgid "Name"
+#~ msgstr "Namn"
+
+#~ msgid "Please enter your key password"
+#~ msgstr "Skriv in din nyckels lösenord"
+
+#~ msgid "Invalid Email Address"
+#~ msgstr "Ogiltig e-postadress"
+
+#~ msgid "Invalid Name"
+#~ msgstr "Ogiltigt namn"
+
+#~ msgid "Enter password"
+#~ msgstr "Ange lösenord"
+
+#~ msgid "User ID added"
+#~ msgstr "Användar-ID tillagt"
+
+#~ msgid "Failed to add UserID"
+#~ msgstr "Kunde inte lägga till användar-ID"
+
+#~ msgid "Revoke Private Key"
+#~ msgstr "Annulera privat nyckel"
+
+#~ msgid ""
+#~ "Revoke the key: This advises others that you no longer want this key "
+#~ "used.  You can continue to decode any encrypted data using the key."
+#~ msgstr ""
+#~ "Annulera nyckeln: Detta upplyser andra om att du inte längre vill använda "
+#~ "den här nyckeln. Du kan fortfarande avkoda krypterad data med samma "
+#~ "nyckel."
+
+#~ msgid "Delete Private Key"
+#~ msgstr "Ta bort privat nyckel"
+
+#~ msgid "There are two options if you no longer want to use this key"
+#~ msgstr ""
+#~ "Det finns två alternativ om du inte längre vill använda denna nyckel"
+
+#~ msgid ""
+#~ "Revoke the key: This advises others that you no longer want this key "
+#~ "used.  You can continue to decode any encrypted data using the key. "
+#~ "(Recommended)"
+#~ msgstr ""
+#~ "Annulera nyckeln: Detta upplyser andra om att du inte längre vill använda "
+#~ "den här nyckeln. Du kan fortfarande avkoda krypterad data med samma "
+#~ "nyckel. (Rekommenderas)"
+
+#~ msgid ""
+#~ "Deleting the key: Deleting the private key will render all encrypted "
+#~ "items unreadable.  You will not be able to decode emails or files that "
+#~ "were enrypted with this key.  This cannot be undone."
+#~ msgstr ""
+#~ "Ta bort nyckeln: Om du tar bort den privata nyckeln kommer alla "
+#~ "krypterade objekt inte kunna läsas. Du kommer inte kunna avkoda "
+#~ "meddelanden eller filer som krypterades med den här nyckeln. Detta kan "
+#~ "inte ångras."
+
+#~ msgid "Revoke"
+#~ msgstr "Annulera"
+
+#~ msgid ""
+#~ "You will no longer be able to decode any items that were encrypted with "
+#~ "this key!"
+#~ msgstr ""
+#~ "Du kommer inte längre kunna avkoda objekt som krypterats med den här "
+#~ "nyckeln!"
+
+#~ msgid "Enter your password below to confirm and verify"
+#~ msgstr "Skriv in ditt lösenord nedanför för att bekräfta och verifiera"
+
+#~ msgid "Bad Password"
+#~ msgstr "Fel lösenord"
+
+#~ msgid "Key Deleted"
+#~ msgstr "Nyckel togs bort"
+
+#~ msgid "Failed to delete key"
+#~ msgstr "Kunde inte ta bort nyckel"
+
+#~ msgid "Problem deleting key"
+#~ msgstr "Problem vid borttagning av nyckel"
+
+#~ msgid "Please verify you want to delete this key"
+#~ msgstr "Verifiera att du vill ta bort den här nyckeln"
+
+#~ msgid "Failed to delete"
+#~ msgstr "Kunde inte ta bort"
+
+#~ msgid ""
+#~ "This will advise people not to use this key.  You can still use the key "
+#~ "to decode existing items."
+#~ msgstr ""
+#~ "Detta kommer upplysa folk om att de inte ska använda den här nyckeln. Du "
+#~ "kan fortfarande använda nyckeln för att avkoda befintliga objekt."
+
+#~ msgid "Reason"
+#~ msgstr "Anledning"
+
+#~ msgid "No Reason"
+#~ msgstr "Ingen anledning"
+
+#~ msgid "Key superseded"
+#~ msgstr "Nyckel överflödig"
+
+#~ msgid "Key compromised"
+#~ msgstr "Nyckel komprometterad"
+
+#~ msgid "Key retired"
+#~ msgstr "Nyckel utgången"
+
+#~ msgid "User no longer valid"
+#~ msgstr "Användare inte längre giltig"
+
+#~ msgid "Key Revoked"
+#~ msgstr "Nyckel annulerad"
+
+#~ msgid "Failed to revoke key"
+#~ msgstr "Kunde inte annulera nyckel"
+
+#~ msgid "Download Key"
+#~ msgstr "Ladda ner nyckel"
+
+#~ msgid "Download your private key for use with other email programs"
+#~ msgstr "Ladda ner din privata nyckel för bruk med andra e-postprogram"
+
+#~ msgid "Do not distribute this key.  It is for your use only"
+#~ msgstr "Sprid inte den här nyckeln. Den är bara avsedd för dig"
+
+#~ msgid "Download PGP Private Key"
+#~ msgstr "Ladda ner privat PGP-nyckel"
+
+#~ msgid "Download Public and Private Key"
+#~ msgstr "Ladda ner offentlig och privat nyckel"
+
+#~ msgid "Key ID:"
+#~ msgstr "Nyckel-ID:"
+
+#~ msgid "Expires:"
+#~ msgstr "Utgår:"
+
+#~ msgid "Private Key: "
+#~ msgstr "Privat nyckel:"
+
+#~ msgid ""
+#~ "If you would like to upload a public key only, then do so here.  This "
+#~ "will allow you to encrypt files and receive encrypted emails using %s, "
+#~ "but you will need to use the private key with another program to decode "
+#~ "the items."
+#~ msgstr ""
+#~ "Om du bara vill ladda upp en publik nyckel, gör det härifrån. Detta "
+#~ "kommer låta dig kryptera filer och ta emot krypterade meddelanden med %s, "
+#~ "men du kommer behöva använda den privata nyckeln med ett annat program "
+#~ "för att avkoda objekten."
+
+#~ msgid "Upload Public Key Only"
+#~ msgstr "Ladda bara upp publik nyckel"
+
+#~ msgid "PGP Public Key is attached"
+#~ msgstr "Publik PGP-nyckel bifogad"
+
+#~ msgid "Public Keys"
+#~ msgstr "Publika nycklar"
+
+#~ msgid "Failed to update settings"
+#~ msgstr "Kunde inte uppdatera inställningar"
+
+#~ msgid "Email format"
+#~ msgstr "Meddelandeformat"
+
+#~ msgid ""
+#~ "Emails that contain HTML and are sent with PGP Inline will often result "
+#~ "in decoding errors and possible failure.  As a result, the default Email "
+#~ "format should be changed to plaintext.  Click OK to change the default to "
+#~ "plaintext, cancel to keep your current setting."
+#~ msgstr ""
+#~ "Meddelanden som innehåller HTML och skickas med PGP Inline kommer ofta ge "
+#~ "avkrypteringsfel, och kan avbryta avkrypteringen. Därför borde det "
+#~ "förvalda meddelandeformatet ändras till klartext. Klicka på OK för att "
+#~ "ändra förvalet till klartext, avbryt för att behålla din nuvarande "
+#~ "inställning."
+
+#~ msgid "Ask each time"
+#~ msgstr "Fråga varje gång"
+
+#~ msgid "Remember Password Default"
+#~ msgstr "Kom ihåg lösenord standard"
+
+#~ msgid "Default to send encrypted when composing email"
+#~ msgstr "Förval att skicka krypterade meddelanden vid skrivning"
+
+#~ msgid "Encrypt all incoming emails"
+#~ msgstr "Kryptera alla inkommande meddelanden"
+
+#~ msgid "Default adding signature to outgoing mails"
+#~ msgstr "Förval att lägga till signatur i utgående meddelanden"
+
+#~ msgid "Default to using PGP inline for new mails"
+#~ msgstr "Använd PGP inline som förval för nya meddelanden"
+
+#~ msgid "Please wait"
+#~ msgstr "Vänta"
+
+#~ msgid "Advanced"
+#~ msgstr "Avancerat"
+
+#~ msgid "Enable Advanced PGP Features"
+#~ msgstr "Aktivera avancerade PGP-funktioner"
+
+#~ msgid "PGP Encryption Settings"
+#~ msgstr "Inställningar för PGP-kryptering"
+
+#~ msgid "Security Settings"
+#~ msgstr "Säkerhetsinställningar"
+
+#~ msgid "Keys uploaded"
+#~ msgstr "Nycklar uppladdade"
+
+#~ msgid "Failed to upload"
+#~ msgstr "Kunde inte ladda upp"
+
+#~ msgid "The public key must have your primary email as a user ID"
+#~ msgstr ""
+#~ "Den publika nyckeln måste ha din primära e-postadress som användar-ID"
+
+#~ msgid "Upload Private Keys"
+#~ msgstr "Ladda upp privata nycklar"
+
+#~ msgid "Please enter passwords for the upload"
+#~ msgstr "Skriv in lösenord för uppladdningen"
+
+#~ msgid "Enter new password for the key:"
+#~ msgstr "Skriv in nytt lösenord för nyckeln:"
+
+#~ msgid "Confirm Password:"
+#~ msgstr "Bekräfta lösenord:"
+
+#~ msgid "Private key password for the key you are uploading:"
+#~ msgstr "Privat nyckel-lösenord för nyckeln du ladda upp:"
+
+#~ msgid "Private Key Uploaded"
+#~ msgstr "Privat nyckel uppladdad"
+
+#~ msgid "This key already exists"
+#~ msgstr "Nyckeln finns redan"
+
+#~ msgid "Bad PGP Password"
+#~ msgstr "Fel PGP-lösenord"
+
+#~ msgid "The private key must have your primary email as a user ID"
+#~ msgstr ""
+#~ "Den privata nyckeln måste ha din primära e-postadress som användar-ID"
+
+#~ msgid "Must use same password as existing key to merge"
+#~ msgstr "Måste använda samma lösenord som befintlig nyckel för att slå ihop"
+
+#~ msgid "Problem uploading Private Key "
+#~ msgstr "Problem vid uppladdning av privat nyckel"
+
+#~ msgid "Logged out of %s"
+#~ msgstr "Loggade ut från %s"
+
+#~ msgid "Failed to log out of %s"
+#~ msgstr "Kunde inte logga ut från %s"
+
+#~ msgid "Guided tour for %s"
+#~ msgstr "Guidad rundtur för %s"
+
+#~ msgid "Sign out %s"
+#~ msgstr "Logga ut %s"
+
+#~ msgctxt "app"
+#~ msgid "%s Security"
+#~ msgstr "%s säkerhet"
+
+#~ msgid "Get Started"
+#~ msgstr "Kom igång"
+
+#~ msgid ""
+#~ "In order to start with %s Security, you must set up a password for your "
+#~ "secured files."
+#~ msgstr ""
+#~ "För att komma igång med %s säkerhets behöver du ställa in ett lösenord "
+#~ "för dina säkrade filer."
+
+#~ msgid "Start"
+#~ msgstr "Starta"
+
+#~ msgid "%s Security Settings"
+#~ msgstr "%s säkerhetsinställningar"
+
+#~ msgid "Change %s Security Password."
+#~ msgstr "Ändra %s säkerhetslösenord."
+
+#~ msgid "Enter current %s security password"
+#~ msgstr "Ange aktuellt %s säkerhetslösenord"
+
+#~ msgid "Enter new %s security password"
+#~ msgstr "Ange nytt %s säkerhetslösenord"
+
+#~ msgid "Verify new %s security password"
+#~ msgstr "Bekräfta nytt %s säkerhetslösenord"
+
+#~ msgid "Change %s security password"
+#~ msgstr "Ändra %s säkerhetslösenord"
+
+#~ msgid "Reset %s security password"
+#~ msgstr "Återställ %s säkerhetslösenord"
+
+#~ msgid "Send a temporary %s security password to my secondary Email address."
+#~ msgstr ""
+#~ "Skicka ett tillfälligt %s säkerhetslösenord till min sekundära e-"
+#~ "postadress."
+
+#~ msgid "Delete Password Recovery"
+#~ msgstr "Ta bort lösenordsåterställning"
+
+#~ msgid "Advanced Users Only!"
+#~ msgstr "Endast för avancerade användare!"
+
+#~ msgid ""
+#~ "Delete the password recovery.  The recovery is used to reset your "
+#~ "password.  If you delete the recovery, you will not be able to reset your "
+#~ "password if you forget it.  Changing your password will restore the "
+#~ "recovery."
+#~ msgstr ""
+#~ "Ta bort lösenordsåterställningen. Återställningen används för att "
+#~ "nollställa ditt lösenord. Om du tar bort återställningen kommer du inte "
+#~ "kunna nollställa ditt lösenord om du skulle glömma det. Att ändra "
+#~ "lösenord kommer återställa återställningen."
+
+#~ msgid "Please verify your password before deleting the recovery."
+#~ msgstr "Verifiera ditt lösenord innan du tar bort återställningen."
+
+#~ msgid "Recovery deleted"
+#~ msgstr "Återställning togs bort"
+
+#~ msgid "Current Email address:"
+#~ msgstr "Nuvarande e-postadress:"
+
+#~ msgid "Secondary Email"
+#~ msgstr "Sekundär e-post"
+
+#~ msgid "Change Email address used for password reset."
+#~ msgstr "Ändra e-postadress för lösenordsåterställning."
+
+#~ msgid "Verify Email address"
+#~ msgstr "Verifiera e-postadress"
+
+#~ msgid "Change Email address"
+#~ msgstr "Ändra e-postadress"
+
+#~ msgid "None - Primary Email will be used"
+#~ msgstr "Ingen - Primär e-postadress kommer användas"
+
+#~ msgid "Invalid email address"
+#~ msgstr "Ogiltig e-postadress"
+
+#~ msgid "Successfully changed email address"
+#~ msgstr "E-postadress ändrades"
+
+#~ msgid "A new password has been sent to your email address."
+#~ msgstr "Ett nytt lösenord har skickats till din e-postadress."
+
+#~ msgid "A new password has been sent to your secondary email address."
+#~ msgstr "Ett nytt lösenord har skickats till din sekundära e-postadress."
+
+#~ msgid "No password recovery is available."
+#~ msgstr "Ingen lösenordsåterställning tillgänglig."
+
+#~ msgid "Password reset, but unable to send to your email address."
+#~ msgstr ""
+#~ "Lösenordet har återställts, men det nya kan inte skickas till din e-"
+#~ "postadress."
+
+#~ msgid "Unable to find email address to send password reset."
+#~ msgstr ""
+#~ "Kunde inte hitta en e-postadress att skicka lösenordsåterställning till."
+
+#~ msgid "Unable to reset your password"
+#~ msgstr "Kunde inte återställa ditt lösenord"
+
+#~ msgid "Next"
+#~ msgstr "Nästa"
+
+#~ msgid "Simple and Easy"
+#~ msgstr "Snabbt och lätt"
+
+#~ msgctxt "Choice"
+#~ msgid "One click encryption for Emails and files"
+#~ msgstr "Kryptera meddelanden och filer med bara ett klick"
+
+#~ msgctxt "Choice"
+#~ msgid "Works in all browsers with all your contacts"
+#~ msgstr "Fungerar i alla webbläsare med alla dina kontakter"
+
+#~ msgctxt "Choice"
+#~ msgid "Easy to use, every day"
+#~ msgstr "Lätt att använda, varje dag"
+
+#~ msgctxt "Choice"
+#~ msgid "Security details managed by us"
+#~ msgstr "Säkerhetsdetaljer hanteras av oss"
+
+#~ msgctxt "Choice"
+#~ msgid ""
+#~ "If you do not have deep knowledge of encryption, but you would like to "
+#~ "easily secure your communication with your friends or business contacts, "
+#~ "this option fits perfectly for you. Safe Email, made simple!"
+#~ msgstr ""
+#~ "Om du inte är särskilt insatt i kryptering, men vill säkra din "
+#~ "kommunikation med dina vänner eller kontakter på ett enkelt sätt, är det "
+#~ "här alternativet för dig. Säker e-post, hur enkelt som helst!"
+
+#~ msgctxt "Choice"
+#~ msgid "Encryption Expert"
+#~ msgstr "Kryptering expert"
+
+#~ msgctxt "Choice"
+#~ msgid "Expert encryption options available"
+#~ msgstr "Tillgängliga expertalternativ för kryptering"
+
+#~ msgctxt "Choice"
+#~ msgid "Works only in Firefox and Chrome"
+#~ msgstr "Fungerar bara i Firefox och Chrome"
+
+#~ msgctxt "Choice"
+#~ msgid "Browser plugin required"
+#~ msgstr "Insticksprogram krävs"
+
+#~ msgctxt "Choice"
+#~ msgid "Security details managed by yourself"
+#~ msgstr "Säkerhetsdetaljer hanteras av dig"
+
+#~ msgctxt "Choice"
+#~ msgid ""
+#~ "If you are an encryption expert, and would like to manage all encryption "
+#~ "details by yourself, this option fits best for you. You need to install a "
+#~ "third-party browser plugin to work with expert encryption."
+#~ msgstr ""
+#~ "Om du är expert på kryptering, och vill styra alla krypteringsdetaljer "
+#~ "själv, är det här alternativet för dig. Du behöver installera ett "
+#~ "tredjeparts webbläsarinstick för att kunna arbeta med expertkryptering."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You already set up your %s account. But you can always change your "
+#~ "encryption password, or request a temporary password if you forget it."
+#~ msgstr ""
+#~ "Du har redan ställt in ditt %s-konto. Men du kan alltid ändra ditt "
+#~ "krypteringslösenord, eller begära ett tillfälligt lösenord om du glömmer "
+#~ "det."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You already set up your %s account.  You can change your encryption "
+#~ "password here."
+#~ msgstr ""
+#~ "Du har redan ställt in ditt %s-konto. Du kan ändra ditt "
+#~ "krypteringslösenord här."
+
+#~ msgctxt "tour"
+#~ msgid "The %s module"
+#~ msgstr "%s-modulen"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Security and privacy matters to everyone. That's why you can now send and "
+#~ "receive encrypted emails by simply clicking on the lock icon."
+#~ msgstr ""
+#~ "Säkerhet och integritet är viktigt för oss alla. Därför kan du nu skicka "
+#~ "och ta emot krypterade meddelanden genom att bara klicka på låsikonen."
+
+#~ msgctxt "tour"
+#~ msgid "%s Security Settings"
+#~ msgstr "%s säkerhetsinställningar"
+
+#~ msgctxt "tour"
+#~ msgid "PGP Encryption Settings"
+#~ msgstr "PGP-krypteringsinställningar"
+
+#~ msgctxt "tour"
+#~ msgid "Security Settings"
+#~ msgstr "Säkerhetsinställningar"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "From here you can update your encryption settings. For example you can "
+#~ "choose to send encrypted emails by default."
+#~ msgstr ""
+#~ "Härifrån kan du uppdatera dina krypteringsinställningar. Du kan till "
+#~ "exempel välja att skicka krypterad e-post som standard."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "From here, you can update your security settings.  For example, you can "
+#~ "choose to send secure emails by default."
+#~ msgstr ""
+#~ "Härifrån kan du uppdatera dina säkerhetsinställningar. Du kan exempelvis "
+#~ "välja att skicka säkra meddelanden som förval."
+
+#~ msgctxt "tour"
+#~ msgid "Signature"
+#~ msgstr "Signatur"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "In addition to encrypting your emails you can also sign them. This means "
+#~ "that email recipients can be sure that the email really came from you. By "
+#~ "ticking this checkbox your signature will be added to outgoing emails by "
+#~ "default."
+#~ msgstr ""
+#~ "Utöver att kryptera din e-post kan du också signera den. Detta innebär "
+#~ "att mottagarna kan vara säkra på att meddelandena verkligen kommer från "
+#~ "dig. Om du markerar kryssrutan kommer din signatur läggas till utgående e-"
+#~ "post som standard."
+
+#~ msgctxt "tour"
+#~ msgid "Alternative: PGP Inline"
+#~ msgstr "Alternativ: PGP Inline"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "By default %s sends encrypted emails using PGP/Mime format. To "
+#~ "communicate with some systems you may need to use PGP Inline."
+#~ msgstr ""
+#~ "Som standard skickar %s krypterade meddelanden i formatet PGP/Mime. För "
+#~ "att kommunicera med vissa system kan du behöva använda PGP Inline."
+
+#~ msgctxt "tour"
+#~ msgid "Advanced Settings"
+#~ msgstr "Avancerade inställningar"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Advanced users can manage their key lists from the PGP Encryption "
+#~ "Settings."
+#~ msgstr ""
+#~ "Avancerade användare kan hantera deras nyckellistor från PGP-"
+#~ "krypteringsinställningarna."
+
+#~ msgctxt "tour"
+#~ msgid "Advanced User Settings"
+#~ msgstr "Avancerade användarinställningar"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Enabling Advanced PGP Features will enable key management and specifying "
+#~ "sending formats."
+#~ msgstr ""
+#~ "Att aktivera avancerade PGP-funktioner kommer aktivera nyckelhantering "
+#~ "och möjlighet att ange format för avsändning."
+
+#~ msgctxt "tour"
+#~ msgid "Enabling and disabling encryption"
+#~ msgstr "Aktivera och avaktivera kryptering"
+
+#~ msgctxt "tour"
+#~ msgid "You are now able to send secure emails."
+#~ msgstr "Du kan nu skicka säker e-post."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Sending without encryption is easy, too: Simply click on the lock icon "
+#~ "again."
+#~ msgstr ""
+#~ "Det är lätt att skicka e-post utan kryptering, också: Klicka bara på "
+#~ "låsikonen igen."
+
+#~ msgctxt "tour"
+#~ msgid "Encrypt files"
+#~ msgstr "Kryptera filer"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You can also protect your files. Just click on Encrypt and the selected "
+#~ "file will be stored securely."
+#~ msgstr ""
+#~ "Du kan också skydda dina filer. Klicka på Kryptera så kommer den "
+#~ "markerade filen lagras på ett säkert sätt."
+
+#~ msgctxt "tour"
+#~ msgid "Encrypt your sensitive files in Drive"
+#~ msgstr "Kryptera dina känsliga filer i Drive"
+
+#~ msgctxt "tour"
+#~ msgid "Restart Guided Tour"
+#~ msgstr "Starta om guidad rundtur"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "<em>Hint:</em> you can start guided tours, any time you need them, from "
+#~ "the system menu."
+#~ msgstr ""
+#~ "<em>Tips:</em> du kan starta guidade rundturer, när som helst, från "
+#~ "systemmenyn."
+
+#~ msgctxt "tour"
+#~ msgid "Guided Tour completed"
+#~ msgstr "Guidad rundtur slutförd"
+
+#~ msgctxt "tour"
+#~ msgid "You successfully learned how to protect your emails and files."
+#~ msgstr "Du har lärt dig hur du skyddar din e-post och dina filer."
+
+#~ msgctxt "tour"
+#~ msgid "What you can do now:"
+#~ msgstr "Vad du kan göra nu:"
+
+#~ msgctxt "tour"
+#~ msgid "Write an encrypted email"
+#~ msgstr "Skriva ett krypterat meddelande"
+
+#~ msgctxt "tour"
+#~ msgid "Activate encryption for all new emails"
+#~ msgstr "Aktivera kryptering för alla nya meddelanden"
+
+#~ msgctxt "tour"
+#~ msgid "Review your encryption settings"
+#~ msgstr "Granska dina krypteringsinställningar"
+
+#~ msgctxt "tour"
+#~ msgid "Learn more"
+#~ msgstr "Mer information"
+
+#~ msgid "Start Setup"
+#~ msgstr "Börja anpassningen"
+
+#~ msgctxt "tour"
+#~ msgid "Setup %s"
+#~ msgstr "Ställ in %s"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Welcome to %1$s. You will now be taken on a tour, showing you how to use "
+#~ "%1$s."
+#~ msgstr ""
+#~ "Välkommen till %1$s. Du kommer nu få en guidad visning i hur du använder "
+#~ "%1$s."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Firstly however, you’ll need to setup %1$s by choosing a password which "
+#~ "will be used to encrypt or decrypt items such as email or files."
+#~ msgstr ""
+#~ "Först behöver du ställa in %1$s genom att välja ett lösenord som kommer "
+#~ "användas för att kryptera eller avkryptera objekt som meddelanden eller "
+#~ "filer."
+
+#~ msgid "Choose %s Password"
+#~ msgstr "Välj %s-lösenord"
+
+#~ msgid "Close"
+#~ msgstr "Stäng"
+
+#~ msgctxt "tour"
+#~ msgid "%s set up completed"
+#~ msgstr "Inställning av %s slutförd"
+
+#~ msgctxt "tour"
+#~ msgid "Congratulations, you have successfully setup %s"
+#~ msgstr "Grattis, du har ställt in %s"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Now you can learn more about how to use %s by following the links below:"
+#~ msgstr ""
+#~ "Nu kan du lära dig mer om hur du använder %s genom att följa länkarna "
+#~ "nedanför:"
+
+#~ msgctxt "tour"
+#~ msgid "Learn more about %s"
+#~ msgstr "Läs mer om %s"
+
+#~ msgid "Choose your security solution"
+#~ msgstr "Välj din säkerhetslösning"
+
+#~ msgid "Key found for %1$s.  Import?"
+#~ msgstr "Nyckel hittades för %1$s. Importera?"
+
+#~ msgid "Import"
+#~ msgstr "Importera"
+
+#~ msgid "Imported"
+#~ msgstr "Importerad"
+
+#~ msgid "Updated"
+#~ msgstr "Uppdaterad"
+
+#~ msgid "Invalidated"
+#~ msgstr "Ogiltig"
+
+#~ msgid "Rejected"
+#~ msgstr "Vägrad"
+
+#~ msgid "Warning"
+#~ msgstr "Varning"
+
+#~ msgid ""
+#~ "Sending an encrypted email from an account other than %s may cause "
+#~ "problems with the recipient being able to reply.  Consider using your "
+#~ "primary account."
+#~ msgstr ""
+#~ "Att skicka okrypterade meddelanden från ett annat konto än %s kan orsaka "
+#~ "problem med mottagarens svarspost. Använd hellre ditt primära konto."
+
+#~ msgid "Do not warn me again"
+#~ msgstr "Varna mig inte igen"
+
+#~ msgid "PGP Info"
+#~ msgstr "PGP-info"
+
+#~ msgid "Content Type"
+#~ msgstr "Innehållstyp"
+
+#~ msgid "PGP Details"
+#~ msgstr "PGP-detaljer"
+
+#~ msgid ""
+#~ "Mailvelope is not supported in this browser.  Please use Chrome or "
+#~ "Firefox with Mailvelop installed."
+#~ msgstr ""
+#~ "Mailvelope stöds inte i den här webbläsaren. Använd Chrome eller Firefox "
+#~ "med Mailvelope installerat."
+
+#~ msgid "Enter re-enter %s security password"
+#~ msgstr "Skriv in %s-säkerhetslösenord igen"
+
+#~ msgid "Download Decrypted"
+#~ msgstr "Nedladdning avkrypterad"
+
+#~ msgid "Download Encrypted"
+#~ msgstr "Ladda ner krypterat"
+
+#~ msgid "View"
+#~ msgstr "Visa"
+
+#~ msgid "Decrypt and Open"
+#~ msgstr "Avkryptera och öppna"
+
+#~ msgid "Drop files here to upload"
+#~ msgstr "Släpp filer här för att ladda upp"
+
+#~ msgid "Add"
+#~ msgstr "Lägg till"
+
+#~ msgid "Add:"
+#~ msgstr "Lägg till:"
+
+#~ msgid "Must be in the same global address book"
+#~ msgstr "Måste finnas i samma globala adressbok"
+
+#~ msgid "Unable to add"
+#~ msgstr "Kunde inte lägga till"
+
+#~ msgid "Select"
+#~ msgstr "Välj"
+
+#~ msgid "User"
+#~ msgstr "Användare"
+
+#~ msgid "Retract"
+#~ msgstr "Dra tillbaka"
+
+#~ msgid "Unable to share"
+#~ msgstr "Kunde inte dela ut"
+
+#~ msgid "Remove from share list"
+#~ msgstr "Ta bord från delningslista"
+
+#~ msgid "Failed to remove the share"
+#~ msgstr "Kunde inte ta bord delningen"
+
+#~ msgid "Password Needed"
+#~ msgstr "Lösenord krävs"
+
+#~ msgid "Please provide your %s security password to share this file"
+#~ msgstr "Ange ditt %s-säkerhetslösenord för att dela ut den här filen"
+
+#~ msgid "No users in same context"
+#~ msgstr "Inga användare i samma kontext"
+
+#~ msgid "The following link will take you to the shared file"
+#~ msgstr "Följande länk tar dig till den delade filen"
+
+#~ msgid "Shared file link"
+#~ msgstr "Delad fillänk"
+
+#~ msgid "Attached encrypted file"
+#~ msgstr "Bifogad krypterad fil"
+
+#~ msgid "Shared file"
+#~ msgstr "Dela fil"
+
+#~ msgid "Add Permissions"
+#~ msgstr "Lägg till tillstånd"
+
+#~ msgid ""
+#~ "The following users do not have permission to view objects in this folder."
+#~ msgstr ""
+#~ "Följande användare har inte tillstånd att se objekt i den här mappen."
+
+#~ msgid "Do you wish to add read permissions to this folder for these users?"
+#~ msgstr ""
+#~ "Vill du lägga till läsbehörighet för den här mappen för dessa användare?"
+
+#~ msgid "Failed to add folder sharing permissions"
+#~ msgstr "Kunde inte lägga till mappdelningstillstånd"
+
+#~ msgid "%s %s %s"
+#~ msgstr "%s %s %s"
+
+#~ msgid "The provided filename exceeds the allowed length."
+#~ msgstr "Angivet filnamn överskrider den tillåtna längden."
+
+#~ msgid "The allowed quota is reached."
+#~ msgstr "Den tilldelade kvoten har nåtts."
+
+#~ msgid "This file has not been added"
+#~ msgstr "Den här filen har inte lagts till"
+
+#~ msgid "Upload a new encrypted version"
+#~ msgstr "Ladda upp en ny krypterad version"
+
+#~ msgid "Upload file"
+#~ msgstr "Ladda upp fil"
+
+#~ msgid "Version Comment"
+#~ msgstr "Versionskommentar"
+
+#~ msgid "Upload new encrypted version"
+#~ msgstr "Ladda upp ny krypterad version"
+
+#~ msgid "Uploading..."
+#~ msgstr "Laddar upp..."
+
+#~ msgid ""
+#~ "You are replying to an email that has not yet been decoded.  The "
+#~ "recipient will not be able to read the contents of the original email."
+#~ msgstr ""
+#~ "Du svara på ett meddelande som ännu inte avkodats. Mottagaren kommer inte "
+#~ "kunna läsa innehållet i det ursprungliga meddelandet."
+
+#~ msgid ""
+#~ "You are forwarding an email that has not yet been decoded.  The recipient "
+#~ "will not be able to read the contents of the original email."
+#~ msgstr ""
+#~ "Du vidarebefordrar ett meddelande som ännu inte avkodats. Mottagaren "
+#~ "kommer inte kunna läsa innehållet i det ursprungliga meddelandet."
+
+#~ msgid "Re: %1$s"
+#~ msgstr "Sv: %1$s"
+
+#~ msgid "Fwd: %1$s"
+#~ msgstr "Vb: %1$s"
+
+#~ msgid "Original Message"
+#~ msgstr "Ursprungligt meddelande"
+
+#~ msgid "From: %1$s"
+#~ msgstr "Från: %1$s"
+
+#~ msgid "To: %1$s"
+#~ msgstr "Till: %1$s"
+
+#~ msgid "CC: %1$s"
+#~ msgstr "Kopia: %1$s"
+
+#~ msgid "Date: %1$s"
+#~ msgstr "Datum: %1$s"
+
+#~ msgid "Subject: %1$s"
+#~ msgstr "Ämne: %1$s"
+
+#~ msgid "On %1$s at %2$s %3$s wrote:"
+#~ msgstr "Den %1$s kl. %2$s skrev %3$s:"
+
+#~ msgid "Attach My Key"
+#~ msgstr "Bifoga min nyckel"
+
+#~ msgid "Do you really want to discard your message?"
+#~ msgstr "Vill du verkligen slänga ditt meddelande?"
+
+#~ msgctxt "dialog"
+#~ msgid "Discard message"
+#~ msgstr "Släng meddelande"
+
+#~ msgid "Save as draft"
+#~ msgstr "Spara som utkast"
+
+#~ msgid "Mail has empty subject. Send it anyway?"
+#~ msgstr "Meddelandet saknar rubrik. Skicka ändå?"
+
+#~ msgid "Yes, send without subject"
+#~ msgstr "Ja, skicka utan ämnesrad"
+
+#~ msgid "Add subject"
+#~ msgstr "Lägg till ämne"
+
+#~ msgid "Unable to authorize against backend"
+#~ msgstr "Kunde inte autorisera mot bakände"
+
+#~ msgid "Save"
+#~ msgstr "Spara"
+
+#~ msgid "Saving attachment to Drive"
+#~ msgid_plural "Saving attachments to Drive"
+#~ msgstr[0] "Sparar bilaga till Drive"
+#~ msgstr[1] "Sparar bilagor till Drive"
+
+#~ msgid "Attachment has been saved"
+#~ msgid_plural "Attachments have been saved"
+#~ msgstr[0] "Bilaga har sparats"
+#~ msgstr[1] "Bilagor har sparats"
+
+#~ msgid "Failed to decrypt"
+#~ msgstr "Kunde inte avkryptera"
+
+#~ msgid "Failed to save attachments"
+#~ msgstr "Kunde inte spara bilagor"
+
+#~ msgid "Unsupported browser"
+#~ msgstr "Läsaren stöds inte"
+
+#~ msgid "Mail has no recipients"
+#~ msgstr "Meddelandet har inga mottagare"
+
+#~ msgid "Mail saved as draft"
+#~ msgstr "Meddelandet sparat som utkast"
+
+#~ msgid "Unable to get keys for all users"
+#~ msgstr "Kunde inte hämta nycklar för alla användare"
+
+#~ msgid ""
+#~ "The from address you selected for this email is not associated with an "
+#~ "encryption key.  Please send from your primary account, or optionally, "
+#~ "add the email address to your key using the advanced settings."
+#~ msgstr ""
+#~ "Från-adressen du valde för det här meddelandet är inte associerad med en "
+#~ "krypteringsnyckel. Skicka från ditt primära konto, eller lägg till e-"
+#~ "postadressen i din nyckel via de avancerade inställningarna."
+
+#~ msgid "An error occurred saving the email."
+#~ msgstr "Ett fel uppstod när meddelandet sparades."
+
+#~ msgid "An error occurred sending the encrypted email."
+#~ msgstr "Ett fel inträffade när det krypterade meddelandet skickades."
+
+#~ msgid ""
+#~ "At least one of your attachments are encrypted.  Please provide your %s "
+#~ "security password to decrypt before sending"
+#~ msgstr ""
+#~ "Minst en av dina bilagor är krypterad. Ange ditt %s-säkerhetslösenord för "
+#~ "att avkryptera innan meddelandet skickas"
+
+#~ msgid "To"
+#~ msgstr "Till"
+
+#~ msgctxt "CC"
+#~ msgid "Copy"
+#~ msgstr "Kopia"
+
+#~ msgid "Decoding"
+#~ msgstr "Avkodar"
+
+#~ msgid ""
+#~ "Your pop-up blocker may have prevented a %s window that provides "
+#~ "application functionality."
+#~ msgstr ""
+#~ "Din popup-blockerare kan ha blockerat ett %s-fönster som tillhandahåller "
+#~ "vissa programfunktioner."
+
+#~ msgid "VCard imported with warnings"
+#~ msgstr "VCard importerades med varningar"
+
+#~ msgid "Failed to import vcard"
+#~ msgstr "Kunde inte importera vcard"
+
+#~ msgid "VCard imported"
+#~ msgstr "VCard importerat"
+
+#~ msgid "Save Encrypted to Drive"
+#~ msgstr "Spara krypterat till Drive"
+
+#~ msgid "Save Decoded to Drive"
+#~ msgstr "Spara avkodat till Drive"
+
+#~ msgid "Open in browser"
+#~ msgstr "Öppna i webbläsare"
+
+#~ msgid "Import as PGP Public Key"
+#~ msgstr "Importera som publik PGP-nyckel"
+
+#~ msgid "Add to address book"
+#~ msgstr "Lägg till i adressboken"
+
+#~ msgid "no files"
+#~ msgstr "inga filer"
+
+#~ msgid "Save attachment"
+#~ msgstr "Spara bilaga"
+
+#~ msgid "Unable to save decrypted file"
+#~ msgstr "Kunde inte spara avkrypterad fil"
+
+#~ msgid "Unable to decrypt"
+#~ msgstr "Kunde inte avkryptera"
+
+#~ msgid "Send copy by mail"
+#~ msgstr "Skicka kopia som e-post"
+
+#~ msgid "Enter %s Security Password"
+#~ msgstr "Ange %s säkerhetslösenord"
+
+#~ msgid "Encrypt Files"
+#~ msgstr "Kryptera filer"
+
+#~ msgid "Only the latest version of the files will be encrypted."
+#~ msgstr "Bara den senaste versionen av filerna kommer krypteras."
+
+#~ msgid "All previous versions will be deleted."
+#~ msgstr "Alla tidigare versioner kommer raderas."
+
+#~ msgid "This file could not be uploaded."
+#~ msgstr "Filen kunde inte laddas upp."
+
+#~ msgid "Upload"
+#~ msgstr "Ladda upp"
+
+#~ msgid "Please provide your %s Security Password to share this file"
+#~ msgstr "Ange ditt %s säkerhetslösenord för att dela ut den här filen"
+
+#~ msgid "Bad private key"
+#~ msgstr "Dålig privat nyckel"
+
+#~ msgid "On %1$s %2$s sent:"
+#~ msgstr "På %1$s skickade %2$s:"
+
+#~ msgid ""
+#~ "At least one of your attachments are encrypted.  Please provide your %s "
+#~ "Security Password to decrypt before sending"
+#~ msgstr ""
+#~ "Åtminstone en av dina bilagor är krypterad. Ange ditt %s "
+#~ "säkerhetslösenord för att avkryptera innan brevet skickas"
+
+#~ msgid ""
+#~ "Upload your Mailvelope public keys to the %s server so that other people "
+#~ "can send you encrypted emails"
+#~ msgstr ""
+#~ "Ladda upp dina publika Mailvelope-nycklar till %s-servern så att andra "
+#~ "kan skicka dig krypterad e-post"
+
+#~ msgid "Extra Password"
+#~ msgstr "Ytterligare lösenord"
+
+#~ msgid ""
+#~ "This allows you to set an extra password that will be required for "
+#~ "reading this item."
+#~ msgstr ""
+#~ "Detta låter dig ange ett ytterligare lösenord som kommer krävas för att "
+#~ "läsa det här objektet."
+
+#~ msgid "Please enter it below"
+#~ msgstr "Skriv in det nedanför"
+
+#~ msgid "Please enter your %s Security password"
+#~ msgstr "Ange ditt %s säkerhetslösenord"
+
+#~ msgid "Failed to add extra password"
+#~ msgstr "Kunde inte lägga till ytterligare lösenord"
+
+#~ msgid "Remember Password"
+#~ msgstr "Kom ihåg lösenord"
+
+#~ msgid ""
+#~ "HTML formatted emails may cause issues with PGP inline.  Click OK to "
+#~ "change to Plain Text formatted Emails"
+#~ msgstr ""
+#~ "HTML-formaterad e-post kan leda till problem med PGP inline. Klicka på OK "
+#~ "för att ändra till klartextformaterad e-post"
+
+#~ msgid "Secure Email, enter your %s security password"
+#~ msgstr "Säker e-post, ange ditt %s säkerhetslösenord"
+
+#~ msgid ""
+#~ "The new recipients listed below will be sent a password via email.  You "
+#~ "can also require a seperate pin, which is displayed below"
+#~ msgstr ""
+#~ "De nya mottagarna i listan nedanför kommer skickas ett lösenord via e-"
+#~ "post. Du kan också kräva ett separat PIN, vilket visas nedanför."
+
+#~ msgid ""
+#~ "You may deliver this pin any way you see fit, but we recommend doing it "
+#~ "in a second method other than email (Phone, SMS, Skype, etc)"
+#~ msgstr ""
+#~ "Du kan leverera det här pin-numret hur du vill, men vi rekommenderar att "
+#~ "du gör det på ett säkert sätt, annat än e-post (telefon, SMS, Skype, osv.)"
+
+#~ msgid "If you want this extra pin requirement, click OK"
+#~ msgstr "Om du vill kräva ett extra pin, klicka på OK"
+
+#~ msgid "Please enter your %s password to sign this email"
+#~ msgstr "Ange ditt %s-lösenord för att signera e-brevet"
+
+#~ msgid "Please enter your %s password for signing"
+#~ msgstr "Ange ditt %s-lösenord för signering"
+
+#~ msgid "Problems creating keys, please try again later"
+#~ msgstr "Problem uppstod när nycklar skapades, försök igen senare"
+
+#~ msgid ""
+#~ "Problems creating keys.  Keys already exist for this email address in "
+#~ "another account"
+#~ msgstr ""
+#~ "Problem när nycklarna skapades. Nycklar finns redan för den här e-"
+#~ "postadressen i ett annat konto"
+
+#~ msgid ""
+#~ "Please choose the password you will use for %s. You will need to type "
+#~ "this password whenever you want to encrypt or decrypt items. Remember it "
+#~ "should be different from your login password, and will not change if you "
+#~ "change your login password"
+#~ msgstr ""
+#~ "Välj det lösenord du vill använda för %s. Du kommer behöva skriva det här "
+#~ "lösenordet varje gång du vill kryptera eller avkryptera objekt. Kom ihåg "
+#~ "att det bör vara annorlunda än ditt inloggningslösenord, och kommer inte "
+#~ "ändras om du byter inloggningslösenord"
+
+#~ msgid "Please enter a password to protect your new encrypted items"
+#~ msgstr "Ange ett lösenord för att skydda dina nya krypterade objekt"
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password"
+#~ msgstr ""
+#~ "Ange en sekundär e-postadress om du skulle behöva återställa ditt lösenord"
+
+#~ msgid "Rember my password"
+#~ msgstr "Kom ihåg mitt lösenord"
+
+#~ msgid "This Email was signed and verified"
+#~ msgstr "E-brevet signerades och är verifierat"
+
+#~ msgid "This Email was signed but unable to verify"
+#~ msgstr "E-brevet signerades men kunde inte verifieras"
+
+#~ msgid "This Email was signed and failed verification"
+#~ msgstr "E-brevet signerades och passerade inte verifiering"
+
+#~ msgid ""
+#~ "Please change the initial temporary %s security password that was sent to "
+#~ "you in a seperate email."
+#~ msgstr ""
+#~ "Ändra det första tillfälliga %s säkerhetslösenordet som du fick i ett "
+#~ "separat e-brev."
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password</p>"
+#~ msgstr ""
+#~ "Skriv in en sekundär e-postadress om du skulle behöva återställa ditt "
+#~ "lösenord</p>"
+
+#~ msgid "This Email was signed by the sender and verified"
+#~ msgstr "E-brevet signerades av avsändaren och är äkta"
+
+#~ msgid "If you already have a private key, you can upload it here"
+#~ msgstr "Om du redan har en privat nyckel kan du ladda upp den här"
+
+#~ msgid "Finally, you can have a new PGP Key Pair created for your account"
+#~ msgstr "Till sist kan du skapa ett nytt PGP-nyckelpar för ditt konto"
+
+#~ msgid "Add a name and email address to this public key"
+#~ msgstr "Lägg till ett namn och e-postadress till denna publika nyckel"
+
+#~ msgid "PGP default to using PGP inline for compatibility"
+#~ msgstr "PGP-förval att använda PGP inline för kompatibilitet"
+
+#~ msgid "Please verify your password before deleting the recovery"
+#~ msgstr "Verifiera ditt lösenord innan du tar bort återställningen"
+
+#~ msgid "A new password has been sent to your email address"
+#~ msgstr "Ett nytt lösenord har skickats till din e-postadress"
+
+#~ msgid "A new password has been sent to your secondary email address"
+#~ msgstr "Ett nytt lösenord har skickats till din sekundära e-postadress"
+
+#~ msgid "No password recovery is available"
+#~ msgstr "Ingen lösenordsåterställning tillgänglig"
+
+#~ msgid "Password reset, but unable to send to your email address"
+#~ msgstr ""
+#~ "Lösenordet har återställts, men det nya kan inte skickas till din e-"
+#~ "postadress"
+
+#~ msgid "Unable to find email address to send password reset"
+#~ msgstr ""
+#~ "Kunde inte hitta en e-postadress att skicka lösenordsåterställning till"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Enabling Advanced PGP Features will enable key management and specifying "
+#~ "sending formats"
+#~ msgstr ""
+#~ "Att aktivera avancerade PGP-funktioner kommer aktivera nyckelhantering "
+#~ "och möjlighet att ange format för avsändning"
+
+#~ msgid "This email was sent with an extra password."
+#~ msgstr "Detta e-brevet skickades med ett ytterligare lösenord."
+
+#~ msgid "Please enter below"
+#~ msgstr "Ange nedanför"
+
+#~ msgid "An error occurred during sending the encrypted email."
+#~ msgstr "Ett fel uppstod när krypterad e-post skulle skickas."
+
+#~ msgid "This appears to be the first time you have used Encryption"
+#~ msgstr "Detta verkar vara första gången du använder kryptering"
+
+#~ msgid ""
+#~ "Please change the temporary %s security password that was sent to you in "
+#~ "a seperate email."
+#~ msgstr ""
+#~ "Ändra det tillfälliga %s säkerhetslösenordet som du fick i ett separat e-"
+#~ "brev."
+
+#~ msgid "%s PGP Settings"
+#~ msgstr "%s PGP-inställningar"
+
+#~ msgid "Changed"
+#~ msgstr "Ändrades"
+
+#~ msgctxt "tour"
+#~ msgid "Sending without encryption"
+#~ msgstr "Skicka utan kryptering"
+
+#~ msgctxt "tour"
+#~ msgid "Create Your %s Account"
+#~ msgstr "Skapa ditt %s-konto"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You now need to choose a password which will be used to encrypt or "
+#~ "decrypt items. You only need to set this up once. Your password will then "
+#~ "remain valid until you change it."
+#~ msgstr ""
+#~ "Nu behöver du välja ett lösenord som kommer användas för att kryptera "
+#~ "eller avkryptera objekt. Du behöver bara ställa in det här en gång. Ditt "
+#~ "lösenord kommer sedan vara giltigt tills du väljer att ändra det."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You successfully set up secure communication. Your private key has been "
+#~ "created."
+#~ msgstr "Du ställde in säker kommunikation. Din privata nyckel har skapats."
+
+#~ msgid ""
+#~ "Upload your Mailvelope public keys to the Guard server so that other "
+#~ "people can send you encrypted emails"
+#~ msgstr ""
+#~ "Ladda upp dina offentliga Mailvelope-nycklar till Guard-servern så att "
+#~ "andra kan skicka krypterad e-post till dig"
+
+#~ msgid ""
+#~ "Your pop-up blocker may have prevented a Guard window that provides "
+#~ "application functionality."
+#~ msgstr ""
+#~ "Din popup-blockerare kan ha hindrat ett Guardfönster från att öppnas som "
+#~ "tillhandahåller funktionalitet."
+
+#~ msgid "Please enter your Guard Security password"
+#~ msgstr "Skriv in ditt lösenord för Guard-säkerhet"
+
+#~ msgid "Enter Guard Security Password"
+#~ msgstr "Ange lösenord för Guard-säkerhet"
+
+#~ msgid "Please provide your Guard Security Password to share this file"
+#~ msgstr "Ange ditt Guard-säkerhetslösenord för att dela den här filen"
+
+#~ msgid "Secure Email, enter your Guard security password"
+#~ msgstr "Säker e-post, ange ditt Guard-säkerhetslösenord"
+
+#~ msgid "Keep me logged into Guard"
+#~ msgstr "Håll mig inloggad till Guard"
+
+#~ msgid "Will create new guest account for Guard"
+#~ msgstr "Kommer skapa nytt gästkonto för Guard"
+
+#~ msgid "Have encryption key"
+#~ msgstr "Har krypteringsnyckel"
+
+#~ msgid "Please enter your Guard password to sign this email"
+#~ msgstr "Skriv in ditt Guard-lösenord för att signera e-brevet"
+
+#~ msgid "Please enter your Guard password for signing"
+#~ msgstr "Skriv in ditt Guard-lösenord för signering"
+
+#~ msgid ""
+#~ "At least one of your attachments are encrypted.  Please provide your "
+#~ "Guard Security Password to decrypt before sending"
+#~ msgstr ""
+#~ "Åtminstone en av dina bilagor är krypterad. Ange ditt lösenord för Guard-"
+#~ "säkerhet för att avkryptera innan leverans"
+
+#~ msgid "Automated Email Language"
+#~ msgstr "Automatiserat e-postspråk"
+
+#~ msgid "Create Guard Security Keys"
+#~ msgstr "Skapa Guard-säkerhetsnycklar"
+
+#~ msgid "First Guard Security Password Use"
+#~ msgstr "Första gången Guard-säkerhetslösenord används"
+
+#~ msgid ""
+#~ "Please change the temporary Guard security password that was sent to you "
+#~ "in a seperate email."
+#~ msgstr ""
+#~ "Ändra det tillfälliga Guard security-lösenordet som du fick i ett separat "
+#~ "e-brev."
+
+#~ msgid "Please enter your Guard password"
+#~ msgstr "Skriv in ditt Guard-lösenord"
+
+#~ msgid ""
+#~ "Please change the initial temporary Guard security password that was sent "
+#~ "to you in a seperate email."
+#~ msgstr ""
+#~ "Kom ihåg att ändra det första tillfälliga Guard-säkerhetslösenordet som "
+#~ "du fick i ett separat e-brev."
+
+#~ msgid "Guard PGP Settings"
+#~ msgstr "Guard-PGP-inställningar"
+
+#~ msgid ""
+#~ "If you would like to upload a public key only, then do so here.  This "
+#~ "will allow you to encrypt files and receive encrypted emails using Guard, "
+#~ "but you will need to use the private key with another program to decode "
+#~ "the items."
+#~ msgstr ""
+#~ "Om du bara vill ladda upp en publik nyckel, gör det här. Detta låter dig "
+#~ "kryptera filer och ta emot krypterad e-post genom Guard, men du kommer "
+#~ "behöva använda den privata nyckeln med ett annat program för att avkoda "
+#~ "objekten."
+
+#~ msgid "Guided tour for Guard"
+#~ msgstr "Guidad rundtur för Guard"
+
+#~ msgid "Sign out Guard"
+#~ msgstr "Logga ut från Guard"
+
+#~ msgctxt "app"
+#~ msgid "Guard Security"
+#~ msgstr "Guard-säkerhet"
+
+#~ msgid ""
+#~ "In order to start with Guard Security, you must set up a password for "
+#~ "your secured files."
+#~ msgstr ""
+#~ "För att komma igång med Guard-säkerhet måste du ställa in ett lösenord "
+#~ "för dina skyddade filer."
+
+#~ msgid "Guard Security Settings"
+#~ msgstr "Guard-säkerhetsinställningar"
+
+#~ msgid "Change Guard Security Password."
+#~ msgstr "Ändra Guard-säkerhetslösenord."
+
+#~ msgid "Enter current Guard security password"
+#~ msgstr "Ange nuvarande Guard-säkerhetslösenord"
+
+#~ msgid "Enter new Guard security password"
+#~ msgstr "Ange nytt Guard-säkerhetslösenord"
+
+#~ msgid "Verify new Guard security password"
+#~ msgstr "Bekräfta nytt Guard-säkerhetslösenord"
+
+#~ msgid "Change Guard security password"
+#~ msgstr "Ändra Guard-säkerhetslösenord"
+
+#~ msgid "Reset Guard security password"
+#~ msgstr "Återställ Guard-säkerhetslösenord"
+
+#~ msgid ""
+#~ "Send a temporary Guard security password to my secondary Email address."
+#~ msgstr ""
+#~ "Skicka ett tillfälligt Guard-säkerhetslösenord till min sekundära e-"
+#~ "postadress."
+
+#~ msgctxt "tour"
+#~ msgid "The Guard module"
+#~ msgstr "Guard-modulen"
+
+#~ msgctxt "tour"
+#~ msgid "Guard Security Settings"
+#~ msgstr "Guard-säkerhetsinställningar"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You already set up your Guard account. But you can always change your "
+#~ "encryption password, or request a temporary password if you forget it."
+#~ msgstr ""
+#~ "Du har redan ställt in ditt Guard-konto. Men du kan närsomhelst ändra "
+#~ "ditt krypteringslösenord, eller begära ett tillfälligt lösenord om du "
+#~ "glömmer det."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "By default Guard sends encrypted emails using PGP/Mime format. To "
+#~ "communicate with some systems you may need to use PGP Inline."
+#~ msgstr ""
+#~ "Som standard skickar Guard krypterad e-post i formatet PGP/Mime. För att "
+#~ "kommunicera med vissa system kan du behöva använda PGP Inline."
+
+#~ msgctxt "tour"
+#~ msgid "Remove encryption"
+#~ msgstr "Ta bort kryptering"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Removing the encryption is easy, too: Simply click on the lock icon again."
+#~ msgstr ""
+#~ "Det är också lätt att ta bort kryptering: Klicka bara på låsikonen igen."
+
+#~ msgctxt "tour"
+#~ msgid "Create Your Guard Account"
+#~ msgstr "Skapa ditt Guard-konto"
+
+#~ msgctxt "tour"
+#~ msgid "Guard set up completed"
+#~ msgstr "Guard inställt"
+
+#~ msgctxt "Choice"
+#~ msgid "Works only in all browsers with all your contacts"
+#~ msgstr "Fungerar bara i alla webbläsare med alla dina kontakter"
+
+#~ msgid "Click to enable encryption"
+#~ msgstr "Klicka för att aktivera kryptering"
+
+#~ msgid "Click to disable encryption"
+#~ msgstr "Klicka för att avaktivera kryptering"
+
+#~ msgid "Error.  Please reload message"
+#~ msgstr "Fel. Ladda om meddelandet"
+
+#~ msgid "You have exceeded bad password attempts.  Please wait %s minutes"
+#~ msgstr "Du har överskridit antalet lösenordsförsök. Vänta i %s minuter"
+
+#~ msgid ""
+#~ "This email has expired and can no longer be accessed.  Contact the sender "
+#~ "for more information."
+#~ msgstr ""
+#~ "E-brevet har utgått och kan inte längre läsas. Kontakta avsändaren för "
+#~ "mer information."
+
+#~ msgid ""
+#~ "This Email has been retracted by the sender and can no longer be "
+#~ "accessed.  Contact the sender for more information."
+#~ msgstr ""
+#~ "E-brevet har dragits tillbaka av avsändaren och kan inte längre läsas. "
+#~ "Kontakta avsändaren för mer information."
+
+#~ msgid "Unable to decrypt Email."
+#~ msgstr "Kunde inte avkoda e-post."
+
+#~ msgid "The sender added an extra password encryption."
+#~ msgstr "Avsändaren lade till ytterligare lösenordskryptering."
+
+#~ msgid "Save Encrypted"
+#~ msgstr "Spara krypterat"
+
+#~ msgid "Save Decrypted"
+#~ msgstr "Spara avkrypterat"
+
+#~ msgid ""
+#~ "This Email was sent encrypted. It has been decrypted with your private key"
+#~ msgstr ""
+#~ "E-brevet skickades krypterat. Det har avkrypterats med din privata nyckel"
+
+#~ msgid "Expires: "
+#~ msgstr "Går ut: "
+
+#~ msgid "Retract Email"
+#~ msgstr "Dra tillbaka e-brev"
+
+#~ msgid "Email status"
+#~ msgstr "E-poststatus"
+
+#~ msgid "Retract all access"
+#~ msgstr "Dra tillbaka all åtkomst"
+
+#~ msgid "Email has not been opened."
+#~ msgstr "E-brevet har inte öppnats."
+
+#~ msgid "Email has been opened."
+#~ msgstr "E-brevet har öppnats."
+
+#~ msgid "Email has been retracted."
+#~ msgstr "E-brevet har dragits tillbaka."
+
+#~ msgid "Unable to get email status, please try again later"
+#~ msgstr "Kunde inte hämta e-poststatus, försök igen senare"
+
+#~ msgid "This will retract the email for all recipients. Click OK to confirm."
+#~ msgstr ""
+#~ "Detta kommer dra tillbaka e-brevet för alla mottagare. Klicka på Ok för "
+#~ "att bekräfta."
+
+#~ msgid "Item was retracted"
+#~ msgstr "Objektet har dragits tillbaka"
+
+#~ msgid "Not all items retracted"
+#~ msgstr "Kunde inte dra tillbaka allt"
+
+#~ msgid "Failed to retract"
+#~ msgstr "Kunde inte dra tillbaka"
+
+#~ msgctxt "tour"
+#~ msgid "Learn more …"
+#~ msgstr "Läs mer..."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "From here you can update you encryption settings. For example you can "
+#~ "choose to send encrypted emails by default."
+#~ msgstr ""
+#~ "Härifrån kan du uppdatera dina krypteringsinställningar. Du kan "
+#~ "exempelvis välja att skicka krypterad e-post som standard."
+
+#~ msgid "Message was saved"
+#~ msgstr "Meddelandet sparades"
+
+#~ msgid "Problem creating keys"
+#~ msgstr "Problem när nycklar skapades"
+
+#~ msgctxt "tour"
+#~ msgid "Please click on the lock icon."
+#~ msgstr "Klicka på låsikonen."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Please choose your password now, enter a secondary email address and "
+#~ "click on Ok."
+#~ msgstr ""
+#~ "Välj ditt lösenord nu, ange en sekundär e-postadress och klicka på Ok."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You can always change your encryption password, or request a temporary "
+#~ "password if you forget it."
+#~ msgstr ""
+#~ "Du kan alltid ändra ditt krypteringslösenord, eller begära ett "
+#~ "tillfälligt lösenord om du glömmer det gamla."
+
+#~ msgctxt "tour"
+#~ msgid "Congratulations! You are now able to send secure emails."
+#~ msgstr "Grattis! Du kan nu skicka säker e-post."
+
+#~ msgctxt "tour"
+#~ msgid "Please remove the encryption now by clicking on the lock icon again."
+#~ msgstr "Ta bort krypteringen nu genom att klicka på låsikonen igen."
+
+#~ msgid "%s already encrypted"
+#~ msgstr "%s är redan krypterad"
+
+#~ msgid "Add folder"
+#~ msgstr "Lägg till mapp"
+
+#~ msgid "Already Protected With Additional Password"
+#~ msgstr "Redan skyddad med ytterligare lösenord"
+
+#~ msgid "Click to disable PGP encryption"
+#~ msgstr "Klicka för att avaktivera PGP-kryptering"
+
+#~ msgid "Done"
+#~ msgstr "Färdig"
+
+#~ msgid "Drop here to upload a <b class=\"dndignore\">new encrypted file</b>"
+#~ msgstr ""
+#~ "Släpp här för att ladda upp en <b class=\"dndignore\">ny krypterad fil</b>"
+
+#~ msgid "Encrypting "
+#~ msgstr "Krypterar"
+
+#~ msgid "Encrypting %s"
+#~ msgstr "Krypterar %s"
+
+#~ msgid "FW: %1$s"
+#~ msgstr "Vb: %1$s"
+
+#~ msgid "Failed to encrypt file"
+#~ msgstr "Kunde inte kryptera filen"
+
+#~ msgid "Folder name"
+#~ msgstr "Mappnamn"
+
+#~ msgid "New Encrypted folder"
+#~ msgstr "Ny krypterad mapp"
+
+#~ msgid "New Encrypted subfolder"
+#~ msgstr "Ny krypterad undermapp"
+
+#~ msgid "New encrypted subfolder"
+#~ msgstr "Ny krypterad undermapp"
+
+#~ msgid "New folder"
+#~ msgstr "Ny mapp"
+
+#~ msgid "New public folder"
+#~ msgstr "Ny offentlig mapp"
+
+#~ msgid ""
+#~ "One of your recipients requires emails to be sent as PGP Inline.  "
+#~ "Changing now."
+#~ msgstr ""
+#~ "En av dina mottagare kräver att e-post skickas som PGP Inline. Ändrar nu."
+
+#~ msgid "PGP key exists for this person"
+#~ msgstr "PGP-nyckel finns för den här personen"
+
+#~ msgid "Require Additional Password"
+#~ msgstr "Begär ytterligare lösenord"
+
+#~ msgid "Security Options"
+#~ msgstr "Säkerhetsalternativ"
+
+#~ msgid "Send encrypted (PGP)"
+#~ msgstr "Skicka krypterat (PGP)"
+
+#~ msgid "Share keys with other users to decrypt this file"
+#~ msgstr "Dela nycklar med andra användare för att avkryptera filen"
+
+#~ msgid "Share link"
+#~ msgstr "Dela länk"
+
+#~ msgid "Sharing"
+#~ msgstr "Utdelning"
+
+#~ msgid "Sign email"
+#~ msgstr "Signera e-post"
+
+#~ msgid "Status"
+#~ msgstr "Tillstånd"
+
+#~ msgid "Stop"
+#~ msgstr "Stopp"
+
+#~ msgid "The key for %1$s is expired and should not be used"
+#~ msgstr "Nyckeln för €1$s har gått ut och bör inte användas"
+
+#~ msgid "Unable to create Guard account, please try again later"
+#~ msgstr "Kunde inte skapa Guard-konto, försök igen senare"
+
+#~ msgid "Upload new files to encrypt"
+#~ msgstr "Ladda upp nya filer att kryptera"
+
+#~ msgid "Use PGP inline (compatibility)"
+#~ msgstr "Använd PGP inline (kompatibilitet)"
+
+#~ msgid "%s hours"
+#~ msgstr "%s timmar"
+
+#~ msgid "%s week"
+#~ msgstr "%s vecka"
+
+#~ msgid "%s weeks"
+#~ msgstr "%s veckor"
+
+#~ msgid "Added keys:"
+#~ msgstr "Lade till nycklar:"
+
+#~ msgid "CC:"
+#~ msgstr "Kopia:"
+
+#~ msgid "Click to disable Guard"
+#~ msgstr "Klicka för att avaktivera Guard"
+
+#~ msgid "Click to enable Guard"
+#~ msgstr "Klicka för att aktivera Guard"
+
+#~ msgid "Confirm Guard Password"
+#~ msgstr "Bekräfta Guard-lösenord"
+
+#~ msgid "Create Guard Account"
+#~ msgstr "Skapa Guard-konto"
+
+#~ msgid "Date:"
+#~ msgstr "Datum:"
+
+#~ msgid "Decode"
+#~ msgstr "Avkoda"
+
+#~ msgid "Default signing outgoing PGP mails"
+#~ msgstr "Förvald signering utgående PGP-mail"
+
+#~ msgid "Defaults"
+#~ msgstr "Förval"
+
+#~ msgid "Download (OG)"
+#~ msgstr "Ladda ner (OG)"
+
+#~ msgid "Enable Guard"
+#~ msgstr "Aktivera Guard"
+
+#~ msgid "Encrypted email has been sent successfully."
+#~ msgstr "Krypterad e-post skickades."
+
+#~ msgid "Encrypting"
+#~ msgstr "Krypterar"
+
+#~ msgid "From:"
+#~ msgstr "Från:"
+
+#~ msgid "Fwd:"
+#~ msgstr "Vb:"
+
+#~ msgid "IDs:"
+#~ msgstr "ID:"
+
+#~ msgid "Initializing Guard, please wait"
+#~ msgstr "Startar Guard, var god vänta"
+
+#~ msgid "Inline"
+#~ msgstr "Inline"
+
+#~ msgid "Make Guard default to PGP compliant"
+#~ msgstr "Gör Guard till förval vid PGP-anpassat"
+
+#~ msgid "Never"
+#~ msgstr "Aldrig"
+
+#~ msgid "No recipients"
+#~ msgstr "Inga mottagare"
+
+#~ msgid "None"
+#~ msgstr "Ingen"
+
+#~ msgid "Not able to contact guard server"
+#~ msgstr "Får ingen kontakt med Guard-servern"
+
+#~ msgid "On"
+#~ msgstr "På"
+
+#~ msgid "Open"
+#~ msgstr "Öppna"
+
+#~ msgid "Open Decoded"
+#~ msgstr "Öppna avkodad"
+
+#~ msgid "PGP Compliant Guard"
+#~ msgstr "PGP-anpassad Guard"
+
+#~ msgid "PGP default to PGP inline for compatibility"
+#~ msgstr "PGP förval till PGP inline för kompatibilitet"
+
+#~ msgid "Please enter a password to protect your Guard account"
+#~ msgstr "Skriv in ett lösenord för att skydda ditt Guard-konto"
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password.  A new password would be sent to this email."
+#~ msgstr ""
+#~ "Skriv in en sekundär e-postadress om du skulle behöva återställa ditt "
+#~ "lösenord. Ett nytt lösenord skickas sedan till den adressen."
+
+#~ msgid "Please select the file location of your private key."
+#~ msgstr "Välj platsen där din privata nyckelfil finns."
+
+#~ msgid "Private Key Password"
+#~ msgstr "Lösenord för privat nyckel"
+
+#~ msgid "Problem uploading Private Key"
+#~ msgstr "Problem när privat nyckel laddades upp"
+
+#~ msgid "Public Key List"
+#~ msgstr "Lista med offentliga nycklar"
+
+#~ msgid "Recipient has Guard"
+#~ msgstr "Mottagaren har Guard"
+
+#~ msgid "Retract in"
+#~ msgstr "Dra tillbaka om"
+
+#~ msgid "Save Decoded"
+#~ msgstr "Spara avkodad"
+
+#~ msgid "Shared"
+#~ msgstr "Delad"
+
+#~ msgid "Sign PGP"
+#~ msgstr "Signera PGP"
+
+#~ msgid "Subject:"
+#~ msgstr "Rubrik:"
+
+#~ msgid ""
+#~ "The key will be used locally only.  It will not be sent to the server."
+#~ msgstr ""
+#~ "Nyckeln kommer bara användas lokalt. Den kommer inte skickas till servern."
+
+#~ msgid "This appears to be the first time you have used Guard"
+#~ msgstr "Detta verkar vara första gången du använder Guard"
+
+#~ msgid "To:"
+#~ msgstr "Till:"
+
+#~ msgid "Unable to get key for encryption"
+#~ msgstr "Kunde inte hämta nyckel för kryptering"
+
+#~ msgid "Unable to load"
+#~ msgstr "Kunde inte ladda"
+
+#~ msgid "Use Guard when composing a new email"
+#~ msgstr "Använd Guard när du skriver ny e-post"
+
+#~ msgid "Using a guest account for email"
+#~ msgstr "Använder gästkonto för e-post"
+
+#~ msgid "Your private key"
+#~ msgstr "Din privata nyckel"
+
+#~ msgid "Your public key"
+#~ msgstr "Din offentliga nyckel"
+
+#~ msgid "popup blocked"
+#~ msgstr "popup blockerad"

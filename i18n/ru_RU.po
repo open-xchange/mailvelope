@@ -1,0 +1,2570 @@
+# , 2016.
+msgid ""
+msgstr ""
+"Project-Id-Version: open-xchange-guard-ui\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2018-01-12 09:06-0500\n"
+"Last-Translator: Greg Hill <greg.hill@open-xchange.com>\n"
+"Language-Team: Russian <>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.6.10\n"
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "Toggle Encryption"
+msgstr ""
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "Not Supported"
+msgstr "Не поддерживается"
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "%s is not supported with secured email and will be disabled."
+msgstr ""
+"%s с использованием защищенной почты не поддерживается и будет отключен."
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "OK"
+msgstr "ОК"
+
+#. %s product Name
+#: apps/mailvelope/settings.js module:oxguard
+msgid "Mailvelope"
+msgstr "Mailvelope"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Mailvelope Not Supported"
+msgstr "Mailvelope не поддерживается"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid ""
+"Mailvelope is only supported in Google Chrome or Mozilla Firefox.  Please "
+"use one of these broswers to set up encryption."
+msgstr ""
+"Mailvelope поддерживается только в Google Chrome и Mozilla Firefox. Чтобы "
+"настроить шифрование, выберите один из этих браузеров."
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Encrypted communication"
+msgstr "Зашифрованная связь"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Download browser plugin"
+msgstr "Скачать дополнение для браузера"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Generate"
+msgstr "Генерировать"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Congratulations! You have successfully set up encryption."
+msgstr "Поздравляем! Вы успешно настроили шифрование."
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Prepare"
+msgstr "Подготовка"
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Password"
+msgstr "Пароль"
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Three steps to setup encrypted communication:"
+msgstr "Три этапа настройки зашифрованного обмена данными:"
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Download browser plugin “Mailvelope”"
+msgstr "Скачайте дополнение для браузера «Mailvelope»"
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Create encryption keys for secure communication"
+msgstr "Создайте ключи шифрования для безопасного обмена данными"
+
+#~ msgid "Mailvelope Advanced"
+#~ msgstr "Дополнительные параметры Mailvelope"
+
+#~ msgid "Error"
+#~ msgstr "Ошибка"
+
+#~ msgid ""
+#~ "Backup your Mailvelope private keys to the server.  The keys will be "
+#~ "encrypted requiring a security code for restore"
+#~ msgstr ""
+#~ "Сохраните закрытые ключи Mailvelope на сервере. Для восстановления "
+#~ "зашифрованных ключей потребуется код безопасности."
+
+#~ msgid "Backup"
+#~ msgstr "Резервное копирование"
+
+#~ msgid "Discard previously saved private keys."
+#~ msgstr "Удалить сохраненные копии закрытых ключей."
+
+#~ msgid "Discard backup"
+#~ msgstr "Удалить сохраненные ключи"
+
+#~ msgid "Restore previously saved private keys."
+#~ msgstr "Восстановить сохраненные закрытые ключи."
+
+#~ msgid "Restore"
+#~ msgstr "Восстановить"
+
+#~ msgid ""
+#~ "Upload your Mailvelope public keys to the %s server so that other people "
+#~ "can send you encrypted emails."
+#~ msgstr ""
+#~ "Загрузите открытые ключи Mailvelope на сервер %s, чтобы другие "
+#~ "пользователи смогли отправлять вам зашифрованные сообщения."
+
+#~ msgid "Upload Public Key"
+#~ msgstr "Добавить открытый ключ"
+
+#~ msgid "Backup and Recovery"
+#~ msgstr "Резервное копирование и восстановление"
+
+#~ msgid "No backup data available"
+#~ msgstr "Нет резервных данных"
+
+#~ msgid ""
+#~ "You can now backup your keys. Please store the provided password secure. "
+#~ "It is also possible to skip this step and do the backup later. You can "
+#~ "find it in the settings."
+#~ msgstr ""
+#~ "Теперь вы можете создать резервные копии ключей. Созданный пароль должен "
+#~ "храниться в безопасном месте. По желанию этот шаг можно пропустить и "
+#~ "вернуться к нему позднее из меню параметров."
+
+#~ msgid "Skip without backup"
+#~ msgstr "Пропустить резервное копирование"
+
+#~ msgid "Recommended: Setup key backup"
+#~ msgstr "Рекомендуется: создайте резервные копии ключей"
+
+#~ msgid "Enter %s security password"
+#~ msgstr "Введите пароль %s"
+
+#~ msgid "Bad password"
+#~ msgstr "Неверный пароль"
+
+#~ msgid "Account Locked out"
+#~ msgstr "Учетная запись заблокирована"
+
+#~ msgid "Unspecified error"
+#~ msgstr "Неопределенная ошибка"
+
+#~ msgid "Problems creating keys, please try again later."
+#~ msgstr "Не удалось создать ключи. Повторите попытку позже."
+
+#~ msgid ""
+#~ "Problems creating keys.  Keys already exist for this email address in "
+#~ "another account."
+#~ msgstr ""
+#~ "Другая учетная запись уже создала ключи для этого электронного адреса."
+
+#~ msgid "Passwords must be at least %s characters in length"
+#~ msgstr "Пароль должен содержать не менее %s символов"
+
+#~ msgid "Passwords not equal"
+#~ msgstr "Пароли не совпадают"
+
+#~ msgid "Enter new secondary Email address"
+#~ msgstr "Введите новый адрес"
+
+#~ msgid "Generating key, Please wait"
+#~ msgstr "Создание ключа. Пожалуйста, подождите..."
+
+#~ msgid ""
+#~ "Please choose the password you will use for %s. You will need to type "
+#~ "this password whenever you want to encrypt or decrypt items. Remember it "
+#~ "should be different from your login password, and will not change if you "
+#~ "change your login password."
+#~ msgstr ""
+#~ "Выберите пароль для работы с %s. Этот пароль надо будет вводить при "
+#~ "каждом выполнении шифрования и дешифрования объектов. Этот пароль должен "
+#~ "отличаться от пароля учетной записи и никак с ним не связан."
+
+#~ msgid "Please enter a password to protect your new encrypted items."
+#~ msgstr "Введите пароль для защиты объектов."
+
+#~ msgid "Confirm"
+#~ msgstr "Подтверждение"
+
+#~ msgid ""
+#~ "Warning: This password for encryption cannot be restored or recovered in "
+#~ "any way.  If forgotten, all encrypted data will be lost"
+#~ msgstr ""
+#~ "Предупреждение. Пароль не может быть восстановлен. Если вы его забыли, "
+#~ "все зашифрованные данные будут утеряны."
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password."
+#~ msgstr "Введите дополнительный электронный адрес для восстановления пароля."
+
+#~ msgid "Email:"
+#~ msgstr "Эл. адрес:"
+
+#~ msgid "Create %s Security Keys"
+#~ msgstr "Создать ключи %s Security"
+
+#~ msgid "Cancel"
+#~ msgstr "Отмена"
+
+#~ msgid "Not valid email"
+#~ msgstr "Неверный электронный адрес"
+
+#~ msgid "Emails not equal"
+#~ msgstr "Адреса не совпадают"
+
+#~ msgid "Too short"
+#~ msgstr "Слишком короткий"
+
+#~ msgid "Strong"
+#~ msgstr "Сильный"
+
+#~ msgid "Weak"
+#~ msgstr "Слабый"
+
+#~ msgid "First %s Security Use"
+#~ msgstr "Первое использование %s Security"
+
+#~ msgid "You have been sent an email using %s to secure the contents"
+#~ msgstr ""
+#~ "Вам было отправлено письмо, содержимое которого было защищено с помощью %s"
+
+#~ msgid ""
+#~ "Please select a new password for use with %s.  This password will be used "
+#~ "to open encrypted emails and files that may be sent to you."
+#~ msgstr ""
+#~ "Выберите новый пароль для использования с %s. Этот пароль будет "
+#~ "использоваться для открытия полученных вами зашифрованных писем и файлов."
+
+#~ msgid "First %s Security Password Use"
+#~ msgstr "Первое использование пароля %s"
+
+#~ msgid ""
+#~ "Please change the initial temporary %s security password that was sent to "
+#~ "you in a separate email."
+#~ msgstr ""
+#~ "Не забудьте изменить временный пароль %s, который вы должны были получить "
+#~ "отдельным письмом."
+
+#~ msgid "Initial Password"
+#~ msgstr "Текущий пароль"
+
+#~ msgid "New Password"
+#~ msgstr "Новый пароль"
+
+#~ msgid "Confirm New"
+#~ msgstr "Подтвердите"
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password.</p>"
+#~ msgstr ""
+#~ "Введите дополнительный электронный адрес для восстановления пароля.</p>"
+
+#~ msgid "Verify:"
+#~ msgstr "Проверить:"
+
+#~ msgid ""
+#~ "Warning: This password for encryption cannot be restored or recovered in "
+#~ "any way.  If forgotten, all encrypted data will be lost."
+#~ msgstr ""
+#~ "Предупреждение. Пароль не может быть восстановлен. Если вы его забыли, "
+#~ "все зашифрованные данные будут утеряны."
+
+#~ msgid "Success"
+#~ msgstr "Успешно"
+
+#~ msgid "Password changed successfully"
+#~ msgstr "Пароль изменен"
+
+#~ msgid "New password must be at least %s characters long"
+#~ msgstr "Пароль должен содержать не менее %s символов"
+
+#~ msgid "Encryption key not found"
+#~ msgstr "Ключ шифрования не найден"
+
+#~ msgid "Failed to change password"
+#~ msgstr "Не удалось изменить пароль"
+
+#~ msgid "Download decrypted"
+#~ msgstr "Скачать в расшифрованном виде"
+
+#~ msgid "Add and encrypt local file"
+#~ msgstr "Добавить и зашифровать локальный файл"
+
+#~ msgid "Remove encryption"
+#~ msgstr "Снять шифрование"
+
+#~ msgid "Encrypt"
+#~ msgstr "Зашифровать"
+
+#~ msgid "Send by mail"
+#~ msgstr "Отправить по почте"
+
+#~ msgid "Download encrypted"
+#~ msgstr "Скачать в зашифрованном виде"
+
+#~ msgid "Pop out"
+#~ msgstr "Всплывающее окно"
+
+#~ msgid "Pop out standalone viewer"
+#~ msgstr "Открыть в отдельном окне"
+
+#~ msgid "Decrypt and open"
+#~ msgstr "Скачать и открыть"
+
+#~ msgid "Drop files here to encrypt"
+#~ msgstr "Перетащите сюда файлы для шифрования"
+
+#~ msgid "Recipient Options"
+#~ msgstr "Параметры получателя"
+
+#~ msgid ""
+#~ "At least one of your recipients uses a different webmail system.  They "
+#~ "will receive an email with a link for them to read this message.  If you "
+#~ "like, you can add a personalized message that will appear at the top of "
+#~ "this message.  This will help identify the message as coming from you."
+#~ msgstr ""
+#~ "Некоторые получатели используют другой почтовый веб-сервис. Они получат "
+#~ "сообщение с ссылкой на письмо. Вы можете добавить примечание, которое "
+#~ "будет показано в верхней части сообщения."
+
+#~ msgid "Message:"
+#~ msgstr "Сообщение:"
+
+#~ msgid "Language for recipient Email"
+#~ msgstr "Язык письма"
+
+#~ msgid "Note: Emails sent to mailing lists or groups will not work."
+#~ msgstr ""
+#~ "Электронные письма, отправляемые спискам рассылки и группам работать не "
+#~ "будут."
+
+#~ msgid ""
+#~ "Mailing list / blocked email found.  Encrypted emails to this email will "
+#~ "fail.  %s"
+#~ msgstr ""
+#~ "Обнаружен список рассылки или заблокированное письмо. Зашифрованные "
+#~ "письма, поступающие на этот адрес, будут вызывать ошибки. %s"
+
+#~ msgid ""
+#~ "The key for %s has expired.  You will not be able to send an encrypted "
+#~ "email to this recipient."
+#~ msgstr ""
+#~ "Действие ключа %s истекло. Вы больше не сможете отправлять шифрованную "
+#~ "почту этому получателю."
+
+#~ msgid "HTML Formatted Email"
+#~ msgstr "Почта в формате HTML"
+
+#~ msgid ""
+#~ "HTML formatted emails may cause issues with PGP inline.  Click OK to "
+#~ "change to Plain Text formatted Emails."
+#~ msgstr ""
+#~ "Форматирование HTML может вызвать ошибки при вставке PGP. Нажмите OK, "
+#~ "чтобы вернуться к текстовому формату."
+
+#~ msgid "HTML format is not recommended when using PGP Inline"
+#~ msgstr "Формат HTML не рекомендуется совмещать с PGP Inline."
+
+#~ msgid "Recipients cannot be added to this encrypted reply"
+#~ msgstr "Нельзя добавить других получателей к зашифрованному ответу"
+
+#~ msgid "Reply must be encrypted"
+#~ msgstr "Ответ должен быть зашифрован"
+
+#~ msgid "Unable to attach your public key"
+#~ msgstr "Не удалось прикрепить ваш открытый ключ"
+
+#~ msgid "Will create new guest account for %s"
+#~ msgstr "Будет создана гостевая учетная запись %s"
+
+#~ msgid "Encryption Key Known"
+#~ msgstr "Ключ шифрования известен"
+
+#~ msgid "Send"
+#~ msgstr "Отправить"
+
+#~ msgid "Send Encrypted"
+#~ msgstr "Отправить зашифрованное"
+
+#~ msgid "Send Secure"
+#~ msgstr "Отправить защищенное"
+
+#~ msgid "Loaded"
+#~ msgstr "Загружено"
+
+#~ msgid "Secure Email, enter your %s security password."
+#~ msgstr "Защищенная почта. Введите пароль %s Security."
+
+#~ msgid "Keep me logged into %s"
+#~ msgstr "Оставаться в %s"
+
+#~ msgid "10 minutes"
+#~ msgstr "10 минут"
+
+#~ msgid "20 minutes"
+#~ msgstr "20 минут"
+
+#~ msgid "30 minutes"
+#~ msgstr "30 минут"
+
+#~ msgid "1 hour"
+#~ msgstr "1 час"
+
+#~ msgid "2 hours"
+#~ msgstr "2 часа"
+
+#~ msgid "Session"
+#~ msgstr "Сеанс"
+
+#~ msgid "Select Key Location"
+#~ msgstr "Выберите ключ"
+
+#~ msgid "Temporary Lockout"
+#~ msgstr "Временно заблокирован"
+
+#~ msgid "Security PIN"
+#~ msgstr "PIN защиты"
+
+#~ msgid "Recipients:"
+#~ msgstr "Получатели:"
+
+#~ msgid ""
+#~ "The new recipients listed below will be sent a password via email.  You "
+#~ "can also require a separate pin, which is displayed below."
+#~ msgstr ""
+#~ "Перечисленные адресаты получат пароль по электронной почте. Дополнительно "
+#~ "можно запросить отдельный PIN (см. ниже)."
+
+#~ msgid ""
+#~ "You may deliver this pin any way you see fit, but we recommend doing it "
+#~ "in a second method other than email (Phone, SMS, Skype, etc)."
+#~ msgstr ""
+#~ "Этот PIN можно передать адресату любым способом: по телефону, посредством "
+#~ "SMS или через Skype. Не рекомендуется отправлять его по электронной "
+#~ "почте, так как это снижает уровень защиты."
+
+#~ msgid "If you want this extra pin requirement, click OK."
+#~ msgstr "Чтобы включить дополнительный PIN, нажмите OK."
+
+#~ msgid "Skip"
+#~ msgstr "Пропустить"
+
+#~ msgid "Unable to get key"
+#~ msgstr "Не удалось получить ключ "
+
+#~ msgid "Please enter your %s password to sign this email."
+#~ msgstr "Введите пароль %s, чтобы подписать письмо."
+
+#~ msgid ""
+#~ "There appears to be an encrypted attachment.  Please enter your %s "
+#~ "password to decode the attachment for sending."
+#~ msgstr ""
+#~ "Обнаружено зашифрованное вложение. Для продолжения отправки необходимо "
+#~ "его расшифровать. Введите пароль %s."
+
+#~ msgid "Please re-enter your %s password before sending."
+#~ msgstr "Прежде чем отправить, введите пароль %s."
+
+#~ msgid "Please re-enter your %s password before saving."
+#~ msgstr "Прежде чем сохранить, введите пароль %s."
+
+#~ msgid "Please re-enter your %s password."
+#~ msgstr "Пожалуйста, введите пароль %s."
+
+#~ msgid "Security"
+#~ msgstr "Защита"
+
+#~ msgid "PGP"
+#~ msgstr "PGP"
+
+#~ msgid "Secure"
+#~ msgstr "Безопасность"
+
+#~ msgid "Sign"
+#~ msgstr "Подписать"
+
+#~ msgid "Format"
+#~ msgstr "Формат"
+
+#~ msgid "PGP Mime"
+#~ msgstr "PGP Mime"
+
+#~ msgid "PGP Inline"
+#~ msgstr "Встроить PGP"
+
+#~ msgid "Keys"
+#~ msgstr "Ключи"
+
+#~ msgid "Attach my key"
+#~ msgstr "Прикрепить мой ключ"
+
+#~ msgid "Unable to find keys for all recipients."
+#~ msgstr "Не удалось найти все ключи получателей."
+
+#~ msgid "Unable to connect to the encryption server."
+#~ msgstr "Не удалось подключиться к серверу шифрования."
+
+#~ msgid "Unable to find the item on the server"
+#~ msgstr "Объект не найден на сервере"
+
+#~ msgid "Unable to get the key for that item"
+#~ msgstr "Не удалось получить ключ для этого объекта"
+
+#~ msgid "Unable to retrieve your user keys to decode"
+#~ msgstr "Не удалось извлечь ключи пользователя для расшифровки"
+
+#~ msgid "Bad extra password"
+#~ msgstr "Дополнительный пароль неверен"
+
+#~ msgid "No private key to decode this message"
+#~ msgstr ""
+#~ "Отсутствует закрытый ключ, необходимый для расшифровки этого сообщения"
+
+#~ msgid "Unable to decrypt Email, incorrect password."
+#~ msgstr "Не удалось расшифровать письмо: неверный пароль."
+
+#~ msgid "To reset or recover your password, click %s"
+#~ msgstr "Для восстановления пароля нажмите %s"
+
+#~ msgid "Settings"
+#~ msgstr "Параметры"
+
+#~ msgid "No Private Key available for this encrypted item."
+#~ msgstr "Нет закрытого ключа для чтения зашифрованного объекта."
+
+#~ msgid "Key Ids:"
+#~ msgstr "Идентификаторы ключей:"
+
+#~ msgid "Your account is locked out for %s minutes"
+#~ msgstr "Учетная запись заблокирована на %s мин."
+
+#~ msgid "Server Error: "
+#~ msgstr "Ошибка сервера: "
+
+#~ msgid "Password needed"
+#~ msgstr "Требуется пароль"
+
+#~ msgid "Please enter your %s password"
+#~ msgstr "Введите пароль %s"
+
+#~ msgid "Remember my password"
+#~ msgstr "Запомнить пароль"
+
+#~ msgid "Account locked out due to bad attempts.  Please try again later."
+#~ msgstr ""
+#~ "Вы произвели несколько неудачных попыток, и аккаунт был заблокирован. "
+#~ "Повторите попытку позже."
+
+#~ msgid "Error checking password"
+#~ msgstr "Ошибка при проверке пароля"
+
+#~ msgid "Delete Public Key"
+#~ msgstr "Удалить открытый ключ"
+
+#~ msgid "Click OK to confirm"
+#~ msgstr "Чтобы подтвердить, нажмите OK."
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Key Ids"
+#~ msgstr "Идентификаторы ключей"
+
+#~ msgid "Details"
+#~ msgstr "Свойства"
+
+#~ msgid "Delete"
+#~ msgstr "Удалить"
+
+#~ msgid "No Keys Found"
+#~ msgstr "Нет ключей"
+
+#~ msgid "Key Details"
+#~ msgstr "Свойства ключа"
+
+#~ msgid "Share Keys"
+#~ msgstr "Поделиться ключами"
+
+#~ msgid "Use PGP Inline"
+#~ msgstr "Встроить PGP"
+
+#~ msgid "Signatures"
+#~ msgstr "Подписи"
+
+#~ msgid "Expired"
+#~ msgstr "Истек"
+
+#~ msgid "Revoked"
+#~ msgstr "Отозван"
+
+#~ msgid "Fingerprint:"
+#~ msgstr "Отпечаток:"
+
+#~ msgid "Created:"
+#~ msgstr "Создан:"
+
+#~ msgid "Master:"
+#~ msgstr "Мастер:"
+
+#~ msgid "True"
+#~ msgstr "True"
+
+#~ msgid "False"
+#~ msgstr "False"
+
+#~ msgid "Encryption:"
+#~ msgstr "Шифрование:"
+
+#~ msgid "IDs: "
+#~ msgstr "ID: "
+
+#~ msgid "Expires in %1$s days"
+#~ msgstr "Истекает через %1$s дн."
+
+#~ msgid "Problem getting signatures"
+#~ msgstr "Не удалось получить подписи"
+
+#~ msgid "Positive"
+#~ msgstr "Подтвержден"
+
+#~ msgid "Failed check"
+#~ msgstr "Не прошел проверку"
+
+#~ msgid "Missing public"
+#~ msgstr "Нет открытого ключа"
+
+#~ msgid "Casual"
+#~ msgstr "Неофициальный"
+
+#~ msgid "Revocation"
+#~ msgstr "Отозван"
+
+#~ msgid "Direct cert"
+#~ msgstr "Прямая сертификация"
+
+#~ msgid "Default Certification"
+#~ msgstr "Стандартная сертификация"
+
+#~ msgid "No signatures"
+#~ msgstr "Нет подписей"
+
+#~ msgid "ID Signed"
+#~ msgstr "ID"
+
+#~ msgid "Certification"
+#~ msgstr "Сертификация"
+
+#~ msgid "Signed by"
+#~ msgstr "Подписал"
+
+#~ msgid "Image"
+#~ msgstr "Изображение"
+
+#~ msgid "Key Signatures"
+#~ msgstr "Подписи ключей"
+
+#~ msgid "PGP Public Key List"
+#~ msgstr "Список открытых ключей PGP"
+
+#~ msgid "This Email was encrypted with PGP."
+#~ msgstr "Письмо зашифровано с помощью PGP"
+
+#~ msgid "This Email was signed and verified."
+#~ msgstr "Письмо подписано, и его подлинность удостоверена."
+
+#~ msgid "This Email was signed and failed verification."
+#~ msgstr "Письмо подписано отправителем, но не прошло проверку."
+
+#~ msgid "This Email was signed but unable to verify."
+#~ msgstr "Это письмо подписано, но его подлинность не удалось подтвердить."
+
+#~ msgid ""
+#~ "This Email was sent using PGP encryption. It has been decrypted with your "
+#~ "private key"
+#~ msgstr ""
+#~ "Это сообщение было зашифровано с использованием PGP и расшифровано с "
+#~ "помощью закрытого ключа."
+
+#~ msgid "This Email was signed by the sender and verified."
+#~ msgstr "Это письмо подписано отправителем, и его подлинность удостоверена."
+
+#~ msgid "PGP Public Key Found.  Click to Import"
+#~ msgstr "Обнаружен открытый ключ PGP. Нажмите, чтобы импортировать"
+
+#~ msgid "Save encrypted to %1$s"
+#~ msgstr "Сохранить зашифрованное в %1$s"
+
+#~ msgctxt "app"
+#~ msgid "Drive"
+#~ msgstr "Диск"
+
+#~ msgid "Check assigned PIN"
+#~ msgstr "Проверить PIN"
+
+#~ msgid "PIN"
+#~ msgstr "PIN"
+
+#~ msgid "Added keys: \r\n"
+#~ msgstr "Добавленные ключи: \r\n"
+
+#~ msgid "Key ID: "
+#~ msgstr "ID ключа: "
+
+#~ msgid "Service Unavailable"
+#~ msgstr "Сервис недоступен"
+
+#~ msgid "Advanced Settings"
+#~ msgstr "Дополнительные параметры"
+
+#~ msgid "Download PGP Public Key"
+#~ msgstr "Загрузить открытый PGP-ключ"
+
+#~ msgid "Email your PGP Public Key"
+#~ msgstr "Отправить открытый PGP-ключ по почте"
+
+#~ msgid "Your Keys"
+#~ msgstr "Ваши ключи"
+
+#~ msgid "Your Key List"
+#~ msgstr "Список ключей"
+
+#~ msgid "Key ID"
+#~ msgstr "ID ключа"
+
+#~ msgid "Private Key"
+#~ msgstr "Закрытый"
+
+#~ msgid "Current"
+#~ msgstr "Текущий"
+
+#~ msgid "Download"
+#~ msgstr "Скачать"
+
+#~ msgid "Edit"
+#~ msgstr "Изменить"
+
+#~ msgid "Adding Keys"
+#~ msgstr "Добавление ключей"
+
+#~ msgid "If you already have a private key, you can upload it here."
+#~ msgstr "Если у вас есть закрытый ключ, добавьте его здесь."
+
+#~ msgid "Upload Private Key"
+#~ msgstr "Добавить закрытый ключ"
+
+#~ msgid "Finally, you can have a new PGP Key Pair created for your account."
+#~ msgstr "Вы можете создать новую пару ключей PGP для своей учетной записи."
+
+#~ msgid "Create New Keys"
+#~ msgstr "Создать ключи"
+
+#~ msgid "Adding UserID"
+#~ msgstr "Добавление UserID"
+
+#~ msgid "Add a name and email address to this public key."
+#~ msgstr "Добавьте имя и электронный адрес для этого ключа."
+
+#~ msgid "Name"
+#~ msgstr "Имя"
+
+#~ msgid "Please enter your key password"
+#~ msgstr "Введите пароль ключа"
+
+#~ msgid "Invalid Email Address"
+#~ msgstr "Недействительный адрес"
+
+#~ msgid "Invalid Name"
+#~ msgstr "Недопустимое имя"
+
+#~ msgid "Enter password"
+#~ msgstr "Введите пароль"
+
+#~ msgid "User ID added"
+#~ msgstr "Идентификатор пользователя добавлен"
+
+#~ msgid "Failed to add UserID"
+#~ msgstr "Не удалось добавить UserID"
+
+#~ msgid "Revoke Private Key"
+#~ msgstr "Отозвать закрытый ключ"
+
+#~ msgid ""
+#~ "Revoke the key: This advises others that you no longer want this key "
+#~ "used.  You can continue to decode any encrypted data using the key."
+#~ msgstr ""
+#~ "Отозвать ключ: сообщает другим пользователям, что вы больше не планируете "
+#~ "использовать этот ключ, хотя вы по-прежнему сможете расшифровывать данные "
+#~ "с его помощью."
+
+#~ msgid "Delete Private Key"
+#~ msgstr "Удалить закрытый ключ"
+
+#~ msgid "There are two options if you no longer want to use this key"
+#~ msgstr ""
+#~ "Если вы хотите прекратить использование этого ключа, у вас есть два "
+#~ "варианта"
+
+#~ msgid ""
+#~ "Revoke the key: This advises others that you no longer want this key "
+#~ "used.  You can continue to decode any encrypted data using the key. "
+#~ "(Recommended)"
+#~ msgstr ""
+#~ "Отозвать ключ (рекомендуется): предупреждает других пользователей, что вы "
+#~ "больше не планируете использовать ключ.  Вы по-прежнему сможете "
+#~ "расшифровывать данные с его помощью и вывести его из обращения постепенно."
+
+#~ msgid ""
+#~ "Deleting the key: Deleting the private key will render all encrypted "
+#~ "items unreadable.  You will not be able to decode emails or files that "
+#~ "were enrypted with this key.  This cannot be undone."
+#~ msgstr ""
+#~ "Удалить ключ: после удаления зашифрованные этим ключом данные нельзя "
+#~ "будет расшифровать. Операция удаления необратима."
+
+#~ msgid "Revoke"
+#~ msgstr "Отозвать"
+
+#~ msgid ""
+#~ "You will no longer be able to decode any items that were encrypted with "
+#~ "this key!"
+#~ msgstr "Вы не сможете расшифровать объекты, зашифрованные этим ключом."
+
+#~ msgid "Enter your password below to confirm and verify"
+#~ msgstr "Введите пароль для продолжения"
+
+#~ msgid "Bad Password"
+#~ msgstr "Неверный пароль"
+
+#~ msgid "Key Deleted"
+#~ msgstr "Ключ удален"
+
+#~ msgid "Failed to delete key"
+#~ msgstr "Ошибка удаления ключа"
+
+#~ msgid "Problem deleting key"
+#~ msgstr "Не удалось удалить ключ"
+
+#~ msgid "Please verify you want to delete this key"
+#~ msgstr "Подтвердите удаление"
+
+#~ msgid "Failed to delete"
+#~ msgstr "Ошибка удаления"
+
+#~ msgid ""
+#~ "This will advise people not to use this key.  You can still use the key "
+#~ "to decode existing items."
+#~ msgstr ""
+#~ "Предупреждает других пользователей, что вы больше не планируете "
+#~ "использовать этот ключ.  Вы по-прежнему сможете расшифровывать данные с "
+#~ "его помощью."
+
+#~ msgid "Reason"
+#~ msgstr "Причина"
+
+#~ msgid "No Reason"
+#~ msgstr "Нет"
+
+#~ msgid "Key superseded"
+#~ msgstr "Замещен"
+
+#~ msgid "Key compromised"
+#~ msgstr "Был скомпрометирован"
+
+#~ msgid "Key retired"
+#~ msgstr "Устарел"
+
+#~ msgid "User no longer valid"
+#~ msgstr "Недействительный пользователь"
+
+#~ msgid "Key Revoked"
+#~ msgstr "Ключ отозван"
+
+#~ msgid "Failed to revoke key"
+#~ msgstr "Не удалось отозвать ключ"
+
+#~ msgid "Download Key"
+#~ msgstr "Скачать ключ"
+
+#~ msgid "Download your private key for use with other email programs"
+#~ msgstr "Скачать закрытый ключ для использования в другой почтовой программе"
+
+#~ msgid "Do not distribute this key.  It is for your use only"
+#~ msgstr "Это ваш персональный ключ. Не делитесь им с другими пользователями."
+
+#~ msgid "Download PGP Private Key"
+#~ msgstr "Скачать закрытый ключ PGP"
+
+#~ msgid "Download Public and Private Key"
+#~ msgstr "Скачать открытый и закрытый ключи"
+
+#~ msgid "Key ID:"
+#~ msgstr "Идентификатор ключа:"
+
+#~ msgid "Expires:"
+#~ msgstr "Истекает:"
+
+#~ msgid "Private Key: "
+#~ msgstr "Закрытый ключ: "
+
+#~ msgid ""
+#~ "If you would like to upload a public key only, then do so here.  This "
+#~ "will allow you to encrypt files and receive encrypted emails using %s, "
+#~ "but you will need to use the private key with another program to decode "
+#~ "the items."
+#~ msgstr ""
+#~ "Здесь вы можете добавить открытый ключ. Это позволит шифровать файлы и "
+#~ "получать зашифрованные письма %s, но для их расшифровки надо будет "
+#~ "использовать закрытый ключ и другую программу."
+
+#~ msgid "Upload Public Key Only"
+#~ msgstr "Добавить открытый ключ"
+
+#~ msgid "PGP Public Key is attached"
+#~ msgstr "Открытый ключ PGP прикреплен"
+
+#~ msgid "Public Keys"
+#~ msgstr "Открытые ключи"
+
+#~ msgid "Failed to update settings"
+#~ msgstr "Не удалось обновить параметры"
+
+#~ msgid "Email format"
+#~ msgstr "Формат эл.почты"
+
+#~ msgid ""
+#~ "Emails that contain HTML and are sent with PGP Inline will often result "
+#~ "in decoding errors and possible failure.  As a result, the default Email "
+#~ "format should be changed to plaintext.  Click OK to change the default to "
+#~ "plaintext, cancel to keep your current setting."
+#~ msgstr ""
+#~ "Отправка электронных писем в формате HTML, содержащих встроенный PGP, "
+#~ "может привести к ошибкам дешифрования, поэтому по умолчанию следует "
+#~ "использовать простой текстовый формат сообщений. Нажмите ОК, чтобы "
+#~ "изменить стандартный формат на текстовый, или нажмите «Отмена», чтобы "
+#~ "сохранить текущие настройки."
+
+#~ msgid "Ask each time"
+#~ msgstr "Всегда спрашивать"
+
+#~ msgid "Remember Password Default"
+#~ msgstr "Запомнить пароль по умолчанию"
+
+#~ msgid "Default to send encrypted when composing email"
+#~ msgstr "Включить шифрование новых сообщений"
+
+#~ msgid "Encrypt all incoming emails"
+#~ msgstr "Шифровать всю входящую почту"
+
+#~ msgid "Default adding signature to outgoing mails"
+#~ msgstr "Подписывать сообщения по умолчанию"
+
+#~ msgid "Default to using PGP inline for new mails"
+#~ msgstr "По умолчанию использовать PGP Inline для новых писем"
+
+#~ msgid "Please wait"
+#~ msgstr "Подождите..."
+
+#~ msgid "Advanced"
+#~ msgstr "Дополнительно"
+
+#~ msgid "Enable Advanced PGP Features"
+#~ msgstr "Включить расширенные функции PGP"
+
+#~ msgid "PGP Encryption Settings"
+#~ msgstr "Параметры шифрования PGP"
+
+#~ msgid "Security Settings"
+#~ msgstr "Параметры безопасности"
+
+#~ msgid "Keys uploaded"
+#~ msgstr "Ключи добавлены"
+
+#~ msgid "Failed to upload"
+#~ msgstr "Не удалось отправить"
+
+#~ msgid "The public key must have your primary email as a user ID"
+#~ msgstr ""
+#~ "UserID открытого ключа должен содержать ваш основной электронный адрес"
+
+#~ msgid "Upload Private Keys"
+#~ msgstr "Добавить закрытые ключи"
+
+#~ msgid "Please enter passwords for the upload"
+#~ msgstr "Чтобы отправить, введите пароли"
+
+#~ msgid "Enter new password for the key:"
+#~ msgstr "Введите новый пароль:"
+
+#~ msgid "Confirm Password:"
+#~ msgstr "Подтвердите пароль:"
+
+#~ msgid "Private key password for the key you are uploading:"
+#~ msgstr "Пароль закрытого ключа:"
+
+#~ msgid "Private Key Uploaded"
+#~ msgstr "Закрытый ключ добавлен"
+
+#~ msgid "This key already exists"
+#~ msgstr "Ключ уже существует"
+
+#~ msgid "Bad PGP Password"
+#~ msgstr "Неверный пароль PGP"
+
+#~ msgid "The private key must have your primary email as a user ID"
+#~ msgstr ""
+#~ "UserID закрытого ключа должен содержать ваш основной электронный адрес"
+
+#~ msgid "Must use same password as existing key to merge"
+#~ msgstr "Необходимо указать пароль существующего ключа для объединения"
+
+#~ msgid "Problem uploading Private Key "
+#~ msgstr "Не удалось передать закрытый ключ "
+
+#~ msgid "Logged out of %s"
+#~ msgstr "Сеанс %s завершен"
+
+#~ msgid "Failed to log out of %s"
+#~ msgstr "Не удалось завершить сеанс %s"
+
+#~ msgid "Guided tour for %s"
+#~ msgstr "Знакомство с %s"
+
+#~ msgid "Sign out %s"
+#~ msgstr "Выход из %s"
+
+#~ msgctxt "app"
+#~ msgid "%s Security"
+#~ msgstr "%s Security"
+
+#~ msgid "Get Started"
+#~ msgstr "Начало работы"
+
+#~ msgid ""
+#~ "In order to start with %s Security, you must set up a password for your "
+#~ "secured files."
+#~ msgstr ""
+#~ "В первую очередь необходимо настроить пароль %s Security для создания "
+#~ "защищенных файлов."
+
+#~ msgid "Start"
+#~ msgstr "Начать"
+
+#~ msgid "%s Security Settings"
+#~ msgstr "Параметры %s Security"
+
+#~ msgid "Change %s Security Password."
+#~ msgstr "Изменить пароль %s Security"
+
+#~ msgid "Enter current %s security password"
+#~ msgstr "Введите текущий пароль %s Security"
+
+#~ msgid "Enter new %s security password"
+#~ msgstr "Введите новый пароль %s Security"
+
+#~ msgid "Verify new %s security password"
+#~ msgstr "Подтвердите пароль %s Security"
+
+#~ msgid "Change %s security password"
+#~ msgstr "Изменить пароль %s Security"
+
+#~ msgid "Reset %s security password"
+#~ msgstr "Сбросить пароль %s Security"
+
+#~ msgid "Send a temporary %s security password to my secondary Email address."
+#~ msgstr "Отправить временный пароль %s Security на запасной адрес."
+
+#~ msgid "Delete Password Recovery"
+#~ msgstr "Удалить функцию восстановления пароля"
+
+#~ msgid "Advanced Users Only!"
+#~ msgstr "Только для опытных пользователей"
+
+#~ msgid ""
+#~ "Delete the password recovery.  The recovery is used to reset your "
+#~ "password.  If you delete the recovery, you will not be able to reset your "
+#~ "password if you forget it.  Changing your password will restore the "
+#~ "recovery."
+#~ msgstr ""
+#~ "Удалить возможность восстановления пароля. Изменение пароля снова включит "
+#~ "функцию восстановления. Надо учесть, что забыв свой пароль, вы уже не "
+#~ "сможете его восстановить."
+
+#~ msgid "Please verify your password before deleting the recovery."
+#~ msgstr "Для продолжения введите пароль."
+
+#~ msgid "Recovery deleted"
+#~ msgstr "Функция восстановления пароля удалена"
+
+#~ msgid "Current Email address:"
+#~ msgstr "Текущий адрес:"
+
+#~ msgid "Secondary Email"
+#~ msgstr "Запасной адрес"
+
+#~ msgid "Change Email address used for password reset."
+#~ msgstr "Изменить адрес для восстановления пароля."
+
+#~ msgid "Verify Email address"
+#~ msgstr "Подтвердить адрес"
+
+#~ msgid "Change Email address"
+#~ msgstr "Изменить адрес"
+
+#~ msgid "None - Primary Email will be used"
+#~ msgstr "Нет (основной адрес)"
+
+#~ msgid "Invalid email address"
+#~ msgstr "Недействительный электронный адрес"
+
+#~ msgid "Successfully changed email address"
+#~ msgstr "Электронный адрес успешно изменен"
+
+#~ msgid "A new password has been sent to your email address."
+#~ msgstr "Новый пароль отправлен на ваш электронный адрес."
+
+#~ msgid "A new password has been sent to your secondary email address."
+#~ msgstr "Новый пароль отправлен на запасной адрес."
+
+#~ msgid "No password recovery is available."
+#~ msgstr "Функции восстановления пароля недоступны."
+
+#~ msgid "Password reset, but unable to send to your email address."
+#~ msgstr "Пароль изменен, но его не удалось отправить на ваш адрес."
+
+#~ msgid "Unable to find email address to send password reset."
+#~ msgstr "Не найден адрес для восстановления пароля."
+
+#~ msgid "Unable to reset your password"
+#~ msgstr "Не удалось восстановить пароль"
+
+#~ msgid "Next"
+#~ msgstr "Далее"
+
+#~ msgid "Simple and Easy"
+#~ msgstr "Легко и просто"
+
+#~ msgctxt "Choice"
+#~ msgid "One click encryption for Emails and files"
+#~ msgstr "Шифрование электронной корреспондеции и файлов одним щелчком мыши"
+
+#~ msgctxt "Choice"
+#~ msgid "Works in all browsers with all your contacts"
+#~ msgstr "Работает во всех браузерах со всеми вашими контактами"
+
+#~ msgctxt "Choice"
+#~ msgid "Easy to use, every day"
+#~ msgstr "Простой в использовании, каждый день"
+
+#~ msgctxt "Choice"
+#~ msgid "Security details managed by us"
+#~ msgstr "Безопасность под нашим контролем"
+
+#~ msgctxt "Choice"
+#~ msgid ""
+#~ "If you do not have deep knowledge of encryption, but you would like to "
+#~ "easily secure your communication with your friends or business contacts, "
+#~ "this option fits perfectly for you. Safe Email, made simple!"
+#~ msgstr ""
+#~ "Если вы не обладаете глубокими знаниями в области шифрования, но хотите "
+#~ "обеспечить безопасность каналов связи с вашими друзьями и бизнес-"
+#~ "контактами — это решение для вас. Безопасность электронной почты — это "
+#~ "просто!"
+
+#~ msgctxt "Choice"
+#~ msgid "Encryption Expert"
+#~ msgstr "Экспертное шифрование"
+
+#~ msgctxt "Choice"
+#~ msgid "Expert encryption options available"
+#~ msgstr "Экспертные возможности управления шифрованием"
+
+#~ msgctxt "Choice"
+#~ msgid "Works only in Firefox and Chrome"
+#~ msgstr "Работает только в Firefox и Chrome"
+
+#~ msgctxt "Choice"
+#~ msgid "Browser plugin required"
+#~ msgstr "Необходимо дополнение для браузера"
+
+#~ msgctxt "Choice"
+#~ msgid "Security details managed by yourself"
+#~ msgstr "Безопасность под вашим контролем"
+
+#~ msgctxt "Choice"
+#~ msgid ""
+#~ "If you are an encryption expert, and would like to manage all encryption "
+#~ "details by yourself, this option fits best for you. You need to install a "
+#~ "third-party browser plugin to work with expert encryption."
+#~ msgstr ""
+#~ "Этот вариант подойдет для специалистов в области безопасности, желающих "
+#~ "управлять всеми характеристиками шифрования. Для этого вам потребуется "
+#~ "установить стороннее дополнение для браузера."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You already set up your %s account. But you can always change your "
+#~ "encryption password, or request a temporary password if you forget it."
+#~ msgstr ""
+#~ "Ваша учетная запись %s уже настроена, но вы можете изменить пароль "
+#~ "шифрования, а в случае его утери запросить временный пароль."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You already set up your %s account.  You can change your encryption "
+#~ "password here."
+#~ msgstr ""
+#~ "Вы уже настроили учетную запись %s. Здесь вы можете изменить свой пароль."
+
+#~ msgctxt "tour"
+#~ msgid "The %s module"
+#~ msgstr "Модуль %s"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Security and privacy matters to everyone. That's why you can now send and "
+#~ "receive encrypted emails by simply clicking on the lock icon."
+#~ msgstr ""
+#~ "Безопасность и конфиденциальность имеют огромное значение. Теперь вы "
+#~ "можете получать и отправлять письма в зашифрованном виде. Для этого "
+#~ "просто нажмите значок с изображением замка."
+
+#~ msgctxt "tour"
+#~ msgid "%s Security Settings"
+#~ msgstr "Параметры %s Security"
+
+#~ msgctxt "tour"
+#~ msgid "PGP Encryption Settings"
+#~ msgstr "Параметры шифрования PGP"
+
+#~ msgctxt "tour"
+#~ msgid "Security Settings"
+#~ msgstr "Параметры безопасности"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "From here you can update your encryption settings. For example you can "
+#~ "choose to send encrypted emails by default."
+#~ msgstr ""
+#~ "Здесь можно установить параметры шифрования, например включить шифрование "
+#~ "исходящих сообщений."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "From here, you can update your security settings.  For example, you can "
+#~ "choose to send secure emails by default."
+#~ msgstr ""
+#~ "Здесь можно установить параметры безопасности, например включить защиту "
+#~ "исходящих сообщений."
+
+#~ msgctxt "tour"
+#~ msgid "Signature"
+#~ msgstr "Цифровая подпись"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "In addition to encrypting your emails you can also sign them. This means "
+#~ "that email recipients can be sure that the email really came from you. By "
+#~ "ticking this checkbox your signature will be added to outgoing emails by "
+#~ "default."
+#~ msgstr ""
+#~ "Помимо шифрования почтовых сообщений, вы можете добавить цифровую "
+#~ "подпись, которая позволит получателю удостовериться, что письмо пришло "
+#~ "именно от вас. Установите этот флажок, чтобы подписывать исходящие "
+#~ "сообщения."
+
+#~ msgctxt "tour"
+#~ msgid "Alternative: PGP Inline"
+#~ msgstr "Дополнительно: встроенная подпись PGP"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "By default %s sends encrypted emails using PGP/Mime format. To "
+#~ "communicate with some systems you may need to use PGP Inline."
+#~ msgstr ""
+#~ "По умолчанию %s отправляет сообщения в зашифрованном формате PGP/Mime. В "
+#~ "целях совместимости с некоторыми системами может потребоваться "
+#~ "интегрировать PGP в текст сообщения."
+
+#~ msgctxt "tour"
+#~ msgid "Advanced Settings"
+#~ msgstr "Дополнительные параметры"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Advanced users can manage their key lists from the PGP Encryption "
+#~ "Settings."
+#~ msgstr ""
+#~ "В секции параметров шифрования PGP опытные пользователи могут управлять "
+#~ "списками ключей."
+
+#~ msgctxt "tour"
+#~ msgid "Advanced User Settings"
+#~ msgstr "Дополнительные параметры пользователя"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Enabling Advanced PGP Features will enable key management and specifying "
+#~ "sending formats."
+#~ msgstr ""
+#~ "Включив дополнительные функции PGP, вы сможете управлять ключами и "
+#~ "выбирать формат отправки сообщений."
+
+#~ msgctxt "tour"
+#~ msgid "Enabling and disabling encryption"
+#~ msgstr "Включение и отключение шифрования"
+
+#~ msgctxt "tour"
+#~ msgid "You are now able to send secure emails."
+#~ msgstr "Теперь вы готовы к работе с защищенной почтой."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Sending without encryption is easy, too: Simply click on the lock icon "
+#~ "again."
+#~ msgstr ""
+#~ "Чтобы отключить шифрование, просто нажмите на значок с изображением замка."
+
+#~ msgctxt "tour"
+#~ msgid "Encrypt files"
+#~ msgstr "Шифрование файлов"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You can also protect your files. Just click on Encrypt and the selected "
+#~ "file will be stored securely."
+#~ msgstr "Для дополнительной защиты выбранных файлов нажмите «Зашифровать»."
+
+#~ msgctxt "tour"
+#~ msgid "Encrypt your sensitive files in Drive"
+#~ msgstr "Зашифруйте важные файлы в Drive"
+
+#~ msgctxt "tour"
+#~ msgid "Restart Guided Tour"
+#~ msgstr "Повторить обзор"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "<em>Hint:</em> you can start guided tours, any time you need them, from "
+#~ "the system menu."
+#~ msgstr ""
+#~ "<em>Подсказка:</em> обзор можно запустить в любое время из системного "
+#~ "меню."
+
+#~ msgctxt "tour"
+#~ msgid "Guided Tour completed"
+#~ msgstr "Обзор завершен"
+
+#~ msgctxt "tour"
+#~ msgid "You successfully learned how to protect your emails and files."
+#~ msgstr "Теперь вы знаете, как защитить свою почту и файлы."
+
+#~ msgctxt "tour"
+#~ msgid "What you can do now:"
+#~ msgstr "Что дальше?"
+
+#~ msgctxt "tour"
+#~ msgid "Write an encrypted email"
+#~ msgstr "Создайте зашифрованное письмо"
+
+#~ msgctxt "tour"
+#~ msgid "Activate encryption for all new emails"
+#~ msgstr "Включите шифрование новых сообщений"
+
+#~ msgctxt "tour"
+#~ msgid "Review your encryption settings"
+#~ msgstr "Проверьте настройки шифрования"
+
+#~ msgctxt "tour"
+#~ msgid "Learn more"
+#~ msgstr "Узнать больше"
+
+#~ msgid "Start Setup"
+#~ msgstr "Приступить к настройке"
+
+#~ msgctxt "tour"
+#~ msgid "Setup %s"
+#~ msgstr "Настройка %s"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Welcome to %1$s. You will now be taken on a tour, showing you how to use "
+#~ "%1$s."
+#~ msgstr ""
+#~ "Добро пожаловать в %1$s. Этот краткий обзор поможет вам ознакомиться с "
+#~ "основными возможностями %1$s."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Firstly however, you’ll need to setup %1$s by choosing a password which "
+#~ "will be used to encrypt or decrypt items such as email or files."
+#~ msgstr ""
+#~ "Сначала потребуется настроить %1$s, выбрав пароль, который будет "
+#~ "использоваться для шифрования и дешифрования почтовых сообщений и файлов."
+
+#~ msgid "Choose %s Password"
+#~ msgstr "Выберите пароль %s"
+
+#~ msgid "Close"
+#~ msgstr "Закрыть"
+
+#~ msgctxt "tour"
+#~ msgid "%s set up completed"
+#~ msgstr "Настройка %s завершена"
+
+#~ msgctxt "tour"
+#~ msgid "Congratulations, you have successfully setup %s"
+#~ msgstr "Поздравляем! Вы успешно настроили %s"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Now you can learn more about how to use %s by following the links below:"
+#~ msgstr ""
+#~ "Чтобы более подробно познакомиться с функциями %s, перейдите по ссылкам:"
+
+#~ msgctxt "tour"
+#~ msgid "Learn more about %s"
+#~ msgstr "Узнать больше о %s"
+
+#~ msgid "Choose your security solution"
+#~ msgstr "Выберите решение по безопасности"
+
+#~ msgid "Key found for %1$s.  Import?"
+#~ msgstr "Обнаружен ключ для %1$s.  Импортировать?"
+
+#~ msgid "Import"
+#~ msgstr "Импорт"
+
+#~ msgid "Imported"
+#~ msgstr "Импортировн"
+
+#~ msgid "Updated"
+#~ msgstr "Обновлен"
+
+#~ msgid "Invalidated"
+#~ msgstr "Аннулирован"
+
+#~ msgid "Rejected"
+#~ msgstr "Отказ"
+
+#~ msgid "Warning"
+#~ msgstr "Предупреждение"
+
+#~ msgid ""
+#~ "Sending an encrypted email from an account other than %s may cause "
+#~ "problems with the recipient being able to reply.  Consider using your "
+#~ "primary account."
+#~ msgstr ""
+#~ "Отправляя зашифрованное письмо не с %s, а с другого аккаунта, может "
+#~ "оказаться так, что получатель не сможет на него ответить. Чтобы этого не "
+#~ "произошло, рекомендуется использовать основной аккаунт."
+
+#~ msgid "Do not warn me again"
+#~ msgstr "Больше не показывать"
+
+#~ msgid "PGP Info"
+#~ msgstr "Информация PGP"
+
+#~ msgid "Content Type"
+#~ msgstr "Тип контента"
+
+#~ msgid "PGP Details"
+#~ msgstr "Свойства PGP"
+
+#~ msgid ""
+#~ "Mailvelope is not supported in this browser.  Please use Chrome or "
+#~ "Firefox with Mailvelop installed."
+#~ msgstr ""
+#~ "Этот браузер не поддерживает Mailvelope. Используйте Chrome или Firefox."
+
+#~ msgid "Enter re-enter %s security password"
+#~ msgstr "Снова введите пароль %s"
+
+#~ msgid "Download Decrypted"
+#~ msgstr "Загрузить расшифрованное"
+
+#~ msgid "Download Encrypted"
+#~ msgstr "Скачать зашифрованным"
+
+#~ msgid "View"
+#~ msgstr "Просмотр"
+
+#~ msgid "Decrypt and Open"
+#~ msgstr "Расшифровать и открыть"
+
+#~ msgid "Drop files here to upload"
+#~ msgstr "Перетащите сюда файлы для добавления"
+
+#~ msgid "Add"
+#~ msgstr "Добавить"
+
+#~ msgid "Add:"
+#~ msgstr "Добавить:"
+
+#~ msgid "Must be in the same global address book"
+#~ msgstr "Должен быть в той же глобальной адресной книге"
+
+#~ msgid "Unable to add"
+#~ msgstr "Не удалось добавить"
+
+#~ msgid "Select"
+#~ msgstr "Выберите"
+
+#~ msgid "User"
+#~ msgstr "Пользователь"
+
+#~ msgid "Retract"
+#~ msgstr "Отозвать"
+
+#~ msgid "Unable to share"
+#~ msgstr "Не удалось поделиться"
+
+#~ msgid "Remove from share list"
+#~ msgstr "Удалить из общего списка"
+
+#~ msgid "Failed to remove the share"
+#~ msgstr "Не удалось удалить общий объект"
+
+#~ msgid "Password Needed"
+#~ msgstr "Требуется пароль"
+
+#~ msgid "Please provide your %s security password to share this file"
+#~ msgstr "Введите ваш пароль %s, чтобы предоставить доступ к этому файлу"
+
+#~ msgid "No users in same context"
+#~ msgstr "Нет пользователей с этим контекстом"
+
+#~ msgid "The following link will take you to the shared file"
+#~ msgstr "Эта ссылка откроет файл"
+
+#~ msgid "Shared file link"
+#~ msgstr "С вами поделились ссылкой"
+
+#~ msgid "Attached encrypted file"
+#~ msgstr "Вложен зашифрованный файл"
+
+#~ msgid "Shared file"
+#~ msgstr "С вами поделились файлом"
+
+#~ msgid "Add Permissions"
+#~ msgstr "Добавить разрешения"
+
+#~ msgid ""
+#~ "The following users do not have permission to view objects in this folder."
+#~ msgstr "Следующие пользователи не имеют права просмотра этой папки"
+
+#~ msgid "Do you wish to add read permissions to this folder for these users?"
+#~ msgstr "Разрешить чтение папки этими пользователями?"
+
+#~ msgid "Failed to add folder sharing permissions"
+#~ msgstr "Не удалось разрешить общий доступ"
+
+#~ msgid "%s %s %s"
+#~ msgstr "%s %s %s"
+
+#~ msgid "The provided filename exceeds the allowed length."
+#~ msgstr "Имя файла превышает допустимую длину."
+
+#~ msgid "The allowed quota is reached."
+#~ msgstr "Квота достигнута."
+
+#~ msgid "This file has not been added"
+#~ msgstr "Файл не добавлен"
+
+#~ msgid "Upload a new encrypted version"
+#~ msgstr "Добавить новую зашифрованную версию"
+
+#~ msgid "Upload file"
+#~ msgstr "Добавить файл"
+
+#~ msgid "Version Comment"
+#~ msgstr "Комментарий к версии"
+
+#~ msgid "Upload new encrypted version"
+#~ msgstr "Отправить новую зашифрованную версию"
+
+#~ msgid "Uploading..."
+#~ msgstr "Отправляется..."
+
+#~ msgid ""
+#~ "You are replying to an email that has not yet been decoded.  The "
+#~ "recipient will not be able to read the contents of the original email."
+#~ msgstr ""
+#~ "Вы отвечаете на письмо, которое еще не было расшифровано. Получатель не "
+#~ "сможет прочитать содержимое исходного письма."
+
+#~ msgid ""
+#~ "You are forwarding an email that has not yet been decoded.  The recipient "
+#~ "will not be able to read the contents of the original email."
+#~ msgstr ""
+#~ "Вы пытаетесь переслать письмо, которое еще не было расшифровано. "
+#~ "Получатель не сможет прочитать его содержимое."
+
+#~ msgid "Re: %1$s"
+#~ msgstr "Re: %1$s"
+
+#~ msgid "Fwd: %1$s"
+#~ msgstr "Fwd: %1$s"
+
+#~ msgid "Original Message"
+#~ msgstr "Исходное сообщение"
+
+#~ msgid "From: %1$s"
+#~ msgstr "От: %1$s"
+
+#~ msgid "To: %1$s"
+#~ msgstr "Кому: %1$s"
+
+#~ msgid "CC: %1$s"
+#~ msgstr "Копия: %1$s"
+
+#~ msgid "Date: %1$s"
+#~ msgstr "Дата: %1$s"
+
+#~ msgid "Subject: %1$s"
+#~ msgstr "Тема: %1$s"
+
+#~ msgid "On %1$s at %2$s %3$s wrote:"
+#~ msgstr "%1$s в %2$s %3$s написал:"
+
+#~ msgid "Attach My Key"
+#~ msgstr "Прикрепить мой ключ"
+
+#~ msgid "Do you really want to discard your message?"
+#~ msgstr "Вы действительно хотите удалить сообщение?"
+
+#~ msgctxt "dialog"
+#~ msgid "Discard message"
+#~ msgstr "Удалить"
+
+#~ msgid "Save as draft"
+#~ msgstr "Сохранить черновик"
+
+#~ msgid "Mail has empty subject. Send it anyway?"
+#~ msgstr "Пустая тема сообщения. Отправить?"
+
+#~ msgid "Yes, send without subject"
+#~ msgstr "Да, отправить без темы"
+
+#~ msgid "Add subject"
+#~ msgstr "Добавить тему"
+
+#~ msgid "Unable to authorize against backend"
+#~ msgstr "Не удалось авторизоваться на сервере"
+
+#~ msgid "Save"
+#~ msgstr "Сохранить"
+
+#~ msgid "Saving attachment to Drive"
+#~ msgid_plural "Saving attachments to Drive"
+#~ msgstr[0] "Сохранение вложения в Drive"
+#~ msgstr[1] "Сохранение вложений в Drive"
+#~ msgstr[2] "Сохранение вложений в Drive"
+
+#~ msgid "Attachment has been saved"
+#~ msgid_plural "Attachments have been saved"
+#~ msgstr[0] "Вложение сохранено"
+#~ msgstr[1] "Вложения сохранены"
+#~ msgstr[2] "Вложения сохранены"
+
+#~ msgid "Failed to decrypt"
+#~ msgstr "Не удалось расшифровать"
+
+#~ msgid "Failed to save attachments"
+#~ msgstr "Не удалось сохранить вложения"
+
+#~ msgid "Unsupported browser"
+#~ msgstr "Браузер не поддерживается"
+
+#~ msgid "Mail has no recipients"
+#~ msgstr "Не указан получатель"
+
+#~ msgid "Mail saved as draft"
+#~ msgstr "Черновик сохранен"
+
+#~ msgid "Unable to get keys for all users"
+#~ msgstr "Не удалось получить ключи для всех пользователей"
+
+#~ msgid ""
+#~ "The from address you selected for this email is not associated with an "
+#~ "encryption key.  Please send from your primary account, or optionally, "
+#~ "add the email address to your key using the advanced settings."
+#~ msgstr ""
+#~ "Выбранный адрес отправителя не связан с ключом шифрования. Отправьте "
+#~ "сообщение с вашего основного аккаунта или добавьте адрес электронной "
+#~ "почты в ключ в секции настройки дополнительных параметров."
+
+#~ msgid "An error occurred saving the email."
+#~ msgstr "Произошла ошибка при сохранении сообщения."
+
+#~ msgid "An error occurred sending the encrypted email."
+#~ msgstr "Произошла ошибка при попытке отправить зашифрованное сообщение."
+
+#~ msgid ""
+#~ "At least one of your attachments are encrypted.  Please provide your %s "
+#~ "security password to decrypt before sending"
+#~ msgstr ""
+#~ "Как минимум одно ваше вложение зашифровано. Введите пароль %s, чтобы "
+#~ "расшифровать перед отправкой"
+
+#~ msgid "To"
+#~ msgstr "Кому"
+
+#~ msgctxt "CC"
+#~ msgid "Copy"
+#~ msgstr "Копия"
+
+#~ msgid "Decoding"
+#~ msgstr "Расшифровывается..."
+
+#~ msgid ""
+#~ "Your pop-up blocker may have prevented a %s window that provides "
+#~ "application functionality."
+#~ msgstr ""
+#~ "Всплывающее окно %s было заблокировано. Для продолжения необходимо его "
+#~ "разблокировать."
+
+#~ msgid "VCard imported with warnings"
+#~ msgstr "Импорт vCard завершен с предупреждениями"
+
+#~ msgid "Failed to import vcard"
+#~ msgstr "Не удалось импортировать vCard"
+
+#~ msgid "VCard imported"
+#~ msgstr "VCard добавлена"
+
+#~ msgid "Save Encrypted to Drive"
+#~ msgstr "Сохранить зашифрованное на Drive"
+
+#~ msgid "Save Decoded to Drive"
+#~ msgstr "Расшифровать и сохранить на Drive"
+
+#~ msgid "Open in browser"
+#~ msgstr "Открыть в браузере"
+
+#~ msgid "Import as PGP Public Key"
+#~ msgstr "Импорт открытого ключа PGP"
+
+#~ msgid "Add to address book"
+#~ msgstr "Добавить в адресную книгу"
+
+#~ msgid "no files"
+#~ msgstr "нет файлов"
+
+#~ msgid "Save attachment"
+#~ msgstr "Сохранить вложение"
+
+#~ msgid "Unable to save decrypted file"
+#~ msgstr "Не удалось сохранить расшифрованный файл"
+
+#~ msgid "Unable to decrypt"
+#~ msgstr "Не удалось расшифровать"
+
+#~ msgid "Send copy by mail"
+#~ msgstr "Отправить копию по почте"
+
+#~ msgid "Enter %s Security Password"
+#~ msgstr "Введите пароль %s Security"
+
+#~ msgid "Encrypt Files"
+#~ msgstr "Зашифровать файлы"
+
+#~ msgid "Only the latest version of the files will be encrypted."
+#~ msgstr "Будет зашифрована только последняя версия файла."
+
+#~ msgid "All previous versions will be deleted."
+#~ msgstr "Предыдущие версии будут удалены."
+
+#~ msgid "This file could not be uploaded."
+#~ msgstr "Не удалось отправить файл."
+
+#~ msgid "Upload"
+#~ msgstr "Добавить"
+
+#~ msgid "Please provide your %s Security Password to share this file"
+#~ msgstr "Чтобы поделиться файлом, введите пароль %s Security"
+
+#~ msgid "Bad private key"
+#~ msgstr "Недействительный закрытый ключ"
+
+#~ msgid "On %1$s %2$s sent:"
+#~ msgstr "%1$s %2$s пишет:"
+
+#~ msgid ""
+#~ "At least one of your attachments are encrypted.  Please provide your %s "
+#~ "Security Password to decrypt before sending"
+#~ msgstr ""
+#~ "Обнаружены зашифрованные вложения. Чтобы их расшифровать, введите пароль "
+#~ "%s Security"
+
+#~ msgid ""
+#~ "Upload your Mailvelope public keys to the %s server so that other people "
+#~ "can send you encrypted emails"
+#~ msgstr ""
+#~ "Загрузите открытые ключи Mailvelope на сервер %s, чтобы другие "
+#~ "пользователи смогли отправлять вам зашифрованные сообщения."
+
+#~ msgid "Extra Password"
+#~ msgstr "Дополнительный пароль"
+
+#~ msgid ""
+#~ "This allows you to set an extra password that will be required for "
+#~ "reading this item."
+#~ msgstr "Определяет дополнительный пароль для чтения письма."
+
+#~ msgid "Please enter it below"
+#~ msgstr "Введите его ниже"
+
+#~ msgid "Please enter your %s Security password"
+#~ msgstr "Введите пароль %s Security"
+
+#~ msgid "Failed to add extra password"
+#~ msgstr "Не удалось добавить дополнительный пароль"
+
+#~ msgid "Remember Password"
+#~ msgstr "Запомнить пароль"
+
+#~ msgid ""
+#~ "HTML formatted emails may cause issues with PGP inline.  Click OK to "
+#~ "change to Plain Text formatted Emails"
+#~ msgstr ""
+#~ "Форматирование HTML может вызвать ошибки при вставке PGP. Нажмите OK, "
+#~ "чтобы вернуться к текстовому формату."
+
+#~ msgid "Secure Email, enter your %s security password"
+#~ msgstr "Защищенная почта. Введите пароль %s Security"
+
+#~ msgid ""
+#~ "The new recipients listed below will be sent a password via email.  You "
+#~ "can also require a seperate pin, which is displayed below"
+#~ msgstr ""
+#~ "Перечисленные адресаты получат пароль по электронной почте. Дополнительно "
+#~ "можно запросить отдельный PIN (см. ниже)."
+
+#~ msgid ""
+#~ "You may deliver this pin any way you see fit, but we recommend doing it "
+#~ "in a second method other than email (Phone, SMS, Skype, etc)"
+#~ msgstr ""
+#~ "Этот PIN можно передать адресату любым способом: по телефону, посредством "
+#~ "SMS или через Skype. Не рекомендуется отправлять его по электронной "
+#~ "почте, так как это снижает уровень защиты."
+
+#~ msgid "If you want this extra pin requirement, click OK"
+#~ msgstr "Чтобы включить дополнительный PIN, нажмите OK."
+
+#~ msgid "Please enter your %s password to sign this email"
+#~ msgstr "Введите пароль %s, чтобы подписать письмо"
+
+#~ msgid "Please enter your %s password for signing"
+#~ msgstr "Введите пароль %s для подписи"
+
+#~ msgid "Problems creating keys, please try again later"
+#~ msgstr "Не удалось создать ключи. Повторите попытку позже."
+
+#~ msgid ""
+#~ "Problems creating keys.  Keys already exist for this email address in "
+#~ "another account"
+#~ msgstr ""
+#~ "Другая учетная запись уже создала ключи для этого электронного адреса."
+
+#~ msgid ""
+#~ "Please choose the password you will use for %s. You will need to type "
+#~ "this password whenever you want to encrypt or decrypt items. Remember it "
+#~ "should be different from your login password, and will not change if you "
+#~ "change your login password"
+#~ msgstr ""
+#~ "Выберите пароль для работы с %s. Этот пароль надо будет вводить при "
+#~ "каждом выполнении шифрования и дешифрования объектов. Этот пароль должен "
+#~ "отличаться от пароля учетной записи и никак с ним не связан."
+
+#~ msgid "Please enter a password to protect your new encrypted items"
+#~ msgstr "Введите пароль для защиты объектов"
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password"
+#~ msgstr "Введите дополнительный электронный адрес для восстановления пароля"
+
+#~ msgid "Rember my password"
+#~ msgstr "Запомнить пароль"
+
+#~ msgid "This Email was signed and verified"
+#~ msgstr "Письмо подписано, и его подлинность удостоверена."
+
+#~ msgid "This Email was signed but unable to verify"
+#~ msgstr "Это письмо подписано, но его подлинность не удалось подтвердить."
+
+#~ msgid "This Email was signed and failed verification"
+#~ msgstr "Письмо подписано отправителем, но не прошло проверку."
+
+#~ msgid ""
+#~ "Please change the initial temporary %s security password that was sent to "
+#~ "you in a seperate email."
+#~ msgstr ""
+#~ "Не забудьте изменить временный пароль %s Security, который вы должны были "
+#~ "получить отдельным письмом."
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password</p>"
+#~ msgstr ""
+#~ "Введите дополнительный электронный адрес для восстановления пароля</p>"
+
+#~ msgid "This Email was signed by the sender and verified"
+#~ msgstr "Это письмо подписано отправителем, и его подлинность удостоверена."
+
+#~ msgid "If you already have a private key, you can upload it here"
+#~ msgstr "Если у вас есть закрытый ключ, добавьте его здесь"
+
+#~ msgid "Finally, you can have a new PGP Key Pair created for your account"
+#~ msgstr "Вы можете создать новую пару ключей PGP для своей учетной записи"
+
+#~ msgid "Add a name and email address to this public key"
+#~ msgstr "Добавьте имя и электронный адрес для этого ключа"
+
+#~ msgid "PGP default to using PGP inline for compatibility"
+#~ msgstr "Встроенная подпись PGP в целях совместимости"
+
+#~ msgid "Please verify your password before deleting the recovery"
+#~ msgstr "Для продолжения введите пароль"
+
+#~ msgid "A new password has been sent to your email address"
+#~ msgstr "Новый пароль отправлен на ваш электронный адрес"
+
+#~ msgid "A new password has been sent to your secondary email address"
+#~ msgstr "Новый пароль отправлен на запасной адрес"
+
+#~ msgid "No password recovery is available"
+#~ msgstr "Функции восстановления пароля недоступны"
+
+#~ msgid "Password reset, but unable to send to your email address"
+#~ msgstr "Пароль изменен, но его не удалось отправить на ваш адрес"
+
+#~ msgid "Unable to find email address to send password reset"
+#~ msgstr "Не найден адрес для восстановления пароля"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Enabling Advanced PGP Features will enable key management and specifying "
+#~ "sending formats"
+#~ msgstr ""
+#~ "Включив дополнительные функции PGP, вы сможете управлять ключами и "
+#~ "выбирать формат отправки сообщений"
+
+#~ msgid "This email was sent with an extra password."
+#~ msgstr "Отправленное письмо было защищено дополнительным паролем."
+
+#~ msgid "Please enter below"
+#~ msgstr "Введите дополнительный пароль"
+
+#~ msgid "An error occurred during sending the encrypted email."
+#~ msgstr "Произошла ошибка при отправке зашифрованного письма."
+
+#~ msgid "This appears to be the first time you have used Encryption"
+#~ msgstr "Похоже, вы впервые используете шифрование"
+
+#~ msgid ""
+#~ "Please change the temporary %s security password that was sent to you in "
+#~ "a seperate email."
+#~ msgstr ""
+#~ "Не забудьте изменить временный пароль %s Security, который вы получили по "
+#~ "почте."
+
+#~ msgid "%s PGP Settings"
+#~ msgstr "Параметры PGP %s"
+
+#~ msgid "Changed"
+#~ msgstr "Изменен"
+
+#~ msgctxt "tour"
+#~ msgid "Sending without encryption"
+#~ msgstr "Отправка без шифрования"
+
+#~ msgctxt "tour"
+#~ msgid "Create Your %s Account"
+#~ msgstr "Создайте учетную запись %s"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You now need to choose a password which will be used to encrypt or "
+#~ "decrypt items. You only need to set this up once. Your password will then "
+#~ "remain valid until you change it."
+#~ msgstr ""
+#~ "Сначала надо создать пароль для шифрования и расшифровки сообщений. Этот "
+#~ "пароль останется активным до тех пор, пока вы его не измените."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You successfully set up secure communication. Your private key has been "
+#~ "created."
+#~ msgstr "Вы настроили безопасный обмен сообщениями; закрытый ключ создан."
+
+#~ msgid ""
+#~ "Upload your Mailvelope public keys to the Guard server so that other "
+#~ "people can send you encrypted emails"
+#~ msgstr ""
+#~ "Загрузите открытые ключи Mailvelope на сервер Guard, чтобы другие "
+#~ "пользователи смогли отправлять вам зашифрованные сообщения."
+
+#~ msgid ""
+#~ "Your pop-up blocker may have prevented a Guard window that provides "
+#~ "application functionality."
+#~ msgstr ""
+#~ "Всплывающее окно было заблокировано. Для продолжения необходимо его "
+#~ "разблокировать."
+
+#~ msgid "Please enter your Guard Security password"
+#~ msgstr "Введите пароль Guard"
+
+#~ msgid "Enter Guard Security Password"
+#~ msgstr "Введите пароль Guard"
+
+#~ msgid "Please provide your Guard Security Password to share this file"
+#~ msgstr "Чтобы поделиться файлом, введите пароль Guard"
+
+#~ msgid "Secure Email, enter your Guard security password"
+#~ msgstr "Почта защищена. Введите пароль Guard"
+
+#~ msgid "Keep me logged into Guard"
+#~ msgstr "Оставаться в Guard"
+
+#~ msgid "Will create new guest account for Guard"
+#~ msgstr "Будет создана гостевая учетная запись Guard"
+
+#~ msgid "Have encryption key"
+#~ msgstr "Есть ключ шифрования"
+
+#~ msgid "Please enter your Guard password to sign this email"
+#~ msgstr "Чтобы подписать сообщение, введите пароль Guard"
+
+#~ msgid "Please enter your Guard password for signing"
+#~ msgstr "Введите пароль Guard"
+
+#~ msgid ""
+#~ "At least one of your attachments are encrypted.  Please provide your "
+#~ "Guard Security Password to decrypt before sending"
+#~ msgstr ""
+#~ "Обнаружены зашифрованные вложения. Чтобы расшифровать, введите пароль "
+#~ "Guard."
+
+#~ msgid "Automated Email Language"
+#~ msgstr "Язык автоматических сообщений"
+
+#~ msgid "Create Guard Security Keys"
+#~ msgstr "Создать ключи защиты Guard"
+
+#~ msgid "First Guard Security Password Use"
+#~ msgstr "Первое использование пароля Guard"
+
+#~ msgid ""
+#~ "Please change the temporary Guard security password that was sent to you "
+#~ "in a seperate email."
+#~ msgstr "Измените временный пароль Guard, который вы получили по почте."
+
+#~ msgid "Please enter your Guard password"
+#~ msgstr "Введите пароль Guard"
+
+#~ msgid ""
+#~ "Please change the initial temporary Guard security password that was sent "
+#~ "to you in a seperate email."
+#~ msgstr ""
+#~ "Временный пароль Guard отправлен в отдельном письме. Рекомендуется его "
+#~ "изменить."
+
+#~ msgid "Guard PGP Settings"
+#~ msgstr "PGP Guard"
+
+#~ msgid ""
+#~ "If you would like to upload a public key only, then do so here.  This "
+#~ "will allow you to encrypt files and receive encrypted emails using Guard, "
+#~ "but you will need to use the private key with another program to decode "
+#~ "the items."
+#~ msgstr ""
+#~ "Здесь вы можете добавить открытый ключ. Это позволит шифровать файлы и "
+#~ "получать зашифрованные письма в Guard, но для их расшифровки надо будет "
+#~ "использовать другую программу."
+
+#~ msgid "Guided tour for Guard"
+#~ msgstr "Знакомство с Guard"
+
+#~ msgid "Sign out Guard"
+#~ msgstr "Выйти из Guard"
+
+#~ msgctxt "app"
+#~ msgid "Guard Security"
+#~ msgstr "Защита Guard"
+
+#~ msgid ""
+#~ "In order to start with Guard Security, you must set up a password for "
+#~ "your secured files."
+#~ msgstr ""
+#~ "Для начала необходимо настроить пароль, который будет использоваться для "
+#~ "защиты файлов."
+
+# проверено в интерфейсе, лучше сократить
+#~ msgid "Guard Security Settings"
+#~ msgstr "Защита Guard"
+
+#~ msgid "Change Guard Security Password."
+#~ msgstr "Изменить пароль Guard"
+
+#~ msgid "Enter current Guard security password"
+#~ msgstr "Введите текущий пароль Guard"
+
+#~ msgid "Enter new Guard security password"
+#~ msgstr "Введите новый пароль защиты Guard"
+
+#~ msgid "Verify new Guard security password"
+#~ msgstr "Подтвердите пароль"
+
+#~ msgid "Change Guard security password"
+#~ msgstr "Изменить пароль Guard"
+
+#~ msgid "Reset Guard security password"
+#~ msgstr "Сбросить пароль Guard"
+
+#~ msgid ""
+#~ "Send a temporary Guard security password to my secondary Email address."
+#~ msgstr "Отправить временный пароль Guard на запасной адрес."
+
+#~ msgctxt "tour"
+#~ msgid "The Guard module"
+#~ msgstr "Модуль Guard"
+
+#~ msgctxt "tour"
+#~ msgid "Guard Security Settings"
+#~ msgstr "Защита Guard"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You already set up your Guard account. But you can always change your "
+#~ "encryption password, or request a temporary password if you forget it."
+#~ msgstr ""
+#~ "Ваша учетная запись Guard уже настроена, но вы можете изменить пароль "
+#~ "шифрования, а в случае его утери запросить временный пароль."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "By default Guard sends encrypted emails using PGP/Mime format. To "
+#~ "communicate with some systems you may need to use PGP Inline."
+#~ msgstr ""
+#~ "По умолчанию Guard отправляет сообщения в формате PGP/Mime. В целях "
+#~ "совместимости с некоторыми системами может потребоваться интегрировать "
+#~ "PGP в текст сообщения."
+
+#~ msgctxt "tour"
+#~ msgid "Remove encryption"
+#~ msgstr "Отменить шифрование"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Removing the encryption is easy, too: Simply click on the lock icon again."
+#~ msgstr "Чтобы отключить шифрование, нажмите значок с изображением замка."
+
+#~ msgctxt "tour"
+#~ msgid "Create Your Guard Account"
+#~ msgstr "Создайте учетную запись Guard"
+
+#~ msgctxt "tour"
+#~ msgid "Guard set up completed"
+#~ msgstr "Настройка Guard завершена"
+
+#~ msgctxt "Choice"
+#~ msgid "Works only in all browsers with all your contacts"
+#~ msgstr "Работает во всех браузерах со всеми вашими контактами"
+
+#~ msgid "Click to enable encryption"
+#~ msgstr "Нажмите, чтобы включить шифрование"
+
+#~ msgid "Click to disable encryption"
+#~ msgstr "Нажмите, чтобы отключить шифрование"
+
+#~ msgid "Error.  Please reload message"
+#~ msgstr "Ошибка. Попробуйте перезагрузить сообщение."
+
+#~ msgid "You have exceeded bad password attempts.  Please wait %s minutes"
+#~ msgstr "Превышено максимальное число попыток. Повторите через %s мин."
+
+#~ msgid ""
+#~ "This email has expired and can no longer be accessed.  Contact the sender "
+#~ "for more information."
+#~ msgstr ""
+#~ "Сообщение недоступно, так как время его действия истекло. За дальнейшей "
+#~ "информацией обратитесь к отправителю."
+
+#~ msgid ""
+#~ "This Email has been retracted by the sender and can no longer be "
+#~ "accessed.  Contact the sender for more information."
+#~ msgstr ""
+#~ "Отправитель отозвал сообщение, поэтому оно больше не доступно. За "
+#~ "дальнейшей информацией обратитесь к отправителю."
+
+#~ msgid "Unable to decrypt Email."
+#~ msgstr "Не удалось расшифровать письмо."
+
+#~ msgid "The sender added an extra password encryption."
+#~ msgstr "Отправитель защитил письмо паролем."
+
+#~ msgid "Save Encrypted"
+#~ msgstr "Сохранить зашифрованное"
+
+#~ msgid "Save Decrypted"
+#~ msgstr "Сохранить расшифрованное"
+
+#~ msgid ""
+#~ "This Email was sent encrypted. It has been decrypted with your private key"
+#~ msgstr "Это сообщение было расшифровано с помощью закрытого ключа"
+
+#~ msgid "Expires: "
+#~ msgstr "Истекает:"
+
+#~ msgid "Retract Email"
+#~ msgstr "Отозвать письмо"
+
+#~ msgid "Email status"
+#~ msgstr "Статус"
+
+#~ msgid "Retract all access"
+#~ msgstr "Отозвать доступ"
+
+#~ msgid "Email has not been opened."
+#~ msgstr "Письмо не открывалось."
+
+#~ msgid "Email has been opened."
+#~ msgstr "Письмо было открыто."
+
+#~ msgid "Email has been retracted."
+#~ msgstr "Письмо было отозвано."
+
+#~ msgid "Unable to get email status, please try again later"
+#~ msgstr "Не удалось получить статус письма. Повторите попытку позже"
+
+#~ msgid "This will retract the email for all recipients. Click OK to confirm."
+#~ msgstr ""
+#~ "Письмо будет отозвано от всех адресатов. Нажмите ОК для продолжения."
+
+#~ msgid "Item was retracted"
+#~ msgstr "Объект был отозван."
+
+#~ msgid "Not all items retracted"
+#~ msgstr "Были отозваны не все объекты."
+
+#~ msgid "Failed to retract"
+#~ msgstr "Не удалось отозвать"
+
+#~ msgctxt "tour"
+#~ msgid "Learn more …"
+#~ msgstr "Узнать больше…"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "From here you can update you encryption settings. For example you can "
+#~ "choose to send encrypted emails by default."
+#~ msgstr ""
+#~ "Здесь можно установить параметры шифрования, например включить шифрование "
+#~ "исходящих сообщений."
+
+#~ msgid "Message was saved"
+#~ msgstr "Сообщение сохранено"
+
+#~ msgid "Problem creating keys"
+#~ msgstr "Ошибка создания ключей"
+
+#~ msgctxt "tour"
+#~ msgid "Please click on the lock icon."
+#~ msgstr "Нажмите значок с изображением замка."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Please choose your password now, enter a secondary email address and "
+#~ "click on Ok."
+#~ msgstr "Выберите пароль, введите запасной электронный адрес и нажмите ОК."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You can always change your encryption password, or request a temporary "
+#~ "password if you forget it."
+#~ msgstr ""
+#~ "Пароль шифрования можно в любое время изменить, а в случае утери "
+#~ "запросить временный пароль."
+
+#~ msgctxt "tour"
+#~ msgid "Congratulations! You are now able to send secure emails."
+#~ msgstr "Поздравляем! Теперь вы готовы к работе с защищенной почтой."
+
+#~ msgctxt "tour"
+#~ msgid "Please remove the encryption now by clicking on the lock icon again."
+#~ msgstr "Чтобы отключить шифрование, нажмите значок с изображением замка."
+
+#~ msgid "%s already encrypted"
+#~ msgstr "%s уже зашифрован"
+
+#~ msgid "Add folder"
+#~ msgstr "Добавить папку"
+
+#~ msgid "Already Protected With Additional Password"
+#~ msgstr "Уже защищено дополнительным паролем"
+
+#~ msgid "Click to disable PGP encryption"
+#~ msgstr "Нажмите, чтобы отключить шифрование PGP"
+
+#~ msgid "Done"
+#~ msgstr "Готово"
+
+#~ msgid "Drop here to upload a <b class=\"dndignore\">new encrypted file</b>"
+#~ msgstr ""
+#~ "Перетащите сюда, чтобы добавить <b class=\"dndignore\">зашифрованный "
+#~ "файл</b>."
+
+#~ msgid "Encrypting "
+#~ msgstr "Шифрование"
+
+#~ msgid "Encrypting %s"
+#~ msgstr "Шифрование %s"
+
+#~ msgid "FW: %1$s"
+#~ msgstr "FW: %1$s"
+
+#~ msgid "Failed to encrypt file"
+#~ msgstr "Не удалось зашифровать файл"
+
+#~ msgid "Folder name"
+#~ msgstr "Имя папки"
+
+#~ msgid "New Encrypted folder"
+#~ msgstr "Новая зашифрованная папка"
+
+#~ msgid "New Encrypted subfolder"
+#~ msgstr "Новая зашифрованная вложенная папка"
+
+#~ msgid "New encrypted subfolder"
+#~ msgstr "Новая зашифрованная вложенная папка"
+
+#~ msgid "New folder"
+#~ msgstr "Новая папка"
+
+#~ msgid "New public folder"
+#~ msgstr "Новая общая папка"
+
+#~ msgid ""
+#~ "One of your recipients requires emails to be sent as PGP Inline.  "
+#~ "Changing now."
+#~ msgstr ""
+#~ "Один из адресатов требует, чтобы сообщения содержали встроенный PGP. Идет "
+#~ "преобразование..."
+
+#~ msgid "PGP key exists for this person"
+#~ msgstr "Для этого контакта есть ключ PGP"
+
+#~ msgid "Require Additional Password"
+#~ msgstr "Требовать дополнительный пароль"
+
+#~ msgid "Security Options"
+#~ msgstr "Параметры защиты"
+
+#~ msgid "Send encrypted (PGP)"
+#~ msgstr "Отправить зашифрованное (PGP)"
+
+#~ msgid "Share keys with other users to decrypt this file"
+#~ msgstr "Поделиться ключами с другими пользователями"
+
+#~ msgid "Share link"
+#~ msgstr "Отправить ссылку"
+
+#~ msgid "Sharing"
+#~ msgstr "Общий доступ"
+
+#~ msgid "Sign email"
+#~ msgstr "Подписать письмо"
+
+#~ msgid "Status"
+#~ msgstr "Статус"
+
+#~ msgid "Stop"
+#~ msgstr "Остановить"
+
+#~ msgid "The key for %1$s is expired and should not be used"
+#~ msgstr "Срок действия ключа %1$s истек."
+
+#~ msgid "Unable to create Guard account, please try again later"
+#~ msgstr "Не удалось создать учетную запись Guard. Повторите попытку позже"
+
+#~ msgid "Upload new files to encrypt"
+#~ msgstr "Выбрать файлы для шифрования"
+
+#~ msgid "Use PGP inline (compatibility)"
+#~ msgstr "Встроить PGP (совместимость)"
+
+#~ msgid "%s hours"
+#~ msgstr "%s ч."
+
+#~ msgid "%s week"
+#~ msgstr "%s неделю"
+
+#~ msgid "%s weeks"
+#~ msgstr "%s нед."
+
+#~ msgid "Added keys:"
+#~ msgstr "Добавлены ключи:"
+
+#~ msgid "CC:"
+#~ msgstr "Копия:"
+
+#~ msgid "Click to disable Guard"
+#~ msgstr "Щелкните, чтобы отключить Guard"
+
+#~ msgid "Click to enable Guard"
+#~ msgstr "Щелкните, чтобы включить Guard"
+
+#~ msgid "Confirm Guard Password"
+#~ msgstr "Подтвердите пароль Guard"
+
+#~ msgid "Create Guard Account"
+#~ msgstr "Создать учетную запись Guard"
+
+#~ msgid "Date:"
+#~ msgstr "Дата:"
+
+#~ msgid "Decode"
+#~ msgstr "Расшифровать"
+
+#~ msgid "Default signing outgoing PGP mails"
+#~ msgstr "По умолчанию подписывать исходящую почту PGP"
+
+#~ msgid "Defaults"
+#~ msgstr "По умолчанию"
+
+#~ msgid "Download (OG)"
+#~ msgstr "Загрузить (OG)"
+
+#~ msgid "Enable Guard"
+#~ msgstr "Включить Guard"
+
+#~ msgid "Encrypted email has been sent successfully."
+#~ msgstr "Зашифрованное письмо отправлено."
+
+#~ msgid "Encrypting"
+#~ msgstr "Шифрование"
+
+#~ msgid "From:"
+#~ msgstr "От:"
+
+#~ msgid "Fwd:"
+#~ msgstr "Fwd:"
+
+#~ msgid "IDs:"
+#~ msgstr "Идентификаторы:"
+
+#~ msgid "Initializing Guard, please wait"
+#~ msgstr "Инициализация Guard. Пожалуйста, подождите..."
+
+#~ msgid "Inline"
+#~ msgstr "Встроен"
+
+#~ msgid "Make Guard default to PGP compliant"
+#~ msgstr "Совместимость Guard с PGP"
+
+#~ msgid "Never"
+#~ msgstr "Никогда"
+
+#~ msgid "No recipients"
+#~ msgstr "Нет получателей"
+
+#~ msgid "None"
+#~ msgstr "Нет"
+
+#~ msgid "Not able to contact guard server"
+#~ msgstr "Не удалось связаться с сервером Guard"
+
+#~ msgid "On"
+#~ msgstr "в"
+
+#~ msgid "Open"
+#~ msgstr "Открыть"
+
+#~ msgid "Open Decoded"
+#~ msgstr "Открыть расшифрованное"
+
+#~ msgid "PGP Compliant Guard"
+#~ msgstr "PGP-совместимый Guard"
+
+#~ msgid "PGP default to PGP inline for compatibility"
+#~ msgstr "По умолчанию встроенная подпись PGP для совместимости"
+
+#~ msgid "Please enter a password to protect your Guard account"
+#~ msgstr "Введите пароль учетной записи Guard"
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password.  A new password would be sent to this email."
+#~ msgstr ""
+#~ "Введите дополнительный электронный адрес, на который будет отправлен "
+#~ "новый пароль."
+
+#~ msgid "Please select the file location of your private key."
+#~ msgstr "Выберите файл закрытого ключа."
+
+#~ msgid "Private Key Password"
+#~ msgstr "Пароль закрытого ключа"
+
+#~ msgid "Problem uploading Private Key"
+#~ msgstr "Не удалось передать закрытый ключ"
+
+#~ msgid "Public Key List"
+#~ msgstr "Список открытых ключей"
+
+#~ msgid "Recipient has Guard"
+#~ msgstr "Получатель использует Guard"
+
+#~ msgid "Retract in"
+#~ msgstr "Отозвать через "
+
+#~ msgid "Save Decoded"
+#~ msgstr "Сохранить расшифрованное"
+
+#~ msgid "Shared"
+#~ msgstr "Общий"
+
+#~ msgid "Sign PGP"
+#~ msgstr "Подпись PGP"
+
+#~ msgid "Subject:"
+#~ msgstr "Тема:"
+
+#~ msgid ""
+#~ "The key will be used locally only.  It will not be sent to the server."
+#~ msgstr "Это локальный ключ. Он не будет отправлен на сервер."
+
+#~ msgid "This appears to be the first time you have used Guard"
+#~ msgstr "Похоже, вы используете Guard впервые."
+
+#~ msgid "To:"
+#~ msgstr "Кому:"
+
+#~ msgid "Unable to get key for encryption"
+#~ msgstr "Не удалось получить ключ шифрования"
+
+#~ msgid "Unable to load"
+#~ msgstr "Ошибка загрузки"
+
+#~ msgid "Use Guard when composing a new email"
+#~ msgstr "Использовать Guard для новых сообщений"
+
+#~ msgid "Using a guest account for email"
+#~ msgstr "Для работы с почтой используется гостевая учетная запись"
+
+#~ msgid "Your private key"
+#~ msgstr "Ваш закрытый ключ"
+
+#~ msgid "Your public key"
+#~ msgstr "Ваш открытый ключ"
+
+#~ msgid "popup blocked"
+#~ msgstr "всплывающее окно заблокировано"

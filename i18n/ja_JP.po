@@ -1,0 +1,2571 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: open-xchange-guard-ui\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2018-01-12 09:05-0500\n"
+"Last-Translator: Greg Hill <greg.hill@open-xchange.com>\n"
+"Language-Team: NAME <EMAIL>\n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.6.10\n"
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "Toggle Encryption"
+msgstr ""
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "Not Supported"
+msgstr "サポートされていません"
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "%s is not supported with secured email and will be disabled."
+msgstr ""
+"セキュリティ保護されたメールの場合は %s をサポートされていないため、無効にな"
+"ります。"
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "OK"
+msgstr "OK"
+
+#. %s product Name
+#: apps/mailvelope/settings.js module:oxguard
+msgid "Mailvelope"
+msgstr "Mailvelope"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Mailvelope Not Supported"
+msgstr "Mailvelope がサポートされていません"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid ""
+"Mailvelope is only supported in Google Chrome or Mozilla Firefox.  Please "
+"use one of these broswers to set up encryption."
+msgstr ""
+"Mailvelope のサポートは Google Chrome や Mozilla Firefox にてしか行われませ"
+"ん。そのブラウザーのどちらかを使ってください。"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Encrypted communication"
+msgstr "暗号化通信"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Download browser plugin"
+msgstr "ブラウザープラグインをダウンロード"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Generate"
+msgstr "生成"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Congratulations! You have successfully set up encryption."
+msgstr "おめでとう！暗号化の設定ができました。"
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Prepare"
+msgstr "準備"
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Password"
+msgstr "パスワード"
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Three steps to setup encrypted communication:"
+msgstr "暗号化通信を設定する3ステップ："
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Download browser plugin “Mailvelope”"
+msgstr "ブラウザプラグイン「Mailvelope」をダウンロード"
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Create encryption keys for secure communication"
+msgstr "セキュリティ保護された通信のための暗号化鍵を作成"
+
+#~ msgid "Mailvelope Advanced"
+#~ msgstr "Mailvelope 詳細"
+
+#~ msgid "Error"
+#~ msgstr "エラー"
+
+#~ msgid ""
+#~ "Backup your Mailvelope private keys to the server.  The keys will be "
+#~ "encrypted requiring a security code for restore"
+#~ msgstr ""
+#~ "サーバに Mailvelope 秘密鍵をバックアップしてください。鍵は、暗号化され、復"
+#~ "元用セキュリティコードを必要とします。"
+
+#~ msgid "Backup"
+#~ msgstr "バックアップ"
+
+#~ msgid "Discard previously saved private keys."
+#~ msgstr "以前保存した秘密鍵を破棄します。"
+
+#~ msgid "Discard backup"
+#~ msgstr "バックアップを破棄"
+
+#~ msgid "Restore previously saved private keys."
+#~ msgstr "以前保存した秘密鍵を復元します。"
+
+#~ msgid "Restore"
+#~ msgstr "復元"
+
+#~ msgid ""
+#~ "Upload your Mailvelope public keys to the %s server so that other people "
+#~ "can send you encrypted emails."
+#~ msgstr ""
+#~ "他の人が暗号化されたメールを送れるように、Mailvelope公開鍵を %s サーバに"
+#~ "アップロードしてください。"
+
+#~ msgid "Upload Public Key"
+#~ msgstr "公開鍵をアップロード"
+
+#~ msgid "Backup and Recovery"
+#~ msgstr "バックアップと復元"
+
+#~ msgid "No backup data available"
+#~ msgstr "バックアップデータはありません"
+
+#~ msgid ""
+#~ "You can now backup your keys. Please store the provided password secure. "
+#~ "It is also possible to skip this step and do the backup later. You can "
+#~ "find it in the settings."
+#~ msgstr ""
+#~ "鍵のバックアップができます。提供されたパスワードを安全に保存してください。"
+#~ "このステップをスキップして、バックアップを後で行うこともできます。設定で見"
+#~ "つけることもできます。"
+
+#~ msgid "Skip without backup"
+#~ msgstr "バックアップなしでスキップ"
+
+#~ msgid "Recommended: Setup key backup"
+#~ msgstr "推奨：鍵のバックアップを設定"
+
+#~ msgid "Enter %s security password"
+#~ msgstr "%s セキュリティパスワードを入力してください"
+
+#~ msgid "Bad password"
+#~ msgstr "パスワードが正しくありません。"
+
+#~ msgid "Account Locked out"
+#~ msgstr "アカウントがロックされています"
+
+#~ msgid "Unspecified error"
+#~ msgstr "詳細不明のエラー"
+
+#~ msgid "Problems creating keys, please try again later."
+#~ msgstr "鍵の作成に問題が発生しました。後でもう一度試してください。"
+
+#~ msgid ""
+#~ "Problems creating keys.  Keys already exist for this email address in "
+#~ "another account."
+#~ msgstr ""
+#~ "鍵の作成に問題が発生しました。このメールアドレスが他のアカウントに既に存在"
+#~ "しています。"
+
+#~ msgid "Passwords must be at least %s characters in length"
+#~ msgstr "パスワードは少なくとも %s 文字以上にする必要があります。"
+
+#~ msgid "Passwords not equal"
+#~ msgstr "パスワードが異なります。"
+
+#~ msgid "Enter new secondary Email address"
+#~ msgstr "新しい二番目のメールアドレスを入力"
+
+#~ msgid "Generating key, Please wait"
+#~ msgstr "鍵を生成しています。お待ちください。"
+
+#~ msgid ""
+#~ "Please choose the password you will use for %s. You will need to type "
+#~ "this password whenever you want to encrypt or decrypt items. Remember it "
+#~ "should be different from your login password, and will not change if you "
+#~ "change your login password."
+#~ msgstr ""
+#~ "%s用に使うパスワードを選択してください。このパスワードはアイテムの暗号化や"
+#~ "復号化に必要になります。ログインパスワードと異なるパスワードでなければなら"
+#~ "ないと忘れないでください。ログインパスワードを変えてもこのパスワードは変わ"
+#~ "りません。"
+
+#~ msgid "Please enter a password to protect your new encrypted items."
+#~ msgstr "新規暗号化アイテムを保護するためのパスワードを入力してください。"
+
+#~ msgid "Confirm"
+#~ msgstr "確定"
+
+#~ msgid ""
+#~ "Warning: This password for encryption cannot be restored or recovered in "
+#~ "any way.  If forgotten, all encrypted data will be lost"
+#~ msgstr ""
+#~ "警告：この暗号化パスワードは、復元することができません。忘れた場合、すべて"
+#~ "の暗号化されたデータが失われます。"
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password."
+#~ msgstr ""
+#~ "ご利用のパスワードをリセットする必要がある場合は、二番目のメールアドレスを"
+#~ "入力してください。"
+
+#~ msgid "Email:"
+#~ msgstr "メール："
+
+#~ msgid "Create %s Security Keys"
+#~ msgstr "%s セキュリティ鍵を作成"
+
+#~ msgid "Cancel"
+#~ msgstr "キャンセル"
+
+#~ msgid "Not valid email"
+#~ msgstr "メールアドレスは無効"
+
+#~ msgid "Emails not equal"
+#~ msgstr "メールが異なります。"
+
+#~ msgid "Too short"
+#~ msgstr "短すぎる"
+
+#~ msgid "Strong"
+#~ msgstr "強い"
+
+#~ msgid "Weak"
+#~ msgstr "弱い"
+
+#~ msgid "First %s Security Use"
+#~ msgstr "初 %s セキュリティ使用"
+
+#~ msgid "You have been sent an email using %s to secure the contents"
+#~ msgstr "%s を使って内容をセキュリティ保護されたメールが送信されました。"
+
+#~ msgid ""
+#~ "Please select a new password for use with %s.  This password will be used "
+#~ "to open encrypted emails and files that may be sent to you."
+#~ msgstr ""
+#~ "%s を使うための新しいパスワードを選択してください。このパスワードは暗号化"
+#~ "されたメールまたはファイルを開くために使われます。"
+
+#~ msgid "First %s Security Password Use"
+#~ msgstr "まず、%s セキュリティパスワードを使用"
+
+#~ msgid ""
+#~ "Please change the initial temporary %s security password that was sent to "
+#~ "you in a separate email."
+#~ msgstr ""
+#~ "%s の一時セキュリティパスワードは別のメールで送信されています。必ず、この"
+#~ "パスワードを変更してください。"
+
+#~ msgid "Initial Password"
+#~ msgstr "初期パスワード"
+
+#~ msgid "New Password"
+#~ msgstr "新規パスワード"
+
+#~ msgid "Confirm New"
+#~ msgstr "新規パスワードを確定"
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password.</p>"
+#~ msgstr ""
+#~ "ご利用のパスワードをリセットするのに必要となる二番目のメールアドレスを入力"
+#~ "してください。</p>"
+
+#~ msgid "Verify:"
+#~ msgstr "確認："
+
+#~ msgid ""
+#~ "Warning: This password for encryption cannot be restored or recovered in "
+#~ "any way.  If forgotten, all encrypted data will be lost."
+#~ msgstr ""
+#~ "警告：この暗号化パスワードは、復元することができません。忘れた場合、すべて"
+#~ "の暗号化されたデータが失われます。"
+
+#~ msgid "Success"
+#~ msgstr "成功"
+
+#~ msgid "Password changed successfully"
+#~ msgstr "パスワードが正しく変更されました。"
+
+#~ msgid "New password must be at least %s characters long"
+#~ msgstr "新しいパスワードは少なくとも %s 文字以上にする必要があります。"
+
+#~ msgid "Encryption key not found"
+#~ msgstr "暗号化鍵が見つかりません。"
+
+#~ msgid "Failed to change password"
+#~ msgstr "パスワードの変更に失敗しました。"
+
+#~ msgid "Download decrypted"
+#~ msgstr "復号されたファイルをダウンロード"
+
+#~ msgid "Add and encrypt local file"
+#~ msgstr "ローカルファイルを追加および暗号化"
+
+#~ msgid "Remove encryption"
+#~ msgstr "暗号化を削除"
+
+#~ msgid "Encrypt"
+#~ msgstr "暗号化"
+
+#~ msgid "Send by mail"
+#~ msgstr "メールで送信"
+
+#~ msgid "Download encrypted"
+#~ msgstr "暗号化したものをダウンロードする"
+
+#~ msgid "Pop out"
+#~ msgstr "ポップアウト"
+
+#~ msgid "Pop out standalone viewer"
+#~ msgstr "スタンドアロンビューアをポップアウト"
+
+#~ msgid "Decrypt and open"
+#~ msgstr "復号して開く"
+
+#~ msgid "Drop files here to encrypt"
+#~ msgstr "暗号化するには、ここにファイルをドロップしてください。"
+
+#~ msgid "Recipient Options"
+#~ msgstr "宛先オプション"
+
+#~ msgid ""
+#~ "At least one of your recipients uses a different webmail system.  They "
+#~ "will receive an email with a link for them to read this message.  If you "
+#~ "like, you can add a personalized message that will appear at the top of "
+#~ "this message.  This will help identify the message as coming from you."
+#~ msgstr ""
+#~ "少なくとも 1 つ以上の宛先は異なる Web メールシステムを使用しています。この"
+#~ "メッセージを読むためのリンクが付いたメールがそれらのユーザに送信されます。"
+#~ "このメッセージの最上部に表示されるカスタムのメッセージを追加することができ"
+#~ "ます。この機能を利用すれば、あなたから送信されたメッセージであることを相手"
+#~ "に証明できます。"
+
+#~ msgid "Message:"
+#~ msgstr "メッセージ："
+
+#~ msgid "Language for recipient Email"
+#~ msgstr "宛先メール言語"
+
+#~ msgid "Note: Emails sent to mailing lists or groups will not work."
+#~ msgstr ""
+#~ "注：メーリングリストまたはグループに送信されたメールが動作しません。"
+
+#~ msgid ""
+#~ "Mailing list / blocked email found.  Encrypted emails to this email will "
+#~ "fail.  %s"
+#~ msgstr ""
+#~ "メーリングリスト / ブロックされたメールが見つかりました。このメールへの暗"
+#~ "号化されたメールが失敗しました。%s"
+
+#~ msgid ""
+#~ "The key for %s has expired.  You will not be able to send an encrypted "
+#~ "email to this recipient."
+#~ msgstr ""
+#~ "%s用の鍵の有効期限が切れました。暗号化されたメールをこの宛先に送ることはで"
+#~ "きません。"
+
+#~ msgid "HTML Formatted Email"
+#~ msgstr "HTML フォーマットのメール"
+
+#~ msgid ""
+#~ "HTML formatted emails may cause issues with PGP inline.  Click OK to "
+#~ "change to Plain Text formatted Emails."
+#~ msgstr ""
+#~ "HTML フォーマットのメールはインラインの PGP 問題が発生する可能性はありま"
+#~ "す。テキストフォーマットのメールにするのに OK をクリックしてください。"
+
+#~ msgid "HTML format is not recommended when using PGP Inline"
+#~ msgstr ""
+#~ "インラインの PGP を使用するときに HTML フォーマットをお勧めしません。"
+
+#~ msgid "Recipients cannot be added to this encrypted reply"
+#~ msgstr "この暗号化された返信に宛先を追加できません"
+
+#~ msgid "Reply must be encrypted"
+#~ msgstr "返信は暗号化する必要があります。"
+
+#~ msgid "Unable to attach your public key"
+#~ msgstr "公開鍵を添付することができません"
+
+#~ msgid "Will create new guest account for %s"
+#~ msgstr "%s のゲストアカウントを作成します。"
+
+#~ msgid "Encryption Key Known"
+#~ msgstr "暗号化鍵が不明です。"
+
+#~ msgid "Send"
+#~ msgstr "送信"
+
+#~ msgid "Send Encrypted"
+#~ msgstr "暗号化して送信"
+
+#~ msgid "Send Secure"
+#~ msgstr "セキュリティ保護された送信"
+
+#~ msgid "Loaded"
+#~ msgstr "読み込まれました。"
+
+#~ msgid "Secure Email, enter your %s security password."
+#~ msgstr ""
+#~ "セキュリティ保護されたメールです。%s セキュリティパスワードを入力してくだ"
+#~ "さい。"
+
+#~ msgid "Keep me logged into %s"
+#~ msgstr "%s へのログインを保持"
+
+#~ msgid "10 minutes"
+#~ msgstr "10 分"
+
+#~ msgid "20 minutes"
+#~ msgstr "20 分"
+
+#~ msgid "30 minutes"
+#~ msgstr "30 分"
+
+#~ msgid "1 hour"
+#~ msgstr "1 時間"
+
+#~ msgid "2 hours"
+#~ msgstr "2 時間"
+
+#~ msgid "Session"
+#~ msgstr "セッション"
+
+#~ msgid "Select Key Location"
+#~ msgstr "鍵の場所を選択"
+
+#~ msgid "Temporary Lockout"
+#~ msgstr "一時ロックアウト"
+
+#~ msgid "Security PIN"
+#~ msgstr "セキュリティ PIN"
+
+#~ msgid "Recipients:"
+#~ msgstr "受取人："
+
+#~ msgid ""
+#~ "The new recipients listed below will be sent a password via email.  You "
+#~ "can also require a separate pin, which is displayed below."
+#~ msgstr ""
+#~ "下記の新規の受取人にメールでパスワードが送信されました。下記の PIN を要求"
+#~ "することもできます。"
+
+#~ msgid ""
+#~ "You may deliver this pin any way you see fit, but we recommend doing it "
+#~ "in a second method other than email (Phone, SMS, Skype, etc)."
+#~ msgstr ""
+#~ "この PIN の配布には、メールでなく、他の方法 (電話、SMS、Skype 等) を使用す"
+#~ "ることをお勧めします。"
+
+#~ msgid "If you want this extra pin requirement, click OK."
+#~ msgstr "この PIN の追加要件を適用するには、OK を押してください。"
+
+#~ msgid "Skip"
+#~ msgstr "スキップ"
+
+#~ msgid "Unable to get key"
+#~ msgstr "鍵へアクセスできません"
+
+#~ msgid "Please enter your %s password to sign this email."
+#~ msgstr "%s パスワードを入力してこのメールをサインしてください。"
+
+#~ msgid ""
+#~ "There appears to be an encrypted attachment.  Please enter your %s "
+#~ "password to decode the attachment for sending."
+#~ msgstr ""
+#~ "暗号化された添付ファイルがあるようです。%sパスワードを入力して、添付ファイ"
+#~ "ルを復号して送信してください。"
+
+#~ msgid "Please re-enter your %s password before sending."
+#~ msgstr "送信する前に%sパスワードを再入力してください。"
+
+#~ msgid "Please re-enter your %s password before saving."
+#~ msgstr "保存する前に%sパスワードを再入力してください。"
+
+#~ msgid "Please re-enter your %s password."
+#~ msgstr "%s パスワードを入力してください。"
+
+#~ msgid "Security"
+#~ msgstr "セキュリティ"
+
+#~ msgid "PGP"
+#~ msgstr "PGP"
+
+#~ msgid "Secure"
+#~ msgstr "安全"
+
+#~ msgid "Sign"
+#~ msgstr "サイン"
+
+#~ msgid "Format"
+#~ msgstr "フォーマット"
+
+#~ msgid "PGP Mime"
+#~ msgstr "PGP Mime"
+
+#~ msgid "PGP Inline"
+#~ msgstr "インライン PGP"
+
+#~ msgid "Keys"
+#~ msgstr "鍵"
+
+#~ msgid "Attach my key"
+#~ msgstr "鍵を添付"
+
+#~ msgid "Unable to find keys for all recipients."
+#~ msgstr "全ての宛先の鍵が見つかりません。"
+
+#~ msgid "Unable to connect to the encryption server."
+#~ msgstr "暗号化サーバに接続できません。"
+
+#~ msgid "Unable to find the item on the server"
+#~ msgstr "サーバにアイテムが見つかりません。"
+
+#~ msgid "Unable to get the key for that item"
+#~ msgstr "対象アイテム用の鍵を取得できません。"
+
+#~ msgid "Unable to retrieve your user keys to decode"
+#~ msgstr "復号用のユーザ鍵を取得できません。"
+
+#~ msgid "Bad extra password"
+#~ msgstr "追加パスワードが正しくありません。"
+
+#~ msgid "No private key to decode this message"
+#~ msgstr "このメッセージを復号するための秘密鍵はありません。"
+
+#~ msgid "Unable to decrypt Email, incorrect password."
+#~ msgstr "パスワードが正しくないため、メールを復号できません。"
+
+#~ msgid "To reset or recover your password, click %s"
+#~ msgstr "パスワードをリセットまたは復元するには、%s をクリックしてください。"
+
+#~ msgid "Settings"
+#~ msgstr "設定"
+
+#~ msgid "No Private Key available for this encrypted item."
+#~ msgstr "暗号化されたアイテムの秘密鍵はありません。"
+
+#~ msgid "Key Ids:"
+#~ msgstr "鍵 ID："
+
+#~ msgid "Your account is locked out for %s minutes"
+#~ msgstr "アカウントは %s 分間ロックアウトされます。"
+
+#~ msgid "Server Error: "
+#~ msgstr "サーバエラー： "
+
+#~ msgid "Password needed"
+#~ msgstr "パスワードが必要です。"
+
+#~ msgid "Please enter your %s password"
+#~ msgstr "%s パスワードを入力してください。"
+
+#~ msgid "Remember my password"
+#~ msgstr "パスワードを記憶する"
+
+#~ msgid "Account locked out due to bad attempts.  Please try again later."
+#~ msgstr ""
+#~ "試行に失敗したため、アカウントがロックされました。もう一度やり直してくださ"
+#~ "い。"
+
+#~ msgid "Error checking password"
+#~ msgstr "エラーチェックパスワード"
+
+#~ msgid "Delete Public Key"
+#~ msgstr "公開鍵を削除"
+
+#~ msgid "Click OK to confirm"
+#~ msgstr "確定するには「OK」をクリックします。"
+
+#~ msgid "Email"
+#~ msgstr "メール"
+
+#~ msgid "Key Ids"
+#~ msgstr "鍵 ID"
+
+#~ msgid "Details"
+#~ msgstr "次に示す詳細情報。"
+
+#~ msgid "Delete"
+#~ msgstr "削除"
+
+#~ msgid "No Keys Found"
+#~ msgstr "鍵が見つかりません。"
+
+#~ msgid "Key Details"
+#~ msgstr "鍵の詳細"
+
+#~ msgid "Share Keys"
+#~ msgstr "鍵を共有"
+
+#~ msgid "Use PGP Inline"
+#~ msgstr "インライン PGP を使用"
+
+#~ msgid "Signatures"
+#~ msgstr "署名"
+
+#~ msgid "Expired"
+#~ msgstr "期限切れ"
+
+#~ msgid "Revoked"
+#~ msgstr "無効"
+
+#~ msgid "Fingerprint:"
+#~ msgstr "フィンガープリント："
+
+#~ msgid "Created:"
+#~ msgstr "作成日："
+
+#~ msgid "Master:"
+#~ msgstr "マスター："
+
+#~ msgid "True"
+#~ msgstr "真"
+
+#~ msgid "False"
+#~ msgstr "偽"
+
+#~ msgid "Encryption:"
+#~ msgstr "暗号化："
+
+#~ msgid "IDs: "
+#~ msgstr "ID： "
+
+#~ msgid "Expires in %1$s days"
+#~ msgstr "%1$s 日後に期限切れになります"
+
+#~ msgid "Problem getting signatures"
+#~ msgstr "サイン取得中に問題が発生しました"
+
+#~ msgid "Positive"
+#~ msgstr "ポジティブチェック"
+
+#~ msgid "Failed check"
+#~ msgstr "チェックに失敗しました"
+
+#~ msgid "Missing public"
+#~ msgstr "公開鍵がありません"
+
+#~ msgid "Casual"
+#~ msgstr "カジュアルチェック"
+
+#~ msgid "Revocation"
+#~ msgstr "無効になっている"
+
+#~ msgid "Direct cert"
+#~ msgstr "直接チェック"
+
+#~ msgid "Default Certification"
+#~ msgstr "デフォルトチェック"
+
+#~ msgid "No signatures"
+#~ msgstr "署名なし"
+
+#~ msgid "ID Signed"
+#~ msgstr "サインされた ID"
+
+#~ msgid "Certification"
+#~ msgstr "認証"
+
+#~ msgid "Signed by"
+#~ msgstr "サインしたユーザー"
+
+#~ msgid "Image"
+#~ msgstr "画像"
+
+#~ msgid "Key Signatures"
+#~ msgstr "鍵署名"
+
+#~ msgid "PGP Public Key List"
+#~ msgstr "PGP 公開鍵一覧"
+
+#~ msgid "This Email was encrypted with PGP."
+#~ msgstr "このメールは PGP によって暗号化されました。"
+
+#~ msgid "This Email was signed and verified."
+#~ msgstr "このメールは署名され検証されています。"
+
+#~ msgid "This Email was signed and failed verification."
+#~ msgstr "このメールは署名されましたが検証されていません。"
+
+#~ msgid "This Email was signed but unable to verify."
+#~ msgstr "このメールは署名されていますが検証することができませんでした。"
+
+#~ msgid ""
+#~ "This Email was sent using PGP encryption. It has been decrypted with your "
+#~ "private key"
+#~ msgstr ""
+#~ "このメールは PGP 暗号化を使用して送信されました。自分の秘密鍵で復号されま"
+#~ "した。"
+
+#~ msgid "This Email was signed by the sender and verified."
+#~ msgstr "このメールは差出人によって署名され検証されています。"
+
+#~ msgid "PGP Public Key Found.  Click to Import"
+#~ msgstr "PGP 公開鍵が見つかりました。インポートするにはクリックしてください"
+
+#~ msgid "Save encrypted to %1$s"
+#~ msgstr "暗号化されたものを%1$sへ保存"
+
+#~ msgctxt "app"
+#~ msgid "Drive"
+#~ msgstr "ドライブ"
+
+#~ msgid "Check assigned PIN"
+#~ msgstr "割り当てられた PIN をチェック"
+
+#~ msgid "PIN"
+#~ msgstr "PIN"
+
+#~ msgid "Added keys: \r\n"
+#~ msgstr "追加された鍵：\\r\n"
+
+#~ msgid "Key ID: "
+#~ msgstr "鍵 ID： "
+
+#~ msgid "Service Unavailable"
+#~ msgstr "サービスは利用できません。"
+
+#~ msgid "Advanced Settings"
+#~ msgstr "詳細設定"
+
+#~ msgid "Download PGP Public Key"
+#~ msgstr "PGP 公開鍵をダウンロード"
+
+#~ msgid "Email your PGP Public Key"
+#~ msgstr "PGP 公開鍵をメールで送信"
+
+#~ msgid "Your Keys"
+#~ msgstr "自分の鍵"
+
+#~ msgid "Your Key List"
+#~ msgstr "自分の鍵一覧"
+
+#~ msgid "Key ID"
+#~ msgstr "鍵 ID"
+
+#~ msgid "Private Key"
+#~ msgstr "秘密鍵"
+
+#~ msgid "Current"
+#~ msgstr "使用中"
+
+#~ msgid "Download"
+#~ msgstr "ダウンロード"
+
+#~ msgid "Edit"
+#~ msgstr "編集"
+
+#~ msgid "Adding Keys"
+#~ msgstr "鍵を追加"
+
+#~ msgid "If you already have a private key, you can upload it here."
+#~ msgstr "秘密鍵を持っている場合はここへアップロードができます。"
+
+#~ msgid "Upload Private Key"
+#~ msgstr "秘密鍵をアップロード"
+
+#~ msgid "Finally, you can have a new PGP Key Pair created for your account."
+#~ msgstr "最終的に、新しい PGP 鍵ペアを作成することができます。"
+
+#~ msgid "Create New Keys"
+#~ msgstr "新規の鍵を作成"
+
+#~ msgid "Adding UserID"
+#~ msgstr "ユーザー ID を追加"
+
+#~ msgid "Add a name and email address to this public key."
+#~ msgstr "この公開鍵に名前とメールを追加。"
+
+#~ msgid "Name"
+#~ msgstr "名前"
+
+#~ msgid "Please enter your key password"
+#~ msgstr "鍵のパスワードを入力してください"
+
+#~ msgid "Invalid Email Address"
+#~ msgstr "メールアドレスが無効です"
+
+#~ msgid "Invalid Name"
+#~ msgstr "名前が無効です"
+
+#~ msgid "Enter password"
+#~ msgstr "パスワードを入力してください"
+
+#~ msgid "User ID added"
+#~ msgstr "ユーザー ID が追加されました"
+
+#~ msgid "Failed to add UserID"
+#~ msgstr "ユーザー ID の追加に失敗しました"
+
+#~ msgid "Revoke Private Key"
+#~ msgstr "秘密鍵を無効にする"
+
+#~ msgid ""
+#~ "Revoke the key: This advises others that you no longer want this key "
+#~ "used.  You can continue to decode any encrypted data using the key."
+#~ msgstr ""
+#~ "鍵を無効にする：この鍵を使用したくないことを他のユーザーに知らせます。暗号"
+#~ "化されたデータの復号には引き続き鍵を使用できます。"
+
+#~ msgid "Delete Private Key"
+#~ msgstr "秘密鍵を削除する"
+
+#~ msgid "There are two options if you no longer want to use this key"
+#~ msgstr "この鍵を使用したくない場合には２つのオプションがあります。"
+
+#~ msgid ""
+#~ "Revoke the key: This advises others that you no longer want this key "
+#~ "used.  You can continue to decode any encrypted data using the key. "
+#~ "(Recommended)"
+#~ msgstr ""
+#~ "鍵を無効にする：この鍵を使用したくないことを他のユーザーに知らせます。暗号"
+#~ "化されたデータの復号には引き続き鍵を使用できます。（推奨）"
+
+#~ msgid ""
+#~ "Deleting the key: Deleting the private key will render all encrypted "
+#~ "items unreadable.  You will not be able to decode emails or files that "
+#~ "were enrypted with this key.  This cannot be undone."
+#~ msgstr ""
+#~ "鍵を削除する：秘密鍵を削除すると、すべての読めない暗号化されたアイテムをレ"
+#~ "ンダーリングします。この鍵で暗号化したメールまたはファイルを復号することは"
+#~ "できません。これは取り消すことができません。"
+
+#~ msgid "Revoke"
+#~ msgstr "無効にする"
+
+#~ msgid ""
+#~ "You will no longer be able to decode any items that were encrypted with "
+#~ "this key!"
+#~ msgstr "この鍵を使って暗号化されたアイテムは復号ができなくなります！"
+
+#~ msgid "Enter your password below to confirm and verify"
+#~ msgstr "下記、パスワードを記入して確認してください"
+
+#~ msgid "Bad Password"
+#~ msgstr "パスワードが正しくありません。"
+
+#~ msgid "Key Deleted"
+#~ msgstr "鍵が削除されました"
+
+#~ msgid "Failed to delete key"
+#~ msgstr "鍵の削除に失敗しました"
+
+#~ msgid "Problem deleting key"
+#~ msgstr "鍵の削除に問題が発生しました"
+
+#~ msgid "Please verify you want to delete this key"
+#~ msgstr "この鍵を削除しますか？"
+
+#~ msgid "Failed to delete"
+#~ msgstr "削除に失敗しました"
+
+#~ msgid ""
+#~ "This will advise people not to use this key.  You can still use the key "
+#~ "to decode existing items."
+#~ msgstr ""
+#~ "この鍵の使用はお勧めしません。既存のアイテムの復号には鍵を使用できます。"
+
+#~ msgid "Reason"
+#~ msgstr "理由"
+
+#~ msgid "No Reason"
+#~ msgstr "理由なし"
+
+#~ msgid "Key superseded"
+#~ msgstr "取り替えられた鍵"
+
+#~ msgid "Key compromised"
+#~ msgstr "鍵が不正アクセスされました"
+
+#~ msgid "Key retired"
+#~ msgstr "鍵が廃止されました"
+
+#~ msgid "User no longer valid"
+#~ msgstr "ユーザーは無効です"
+
+#~ msgid "Key Revoked"
+#~ msgstr "無効にされた鍵"
+
+#~ msgid "Failed to revoke key"
+#~ msgstr "鍵の無効に失敗しました"
+
+#~ msgid "Download Key"
+#~ msgstr "鍵をダウンロード"
+
+#~ msgid "Download your private key for use with other email programs"
+#~ msgstr "他のメールプログラムで使うために秘密鍵をダウンロードしてください"
+
+#~ msgid "Do not distribute this key.  It is for your use only"
+#~ msgstr "この鍵を公開しないでください。個人使用のみになっています。"
+
+#~ msgid "Download PGP Private Key"
+#~ msgstr "PGP 秘密鍵をダウンロード"
+
+#~ msgid "Download Public and Private Key"
+#~ msgstr "公開鍵と秘密鍵をダウンロードする"
+
+#~ msgid "Key ID:"
+#~ msgstr "鍵 ID："
+
+#~ msgid "Expires:"
+#~ msgstr "次の時刻に有効期間が切れます："
+
+#~ msgid "Private Key: "
+#~ msgstr "秘密鍵： "
+
+#~ msgid ""
+#~ "If you would like to upload a public key only, then do so here.  This "
+#~ "will allow you to encrypt files and receive encrypted emails using %s, "
+#~ "but you will need to use the private key with another program to decode "
+#~ "the items."
+#~ msgstr ""
+#~ "公開鍵だけをアップロードしたい場合は、ここで行います。ここで行うことによ"
+#~ "り、ファイルを暗号化し、%s を使用して暗号化したメールを受け取れますが、ア"
+#~ "イテムの復号の別のプログラムで秘密鍵を使用する必要があります。"
+
+#~ msgid "Upload Public Key Only"
+#~ msgstr "公開鍵のみをアップロード"
+
+#~ msgid "PGP Public Key is attached"
+#~ msgstr "公開鍵は添付されています"
+
+#~ msgid "Public Keys"
+#~ msgstr "公開鍵"
+
+#~ msgid "Failed to update settings"
+#~ msgstr "設定のアップデートに失敗しました。"
+
+#~ msgid "Email format"
+#~ msgstr "メール形式"
+
+#~ msgid ""
+#~ "Emails that contain HTML and are sent with PGP Inline will often result "
+#~ "in decoding errors and possible failure.  As a result, the default Email "
+#~ "format should be changed to plaintext.  Click OK to change the default to "
+#~ "plaintext, cancel to keep your current setting."
+#~ msgstr ""
+#~ "PGP Inline を使った HTML の含むメールを送信した場合は復号エラーや失敗の発"
+#~ "生がよくあります。そのため、メールの既定形式はプレインテキストに変更すべき"
+#~ "です。「OK」をクリックしてプレインテキストにするか、キャセルをして現在の設"
+#~ "定にします。"
+
+#~ msgid "Ask each time"
+#~ msgstr "いつも確認する"
+
+#~ msgid "Remember Password Default"
+#~ msgstr "既定パスワードを記憶"
+
+#~ msgid "Default to send encrypted when composing email"
+#~ msgstr "メールの作成時に暗号化をデフォルトにする"
+
+#~ msgid "Encrypt all incoming emails"
+#~ msgstr "すべての受信メールを暗号化する"
+
+#~ msgid "Default adding signature to outgoing mails"
+#~ msgstr "送信メールへサインの追加をデフォルトにする"
+
+#~ msgid "Default to using PGP inline for new mails"
+#~ msgstr "新規メールにインライン PGP 使用をデフォルトにする"
+
+#~ msgid "Please wait"
+#~ msgstr "お待ちください"
+
+#~ msgid "Advanced"
+#~ msgstr "詳細"
+
+#~ msgid "Enable Advanced PGP Features"
+#~ msgstr "PGP の上級機能を有効にします。"
+
+#~ msgid "PGP Encryption Settings"
+#~ msgstr "PGP 暗号化設定"
+
+#~ msgid "Security Settings"
+#~ msgstr "セキュリティ設定"
+
+#~ msgid "Keys uploaded"
+#~ msgstr "鍵がアップロードされました"
+
+#~ msgid "Failed to upload"
+#~ msgstr "アップロードに失敗しました"
+
+#~ msgid "The public key must have your primary email as a user ID"
+#~ msgstr "公開鍵のユーザー ID は既定のメールアドレスにしなければなりません"
+
+#~ msgid "Upload Private Keys"
+#~ msgstr "秘密鍵をアップロード"
+
+#~ msgid "Please enter passwords for the upload"
+#~ msgstr "アップロード用にパスワードを入力してください"
+
+#~ msgid "Enter new password for the key:"
+#~ msgstr "鍵の新しいパスワードを入力してください："
+
+#~ msgid "Confirm Password:"
+#~ msgstr "パスワードの確認："
+
+#~ msgid "Private key password for the key you are uploading:"
+#~ msgstr "アップロード中の鍵の秘密鍵パスワード："
+
+#~ msgid "Private Key Uploaded"
+#~ msgstr "秘密鍵がアップロードされました"
+
+#~ msgid "This key already exists"
+#~ msgstr "この鍵がすでに存在しています"
+
+#~ msgid "Bad PGP Password"
+#~ msgstr "PGP パスワードが正しくありません"
+
+#~ msgid "The private key must have your primary email as a user ID"
+#~ msgstr "秘密鍵のユーザー ID は既定のメールアドレスにしなければなりません"
+
+#~ msgid "Must use same password as existing key to merge"
+#~ msgstr "統合には、既存の鍵と同じパスワードを使用すること"
+
+#~ msgid "Problem uploading Private Key "
+#~ msgstr "秘密鍵のアップロードに問題が発生しました "
+
+#~ msgid "Logged out of %s"
+#~ msgstr "%sをログアウトする"
+
+#~ msgid "Failed to log out of %s"
+#~ msgstr "%sのログアウトに失敗しました"
+
+#~ msgid "Guided tour for %s"
+#~ msgstr "%s のガイドツアー"
+
+#~ msgid "Sign out %s"
+#~ msgstr "%s をサインアウト"
+
+#~ msgctxt "app"
+#~ msgid "%s Security"
+#~ msgstr "%s セキュリティ"
+
+#~ msgid "Get Started"
+#~ msgstr "開始"
+
+#~ msgid ""
+#~ "In order to start with %s Security, you must set up a password for your "
+#~ "secured files."
+#~ msgstr ""
+#~ "%s セキュリティを開始するには、暗号化するファイルのパスワードをセットアッ"
+#~ "プする必要があります。"
+
+#~ msgid "Start"
+#~ msgstr "開始"
+
+#~ msgid "%s Security Settings"
+#~ msgstr "%s セキュリティ設定"
+
+#~ msgid "Change %s Security Password."
+#~ msgstr "%s セキュリティパスワードを変更"
+
+#~ msgid "Enter current %s security password"
+#~ msgstr "現在の%s セキュリティパスワードを入力"
+
+#~ msgid "Enter new %s security password"
+#~ msgstr "新しい %s セキュリティパスワードを入力"
+
+#~ msgid "Verify new %s security password"
+#~ msgstr "現在の %s セキュリティパスワードを確認"
+
+#~ msgid "Change %s security password"
+#~ msgstr "%s セキュリティパスワードを変更"
+
+#~ msgid "Reset %s security password"
+#~ msgstr "%s セキュリティパスワードをリセット"
+
+#~ msgid "Send a temporary %s security password to my secondary Email address."
+#~ msgstr "二番目のメールアドレスに %s の一時セキュリティパスワードを送信"
+
+#~ msgid "Delete Password Recovery"
+#~ msgstr "パスワード復元を削除"
+
+#~ msgid "Advanced Users Only!"
+#~ msgstr "上級ユーザーのみ！"
+
+#~ msgid ""
+#~ "Delete the password recovery.  The recovery is used to reset your "
+#~ "password.  If you delete the recovery, you will not be able to reset your "
+#~ "password if you forget it.  Changing your password will restore the "
+#~ "recovery."
+#~ msgstr ""
+#~ "パスワード復元を削除します。復元はパスワードのリセットに使用されます。復元"
+#~ "を削除した場合、忘れるとパスワードがリセットできません。パスワードを変更す"
+#~ "ると復元が行われます。"
+
+#~ msgid "Please verify your password before deleting the recovery."
+#~ msgstr "パスワード復元を削除する前にパスワードを確認してください。"
+
+#~ msgid "Recovery deleted"
+#~ msgstr "パスワード復元が削除されました"
+
+#~ msgid "Current Email address:"
+#~ msgstr "現在のメールアドレス："
+
+#~ msgid "Secondary Email"
+#~ msgstr "二番目のメールアドレス"
+
+#~ msgid "Change Email address used for password reset."
+#~ msgstr "パスワードリセット用のメールアドレスを変更"
+
+#~ msgid "Verify Email address"
+#~ msgstr "メールアドレスを確認"
+
+#~ msgid "Change Email address"
+#~ msgstr "メールアドレスを変更"
+
+#~ msgid "None - Primary Email will be used"
+#~ msgstr "なし - 既定のメールアドレスが使用されます。"
+
+#~ msgid "Invalid email address"
+#~ msgstr "メールアドレスが無効です。"
+
+#~ msgid "Successfully changed email address"
+#~ msgstr "メールアドレスを変更することができました。"
+
+#~ msgid "A new password has been sent to your email address."
+#~ msgstr "新しいパスワードがメールアドレスに送信されました。"
+
+#~ msgid "A new password has been sent to your secondary email address."
+#~ msgstr "新しいパスワードが二番目のメールアドレスに送信されました。"
+
+#~ msgid "No password recovery is available."
+#~ msgstr "パスワードの回復はできません。"
+
+#~ msgid "Password reset, but unable to send to your email address."
+#~ msgstr "パスワードがリセットされましたが、メールアドレスに送信できません。"
+
+#~ msgid "Unable to find email address to send password reset."
+#~ msgstr "パスワードリセットを送信する先のメールアドレスが見つかりません。"
+
+#~ msgid "Unable to reset your password"
+#~ msgstr "パスワードをリセットできません。"
+
+#~ msgid "Next"
+#~ msgstr "次へ"
+
+#~ msgid "Simple and Easy"
+#~ msgstr "シンプルで簡単"
+
+#~ msgctxt "Choice"
+#~ msgid "One click encryption for Emails and files"
+#~ msgstr "ワンクリックでメールやファイルを暗号化"
+
+#~ msgctxt "Choice"
+#~ msgid "Works in all browsers with all your contacts"
+#~ msgstr "すべての連絡先の入ったすべてのブラウザで動作します。"
+
+#~ msgctxt "Choice"
+#~ msgid "Easy to use, every day"
+#~ msgstr "使いやすくて、毎日"
+
+#~ msgctxt "Choice"
+#~ msgid "Security details managed by us"
+#~ msgstr "私たちが管理するセキュリティ詳細"
+
+#~ msgctxt "Choice"
+#~ msgid ""
+#~ "If you do not have deep knowledge of encryption, but you would like to "
+#~ "easily secure your communication with your friends or business contacts, "
+#~ "this option fits perfectly for you. Safe Email, made simple!"
+#~ msgstr ""
+#~ "暗号化についてよく知らないけれど、友達やビジネスの連絡先との通信を簡単に安"
+#~ "全にしたいのなら、このオプションこそあなたにぴったりです。安全なメール、使"
+#~ "いやすい！"
+
+#~ msgctxt "Choice"
+#~ msgid "Encryption Expert"
+#~ msgstr "暗号エキスパート"
+
+#~ msgctxt "Choice"
+#~ msgid "Expert encryption options available"
+#~ msgstr "エキスパートの暗号化オプションが利用可能です"
+
+#~ msgctxt "Choice"
+#~ msgid "Works only in Firefox and Chrome"
+#~ msgstr "Firefox と Chrome のみで作動します"
+
+#~ msgctxt "Choice"
+#~ msgid "Browser plugin required"
+#~ msgstr "ブラウザプラグインが必要です"
+
+#~ msgctxt "Choice"
+#~ msgid "Security details managed by yourself"
+#~ msgstr "セキュリティの詳細を自分で管理できます"
+
+#~ msgctxt "Choice"
+#~ msgid ""
+#~ "If you are an encryption expert, and would like to manage all encryption "
+#~ "details by yourself, this option fits best for you. You need to install a "
+#~ "third-party browser plugin to work with expert encryption."
+#~ msgstr ""
+#~ "暗号化のエキスパートであり、ご自身で暗号化を全て管理したいなら、このプショ"
+#~ "ンこそあなたにぴったりです。エキスパート暗号化を使用するには、第三者ブラウ"
+#~ "ザプラグインをインストールする必要があります。"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You already set up your %s account. But you can always change your "
+#~ "encryption password, or request a temporary password if you forget it."
+#~ msgstr ""
+#~ "%s アカウントはすでに設定されました。しかし、暗号化パスワードの変更、また"
+#~ "はパスワードを忘れた場合の仮パスワードの要求はいつでも可能です。"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You already set up your %s account.  You can change your encryption "
+#~ "password here."
+#~ msgstr ""
+#~ "%s アカウントはすでに設定されました。暗号化されたパスワードをここで変更で"
+#~ "きます。"
+
+#~ msgctxt "tour"
+#~ msgid "The %s module"
+#~ msgstr "%s モジュール"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Security and privacy matters to everyone. That's why you can now send and "
+#~ "receive encrypted emails by simply clicking on the lock icon."
+#~ msgstr ""
+#~ "全ての人にとってセキュリティおよびプライバシーの問題です。そのため、ロック"
+#~ "アイコンをクリックするだけで暗号化されたメールを送信、受信できます。"
+
+#~ msgctxt "tour"
+#~ msgid "%s Security Settings"
+#~ msgstr "%s セキュリティ設定"
+
+#~ msgctxt "tour"
+#~ msgid "PGP Encryption Settings"
+#~ msgstr "PGP 暗号化設定"
+
+#~ msgctxt "tour"
+#~ msgid "Security Settings"
+#~ msgstr "セキュリティ設定"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "From here you can update your encryption settings. For example you can "
+#~ "choose to send encrypted emails by default."
+#~ msgstr ""
+#~ "ここから暗号化設定を更新できます。例えば、既定では暗号化メールの送信を選択"
+#~ "できます。"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "From here, you can update your security settings.  For example, you can "
+#~ "choose to send secure emails by default."
+#~ msgstr ""
+#~ "ここからセキュリティ設定を更新できます。例えば、既定ではセキュリティ保護さ"
+#~ "れたメールの送信を選択できます。"
+
+#~ msgctxt "tour"
+#~ msgid "Signature"
+#~ msgstr "署名"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "In addition to encrypting your emails you can also sign them. This means "
+#~ "that email recipients can be sure that the email really came from you. By "
+#~ "ticking this checkbox your signature will be added to outgoing emails by "
+#~ "default."
+#~ msgstr ""
+#~ "メールの暗号化に加えて、署名を行うこともできます。つまり、メールの宛先は"
+#~ "メールが本当にあなたから送られたかどうか確認できるわけです。このチェック"
+#~ "ボックスにチェックすれば、既定で送信メールに署名が追加されます。"
+
+#~ msgctxt "tour"
+#~ msgid "Alternative: PGP Inline"
+#~ msgstr "オプション：PGPインライン"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "By default %s sends encrypted emails using PGP/Mime format. To "
+#~ "communicate with some systems you may need to use PGP Inline."
+#~ msgstr ""
+#~ "既定では、%s がPGP/Mimeフォーマットを使用して暗号化メールを送ります。シス"
+#~ "テムによっては通信にPGPインラインの使用が必要な場合があります。"
+
+#~ msgctxt "tour"
+#~ msgid "Advanced Settings"
+#~ msgstr "詳細設定"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Advanced users can manage their key lists from the PGP Encryption "
+#~ "Settings."
+#~ msgstr "上級ユーザはPGP暗号化設定から鍵リストを管理できます。"
+
+#~ msgctxt "tour"
+#~ msgid "Advanced User Settings"
+#~ msgstr "上級ユーザー設定"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Enabling Advanced PGP Features will enable key management and specifying "
+#~ "sending formats."
+#~ msgstr "PGP の上級機能を有効にすることによって。"
+
+#~ msgctxt "tour"
+#~ msgid "Enabling and disabling encryption"
+#~ msgstr "暗号化を有効または無効にします。"
+
+#~ msgctxt "tour"
+#~ msgid "You are now able to send secure emails."
+#~ msgstr "これでセキュリティ保護されたメールを送信することができます。"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Sending without encryption is easy, too: Simply click on the lock icon "
+#~ "again."
+#~ msgstr ""
+#~ "暗号化なしで簡単に送信できます。ロックアイコンをもう一度クリックしてくださ"
+#~ "い。"
+
+#~ msgctxt "tour"
+#~ msgid "Encrypt files"
+#~ msgstr "暗号化ファイル"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You can also protect your files. Just click on Encrypt and the selected "
+#~ "file will be stored securely."
+#~ msgstr ""
+#~ "ファイルを保護することもできます。暗号化をクリックすれば、選択したファイル"
+#~ "は安全に保存されます。"
+
+#~ msgctxt "tour"
+#~ msgid "Encrypt your sensitive files in Drive"
+#~ msgstr "ドライブの機密ファイルを暗号化"
+
+#~ msgctxt "tour"
+#~ msgid "Restart Guided Tour"
+#~ msgstr "ガイドツアーを再度実行します。"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "<em>Hint:</em> you can start guided tours, any time you need them, from "
+#~ "the system menu."
+#~ msgstr ""
+#~ "ヒント：ガイドツアーは必要なときにいつでもシステムメニューから実行できま"
+#~ "す。"
+
+#~ msgctxt "tour"
+#~ msgid "Guided Tour completed"
+#~ msgstr "ガイドツアーが終了しました。"
+
+#~ msgctxt "tour"
+#~ msgid "You successfully learned how to protect your emails and files."
+#~ msgstr "これでメールやファイルを保護することができます。"
+
+#~ msgctxt "tour"
+#~ msgid "What you can do now:"
+#~ msgstr "次のことが可能です。"
+
+#~ msgctxt "tour"
+#~ msgid "Write an encrypted email"
+#~ msgstr "暗号化メールの作成"
+
+#~ msgctxt "tour"
+#~ msgid "Activate encryption for all new emails"
+#~ msgstr "全ての新規メールに暗号化を起動"
+
+#~ msgctxt "tour"
+#~ msgid "Review your encryption settings"
+#~ msgstr "暗号化設定を確認"
+
+#~ msgctxt "tour"
+#~ msgid "Learn more"
+#~ msgstr "詳細は、こちらをご覧ください"
+
+#~ msgid "Start Setup"
+#~ msgstr "設定を開始"
+
+#~ msgctxt "tour"
+#~ msgid "Setup %s"
+#~ msgstr "%s を設定"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Welcome to %1$s. You will now be taken on a tour, showing you how to use "
+#~ "%1$s."
+#~ msgstr "%1$s へようこそ。これから%1$sの使い方を紹介するツアーが始まります。"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Firstly however, you’ll need to setup %1$s by choosing a password which "
+#~ "will be used to encrypt or decrypt items such as email or files."
+#~ msgstr ""
+#~ "まず、メールやファイルなどの暗号化または復号化で使われるパスワードを選択し"
+#~ "て、%1$sを設定してください。"
+
+#~ msgid "Choose %s Password"
+#~ msgstr "%s パスワードを選択"
+
+#~ msgid "Close"
+#~ msgstr "閉じる"
+
+#~ msgctxt "tour"
+#~ msgid "%s set up completed"
+#~ msgstr "%s 設定完了"
+
+#~ msgctxt "tour"
+#~ msgid "Congratulations, you have successfully setup %s"
+#~ msgstr "%s の設定が無事に終わりました。"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Now you can learn more about how to use %s by following the links below:"
+#~ msgstr ""
+#~ "次のリンクをクリックして、%s の使い方についてさらに詳しく調べてください。"
+
+#~ msgctxt "tour"
+#~ msgid "Learn more about %s"
+#~ msgstr "%s についての詳細は、こちらをご覧ください"
+
+#~ msgid "Choose your security solution"
+#~ msgstr "ご自身のセキリュティソリューションを選択します。"
+
+#~ msgid "Key found for %1$s.  Import?"
+#~ msgstr "%1$s 用の鍵が見つかりました。インポートしますか。"
+
+#~ msgid "Import"
+#~ msgstr "インポート"
+
+#~ msgid "Imported"
+#~ msgstr "インポート済み"
+
+#~ msgid "Updated"
+#~ msgstr "更新済み"
+
+#~ msgid "Invalidated"
+#~ msgstr "無効になりました"
+
+#~ msgid "Rejected"
+#~ msgstr "反映されていません"
+
+#~ msgid "Warning"
+#~ msgstr "警告"
+
+#~ msgid ""
+#~ "Sending an encrypted email from an account other than %s may cause "
+#~ "problems with the recipient being able to reply.  Consider using your "
+#~ "primary account."
+#~ msgstr ""
+#~ "%s 以外のアカウントから暗号化されたメールを送信すると、宛先の返信の問題が"
+#~ "生じることがあります。既定のアカウントを使用してみてください。"
+
+#~ msgid "Do not warn me again"
+#~ msgstr "再度警告しないでください。"
+
+#~ msgid "PGP Info"
+#~ msgstr "PGP 情報"
+
+#~ msgid "Content Type"
+#~ msgstr "コンテンツタイプ"
+
+#~ msgid "PGP Details"
+#~ msgstr "PGP 詳細"
+
+#~ msgid ""
+#~ "Mailvelope is not supported in this browser.  Please use Chrome or "
+#~ "Firefox with Mailvelop installed."
+#~ msgstr ""
+#~ "このブラウザーは Mailvelope がサポートされていませんインストール済みの "
+#~ "Mailvelope の Chrome または Firefox を使ってください。"
+
+#~ msgid "Enter re-enter %s security password"
+#~ msgstr "%s セキュリティパスワードを再入力"
+
+#~ msgid "Download Decrypted"
+#~ msgstr "復号されたファイルをダウンロード"
+
+#~ msgid "Download Encrypted"
+#~ msgstr "暗号化したものをダウンロードする"
+
+#~ msgid "View"
+#~ msgstr "表示"
+
+#~ msgid "Decrypt and Open"
+#~ msgstr "復号して開く"
+
+#~ msgid "Drop files here to upload"
+#~ msgstr "アップロードするには、ここにファイルをドロップしてください。"
+
+#~ msgid "Add"
+#~ msgstr "追加"
+
+#~ msgid "Add:"
+#~ msgstr "次を追加："
+
+#~ msgid "Must be in the same global address book"
+#~ msgstr "同じグローバルアドレス帳になければなりません。"
+
+#~ msgid "Unable to add"
+#~ msgstr "追加できません。"
+
+#~ msgid "Select"
+#~ msgstr "選択"
+
+#~ msgid "User"
+#~ msgstr "ユーザ"
+
+#~ msgid "Retract"
+#~ msgstr "取り消す"
+
+#~ msgid "Unable to share"
+#~ msgstr "共有できません。"
+
+#~ msgid "Remove from share list"
+#~ msgstr "共有リストから削除"
+
+#~ msgid "Failed to remove the share"
+#~ msgstr "共有の削除に失敗しました。"
+
+#~ msgid "Password Needed"
+#~ msgstr "パスワードが必要です。"
+
+#~ msgid "Please provide your %s security password to share this file"
+#~ msgstr ""
+#~ "このファイルを共有するには %s セキュリティパスワードを入力してください"
+
+#~ msgid "No users in same context"
+#~ msgstr "同じコンテキストにユーザがいません。"
+
+#~ msgid "The following link will take you to the shared file"
+#~ msgstr "以下は共有ファイルへのリンクです。"
+
+#~ msgid "Shared file link"
+#~ msgstr "共有されたファイルリンク"
+
+#~ msgid "Attached encrypted file"
+#~ msgstr "添付済みの暗号化されたファイル"
+
+#~ msgid "Shared file"
+#~ msgstr "共有されたファイル"
+
+#~ msgid "Add Permissions"
+#~ msgstr "追加権限"
+
+#~ msgid ""
+#~ "The following users do not have permission to view objects in this folder."
+#~ msgstr ""
+#~ "以下のユーザはこのフォルダにあるオブジェクトを表示する権限がありません。"
+
+#~ msgid "Do you wish to add read permissions to this folder for these users?"
+#~ msgstr "これらのユーザについて、このフォルダに読み取り権限を追加しますか？"
+
+#~ msgid "Failed to add folder sharing permissions"
+#~ msgstr "フォルダ共有権限の追加に失敗しました。"
+
+#~ msgid "%s %s %s"
+#~ msgstr "%s %s %s"
+
+#~ msgid "The provided filename exceeds the allowed length."
+#~ msgstr "入力したファイル名が最大文字数を超えています。"
+
+#~ msgid "The allowed quota is reached."
+#~ msgstr "割当量を超えました。"
+
+#~ msgid "This file has not been added"
+#~ msgstr "このファイルは追加されていません。"
+
+#~ msgid "Upload a new encrypted version"
+#~ msgstr "新規の暗号化されたバージョンをアップロード"
+
+#~ msgid "Upload file"
+#~ msgstr "ファイルをアップロード"
+
+#~ msgid "Version Comment"
+#~ msgstr "バージョンに関するコメント"
+
+#~ msgid "Upload new encrypted version"
+#~ msgstr "新規の暗号化されたバージョンをアップロード"
+
+#~ msgid "Uploading..."
+#~ msgstr "アップロードしています..."
+
+#~ msgid ""
+#~ "You are replying to an email that has not yet been decoded.  The "
+#~ "recipient will not be able to read the contents of the original email."
+#~ msgstr ""
+#~ "まだ復号されていないメールに返信しようとしています。宛先は元のメールを読む"
+#~ "ことができません。"
+
+#~ msgid ""
+#~ "You are forwarding an email that has not yet been decoded.  The recipient "
+#~ "will not be able to read the contents of the original email."
+#~ msgstr ""
+#~ "まだ復号されていないメールを転送しようとしています。宛先は元のメールを読む"
+#~ "ことができません。"
+
+#~ msgid "Re: %1$s"
+#~ msgstr "Re：%1$s"
+
+#~ msgid "Fwd: %1$s"
+#~ msgstr "Fwd：%1$s"
+
+#~ msgid "Original Message"
+#~ msgstr "元のメッセージ"
+
+#~ msgid "From: %1$s"
+#~ msgstr "差出人：%1$s"
+
+#~ msgid "To: %1$s"
+#~ msgstr "宛先：%1$s"
+
+#~ msgid "CC: %1$s"
+#~ msgstr "CC：%1$s"
+
+#~ msgid "Date: %1$s"
+#~ msgstr "日付：%1$s"
+
+#~ msgid "Subject: %1$s"
+#~ msgstr "件名：%1$s"
+
+#~ msgid "On %1$s at %2$s %3$s wrote:"
+#~ msgstr "%1$sに%2$s %3$s で下記の通り書きました。"
+
+#~ msgid "Attach My Key"
+#~ msgstr "鍵を添付"
+
+#~ msgid "Do you really want to discard your message?"
+#~ msgstr "メッセージを本当に破棄しますか？"
+
+#~ msgctxt "dialog"
+#~ msgid "Discard message"
+#~ msgstr "メッセージを破棄"
+
+#~ msgid "Save as draft"
+#~ msgstr "下書きを保存"
+
+#~ msgid "Mail has empty subject. Send it anyway?"
+#~ msgstr "メールに件名がありません。このまま送信しますか。"
+
+#~ msgid "Yes, send without subject"
+#~ msgstr "件名なしで送信"
+
+#~ msgid "Add subject"
+#~ msgstr "件名を追加"
+
+#~ msgid "Unable to authorize against backend"
+#~ msgstr "バックエンドに対して許可できません"
+
+#~ msgid "Save"
+#~ msgstr "保存"
+
+#~ msgid "Saving attachment to Drive"
+#~ msgid_plural "Saving attachments to Drive"
+#~ msgstr[0] "Drive に添付ファイルを保存しています"
+
+#~ msgid "Attachment has been saved"
+#~ msgid_plural "Attachments have been saved"
+#~ msgstr[0] "添付ファイルを保存しました。"
+
+#~ msgid "Failed to decrypt"
+#~ msgstr "復号に失敗しました。"
+
+#~ msgid "Failed to save attachments"
+#~ msgstr "添付ファイルの保存に失敗しました。"
+
+#~ msgid "Unsupported browser"
+#~ msgstr "サポートされていないブラウザ"
+
+#~ msgid "Mail has no recipients"
+#~ msgstr "メールには宛先がありません"
+
+#~ msgid "Mail saved as draft"
+#~ msgstr "メールの下書きを保存しました。"
+
+#~ msgid "Unable to get keys for all users"
+#~ msgstr "対象ユーザ用の鍵を取得できません。"
+
+#~ msgid ""
+#~ "The from address you selected for this email is not associated with an "
+#~ "encryption key.  Please send from your primary account, or optionally, "
+#~ "add the email address to your key using the advanced settings."
+#~ msgstr ""
+#~ "このメールのために選択された差出人アドレスは暗号化鍵と関連付けられていませ"
+#~ "ん。既定のアカウントから送信してください。あるいは、詳細設定を使ってメール"
+#~ "アドレスをこの鍵に追加してください。"
+
+#~ msgid "An error occurred saving the email."
+#~ msgstr "メールの保存中にエラーが発生しました。"
+
+#~ msgid "An error occurred sending the encrypted email."
+#~ msgstr "暗号化されたメールの送信中にエラーが発生しました。"
+
+#~ msgid ""
+#~ "At least one of your attachments are encrypted.  Please provide your %s "
+#~ "security password to decrypt before sending"
+#~ msgstr ""
+#~ "少なくとも 1 つ以上の添付ファイルが暗号化されています。送信前に %s セキュ"
+#~ "リティパスワードを入力して復号してください。"
+
+#~ msgid "To"
+#~ msgstr "宛先"
+
+#~ msgctxt "CC"
+#~ msgid "Copy"
+#~ msgstr "コピー"
+
+#~ msgid "Decoding"
+#~ msgstr "復号中"
+
+#~ msgid ""
+#~ "Your pop-up blocker may have prevented a %s window that provides "
+#~ "application functionality."
+#~ msgstr ""
+#~ "ご利用のポップアップブロッカーによって、%s ウィンドウが表示されないため、"
+#~ "アプリケーションの機能を利用できません。"
+
+#~ msgid "VCard imported with warnings"
+#~ msgstr "警告付きでvCardをインポートしました"
+
+#~ msgid "Failed to import vcard"
+#~ msgstr "vCardのインポートに失敗しました"
+
+#~ msgid "VCard imported"
+#~ msgstr "vCardをインポートしました"
+
+#~ msgid "Save Encrypted to Drive"
+#~ msgstr "暗号化状態で Drive へ保存"
+
+#~ msgid "Save Decoded to Drive"
+#~ msgstr "復号状態で Drive へ保存"
+
+#~ msgid "Open in browser"
+#~ msgstr "ブラウザで開く"
+
+#~ msgid "Import as PGP Public Key"
+#~ msgstr "PGP 公開鍵としてインポート"
+
+#~ msgid "Add to address book"
+#~ msgstr "アドレス帳に追加"
+
+#~ msgid "no files"
+#~ msgstr "ファイルなし"
+
+#~ msgid "Save attachment"
+#~ msgstr "添付ファイルを保存"
+
+#~ msgid "Unable to save decrypted file"
+#~ msgstr "復号されたファイルを保存できません。"
+
+#~ msgid "Unable to decrypt"
+#~ msgstr "復号できません。"
+
+#~ msgid "Send copy by mail"
+#~ msgstr "メールでコピーを送信"
+
+#~ msgid "Enter %s Security Password"
+#~ msgstr "%s セキュリティパスワードを入力してください。"
+
+#~ msgid "Encrypt Files"
+#~ msgstr "ファイルを暗号化"
+
+#~ msgid "Only the latest version of the files will be encrypted."
+#~ msgstr "ファイルの最新バージョンのみが暗号化されます。"
+
+#~ msgid "All previous versions will be deleted."
+#~ msgstr "過去のすべてのバージョンは削除されます。"
+
+#~ msgid "This file could not be uploaded."
+#~ msgstr "このファイルをアップロードできませんでした。"
+
+#~ msgid "Upload"
+#~ msgstr "アップロード"
+
+#~ msgid "Please provide your %s Security Password to share this file"
+#~ msgstr ""
+#~ "このファイルを共有するには %s セキュリティパスワードを入力してください。"
+
+#~ msgid "Bad private key"
+#~ msgstr "秘密鍵が無効です。"
+
+#~ msgid "On %1$s %2$s sent:"
+#~ msgstr "%1$s に %2$s が送信："
+
+#~ msgid ""
+#~ "At least one of your attachments are encrypted.  Please provide your %s "
+#~ "Security Password to decrypt before sending"
+#~ msgstr ""
+#~ "少なくとも 1 つ以上の添付ファイルが暗号化されています。送信前に %s セキュ"
+#~ "リティパスワードを入力して復号してください。"
+
+#~ msgid ""
+#~ "Upload your Mailvelope public keys to the %s server so that other people "
+#~ "can send you encrypted emails"
+#~ msgstr ""
+#~ "他の人が暗号化されたメールを送れるように、Mailvelope公開鍵を %s サーバに"
+#~ "アップロードしてください。"
+
+#~ msgid "Extra Password"
+#~ msgstr "追加パスワード"
+
+#~ msgid ""
+#~ "This allows you to set an extra password that will be required for "
+#~ "reading this item."
+#~ msgstr "このアイテムを読み取るのに必要な追加パスワードを設定できます。"
+
+#~ msgid "Please enter it below"
+#~ msgstr "以下に入力してください。"
+
+#~ msgid "Please enter your %s Security password"
+#~ msgstr "%s セキュリティパスワードを入力してください。"
+
+#~ msgid "Failed to add extra password"
+#~ msgstr "追加パスワードの追加に失敗しました。"
+
+#~ msgid "Remember Password"
+#~ msgstr "パスワードを記憶"
+
+#~ msgid ""
+#~ "HTML formatted emails may cause issues with PGP inline.  Click OK to "
+#~ "change to Plain Text formatted Emails"
+#~ msgstr ""
+#~ "HTML フォーマットのメールはインラインの PGP 問題が発生する可能性はありま"
+#~ "す。テキストフォーマットのメールにするのに OK をクリックしてください。"
+
+#~ msgid "Secure Email, enter your %s security password"
+#~ msgstr ""
+#~ "セキュリティ保護されたメールです。%s セキュリティパスワードを入力してくだ"
+#~ "さい。"
+
+#~ msgid ""
+#~ "The new recipients listed below will be sent a password via email.  You "
+#~ "can also require a seperate pin, which is displayed below"
+#~ msgstr ""
+#~ "下記の新規の受取人にメールでパスワードが送信されました。下記の PIN を要求"
+#~ "することもできます。"
+
+#~ msgid ""
+#~ "You may deliver this pin any way you see fit, but we recommend doing it "
+#~ "in a second method other than email (Phone, SMS, Skype, etc)"
+#~ msgstr ""
+#~ "この PIN の配布には、メールでなく、他の方法 (電話、SMS、Skype 等) を使用す"
+#~ "ることをお勧めします。"
+
+#~ msgid "If you want this extra pin requirement, click OK"
+#~ msgstr "この PIN の追加要件を適用するには、OK を押してください。"
+
+#~ msgid "Please enter your %s password to sign this email"
+#~ msgstr "%s パスワードを入力してこのメールをサインしてください"
+
+#~ msgid "Please enter your %s password for signing"
+#~ msgstr "%s パスワードを入力してサインしてください"
+
+#~ msgid "Problems creating keys, please try again later"
+#~ msgstr "鍵の作成に問題が発生しました。後でもう一度試してください。"
+
+#~ msgid ""
+#~ "Problems creating keys.  Keys already exist for this email address in "
+#~ "another account"
+#~ msgstr ""
+#~ "鍵の作成に問題が発生しました。このメールアドレスが他のアカウントに既に存在"
+#~ "しています。"
+
+#~ msgid ""
+#~ "Please choose the password you will use for %s. You will need to type "
+#~ "this password whenever you want to encrypt or decrypt items. Remember it "
+#~ "should be different from your login password, and will not change if you "
+#~ "change your login password"
+#~ msgstr ""
+#~ "%s用に使うパスワードを選択してください。このパスワードはアイテムの暗号化や"
+#~ "復号化に必要になります。ログインパスワードと異なるパスワードでなければなら"
+#~ "ないと忘れないでください。ログインパスワードを変えてもこのパスワードは変わ"
+#~ "りません。"
+
+#~ msgid "Please enter a password to protect your new encrypted items"
+#~ msgstr "新規暗号化アイテムを保護するためのパスワードを入力してください。"
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password"
+#~ msgstr ""
+#~ "ご利用のパスワードをリセットする必要がある場合は、二番目のメールアドレスを"
+#~ "入力してください。"
+
+#~ msgid "Rember my password"
+#~ msgstr "パスワードを記憶する"
+
+#~ msgid "This Email was signed and verified"
+#~ msgstr "このメールは署名され検証されています"
+
+#~ msgid "This Email was signed but unable to verify"
+#~ msgstr "このメールは署名されていますが検証することができませんでした。"
+
+#~ msgid "This Email was signed and failed verification"
+#~ msgstr "このメールは署名されましたが検証されていません"
+
+#~ msgid ""
+#~ "Please change the initial temporary %s security password that was sent to "
+#~ "you in a seperate email."
+#~ msgstr ""
+#~ "%s の一時セキュリティパスワードは別のメールで送信されています。必ず、この"
+#~ "パスワードを変更してください。"
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password</p>"
+#~ msgstr ""
+#~ "ご利用のパスワードをリセットするのに必要となる二番目のメールアドレスを入力"
+#~ "してください。</p>"
+
+#~ msgid "This Email was signed by the sender and verified"
+#~ msgstr "このメールは差出人によって署名され検証されています。"
+
+#~ msgid "If you already have a private key, you can upload it here"
+#~ msgstr "秘密鍵を持っている場合はここへアップロードができます。"
+
+#~ msgid "Finally, you can have a new PGP Key Pair created for your account"
+#~ msgstr "最終的に、新しい PGP 鍵ペアを作成することができます。"
+
+#~ msgid "Add a name and email address to this public key"
+#~ msgstr "この公開鍵に名前とメールを追加"
+
+#~ msgid "PGP default to using PGP inline for compatibility"
+#~ msgstr "互換性のための PGP デフォルトはインライン PGP にする"
+
+#~ msgid "Please verify your password before deleting the recovery"
+#~ msgstr "パスワード復元を削除する前にパスワードを確認してください。"
+
+#~ msgid "A new password has been sent to your email address"
+#~ msgstr "新しいパスワードがメールアドレスに送信されました。"
+
+#~ msgid "A new password has been sent to your secondary email address"
+#~ msgstr "新しいパスワードが二番目のメールアドレスに送信されました。"
+
+#~ msgid "No password recovery is available"
+#~ msgstr "パスワードの回復はできません。"
+
+#~ msgid "Password reset, but unable to send to your email address"
+#~ msgstr "パスワードがリセットされましたが、メールアドレスに送信できません。"
+
+#~ msgid "Unable to find email address to send password reset"
+#~ msgstr "パスワードリセットを送信する先のメールアドレスが見つかりません。"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Enabling Advanced PGP Features will enable key management and specifying "
+#~ "sending formats"
+#~ msgstr "PGP の上級機能を有効にすることによって"
+
+#~ msgid "This email was sent with an extra password."
+#~ msgstr "このメールは追加パスワードで保護された上で送信されました。"
+
+#~ msgid "Please enter below"
+#~ msgstr "次に入力してください。"
+
+#~ msgid "An error occurred during sending the encrypted email."
+#~ msgstr "暗号化されたメールの送信中にエラーが発生しました。"
+
+#~ msgid "This appears to be the first time you have used Encryption"
+#~ msgstr "Encryption を初めて利用されるお客様へ"
+
+#~ msgid ""
+#~ "Please change the temporary %s security password that was sent to you in "
+#~ "a seperate email."
+#~ msgstr ""
+#~ "%s の一時セキュリティ パスワードは別のメールで送信されています。必ず、この"
+#~ "パスワードを変更してください。"
+
+#~ msgid "%s PGP Settings"
+#~ msgstr "%s PGP 設定"
+
+#~ msgid "Changed"
+#~ msgstr "変更済み"
+
+#~ msgctxt "tour"
+#~ msgid "Sending without encryption"
+#~ msgstr "暗号化せずに送信"
+
+#~ msgctxt "tour"
+#~ msgid "Create Your %s Account"
+#~ msgstr "%s アカウントを作成"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You now need to choose a password which will be used to encrypt or "
+#~ "decrypt items. You only need to set this up once. Your password will then "
+#~ "remain valid until you change it."
+#~ msgstr ""
+#~ "アイテムを暗号化または復号するために使用するパスワードを選択する必要があり"
+#~ "ます。これは一度設定するだけでかまいません。パスワードは変更するまで有効で"
+#~ "す。"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You successfully set up secure communication. Your private key has been "
+#~ "created."
+#~ msgstr "セキュア通信の設定に成功しました。あなたの秘密鍵が作成されました。"
+
+#~ msgid ""
+#~ "Upload your Mailvelope public keys to the Guard server so that other "
+#~ "people can send you encrypted emails"
+#~ msgstr ""
+#~ "他の人が暗号化されたメールを送れるように、Mailvelope公開鍵をGuard サーバに"
+#~ "アップロードしてください。"
+
+#~ msgid ""
+#~ "Your pop-up blocker may have prevented a Guard window that provides "
+#~ "application functionality."
+#~ msgstr ""
+#~ "ご利用のポップアップ ブロッカーによって、Guard ウィンドウが表示されないた"
+#~ "め、アプリケーションの機能を利用できません。"
+
+#~ msgid "Please enter your Guard Security password"
+#~ msgstr "Guard セキュリティ パスワードを入力してください。"
+
+#~ msgid "Enter Guard Security Password"
+#~ msgstr "Guard セキュリティ パスワードを入力"
+
+#~ msgid "Please provide your Guard Security Password to share this file"
+#~ msgstr ""
+#~ "このファイルを共有するには Guard セキュリティ パスワードを入力してくださ"
+#~ "い。"
+
+#~ msgid "Secure Email, enter your Guard security password"
+#~ msgstr ""
+#~ "セキュアなメールです。Guard セキュリティ パスワードを入力してください。"
+
+#~ msgid "Keep me logged into Guard"
+#~ msgstr "Guard へのログインを保持"
+
+#~ msgid "Will create new guest account for Guard"
+#~ msgstr "Guard に新規のゲスト アカウントを作成します。"
+
+#~ msgid "Have encryption key"
+#~ msgstr "暗号化の鍵あり"
+
+#~ msgid "Please enter your Guard password to sign this email"
+#~ msgstr "Guard パスワードを入力してこのメールをサインしてください"
+
+#~ msgid "Please enter your Guard password for signing"
+#~ msgstr "署名のために Guard パスワードを入力してください"
+
+#~ msgid ""
+#~ "At least one of your attachments are encrypted.  Please provide your "
+#~ "Guard Security Password to decrypt before sending"
+#~ msgstr ""
+#~ "少なくとも 1 つ以上の添付ファイルが暗号化されています。送信前に Guard セ"
+#~ "キュリティ パスワードを入力して復号してください。"
+
+#~ msgid "Automated Email Language"
+#~ msgstr "メールの自動表示言語"
+
+#~ msgid "Create Guard Security Keys"
+#~ msgstr "Guard セキュリティ キーを作成"
+
+#~ msgid "First Guard Security Password Use"
+#~ msgstr "Guard セキュリティ パスワードの初回利用"
+
+#~ msgid ""
+#~ "Please change the temporary Guard security password that was sent to you "
+#~ "in a seperate email."
+#~ msgstr ""
+#~ "Guard の一時セキュリティ パスワードは別のメールで送信されています。必ず、"
+#~ "このパスワードを変更してください。"
+
+#~ msgid "Please enter your Guard password"
+#~ msgstr "Guard のパスワードを入力してください"
+
+#~ msgid ""
+#~ "Please change the initial temporary Guard security password that was sent "
+#~ "to you in a seperate email."
+#~ msgstr ""
+#~ "Guard の一時セキュリティ パスワードは別のメールで送信されています。必ず、"
+#~ "このパスワードを変更してください。"
+
+#~ msgid "Guard PGP Settings"
+#~ msgstr "Guard PGP 設定"
+
+#~ msgid ""
+#~ "If you would like to upload a public key only, then do so here.  This "
+#~ "will allow you to encrypt files and receive encrypted emails using Guard, "
+#~ "but you will need to use the private key with another program to decode "
+#~ "the items."
+#~ msgstr ""
+#~ "公開鍵だけをアップロードしたい場合は、ここで行います。ここで行うことによ"
+#~ "り、ファイルを暗号化し、Guardを使用して暗号化したメールを受け取れますが、"
+#~ "アイテムの復号の別のプログラムで秘密鍵を使用する必要があります。"
+
+#~ msgid "Guided tour for Guard"
+#~ msgstr "Guardのガイドツアー"
+
+#~ msgid "Sign out Guard"
+#~ msgstr "Guard をサイン アウト"
+
+#~ msgctxt "app"
+#~ msgid "Guard Security"
+#~ msgstr "Guard セキュリティ"
+
+#~ msgid ""
+#~ "In order to start with Guard Security, you must set up a password for "
+#~ "your secured files."
+#~ msgstr ""
+#~ "Guard を開始するには、暗号化するファイルのパスワードをセットアップする必要"
+#~ "があります。"
+
+#~ msgid "Guard Security Settings"
+#~ msgstr "Guard セキュリティ設定"
+
+#~ msgid "Change Guard Security Password."
+#~ msgstr "Guard セキュリティ パスワードを変更"
+
+#~ msgid "Enter current Guard security password"
+#~ msgstr "現在の Guard セキュリティ パスワードを入力"
+
+#~ msgid "Enter new Guard security password"
+#~ msgstr "新しい Guard セキュリティ パスワードを入力"
+
+#~ msgid "Verify new Guard security password"
+#~ msgstr "現在の Guard セキュリティ パスワードを確認"
+
+#~ msgid "Change Guard security password"
+#~ msgstr "Guard セキュリティ パスワードを変更"
+
+#~ msgid "Reset Guard security password"
+#~ msgstr "Guard セキュリティ パスワードをリセット"
+
+#~ msgid ""
+#~ "Send a temporary Guard security password to my secondary Email address."
+#~ msgstr "二番目のメール アドレスに Guard の一時セキュリティ パスワードを送信"
+
+#~ msgctxt "tour"
+#~ msgid "The Guard module"
+#~ msgstr "Guardモジュール"
+
+#~ msgctxt "tour"
+#~ msgid "Guard Security Settings"
+#~ msgstr "Guard セキュリティ設定"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You already set up your Guard account. But you can always change your "
+#~ "encryption password, or request a temporary password if you forget it."
+#~ msgstr ""
+#~ "Guard アカウントがすでに設定されています。しかし、暗号化パスワードの変更、"
+#~ "またはパスワードを忘れた場合の仮パスワードの要求はいつでも可能です。"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "By default Guard sends encrypted emails using PGP/Mime format. To "
+#~ "communicate with some systems you may need to use PGP Inline."
+#~ msgstr ""
+#~ "既定では、GuardがPGP/Mimeフォーマットを使用して暗号化メールを送ります。シ"
+#~ "ステムによっては通信にPGPインラインの使用が必要な場合があります。"
+
+#~ msgctxt "tour"
+#~ msgid "Remove encryption"
+#~ msgstr "暗号化を削除"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Removing the encryption is easy, too: Simply click on the lock icon again."
+#~ msgstr ""
+#~ "暗号化は簡単に削除できます。ロックアイコンをもう一度クリックしてください。"
+
+#~ msgctxt "tour"
+#~ msgid "Create Your Guard Account"
+#~ msgstr "Guard アカウントを作成"
+
+#~ msgctxt "tour"
+#~ msgid "Guard set up completed"
+#~ msgstr "Guard設定完了"
+
+#~ msgctxt "Choice"
+#~ msgid "Works only in all browsers with all your contacts"
+#~ msgstr "すべての連絡先の入ったすべてのブラウザで動作します。"
+
+#~ msgid "Click to enable encryption"
+#~ msgstr "クリックして暗号化を有効"
+
+#~ msgid "Click to disable encryption"
+#~ msgstr "クリックして暗号化を無効化"
+
+#~ msgid "Error.  Please reload message"
+#~ msgstr "エラーが発生しました。メッセージを再読み込みしてください。"
+
+#~ msgid "You have exceeded bad password attempts.  Please wait %s minutes"
+#~ msgstr "パスワードの試行回数が上限を超えました。%s 分お待ちください。"
+
+#~ msgid ""
+#~ "This email has expired and can no longer be accessed.  Contact the sender "
+#~ "for more information."
+#~ msgstr ""
+#~ "このメールの有効期間が切れたため、アクセスできません。詳細は差出人に確認し"
+#~ "てください。"
+
+#~ msgid ""
+#~ "This Email has been retracted by the sender and can no longer be "
+#~ "accessed.  Contact the sender for more information."
+#~ msgstr ""
+#~ "このメールは差出人によって取り消されたため、アクセスできません。詳細は差出"
+#~ "人に確認してください。"
+
+#~ msgid "Unable to decrypt Email."
+#~ msgstr "メールを復号できません。"
+
+#~ msgid "The sender added an extra password encryption."
+#~ msgstr "差出人が追加パスワードによる暗号化を追加しました。"
+
+#~ msgid "Save Encrypted"
+#~ msgstr "暗号化して保存"
+
+#~ msgid "Save Decrypted"
+#~ msgstr "復号されたファイルを保存"
+
+#~ msgid ""
+#~ "This Email was sent encrypted. It has been decrypted with your private key"
+#~ msgstr ""
+#~ "このメールは暗号化されて送信されました。自分の秘密鍵で復号されました。"
+
+#~ msgid "Expires: "
+#~ msgstr "次の時刻に有効期間が切れます： "
+
+#~ msgid "Retract Email"
+#~ msgstr "メールを取り消す"
+
+#~ msgid "Email status"
+#~ msgstr "メール ステータス"
+
+#~ msgid "Retract all access"
+#~ msgstr "すべてのアクセスを取り消す"
+
+#~ msgid "Email has not been opened."
+#~ msgstr "メールは開かれていません。"
+
+#~ msgid "Email has been opened."
+#~ msgstr "メールは開かれました。"
+
+#~ msgid "Email has been retracted."
+#~ msgstr "メールは取り消されました。"
+
+#~ msgid "Unable to get email status, please try again later"
+#~ msgstr "メール ステータスを取得できません。後でもう一度試してください。"
+
+#~ msgid "This will retract the email for all recipients. Click OK to confirm."
+#~ msgstr ""
+#~ "すべての宛先のメールが取り消されます。確定するには、[OK] をクリックしてく"
+#~ "ださい。"
+
+#~ msgid "Item was retracted"
+#~ msgstr "アイテムは取り消されました。"
+
+#~ msgid "Not all items retracted"
+#~ msgstr "いくつかのアイテムが取り消されませんでした。"
+
+#~ msgid "Failed to retract"
+#~ msgstr "取り消しに失敗しました。"
+
+#~ msgctxt "tour"
+#~ msgid "Learn more …"
+#~ msgstr "詳細は、こちらをご覧ください…"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "From here you can update you encryption settings. For example you can "
+#~ "choose to send encrypted emails by default."
+#~ msgstr ""
+#~ "ここから暗号化設定を更新できます。例えば、既定では暗号化メールの送信を選択"
+#~ "できます。"
+
+#~ msgid "Message was saved"
+#~ msgstr "メッセージが保存されました。"
+
+#~ msgid "Problem creating keys"
+#~ msgstr "鍵の作成時に問題が発生しました"
+
+#~ msgctxt "tour"
+#~ msgid "Please click on the lock icon."
+#~ msgstr "ロックアイコンをクリックしてください。"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Please choose your password now, enter a secondary email address and "
+#~ "click on Ok."
+#~ msgstr ""
+#~ "パスワードを選択し、二番目のメールアドレスを入力してOKをクリックしてくださ"
+#~ "い。"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You can always change your encryption password, or request a temporary "
+#~ "password if you forget it."
+#~ msgstr ""
+#~ "暗号化パスワードの変更、またはパスワードを忘れた場合の仮パスワードの要求は"
+#~ "いつでも可能です。"
+
+#~ msgctxt "tour"
+#~ msgid "Congratulations! You are now able to send secure emails."
+#~ msgstr "おめでとう！これでセキュアメールを送信することができます。"
+
+#~ msgctxt "tour"
+#~ msgid "Please remove the encryption now by clicking on the lock icon again."
+#~ msgstr "ロックアイコンを再度クリックして、暗号化を削除してください。"
+
+#~ msgid "%s already encrypted"
+#~ msgstr "%s は既に暗号化されています。"
+
+#~ msgid "Add folder"
+#~ msgstr "フォルダを追加"
+
+#~ msgid "Already Protected With Additional Password"
+#~ msgstr "追加パスワードで既に保護されています。"
+
+#~ msgid "Click to disable PGP encryption"
+#~ msgstr "クリックして PGP 暗号化を無効化"
+
+#~ msgid "Done"
+#~ msgstr "完了"
+
+#~ msgid "Drop here to upload a <b class=\"dndignore\">new encrypted file</b>"
+#~ msgstr ""
+#~ "ここにドロップして <b class=\"dndignore\">新規の暗号化されたファイル</b> "
+#~ "をアップロード"
+
+#~ msgid "Encrypting "
+#~ msgstr "暗号化しています。 "
+
+#~ msgid "Encrypting %s"
+#~ msgstr "%s を暗号化しています。"
+
+#~ msgid "FW: %1$s"
+#~ msgstr "転送：%1$s"
+
+#~ msgid "Failed to encrypt file"
+#~ msgstr "ファイルの暗号化に失敗しました。"
+
+#~ msgid "Folder name"
+#~ msgstr "フォルダ名"
+
+#~ msgid "New Encrypted folder"
+#~ msgstr "新規の暗号化フォルダ"
+
+#~ msgid "New Encrypted subfolder"
+#~ msgstr "新規の暗号化サブフォルダ"
+
+#~ msgid "New encrypted subfolder"
+#~ msgstr "暗号化された新規サブフォルダ"
+
+#~ msgid "New folder"
+#~ msgstr "フォルダを表示"
+
+#~ msgid "New public folder"
+#~ msgstr "新規パブリック フォルダ"
+
+#~ msgid ""
+#~ "One of your recipients requires emails to be sent as PGP Inline.  "
+#~ "Changing now."
+#~ msgstr "宛先の一人がインライン PGP のメール送信を要求しています。変更中。"
+
+#~ msgid "PGP key exists for this person"
+#~ msgstr "この人の PGP 鍵は存在する"
+
+#~ msgid "Require Additional Password"
+#~ msgstr "追加パスワードが必要"
+
+#~ msgid "Security Options"
+#~ msgstr "セキュリティ オプション"
+
+#~ msgid "Send encrypted (PGP)"
+#~ msgstr "暗号化して送信（PGP）"
+
+#~ msgid "Share keys with other users to decrypt this file"
+#~ msgstr "このファイル用の復号キーを他のユーザと共有"
+
+#~ msgid "Share link"
+#~ msgstr "リンクを共有"
+
+#~ msgid "Sharing"
+#~ msgstr "共有"
+
+#~ msgid "Sign email"
+#~ msgstr "メールサイン"
+
+#~ msgid "Status"
+#~ msgstr "進捗状況"
+
+#~ msgid "Stop"
+#~ msgstr "停止"
+
+#~ msgid "The key for %1$s is expired and should not be used"
+#~ msgstr "%1$s 用の鍵の有効期間が切れたので使用しないでください"
+
+#~ msgid "Unable to create Guard account, please try again later"
+#~ msgstr "Guard アカウントを作成できません。後でもう一度試してください。"
+
+#~ msgid "Upload new files to encrypt"
+#~ msgstr "暗号化する新規ファイルをアップロード"
+
+#~ msgid "Use PGP inline (compatibility)"
+#~ msgstr "インライン PGP 使用（互換性）"
+
+#~ msgid "%s hours"
+#~ msgstr "%s 時間"
+
+#~ msgid "%s week"
+#~ msgstr "%s 週間"
+
+#~ msgid "%s weeks"
+#~ msgstr "%s 週間"
+
+#~ msgid "Added keys:"
+#~ msgstr "追加された鍵："
+
+#~ msgid "CC:"
+#~ msgstr "CC："
+
+#~ msgid "Click to disable Guard"
+#~ msgstr "クリックして Guard を無効化"
+
+#~ msgid "Click to enable Guard"
+#~ msgstr "クリックして Guard を有効化"
+
+#~ msgid "Confirm Guard Password"
+#~ msgstr "Guard パスワードを確認"
+
+#~ msgid "Create Guard Account"
+#~ msgstr "Guard アカウントを作成"
+
+#~ msgid "Date:"
+#~ msgstr "日付："
+
+#~ msgid "Decode"
+#~ msgstr "デコード"
+
+#~ msgid "Default signing outgoing PGP mails"
+#~ msgstr "デフォルトは送信する PGP メールをサインする"
+
+#~ msgid "Defaults"
+#~ msgstr "既定"
+
+#~ msgid "Download (OG)"
+#~ msgstr "ダウンロード (OG)"
+
+#~ msgid "Enable Guard"
+#~ msgstr "Guard を有効化"
+
+#~ msgid "Encrypted email has been sent successfully."
+#~ msgstr "暗号化されたメールは正しく送信されました。"
+
+#~ msgid "Encrypting"
+#~ msgstr "暗号化しています。"
+
+#~ msgid "From:"
+#~ msgstr "差出人："
+
+#~ msgid "Fwd:"
+#~ msgstr "Fwd:"
+
+#~ msgid "IDs:"
+#~ msgstr "ID："
+
+#~ msgid "Initializing Guard, please wait"
+#~ msgstr "Guard を初期化しています。お待ちください。"
+
+#~ msgid "Inline"
+#~ msgstr "インライン"
+
+#~ msgid "Make Guard default to PGP compliant"
+#~ msgstr "Guard のデフォルトを PGP Compliant とします"
+
+#~ msgid "Never"
+#~ msgstr "なし"
+
+#~ msgid "No recipients"
+#~ msgstr "宛先がありません。"
+
+#~ msgid "None"
+#~ msgstr "なし"
+
+#~ msgid "Not able to contact guard server"
+#~ msgstr "Guard サーバに問い合わせできません。"
+
+#~ msgid "On"
+#~ msgstr " "
+
+#~ msgid "Open"
+#~ msgstr "開く"
+
+#~ msgid "Open Decoded"
+#~ msgstr "デコード後開く"
+
+#~ msgid "PGP Compliant Guard"
+#~ msgstr "PGP Compliant Guard"
+
+#~ msgid "PGP default to PGP inline for compatibility"
+#~ msgstr "互換性のための PGP デフォルトは インライン PGP にする"
+
+#~ msgid "Please enter a password to protect your Guard account"
+#~ msgstr "Guard アカウントを保護するためのパスワードを入力してください。"
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password.  A new password would be sent to this email."
+#~ msgstr ""
+#~ "ご利用のパスワードをリセットするのに必要となる二番目のメール アドレスを入"
+#~ "力してください。新しいパスワードはこのメール アドレスに送信されます。"
+
+#~ msgid "Please select the file location of your private key."
+#~ msgstr "ご利用の秘密鍵ファイルの場所を選択してください。"
+
+#~ msgid "Private Key Password"
+#~ msgstr "秘密鍵のパスワード"
+
+#~ msgid "Problem uploading Private Key"
+#~ msgstr "秘密鍵をアップロードの問題が発生しました"
+
+#~ msgid "Public Key List"
+#~ msgstr "公開鍵一覧"
+
+#~ msgid "Recipient has Guard"
+#~ msgstr "宛先は Guard を利用しています。"
+
+#~ msgid "Retract in"
+#~ msgstr "次の時間でメールを取り消す: "
+
+#~ msgid "Save Decoded"
+#~ msgstr "デコードして保存"
+
+#~ msgid "Shared"
+#~ msgstr "共有"
+
+#~ msgid "Sign PGP"
+#~ msgstr "PGP サイン"
+
+#~ msgid "Subject:"
+#~ msgstr "件名："
+
+#~ msgid ""
+#~ "The key will be used locally only.  It will not be sent to the server."
+#~ msgstr "鍵はローカルでのみ使用されます。サーバには送信されません。"
+
+#~ msgid "This appears to be the first time you have used Guard"
+#~ msgstr "Guard を初めて利用されるお客様へ"
+
+#~ msgid "To:"
+#~ msgstr "宛先："
+
+#~ msgid "Unable to get key for encryption"
+#~ msgstr "暗号化のためのキーを取得できません。"
+
+#~ msgid "Unable to load"
+#~ msgstr "読み込めません。"
+
+#~ msgid "Use Guard when composing a new email"
+#~ msgstr "新規メールの作成時に Guard を使用"
+
+#~ msgid "Using a guest account for email"
+#~ msgstr "メールにゲスト アカウントを使用します。"
+
+#~ msgid "Your private key"
+#~ msgstr "あなたの秘密鍵"
+
+#~ msgid "Your public key"
+#~ msgstr "あなたの公開鍵"
+
+#~ msgid "popup blocked"
+#~ msgstr "ポップアップがブロックされました。"

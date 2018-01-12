@@ -1,0 +1,2601 @@
+# Robert Kratky <robert@bureau-cornavin.com>, 2014, 2015, 2016, 2017.
+# Robert Krátký <rkratky@gmail.com>, 2014, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: open-xchange-guard-ui\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2018-01-12 09:03-0500\n"
+"Last-Translator: Greg Hill <greg.hill@open-xchange.com>\n"
+"Language-Team: Czech <>\n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Poedit 1.6.10\n"
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "Toggle Encryption"
+msgstr ""
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "Not Supported"
+msgstr "Není podporované"
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "%s is not supported with secured email and will be disabled."
+msgstr "%s není podporováno pro zabezpečené zprávy a bude vypnuto."
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "OK"
+msgstr "OK"
+
+#. %s product Name
+#: apps/mailvelope/settings.js module:oxguard
+msgid "Mailvelope"
+msgstr "Mailvelope"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Mailvelope Not Supported"
+msgstr "Mailvelope není podporovaný"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid ""
+"Mailvelope is only supported in Google Chrome or Mozilla Firefox.  Please "
+"use one of these broswers to set up encryption."
+msgstr ""
+"Mailvelope je podporovaný pouze v prohlížečích Google Chrome a Mozilla "
+"Firefox. Použijte, prosím, jeden z nich pro nastavení šifrování."
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Encrypted communication"
+msgstr "Šifrovaná komunikace"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Download browser plugin"
+msgstr "Stáhnout rozšíření prohlížeče"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Generate"
+msgstr "Vygenerovat"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Congratulations! You have successfully set up encryption."
+msgstr "Gratuluji. Úspěšně jste nastavili šifrování."
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Prepare"
+msgstr "Připravit"
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Password"
+msgstr "Heslo"
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Three steps to setup encrypted communication:"
+msgstr "Tři kroky k nastavení šifrované komunikace:"
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Download browser plugin “Mailvelope”"
+msgstr "Stáhněte rozšíření prohlížeče „Mailvelope“"
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Create encryption keys for secure communication"
+msgstr "Vytvořte šifrovací klíče pro bezpečnou komunikaci"
+
+#~ msgid "Mailvelope Advanced"
+#~ msgstr "Mailvelope pro pokročilé"
+
+#~ msgid "Error"
+#~ msgstr "Chyba"
+
+#~ msgid ""
+#~ "Backup your Mailvelope private keys to the server.  The keys will be "
+#~ "encrypted requiring a security code for restore"
+#~ msgstr ""
+#~ "Zálohujte své soukromé klíče pro Mailvelope na server. Klíče budou "
+#~ "šifrovány a k jejich obnovení bude potřeba bezpečnostní kód"
+
+#~ msgid "Backup"
+#~ msgstr "Záloha"
+
+#~ msgid "Discard previously saved private keys."
+#~ msgstr "Zahodit dříve uložené soukromé klíče."
+
+#~ msgid "Discard backup"
+#~ msgstr "Zahodit zálohu"
+
+#~ msgid "Restore previously saved private keys."
+#~ msgstr "Obnovit dříve uložené soukromé klíče."
+
+#~ msgid "Restore"
+#~ msgstr "Obnovit"
+
+#~ msgid ""
+#~ "Upload your Mailvelope public keys to the %s server so that other people "
+#~ "can send you encrypted emails."
+#~ msgstr ""
+#~ "Nahrajte své soukromé klíče pro Mailvelope na server %s, aby vám ostatní "
+#~ "mohli posílat šifrované zprávy."
+
+#~ msgid "Upload Public Key"
+#~ msgstr "Nahrát veřejný klíč"
+
+#~ msgid "Backup and Recovery"
+#~ msgstr "Záloha a obnovení"
+
+#~ msgid "No backup data available"
+#~ msgstr "Žádná záloha k dispozici"
+
+#~ msgid ""
+#~ "You can now backup your keys. Please store the provided password secure. "
+#~ "It is also possible to skip this step and do the backup later. You can "
+#~ "find it in the settings."
+#~ msgstr ""
+#~ "Nyní můžete své klíče zálohovat. Uložte, prosím, poskytnuté heslo "
+#~ "bezpečně. Také je možné tento krok přeskočit a provést zálohu později. "
+#~ "Vše najdete v nastavení."
+
+#~ msgid "Skip without backup"
+#~ msgstr "Přeskočit zálohu"
+
+#~ msgid "Recommended: Setup key backup"
+#~ msgstr "Doporučení: Nastavte zálohování klíčů"
+
+#~ msgid "Enter %s security password"
+#~ msgstr "Zadejte své heslo k %s Security"
+
+#~ msgid "Bad password"
+#~ msgstr "Chybné heslo"
+
+#~ msgid "Account Locked out"
+#~ msgstr "Účet uzamčen"
+
+#~ msgid "Unspecified error"
+#~ msgstr "Neupřesněná chyba"
+
+#~ msgid "Problems creating keys, please try again later."
+#~ msgstr "Při vytváření klíčů se vyskytl problém, zkuste to, prosím později."
+
+#~ msgid ""
+#~ "Problems creating keys.  Keys already exist for this email address in "
+#~ "another account."
+#~ msgstr ""
+#~ "Při vytváření klíčů došlo k chybě. V jiném účtu již pro tuto e-mailovou "
+#~ "adresu klíče existují."
+
+#~ msgid "Passwords must be at least %s characters in length"
+#~ msgstr "Hesla musí mít alespoň %s znaků"
+
+#~ msgid "Passwords not equal"
+#~ msgstr "Hesla se liší"
+
+#~ msgid "Enter new secondary Email address"
+#~ msgstr "Zadejte novou druhou e-mailovou adresu"
+
+#~ msgid "Generating key, Please wait"
+#~ msgstr "Generuji klíč, počkejte, prosím"
+
+#~ msgid ""
+#~ "Please choose the password you will use for %s. You will need to type "
+#~ "this password whenever you want to encrypt or decrypt items. Remember it "
+#~ "should be different from your login password, and will not change if you "
+#~ "change your login password."
+#~ msgstr ""
+#~ "Vyberte, prosím, heslo, které budete používat pro %s. Toto heslo bude "
+#~ "potřeba zadat při každém šifrování a dešifrování položky. Pamatujte, "
+#~ "heslo by se mělo lišit od vašeho přihlašovacího hesla a pokud změníte "
+#~ "přihlašovací heslo, toto heslo se nezmění."
+
+#~ msgid "Please enter a password to protect your new encrypted items."
+#~ msgstr ""
+#~ "Zadejte, prosím, heslo pro ochranu vašich nových zašifrovaných položek."
+
+#~ msgid "Confirm"
+#~ msgstr "Potvrdit"
+
+#~ msgid ""
+#~ "Warning: This password for encryption cannot be restored or recovered in "
+#~ "any way.  If forgotten, all encrypted data will be lost"
+#~ msgstr ""
+#~ "Varování: Toto šifrovací heslo nelze obnovit. Ztratíte-li jej, budou "
+#~ "ztracena i všechna zašifrovaná data."
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password."
+#~ msgstr ""
+#~ "Zadejte, prosím, druhou e-mailovou adresu pro případ, že byste "
+#~ "potřebovali změnit heslo."
+
+#~ msgid "Email:"
+#~ msgstr "E-mail:"
+
+#~ msgid "Create %s Security Keys"
+#~ msgstr "Vytvořit klíče k %s Security"
+
+#~ msgid "Cancel"
+#~ msgstr "Zrušit"
+
+#~ msgid "Not valid email"
+#~ msgstr "Neplatný e-mail"
+
+#~ msgid "Emails not equal"
+#~ msgstr "E-maily se liší"
+
+#~ msgid "Too short"
+#~ msgstr "Příliš krátké"
+
+#~ msgid "Strong"
+#~ msgstr "Silné"
+
+#~ msgid "Weak"
+#~ msgstr "Slabé"
+
+#~ msgid "First %s Security Use"
+#~ msgstr "První použití %s Security"
+
+#~ msgid "You have been sent an email using %s to secure the contents"
+#~ msgstr "Byl vám zaslán e-mail využívající %s pro zabezpečení obsahu"
+
+#~ msgid ""
+#~ "Please select a new password for use with %s.  This password will be used "
+#~ "to open encrypted emails and files that may be sent to you."
+#~ msgstr ""
+#~ "Vyberte, prosím, nové heslo, které budete používat pro %s. Toto heslo "
+#~ "bude použito k otevření zašifrovaných e-mailů a souborů, které vám můžou "
+#~ "být zaslány."
+
+#~ msgid "First %s Security Password Use"
+#~ msgstr "První použití hesla k %s Security"
+
+#~ msgid ""
+#~ "Please change the initial temporary %s security password that was sent to "
+#~ "you in a separate email."
+#~ msgstr ""
+#~ "Změňte, prosím, původní dočasné bezpečnostní heslo k %s, které vám bylo "
+#~ "posláno v samostatném e-mailu."
+
+#~ msgid "Initial Password"
+#~ msgstr "Původní heslo"
+
+#~ msgid "New Password"
+#~ msgstr "Nové heslo"
+
+#~ msgid "Confirm New"
+#~ msgstr "Potvrdit nové"
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password.</p>"
+#~ msgstr ""
+#~ "Zadejte, prosím, druhou e-mailovou adresu pro případ, že byste "
+#~ "potřebovali změnit heslo.</p>"
+
+#~ msgid "Verify:"
+#~ msgstr "Ověřit:"
+
+#~ msgid ""
+#~ "Warning: This password for encryption cannot be restored or recovered in "
+#~ "any way.  If forgotten, all encrypted data will be lost."
+#~ msgstr ""
+#~ "Varování: Toto šifrovací heslo nelze obnovit. Ztratíte-li jej, budou "
+#~ "ztracena i všechna zašifrovaná data."
+
+#~ msgid "Success"
+#~ msgstr "Podařilo se"
+
+#~ msgid "Password changed successfully"
+#~ msgstr "Heslo úspěšně změněno"
+
+#~ msgid "New password must be at least %s characters long"
+#~ msgstr "Nové heslo musí mít alespoň %s znaků"
+
+#~ msgid "Encryption key not found"
+#~ msgstr "Nepodařilo se nalézt šifrovací klíč"
+
+#~ msgid "Failed to change password"
+#~ msgstr "Nepodařilo se změnit heslo"
+
+#~ msgid "Download decrypted"
+#~ msgstr "Stažená data byla dešifrována"
+
+#~ msgid "Add and encrypt local file"
+#~ msgstr "Přidat a zašifrovat místní soubor"
+
+#~ msgid "Remove encryption"
+#~ msgstr "Odstranit šifrování"
+
+#~ msgid "Encrypt"
+#~ msgstr "Zašifrovat"
+
+#~ msgid "Send by mail"
+#~ msgstr "Poslat poštou"
+
+#~ msgid "Download encrypted"
+#~ msgstr "Stáhnout zašifrované"
+
+#~ msgid "Pop out"
+#~ msgstr "Vytrhnout"
+
+#~ msgid "Pop out standalone viewer"
+#~ msgstr "Vytrhnout samostatný prohlížeč"
+
+#~ msgid "Decrypt and open"
+#~ msgstr "Dešifrovat a otevřít"
+
+#~ msgid "Drop files here to encrypt"
+#~ msgstr "Soubory k zašifrování přetáhněte sem"
+
+#~ msgid "Recipient Options"
+#~ msgstr "Možnosti příjemce"
+
+#~ msgid ""
+#~ "At least one of your recipients uses a different webmail system.  They "
+#~ "will receive an email with a link for them to read this message.  If you "
+#~ "like, you can add a personalized message that will appear at the top of "
+#~ "this message.  This will help identify the message as coming from you."
+#~ msgstr ""
+#~ "Přinejmenším jeden z příjemců používá jiné webové rozhraní pro správu "
+#~ "pošty. Obdrží zprávu s odkazem, který jim umožní přečíst tuto zprávu. "
+#~ "Pokud chcete, můžete přidat osobní zprávu, která bude zobrazena nad touto "
+#~ "zprávou. To pomůže určit, že jde o zprávu od vás."
+
+#~ msgid "Message:"
+#~ msgstr "Zpráva:"
+
+#~ msgid "Language for recipient Email"
+#~ msgstr "Jazyk příjemce zprávy"
+
+#~ msgid "Note: Emails sent to mailing lists or groups will not work."
+#~ msgstr ""
+#~ "Poznámka: Zprávy poslané do konferencí nebo skupin nebudou fungovat."
+
+#~ msgid ""
+#~ "Mailing list / blocked email found.  Encrypted emails to this email will "
+#~ "fail.  %s"
+#~ msgstr ""
+#~ "Zpráva do poštovní konference nebo na zablokovanou adresu. Šifrované "
+#~ "zprávy poslané na tuto adresu nebudou doručeny. %s"
+
+#~ msgid ""
+#~ "The key for %s has expired.  You will not be able to send an encrypted "
+#~ "email to this recipient."
+#~ msgstr ""
+#~ "Klíč pro %s již není platný. Tomuto příjemci nebudete moci posílat "
+#~ "šifrované zprávy."
+
+#~ msgid "HTML Formatted Email"
+#~ msgstr "Zpráva formátovaná jako HTML"
+
+#~ msgid ""
+#~ "HTML formatted emails may cause issues with PGP inline.  Click OK to "
+#~ "change to Plain Text formatted Emails."
+#~ msgstr ""
+#~ "Zprávy formátované jako HTML mohou způsobit potíže při vloženém PGP. "
+#~ "Kliknutím na OK změníte formát zpráv na prostý text."
+
+#~ msgid "HTML format is not recommended when using PGP Inline"
+#~ msgstr "Formát HTML není doporučen, používá-li se vložené PGP"
+
+#~ msgid "Recipients cannot be added to this encrypted reply"
+#~ msgstr "K této šifrované odpovědi nelze přidat adresáty"
+
+#~ msgid "Reply must be encrypted"
+#~ msgstr "Odpověď musí být zašifrovaná"
+
+#~ msgid "Unable to attach your public key"
+#~ msgstr "Nelze připojit váš veřejný klíč"
+
+#~ msgid "Will create new guest account for %s"
+#~ msgstr "Bude vytvořen nový účet pro %s"
+
+#~ msgid "Encryption Key Known"
+#~ msgstr "Rozpoznán šifrovací klíč"
+
+#~ msgid "Send"
+#~ msgstr "Poslat"
+
+#~ msgid "Send Encrypted"
+#~ msgstr "Odeslat po zašifrování"
+
+#~ msgid "Send Secure"
+#~ msgstr "Bezpečně odeslat"
+
+#~ msgid "Loaded"
+#~ msgstr "Nahráno"
+
+#~ msgid "Secure Email, enter your %s security password."
+#~ msgstr "Zabezpečená zpráva, zadejte své bezpečnostní heslo k %s."
+
+#~ msgid "Keep me logged into %s"
+#~ msgstr "Zůstat přihlášený(á) k %s"
+
+#~ msgid "10 minutes"
+#~ msgstr "10 minut"
+
+#~ msgid "20 minutes"
+#~ msgstr "20 minut"
+
+#~ msgid "30 minutes"
+#~ msgstr "30 minut"
+
+#~ msgid "1 hour"
+#~ msgstr "1 hodina"
+
+#~ msgid "2 hours"
+#~ msgstr "2 hodiny"
+
+#~ msgid "Session"
+#~ msgstr "Sezení"
+
+#~ msgid "Select Key Location"
+#~ msgstr "Zvolte umístění klíče"
+
+#~ msgid "Temporary Lockout"
+#~ msgstr "Dočasný výpadek"
+
+#~ msgid "Security PIN"
+#~ msgstr "Bezpečnostní PIN"
+
+#~ msgid "Recipients:"
+#~ msgstr "Adresáti:"
+
+#~ msgid ""
+#~ "The new recipients listed below will be sent a password via email.  You "
+#~ "can also require a separate pin, which is displayed below."
+#~ msgstr ""
+#~ "Novým adresátům vypsaným níže bude posláno heslo e-mailem. Můžete také "
+#~ "vyžadovat samostatný PIN, který je také zobrazený níže."
+
+#~ msgid ""
+#~ "You may deliver this pin any way you see fit, but we recommend doing it "
+#~ "in a second method other than email (Phone, SMS, Skype, etc)."
+#~ msgstr ""
+#~ "Tento PIN můžete doručit, jakkoliv chcete, ale doporučujeme zvolit jiný "
+#~ "způsob než e-mail (telefon, SMS, Skype atp.)."
+
+#~ msgid "If you want this extra pin requirement, click OK."
+#~ msgstr "Chcete-li využít tento dodatečný PIN, klikněte na OK."
+
+#~ msgid "Skip"
+#~ msgstr "Přeskočit"
+
+#~ msgid "Unable to get key"
+#~ msgstr "Nepodařilo se získat klíč"
+
+#~ msgid "Please enter your %s password to sign this email."
+#~ msgstr "Pro podepsání této zprávy, prosím, zadejte své heslo k %s."
+
+#~ msgid ""
+#~ "There appears to be an encrypted attachment.  Please enter your %s "
+#~ "password to decode the attachment for sending."
+#~ msgstr ""
+#~ "Toto je pravděpodobně šifrovaný dokument. Zadejte, prosím, své heslo k "
+#~ "%s, aby bylo možné přílohu rozšifrovat, než bude poslána."
+
+#~ msgid "Please re-enter your %s password before sending."
+#~ msgstr "Zadejte, prosím, znovu své heslo k %s, než dojde k odeslání."
+
+#~ msgid "Please re-enter your %s password before saving."
+#~ msgstr "Zadejte, prosím, znovu své heslo k %s, než dojde k uložení."
+
+#~ msgid "Please re-enter your %s password."
+#~ msgstr "Zadejte, prosím, znovu své heslo k %s."
+
+#~ msgid "Security"
+#~ msgstr "Bezpečnost"
+
+#~ msgid "PGP"
+#~ msgstr "PGP"
+
+#~ msgid "Secure"
+#~ msgstr "Bezpečně"
+
+#~ msgid "Sign"
+#~ msgstr "Podpis"
+
+#~ msgid "Format"
+#~ msgstr "Formát"
+
+#~ msgid "PGP Mime"
+#~ msgstr "PGP Mime"
+
+#~ msgid "PGP Inline"
+#~ msgstr "Vložené PGP"
+
+#~ msgid "Keys"
+#~ msgstr "Klíče"
+
+#~ msgid "Attach my key"
+#~ msgstr "Připojit můj klíč"
+
+#~ msgid "Unable to find keys for all recipients."
+#~ msgstr "Nedaří se mi najít klíče pro všechny uživatele."
+
+#~ msgid "Unable to connect to the encryption server."
+#~ msgstr "Nelze se připojit k šifrovacímu serveru."
+
+#~ msgid "Unable to find the item on the server"
+#~ msgstr "Položku se na serveru nepodařilo nalézt"
+
+#~ msgid "Unable to get the key for that item"
+#~ msgstr "Nepodařilo se získat klíč k této položce"
+
+#~ msgid "Unable to retrieve your user keys to decode"
+#~ msgstr "Nepodařilo se načíst vaše uživatelské klíče k dešifrování"
+
+#~ msgid "Bad extra password"
+#~ msgstr "Chybné dodatečné heslo"
+
+#~ msgid "No private key to decode this message"
+#~ msgstr "K rozšifrování této zprávy není k dispozici žádný soukromý klíč"
+
+#~ msgid "Unable to decrypt Email, incorrect password."
+#~ msgstr "Zprávu nelze dešifrovat, chybné heslo."
+
+#~ msgid "To reset or recover your password, click %s"
+#~ msgstr "Pro přenastavení nebo obnovení hesla klikněte na %s"
+
+#~ msgid "Settings"
+#~ msgstr "Nastavení"
+
+#~ msgid "No Private Key available for this encrypted item."
+#~ msgstr "Pro tuto zašifrovanou položku není k dispozici žádný soukromý klíč."
+
+#~ msgid "Key Ids:"
+#~ msgstr "ID klíčů:"
+
+#~ msgid "Your account is locked out for %s minutes"
+#~ msgstr "Váš účet je na %s minut uzamčen"
+
+#~ msgid "Server Error: "
+#~ msgstr "Chyba serveru:"
+
+#~ msgid "Password needed"
+#~ msgstr "Vyžadováno heslo"
+
+#~ msgid "Please enter your %s password"
+#~ msgstr "Zadejte, prosím, své heslo k %s"
+
+#~ msgid "Remember my password"
+#~ msgstr "Pamatovat heslo"
+
+#~ msgid "Account locked out due to bad attempts.  Please try again later."
+#~ msgstr ""
+#~ "Účet uzamčen kvůli neúspěšným pokusům o přihlášení. Zkuste to, prosím, "
+#~ "později."
+
+#~ msgid "Error checking password"
+#~ msgstr "Chyba při kontrole hesla"
+
+#~ msgid "Delete Public Key"
+#~ msgstr "Smazat veřejný klíč"
+
+#~ msgid "Click OK to confirm"
+#~ msgstr "Klikněte na OK pro potvrzení"
+
+#~ msgid "Email"
+#~ msgstr "E-mail"
+
+#~ msgid "Key Ids"
+#~ msgstr "ID klíčů"
+
+#~ msgid "Details"
+#~ msgstr "Podrobnosti"
+
+#~ msgid "Delete"
+#~ msgstr "Smazat"
+
+#~ msgid "No Keys Found"
+#~ msgstr "Nepodařilo se nalézt žádné klíče"
+
+#~ msgid "Key Details"
+#~ msgstr "Podrobnosti o klíči"
+
+#~ msgid "Share Keys"
+#~ msgstr "Sdílet klíče"
+
+#~ msgid "Use PGP Inline"
+#~ msgstr "Použít vložené PGP"
+
+#~ msgid "Signatures"
+#~ msgstr "Podpisy"
+
+#~ msgid "Expired"
+#~ msgstr "Vypršel"
+
+#~ msgid "Revoked"
+#~ msgstr "Zrušen"
+
+#~ msgid "Fingerprint:"
+#~ msgstr "Otisk:"
+
+#~ msgid "Created:"
+#~ msgstr "Vytvořeno:"
+
+#~ msgid "Master:"
+#~ msgstr "Master:"
+
+#~ msgid "True"
+#~ msgstr "Pravda"
+
+#~ msgid "False"
+#~ msgstr "Nepravda"
+
+#~ msgid "Encryption:"
+#~ msgstr "Šifrování:"
+
+#~ msgid "IDs: "
+#~ msgstr "ID: "
+
+#~ msgid "Expires in %1$s days"
+#~ msgstr "Vyprší za %1$s (dny)."
+
+#~ msgid "Problem getting signatures"
+#~ msgstr "Nedaří se získat podpisy"
+
+#~ msgid "Positive"
+#~ msgstr "Správná identifikace"
+
+#~ msgid "Failed check"
+#~ msgstr "Ověření selhalo"
+
+#~ msgid "Missing public"
+#~ msgstr "Chybí veřejný klíč"
+
+#~ msgid "Casual"
+#~ msgstr "Neformální identifikace"
+
+#~ msgid "Revocation"
+#~ msgstr "Zrušení"
+
+#~ msgid "Direct cert"
+#~ msgstr "Přímá certifikace"
+
+#~ msgid "Default Certification"
+#~ msgstr "Výchozí certifikace"
+
+#~ msgid "No signatures"
+#~ msgstr "Žádné podpisy"
+
+#~ msgid "ID Signed"
+#~ msgstr "Podepsáno"
+
+#~ msgid "Certification"
+#~ msgstr "Certifikace"
+
+#~ msgid "Signed by"
+#~ msgstr "Podepsal(a)"
+
+#~ msgid "Image"
+#~ msgstr "Obrázek"
+
+#~ msgid "Key Signatures"
+#~ msgstr "Podpisy klíčů"
+
+#~ msgid "PGP Public Key List"
+#~ msgstr "Seznam veřejných PGP klíčů"
+
+#~ msgid "This Email was encrypted with PGP."
+#~ msgstr "Tato zpráva byla zašifrována pomocí PGP."
+
+#~ msgid "This Email was signed and verified."
+#~ msgstr "Tato zpráva byl podepsána a ověřena."
+
+#~ msgid "This Email was signed and failed verification."
+#~ msgstr "Tato zpráva byla podepsána, ale ověření selhalo."
+
+#~ msgid "This Email was signed but unable to verify."
+#~ msgstr "Tato zpráva byla podepsána, ale nebylo možné ji ověřit."
+
+#~ msgid ""
+#~ "This Email was sent using PGP encryption. It has been decrypted with your "
+#~ "private key"
+#~ msgstr ""
+#~ "Tento e-mail byl odeslán zašifrovaný pomocí PGP. Byl rozšifrován pomocí "
+#~ "vašeho soukromého klíče"
+
+#~ msgid "This Email was signed by the sender and verified."
+#~ msgstr "Tento e-mail byl podepsán odesílatelem a ověřen."
+
+#~ msgid "PGP Public Key Found.  Click to Import"
+#~ msgstr "Nalezen veřejný PGP klíč. Klikněte pro import"
+
+#~ msgid "Save encrypted to %1$s"
+#~ msgstr "Uložit šifrované na "
+
+#~ msgctxt "app"
+#~ msgid "Drive"
+#~ msgstr "Drive"
+
+#~ msgid "Check assigned PIN"
+#~ msgstr "Zkontrolovat přidělený PIN"
+
+#~ msgid "PIN"
+#~ msgstr "PIN"
+
+#~ msgid "Added keys: \r\n"
+#~ msgstr "Přidané klíče: \r\n"
+
+#~ msgid "Key ID: "
+#~ msgstr "ID klíče:"
+
+#~ msgid "Service Unavailable"
+#~ msgstr "Služba není dostupná"
+
+#~ msgid "Advanced Settings"
+#~ msgstr "Pokročilá nastavení"
+
+#~ msgid "Download PGP Public Key"
+#~ msgstr "Stáhnout veřejný PGP klíč"
+
+#~ msgid "Email your PGP Public Key"
+#~ msgstr "Poslat váš PGP klíč e-mailem"
+
+#~ msgid "Your Keys"
+#~ msgstr "Vaše klíče"
+
+#~ msgid "Your Key List"
+#~ msgstr "Seznam vašich klíčů"
+
+#~ msgid "Key ID"
+#~ msgstr "ID klíče"
+
+#~ msgid "Private Key"
+#~ msgstr "Soukromý klíč"
+
+#~ msgid "Current"
+#~ msgstr "Aktuální"
+
+#~ msgid "Download"
+#~ msgstr "Stáhnout"
+
+#~ msgid "Edit"
+#~ msgstr "Upravit"
+
+#~ msgid "Adding Keys"
+#~ msgstr "Přidávání klíčů"
+
+#~ msgid "If you already have a private key, you can upload it here."
+#~ msgstr "Pokud již máte soukromý klíč, můžete jej zde nahrát."
+
+#~ msgid "Upload Private Key"
+#~ msgstr "Nahrát soukromý klíč"
+
+#~ msgid "Finally, you can have a new PGP Key Pair created for your account."
+#~ msgstr "Nakonec je možné pro váš účet vytvořit nový pár PGP klíčů."
+
+#~ msgid "Create New Keys"
+#~ msgstr "Vytvořit nové klíče"
+
+#~ msgid "Adding UserID"
+#~ msgstr "Přidávám ID uživatele"
+
+#~ msgid "Add a name and email address to this public key."
+#~ msgstr "Přidat k tomuto veřejnému klíči jméno a e-mailovou adresu."
+
+#~ msgid "Name"
+#~ msgstr "Jméno"
+
+#~ msgid "Please enter your key password"
+#~ msgstr "Zadejte, prosím, heslo ke svému klíči"
+
+#~ msgid "Invalid Email Address"
+#~ msgstr "Neplatná e-mailová adresa"
+
+#~ msgid "Invalid Name"
+#~ msgstr "Neplatné jméno"
+
+#~ msgid "Enter password"
+#~ msgstr "Zadejte heslo"
+
+#~ msgid "User ID added"
+#~ msgstr "Přidání ID uživatele"
+
+#~ msgid "Failed to add UserID"
+#~ msgstr "Nepodařilo se přidat ID uživatele"
+
+#~ msgid "Revoke Private Key"
+#~ msgstr "Zrušit soukromý klíč"
+
+#~ msgid ""
+#~ "Revoke the key: This advises others that you no longer want this key "
+#~ "used.  You can continue to decode any encrypted data using the key."
+#~ msgstr ""
+#~ "Zrušit klíč: Tímto dáte ostatním najevo, že si již nepřejete klíč "
+#~ "používat. S pomocí klíče můžete dále rozšifrovávat data zašifrovaná tímto "
+#~ "klíčem."
+
+#~ msgid "Delete Private Key"
+#~ msgstr "Smazat soukromý klíč"
+
+#~ msgid "There are two options if you no longer want to use this key"
+#~ msgstr "Nechcete-li již klíč dále používat, máte dvě možnosti"
+
+#~ msgid ""
+#~ "Revoke the key: This advises others that you no longer want this key "
+#~ "used.  You can continue to decode any encrypted data using the key. "
+#~ "(Recommended)"
+#~ msgstr ""
+#~ "Zrušit klíč: Tímto dáte ostatním najevo, že si již nepřejete klíč "
+#~ "používat. S pomocí klíče můžete dále rozšifrovávat data zašifrovaná tímto "
+#~ "klíčem. (Doporučeno.)"
+
+#~ msgid ""
+#~ "Deleting the key: Deleting the private key will render all encrypted "
+#~ "items unreadable.  You will not be able to decode emails or files that "
+#~ "were enrypted with this key.  This cannot be undone."
+#~ msgstr ""
+#~ "Smazat klíč: Smazání klíče znamená, že nic, co s ním bylo zašifrováno, "
+#~ "již nepůjde přečíst. Nebudete moci rozšifrovat zprávy nebo soubory, které "
+#~ "byly tímto klíčem zašifrovány. Akci nelze vrátit."
+
+#~ msgid "Revoke"
+#~ msgstr "Zrušit"
+
+#~ msgid ""
+#~ "You will no longer be able to decode any items that were encrypted with "
+#~ "this key!"
+#~ msgstr ""
+#~ "Již nebudete moci rozšifrovat nic, co bylo tímto klíčem, zašifrováno!"
+
+#~ msgid "Enter your password below to confirm and verify"
+#~ msgstr "Zadejte heslo pro potvrzení a ověření"
+
+#~ msgid "Bad Password"
+#~ msgstr "Nesprávné heslo"
+
+#~ msgid "Key Deleted"
+#~ msgstr "Klíč smazán"
+
+#~ msgid "Failed to delete key"
+#~ msgstr "Nepodařilo se smazat klíč"
+
+#~ msgid "Problem deleting key"
+#~ msgstr "Problém s mazáním klíče"
+
+#~ msgid "Please verify you want to delete this key"
+#~ msgstr "Ověřte, prosím, že chcete tento klíč smazat"
+
+#~ msgid "Failed to delete"
+#~ msgstr "Smazání se nepodařilo"
+
+#~ msgid ""
+#~ "This will advise people not to use this key.  You can still use the key "
+#~ "to decode existing items."
+#~ msgstr ""
+#~ "Tímto dáte ostatním najevo, aby klíč nepoužívali. S pomocí klíče můžete "
+#~ "dále rozšifrovávat data zašifrovaná tímto klíčem."
+
+#~ msgid "Reason"
+#~ msgstr "Důvod"
+
+#~ msgid "No Reason"
+#~ msgstr "Žádný důvod"
+
+#~ msgid "Key superseded"
+#~ msgstr "Klíč nahrazen"
+
+#~ msgid "Key compromised"
+#~ msgstr "Klíč již není bezpečný"
+
+#~ msgid "Key retired"
+#~ msgstr "Starý klíč"
+
+#~ msgid "User no longer valid"
+#~ msgstr "Uživatel již není platný"
+
+#~ msgid "Key Revoked"
+#~ msgstr "Klíč zrušen"
+
+#~ msgid "Failed to revoke key"
+#~ msgstr "Klíč se nepodařilo zrušit"
+
+#~ msgid "Download Key"
+#~ msgstr "Stáhnout klíč"
+
+#~ msgid "Download your private key for use with other email programs"
+#~ msgstr "Stáhnout váš soukromý klíč pro použití v jiných programech"
+
+#~ msgid "Do not distribute this key.  It is for your use only"
+#~ msgstr "Tento klíč nešiřte. Je jen pro vaši použití"
+
+#~ msgid "Download PGP Private Key"
+#~ msgstr "Stáhnout soukromý PGP klíč"
+
+#~ msgid "Download Public and Private Key"
+#~ msgstr "Stáhnout soukromý a veřejný klíč"
+
+#~ msgid "Key ID:"
+#~ msgstr "ID klíče:"
+
+#~ msgid "Expires:"
+#~ msgstr "Vyprší:"
+
+#~ msgid "Private Key: "
+#~ msgstr "Soukromý klíč:"
+
+#~ msgid ""
+#~ "If you would like to upload a public key only, then do so here.  This "
+#~ "will allow you to encrypt files and receive encrypted emails using %s, "
+#~ "but you will need to use the private key with another program to decode "
+#~ "the items."
+#~ msgstr ""
+#~ "Chcete-li nahrát jen veřejný klíč, proveďte to zde. To vám umožní "
+#~ "šifrovat soubory a přijímat zprávy šifrované pomocí %s, ale soukromý klíč "
+#~ "budete muset použít spolu s jiným programem, budete-li chtít data "
+#~ "rozšifrovat."
+
+#~ msgid "Upload Public Key Only"
+#~ msgstr "Nahrát pouze veřejný klíč"
+
+#~ msgid "PGP Public Key is attached"
+#~ msgstr "Veřejný PGP klíč je připojen"
+
+#~ msgid "Public Keys"
+#~ msgstr "Veřejné klíče"
+
+#~ msgid "Failed to update settings"
+#~ msgstr "Nepodařilo se aktualizovat nastavení"
+
+#~ msgid "Email format"
+#~ msgstr "Formát e-mailu"
+
+#~ msgid ""
+#~ "Emails that contain HTML and are sent with PGP Inline will often result "
+#~ "in decoding errors and possible failure.  As a result, the default Email "
+#~ "format should be changed to plaintext.  Click OK to change the default to "
+#~ "plaintext, cancel to keep your current setting."
+#~ msgstr ""
+#~ "E-maily obsahující HTML, které jsou zaslány PGP Inline, zvyknou vést k "
+#~ "chybám v dešifrování a možnému selhání. Proto by měl být výchozí formát e-"
+#~ "mailu změněn na prostý text. Kliknutím na OK změníte výchozí formát na "
+#~ "prostý text a kliknutím na Zrušit ponecháte aktuální nastavení."
+
+#~ msgid "Ask each time"
+#~ msgstr "Pokaždé se zeptat"
+
+#~ msgid "Remember Password Default"
+#~ msgstr "Pamatovat heslo"
+
+#~ msgid "Default to send encrypted when composing email"
+#~ msgstr "Posílat šifrované zprávy"
+
+#~ msgid "Encrypt all incoming emails"
+#~ msgstr "Šifrovat všechny příchozí zprávy"
+
+#~ msgid "Default adding signature to outgoing mails"
+#~ msgstr "Přidávat do zpráv podpis"
+
+#~ msgid "Default to using PGP inline for new mails"
+#~ msgstr "Používat pro nové zprávy vložené PGP"
+
+#~ msgid "Please wait"
+#~ msgstr "Vyčkejte, prosím"
+
+#~ msgid "Advanced"
+#~ msgstr "Pokročilý"
+
+#~ msgid "Enable Advanced PGP Features"
+#~ msgstr "Povolit pokročilé funkce PGP"
+
+#~ msgid "PGP Encryption Settings"
+#~ msgstr "Nastavení šifrování PGP"
+
+#~ msgid "Security Settings"
+#~ msgstr "Bezpečnostní nastavení"
+
+#~ msgid "Keys uploaded"
+#~ msgstr "Klíče nahrány"
+
+#~ msgid "Failed to upload"
+#~ msgstr "Nepodařilo se nahrát"
+
+#~ msgid "The public key must have your primary email as a user ID"
+#~ msgstr ""
+#~ "Veřejný klíč musí mít vaši primární e-mailovou adresu jako uživatelské ID"
+
+#~ msgid "Upload Private Keys"
+#~ msgstr "Nahrát soukromé klíče"
+
+#~ msgid "Please enter passwords for the upload"
+#~ msgstr "Zadejte hesla pro nahrání"
+
+#~ msgid "Enter new password for the key:"
+#~ msgstr "Zadejte pro klíč nové heslo:"
+
+#~ msgid "Confirm Password:"
+#~ msgstr "Potvrdit heslo:"
+
+#~ msgid "Private key password for the key you are uploading:"
+#~ msgstr "Heslo k soukromému klíči, který nahráváte:"
+
+#~ msgid "Private Key Uploaded"
+#~ msgstr "Soukromý klíč nahrán"
+
+#~ msgid "This key already exists"
+#~ msgstr "Tento klíč již existuje"
+
+#~ msgid "Bad PGP Password"
+#~ msgstr "Nesprávné PGP heslo"
+
+#~ msgid "The private key must have your primary email as a user ID"
+#~ msgstr ""
+#~ "Soukromý klíč musí mít vaši primární e-mailovou adresu jako uživatelské ID"
+
+#~ msgid "Must use same password as existing key to merge"
+#~ msgstr "Pro sloučení je nutné použít stejné heslo jako má stávající klíč"
+
+#~ msgid "Problem uploading Private Key "
+#~ msgstr "Potíže s nahráváním soukromého klíče"
+
+#~ msgid "Logged out of %s"
+#~ msgstr "Byli jste odhlášeni z %s"
+
+#~ msgid "Failed to log out of %s"
+#~ msgstr "Nepodařilo se odhlásit z %s"
+
+#~ msgid "Guided tour for %s"
+#~ msgstr "Prohlídka aplikace %s"
+
+#~ msgid "Sign out %s"
+#~ msgstr "Odhlásit se z %s"
+
+#~ msgctxt "app"
+#~ msgid "%s Security"
+#~ msgstr "%s Security"
+
+#~ msgid "Get Started"
+#~ msgstr "Začínáme"
+
+#~ msgid ""
+#~ "In order to start with %s Security, you must set up a password for your "
+#~ "secured files."
+#~ msgstr ""
+#~ "Abyste mohli začít používat %s Security, musíte nastavit heslo pro své "
+#~ "zabezpečené soubory."
+
+#~ msgid "Start"
+#~ msgstr "Start"
+
+#~ msgid "%s Security Settings"
+#~ msgstr "Nastavení %s Security"
+
+#~ msgid "Change %s Security Password."
+#~ msgstr "Změnit heslo k %s Security."
+
+#~ msgid "Enter current %s security password"
+#~ msgstr "Zadejte současné heslo k %s Security"
+
+#~ msgid "Enter new %s security password"
+#~ msgstr "Zadejte nové heslo k %s Security"
+
+#~ msgid "Verify new %s security password"
+#~ msgstr "Ověřit nové heslo k %s Security"
+
+#~ msgid "Change %s security password"
+#~ msgstr "Změnit heslo k %s Security"
+
+#~ msgid "Reset %s security password"
+#~ msgstr "Nastavit nové heslo k %s Security"
+
+#~ msgid "Send a temporary %s security password to my secondary Email address."
+#~ msgstr ""
+#~ "Poslat na moji druhou e-mailovou adresu dočasné heslo k %s Security."
+
+#~ msgid "Delete Password Recovery"
+#~ msgstr "Smazat údaje pro obnovu hesla"
+
+#~ msgid "Advanced Users Only!"
+#~ msgstr "Jen pokročilí uživatelé!"
+
+#~ msgid ""
+#~ "Delete the password recovery.  The recovery is used to reset your "
+#~ "password.  If you delete the recovery, you will not be able to reset your "
+#~ "password if you forget it.  Changing your password will restore the "
+#~ "recovery."
+#~ msgstr ""
+#~ "Smazat údaje pro obnovu hesla. Údaje pro obnovu se používají k resetování "
+#~ "vašeho hesla. Pokud údaje smažete, nebude možné vaše heslo obnovit, "
+#~ "kdybyste ho zapomněli."
+
+#~ msgid "Please verify your password before deleting the recovery."
+#~ msgstr "Ověřte, prosím, vaše heslo před smazáním údajů pro obnovu."
+
+#~ msgid "Recovery deleted"
+#~ msgstr "Údaje pro obnovu smazány"
+
+#~ msgid "Current Email address:"
+#~ msgstr "Aktuální e-mailová adresa:"
+
+#~ msgid "Secondary Email"
+#~ msgstr "Druhá e-mailová adresa"
+
+#~ msgid "Change Email address used for password reset."
+#~ msgstr "Změnit e-mailovou adresu používanou pro změnu hesla."
+
+#~ msgid "Verify Email address"
+#~ msgstr "Ověřit e-mailovou adresu:"
+
+#~ msgid "Change Email address"
+#~ msgstr "Změnit e-mailovou adresu"
+
+#~ msgid "None - Primary Email will be used"
+#~ msgstr "Žádná - použije se primární e-mailová adresa"
+
+#~ msgid "Invalid email address"
+#~ msgstr "Neplatná e-mailová adresa"
+
+#~ msgid "Successfully changed email address"
+#~ msgstr "E-mailová adresa úspěšně změněna"
+
+#~ msgid "A new password has been sent to your email address."
+#~ msgstr "Na vaši e-mailovou adresu bylo odesláno nové heslo."
+
+#~ msgid "A new password has been sent to your secondary email address."
+#~ msgstr "Na vaši druhou e-mailovou adresu bylo odesláno nové heslo."
+
+#~ msgid "No password recovery is available."
+#~ msgstr "Heslo není možné obnovit."
+
+#~ msgid "Password reset, but unable to send to your email address."
+#~ msgstr ""
+#~ "Heslo změněno, ale nepodařilo se odeslat jej na vaši e-mailovou adresu."
+
+#~ msgid "Unable to find email address to send password reset."
+#~ msgstr ""
+#~ "Nepodařilo se nalézt e-mailovou adresu, na kterou by bylo možné odeslat "
+#~ "heslo."
+
+#~ msgid "Unable to reset your password"
+#~ msgstr "Nepodařilo se změnit vaše heslo"
+
+#~ msgid "Next"
+#~ msgstr "Další"
+
+#~ msgid "Simple and Easy"
+#~ msgstr "Snadné a jednoduché"
+
+#~ msgctxt "Choice"
+#~ msgid "One click encryption for Emails and files"
+#~ msgstr "Šifrování zpráv a souborů jedním kliknutím."
+
+#~ msgctxt "Choice"
+#~ msgid "Works in all browsers with all your contacts"
+#~ msgstr "Funguje ve všech prohlížečích se všemi vašimi kontakty"
+
+#~ msgctxt "Choice"
+#~ msgid "Easy to use, every day"
+#~ msgstr "Snadné používání, každý den"
+
+#~ msgctxt "Choice"
+#~ msgid "Security details managed by us"
+#~ msgstr "Bezpečností otázky, které máme na starosti my"
+
+#~ msgctxt "Choice"
+#~ msgid ""
+#~ "If you do not have deep knowledge of encryption, but you would like to "
+#~ "easily secure your communication with your friends or business contacts, "
+#~ "this option fits perfectly for you. Safe Email, made simple!"
+#~ msgstr ""
+#~ "Pokud nemáte hluboké znalosti šifrování, ale chcete snadno zabezpečit "
+#~ "komunikaci s přáteli nebo obchodními kontakty, je tato možnost právě pro "
+#~ "vás. Bezpečný e-mail, snadno!"
+
+#~ msgctxt "Choice"
+#~ msgid "Encryption Expert"
+#~ msgstr "Šifrovací expert"
+
+#~ msgctxt "Choice"
+#~ msgid "Expert encryption options available"
+#~ msgstr "Dostupné možnosti šifrování pro experty"
+
+#~ msgctxt "Choice"
+#~ msgid "Works only in Firefox and Chrome"
+#~ msgstr "Funguje pouze v prohlížečích Chrome a Firefox"
+
+#~ msgctxt "Choice"
+#~ msgid "Browser plugin required"
+#~ msgstr "Je nutné rozšíření prohlížeče"
+
+#~ msgctxt "Choice"
+#~ msgid "Security details managed by yourself"
+#~ msgstr "Vlastní správa bezpečnostních záležitostí"
+
+#~ msgctxt "Choice"
+#~ msgid ""
+#~ "If you are an encryption expert, and would like to manage all encryption "
+#~ "details by yourself, this option fits best for you. You need to install a "
+#~ "third-party browser plugin to work with expert encryption."
+#~ msgstr ""
+#~ "Pokud jste expertem na šifrování a chtěli byste se o všechny detaily "
+#~ "šifrování starat sami, toto je možnost pro vás. Pro práci s šifrování pro "
+#~ "experty je nutné nainstalovat cizí rozšíření prohlížeče."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You already set up your %s account. But you can always change your "
+#~ "encryption password, or request a temporary password if you forget it."
+#~ msgstr ""
+#~ "Svůj účet %s jste již nastavili. Své šifrovací heslo však můžete kdykoliv "
+#~ "změnit nebo si vyžádat dočasné, pokud jej zapomenete."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You already set up your %s account.  You can change your encryption "
+#~ "password here."
+#~ msgstr ""
+#~ "Svůj účet %s jste již nastavili. Své šifrovací heslo můžete změnit zde."
+
+#~ msgctxt "tour"
+#~ msgid "The %s module"
+#~ msgstr "Modul %s"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Security and privacy matters to everyone. That's why you can now send and "
+#~ "receive encrypted emails by simply clicking on the lock icon."
+#~ msgstr ""
+#~ "Bezpečnost a soukromí jsou důležité pro každého. Proto nyní můžete "
+#~ "odesílat a přijímat šifrované zprávy pouhým kliknutím na ikonku zámku."
+
+#~ msgctxt "tour"
+#~ msgid "%s Security Settings"
+#~ msgstr "Nastavení %s Security"
+
+#~ msgctxt "tour"
+#~ msgid "PGP Encryption Settings"
+#~ msgstr "Nastavení šifrování PGP"
+
+#~ msgctxt "tour"
+#~ msgid "Security Settings"
+#~ msgstr "Bezpečnostní nastavení"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "From here you can update your encryption settings. For example you can "
+#~ "choose to send encrypted emails by default."
+#~ msgstr ""
+#~ "Zde můžete upravit nastavení šifrování. Například můžete nastavit "
+#~ "automatické posílání šífrovaných zpráv."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "From here, you can update your security settings.  For example, you can "
+#~ "choose to send secure emails by default."
+#~ msgstr ""
+#~ "Zde můžete upravit nastavení bezpečnosti. Například můžete nastavit "
+#~ "automatické posílání zabezpečených zpráv."
+
+#~ msgctxt "tour"
+#~ msgid "Signature"
+#~ msgstr "Podpis"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "In addition to encrypting your emails you can also sign them. This means "
+#~ "that email recipients can be sure that the email really came from you. By "
+#~ "ticking this checkbox your signature will be added to outgoing emails by "
+#~ "default."
+#~ msgstr ""
+#~ "Kromě šifrování můžete zprávy také podepisovat. To znamená, že příjemci "
+#~ "zpráv si budou moci být jisti, že zprávy skutečně přišly od vás. "
+#~ "Zaškrtnutím tohoto políčka nastavíte automatické připojování vašeho "
+#~ "podpisu k odchozím zprávám."
+
+#~ msgctxt "tour"
+#~ msgid "Alternative: PGP Inline"
+#~ msgstr "Alternativa: PGP Inline"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "By default %s sends encrypted emails using PGP/Mime format. To "
+#~ "communicate with some systems you may need to use PGP Inline."
+#~ msgstr ""
+#~ "Ve výchozím nastavení posílá %s zprávy s použitím formátu PGP/Mime. Pro "
+#~ "komunikaci s některými systémy můžete potřebovat PGP Inline."
+
+#~ msgctxt "tour"
+#~ msgid "Advanced Settings"
+#~ msgstr "Pokročilá nastavení"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Advanced users can manage their key lists from the PGP Encryption "
+#~ "Settings."
+#~ msgstr ""
+#~ "Pokročilí uživatelé mohou spravovat své seznamy klíčů v Nastavení "
+#~ "šifrování PGP."
+
+#~ msgctxt "tour"
+#~ msgid "Advanced User Settings"
+#~ msgstr "Pokročilá uživatelská nastavení"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Enabling Advanced PGP Features will enable key management and specifying "
+#~ "sending formats."
+#~ msgstr ""
+#~ "Povolení pokročilých funkcí PGP vám umožní spravovat klíče a upřesnit "
+#~ "formát odesílaných zpráv."
+
+#~ msgctxt "tour"
+#~ msgid "Enabling and disabling encryption"
+#~ msgstr "Povolit a zakázat šifrování"
+
+#~ msgctxt "tour"
+#~ msgid "You are now able to send secure emails."
+#~ msgstr "Nyní můžete odesílat zabezpečené zprávy."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Sending without encryption is easy, too: Simply click on the lock icon "
+#~ "again."
+#~ msgstr ""
+#~ "Odeslání bez šifrování je také snadné. Prostě znovu klikněte na ikonku "
+#~ "zámku."
+
+#~ msgctxt "tour"
+#~ msgid "Encrypt files"
+#~ msgstr "Zašifrovat soubory"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You can also protect your files. Just click on Encrypt and the selected "
+#~ "file will be stored securely."
+#~ msgstr ""
+#~ "Můžete také chránit své soubory. Klikněte na Šifrovat a označené soubory "
+#~ "budou bezpečně uloženy."
+
+#~ msgctxt "tour"
+#~ msgid "Encrypt your sensitive files in Drive"
+#~ msgstr "Šifrovat citlivé soubory v Drive"
+
+#~ msgctxt "tour"
+#~ msgid "Restart Guided Tour"
+#~ msgstr "Znovu spustit prohlídku"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "<em>Hint:</em> you can start guided tours, any time you need them, from "
+#~ "the system menu."
+#~ msgstr ""
+#~ "<em>Tip:</em> prohlídky můžete spustit ze systémového menu, kdykoliv je "
+#~ "potřebujete."
+
+#~ msgctxt "tour"
+#~ msgid "Guided Tour completed"
+#~ msgstr "Prohlídka dokončena"
+
+#~ msgctxt "tour"
+#~ msgid "You successfully learned how to protect your emails and files."
+#~ msgstr "Úspěšně jste se naučili, jak chránit své zprávy a soubory."
+
+#~ msgctxt "tour"
+#~ msgid "What you can do now:"
+#~ msgstr "Nyní můžete:"
+
+#~ msgctxt "tour"
+#~ msgid "Write an encrypted email"
+#~ msgstr "Psát šifrované zprávy"
+
+#~ msgctxt "tour"
+#~ msgid "Activate encryption for all new emails"
+#~ msgstr "Aktivovat šifrování všech nových zpráv"
+
+#~ msgctxt "tour"
+#~ msgid "Review your encryption settings"
+#~ msgstr "Zkontrolovat nastavení šifrování"
+
+#~ msgctxt "tour"
+#~ msgid "Learn more"
+#~ msgstr "Dozvědět se více"
+
+#~ msgid "Start Setup"
+#~ msgstr "Spustit nastavení"
+
+#~ msgctxt "tour"
+#~ msgid "Setup %s"
+#~ msgstr "Nastavení %s"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Welcome to %1$s. You will now be taken on a tour, showing you how to use "
+#~ "%1$s."
+#~ msgstr ""
+#~ "Vítejte v %1$s. Teď budete %1$s provedení a naučíte se jej používat."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Firstly however, you’ll need to setup %1$s by choosing a password which "
+#~ "will be used to encrypt or decrypt items such as email or files."
+#~ msgstr ""
+#~ "Nejprve však budete muset %1$s nastavit. Vyberte heslo, které bude "
+#~ "použito pro zašifrování a dešifrování položek jako e-maily nebo soubory."
+
+#~ msgid "Choose %s Password"
+#~ msgstr "Zvolte heslo pro %s "
+
+#~ msgid "Close"
+#~ msgstr "Zavřít"
+
+#~ msgctxt "tour"
+#~ msgid "%s set up completed"
+#~ msgstr "Nastavení %s hotové"
+
+#~ msgctxt "tour"
+#~ msgid "Congratulations, you have successfully setup %s"
+#~ msgstr "Blahopřejeme, úspěšně jste nastavili %s"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Now you can learn more about how to use %s by following the links below:"
+#~ msgstr "Kliknutím na odkazy níže se teď můžete dozvědět víc o používání %s:"
+
+#~ msgctxt "tour"
+#~ msgid "Learn more about %s"
+#~ msgstr "Dozvědět se více o %s"
+
+#~ msgid "Choose your security solution"
+#~ msgstr "Zvolte své bezpečnostní řešení"
+
+#~ msgid "Key found for %1$s.  Import?"
+#~ msgstr "Nalezen klíč k %1$s. Importovat?"
+
+#~ msgid "Import"
+#~ msgstr "Import"
+
+#~ msgid "Imported"
+#~ msgstr "Importováno"
+
+#~ msgid "Updated"
+#~ msgstr "Aktualizováno"
+
+#~ msgid "Invalidated"
+#~ msgstr "Zneplatněno"
+
+#~ msgid "Rejected"
+#~ msgstr "Odmítnuto"
+
+#~ msgid "Warning"
+#~ msgstr "Varování"
+
+#~ msgid ""
+#~ "Sending an encrypted email from an account other than %s may cause "
+#~ "problems with the recipient being able to reply.  Consider using your "
+#~ "primary account."
+#~ msgstr ""
+#~ "Odeslání šifrované zprávy z jiného účtu než %s může příjemci zkomplikovat "
+#~ "poslání odpovědi. Zvažte použití svého primárního účtu."
+
+#~ msgid "Do not warn me again"
+#~ msgstr "Znovu mě nevarujte"
+
+#~ msgid "PGP Info"
+#~ msgstr "Info PGP"
+
+#~ msgid "Content Type"
+#~ msgstr "Druh obsahu"
+
+#~ msgid "PGP Details"
+#~ msgstr "Podrobnosti PGP"
+
+#~ msgid ""
+#~ "Mailvelope is not supported in this browser.  Please use Chrome or "
+#~ "Firefox with Mailvelop installed."
+#~ msgstr ""
+#~ "Tento prohlížeč nemá podporu pro Mailvelope. Použijte, prosím, Chrome "
+#~ "nebo Firefox s nainstalovaným rozšířením Mailvelope."
+
+#~ msgid "Enter re-enter %s security password"
+#~ msgstr "---not translating---"
+
+#~ msgid "Download Decrypted"
+#~ msgstr "Stažená data byla dešifrována"
+
+#~ msgid "Download Encrypted"
+#~ msgstr "Stáhnout zašifrované"
+
+#~ msgid "View"
+#~ msgstr "Zobrazit"
+
+#~ msgid "Decrypt and Open"
+#~ msgstr "Dešifrovat a otevřít"
+
+#~ msgid "Drop files here to upload"
+#~ msgstr "Soubory k nahrání přetáhněte sem"
+
+#~ msgid "Add"
+#~ msgstr "Přidat"
+
+#~ msgid "Add:"
+#~ msgstr "Přidat:"
+
+#~ msgid "Must be in the same global address book"
+#~ msgstr "Musí být ve stejném globálním adresáři"
+
+#~ msgid "Unable to add"
+#~ msgstr "Nelze přidat"
+
+#~ msgid "Select"
+#~ msgstr "Vybrat"
+
+#~ msgid "User"
+#~ msgstr "Uživatel"
+
+#~ msgid "Retract"
+#~ msgstr "Vzít zpět"
+
+#~ msgid "Unable to share"
+#~ msgstr "Nelze sdílet"
+
+#~ msgid "Remove from share list"
+#~ msgstr "Odebrat ze seznamu pro sdílení"
+
+#~ msgid "Failed to remove the share"
+#~ msgstr "Nepodařilo se odstranit sdílení"
+
+#~ msgid "Password Needed"
+#~ msgstr "Vyžadováno heslo"
+
+#~ msgid "Please provide your %s security password to share this file"
+#~ msgstr "Pro sdílení tohoto souboru zadejte, prosím, své heslo k %s Security"
+
+#~ msgid "No users in same context"
+#~ msgstr "Ve stejném kontextu nejsou žádní uživatelé"
+
+#~ msgid "The following link will take you to the shared file"
+#~ msgstr "Tento odkaz vás zavede ke sdílenému souboru"
+
+#~ msgid "Shared file link"
+#~ msgstr "Odkaz na sdílený soubor"
+
+#~ msgid "Attached encrypted file"
+#~ msgstr "Přiložen šifrovaný soubor"
+
+#~ msgid "Shared file"
+#~ msgstr "Sdílený soubor"
+
+#~ msgid "Add Permissions"
+#~ msgstr "Přidat oprávnění"
+
+#~ msgid ""
+#~ "The following users do not have permission to view objects in this folder."
+#~ msgstr ""
+#~ "Následující uživatelé nemají oprávnění k prohlížení objektů v této složce."
+
+#~ msgid "Do you wish to add read permissions to this folder for these users?"
+#~ msgstr ""
+#~ "Přejete si k této složce přidat oprávnění ke čtení pro tyto uživatele?"
+
+#~ msgid "Failed to add folder sharing permissions"
+#~ msgstr "Nepodařilo se přidat oprávněné ke složce"
+
+#~ msgid "%s %s %s"
+#~ msgstr "%s %s %s"
+
+#~ msgid "The provided filename exceeds the allowed length."
+#~ msgstr "Zadaný název souboru překračuje povolenou délku."
+
+#~ msgid "The allowed quota is reached."
+#~ msgstr "Bylo dosaženo povoleného limitu."
+
+#~ msgid "This file has not been added"
+#~ msgstr "Soubor nebyl přidán"
+
+#~ msgid "Upload a new encrypted version"
+#~ msgstr "Nahrajte novou zašifrovanou verzi"
+
+#~ msgid "Upload file"
+#~ msgstr "Nahrát soubor"
+
+#~ msgid "Version Comment"
+#~ msgstr "Komentář k verzi"
+
+#~ msgid "Upload new encrypted version"
+#~ msgstr "Nahrajte novou zašifrovanou verzi"
+
+#~ msgid "Uploading..."
+#~ msgstr "Nahrávám..."
+
+#~ msgid ""
+#~ "You are replying to an email that has not yet been decoded.  The "
+#~ "recipient will not be able to read the contents of the original email."
+#~ msgstr ""
+#~ "Odpovídáte na e-mail, který nebyl dosud dešifrován.  Příjemce nebude "
+#~ "schopen přečíst obsah původního e-mailu."
+
+#~ msgid ""
+#~ "You are forwarding an email that has not yet been decoded.  The recipient "
+#~ "will not be able to read the contents of the original email."
+#~ msgstr ""
+#~ "Přeposíláte e-mail, který nebyl dosud dešifrován.  Příjemce nebude "
+#~ "schopen přečíst obsah původního e-mailu."
+
+#~ msgid "Re: %1$s"
+#~ msgstr "Re: %1$s"
+
+#~ msgid "Fwd: %1$s"
+#~ msgstr "Fwd: %1$s"
+
+#~ msgid "Original Message"
+#~ msgstr "Původní zpráva"
+
+#~ msgid "From: %1$s"
+#~ msgstr "Od: %1$s"
+
+#~ msgid "To: %1$s"
+#~ msgstr "Pro: %1$s"
+
+#~ msgid "CC: %1$s"
+#~ msgstr "CC: %1$s"
+
+#~ msgid "Date: %1$s"
+#~ msgstr "Datum: %1$s"
+
+#~ msgid "Subject: %1$s"
+#~ msgstr "Předmět: %1$s"
+
+#~ msgid "On %1$s at %2$s %3$s wrote:"
+#~ msgstr "%1$s v %2$s %3$s napsal(a):"
+
+#~ msgid "Attach My Key"
+#~ msgstr "Připojit můj klíč"
+
+#~ msgid "Do you really want to discard your message?"
+#~ msgstr "Opravdu chcete svou zprávu zahodit?"
+
+#~ msgctxt "dialog"
+#~ msgid "Discard message"
+#~ msgstr "Zahodit zprávu"
+
+#~ msgid "Save as draft"
+#~ msgstr "Uložit jako koncept"
+
+#~ msgid "Mail has empty subject. Send it anyway?"
+#~ msgstr "Zpráva nemá předmět. Poslat i tak?"
+
+#~ msgid "Yes, send without subject"
+#~ msgstr "Ano, poslat bez předmětu"
+
+#~ msgid "Add subject"
+#~ msgstr "Přidat předmět"
+
+#~ msgid "Unable to authorize against backend"
+#~ msgstr "Autorizace se nezdařila"
+
+#~ msgid "Save"
+#~ msgstr "Uložit"
+
+#~ msgid "Saving attachment to Drive"
+#~ msgid_plural "Saving attachments to Drive"
+#~ msgstr[0] "Ukládám přílohu do Drive"
+#~ msgstr[1] "Ukládám přílohy do Drive"
+#~ msgstr[2] "Ukládám přílohy do Drive"
+
+#~ msgid "Attachment has been saved"
+#~ msgid_plural "Attachments have been saved"
+#~ msgstr[0] "Příloha byla uložena"
+#~ msgstr[1] "Přílohy byly uloženy"
+#~ msgstr[2] "Přílohy byly uloženy"
+
+#~ msgid "Failed to decrypt"
+#~ msgstr "Nepodařilo se dešifrovat"
+
+#~ msgid "Failed to save attachments"
+#~ msgstr "Nepodařilo se uložit přílohy"
+
+#~ msgid "Unsupported browser"
+#~ msgstr "Nepodporovaný prohlížeč"
+
+#~ msgid "Mail has no recipients"
+#~ msgstr "Zpráva nemá žádné příjemce"
+
+#~ msgid "Mail saved as draft"
+#~ msgstr "Zpráva uložena jako koncept"
+
+#~ msgid "Unable to get keys for all users"
+#~ msgstr "Nelze získat klíče pro všechny uživatele"
+
+#~ msgid ""
+#~ "The from address you selected for this email is not associated with an "
+#~ "encryption key.  Please send from your primary account, or optionally, "
+#~ "add the email address to your key using the advanced settings."
+#~ msgstr ""
+#~ "Adresa odesílatele, kterou jste zvolili pro tuto zprávu, nemá přiřazený "
+#~ "šifrovací klíč. Odešlete, prosím, zprávu ze svého primárního účtu nebo "
+#~ "pomocí pokročilých nastavení přiřaďte e-mailovou adresu ke klíči."
+
+#~ msgid "An error occurred saving the email."
+#~ msgstr "Při ukládání zprávy došlo k chybě."
+
+#~ msgid "An error occurred sending the encrypted email."
+#~ msgstr "Při odesílání zašifrované zprávy došlo k chybě."
+
+#~ msgid ""
+#~ "At least one of your attachments are encrypted.  Please provide your %s "
+#~ "security password to decrypt before sending"
+#~ msgstr ""
+#~ "Přinejmenším jedna z vašich příloh je zašifrovaná. Zadejte, prosím, "
+#~ "svéheslo k %s Security k dešifrování před odesláním"
+
+#~ msgid "To"
+#~ msgstr "Pro"
+
+#~ msgctxt "CC"
+#~ msgid "Copy"
+#~ msgstr "Kopie"
+
+#~ msgid "Decoding"
+#~ msgstr "Dešifrování"
+
+#~ msgid ""
+#~ "Your pop-up blocker may have prevented a %s window that provides "
+#~ "application functionality."
+#~ msgstr ""
+#~ "Funkce blokování vyskakovacích oken možná zakázala otevření okna %s, "
+#~ "které by poskytlo další možnosti."
+
+#~ msgid "VCard imported with warnings"
+#~ msgstr "vCard importována s varováními"
+
+#~ msgid "Failed to import vcard"
+#~ msgstr "Nepodařilo se importovat vCard"
+
+#~ msgid "VCard imported"
+#~ msgstr "Vizitka vCard importována"
+
+#~ msgid "Save Encrypted to Drive"
+#~ msgstr "Uložit zašifrované na Drive"
+
+#~ msgid "Save Decoded to Drive"
+#~ msgstr "Uložit rozšifrované na Drive"
+
+#~ msgid "Open in browser"
+#~ msgstr "Otevřít v prohlížeči"
+
+#~ msgid "Import as PGP Public Key"
+#~ msgstr "Importovat jako veřejný PGP klíč"
+
+#~ msgid "Add to address book"
+#~ msgstr "Přidat do adresáře"
+
+#~ msgid "no files"
+#~ msgstr "žádné soubory"
+
+#~ msgid "Save attachment"
+#~ msgstr "Uložit přílohu"
+
+#~ msgid "Unable to save decrypted file"
+#~ msgstr "Nepodařilo se uložit dešifrovaný soubor"
+
+#~ msgid "Unable to decrypt"
+#~ msgstr "Nepodařilo se dešifrovat"
+
+#~ msgid "Send copy by mail"
+#~ msgstr "Poslat kopii e-mailem"
+
+#~ msgid "Enter %s Security Password"
+#~ msgstr "Zadejte své heslo k %s Security"
+
+#~ msgid "Encrypt Files"
+#~ msgstr "Zašifrovat soubory"
+
+#~ msgid "Only the latest version of the files will be encrypted."
+#~ msgstr "Zašifrovány budou pouze poslední verze souborů"
+
+#~ msgid "All previous versions will be deleted."
+#~ msgstr "Všechny předešlé verze budou vymazány."
+
+#~ msgid "This file could not be uploaded."
+#~ msgstr "Soubor se nepodařilo nahrát."
+
+#~ msgid "Upload"
+#~ msgstr "Nahrát"
+
+#~ msgid "Please provide your %s Security Password to share this file"
+#~ msgstr "Pro sdílení tohoto souboru zadejte, prosím, své heslo %s Security"
+
+#~ msgid "Bad private key"
+#~ msgstr "Vadný soukromý klíč"
+
+#~ msgid "On %1$s %2$s sent:"
+#~ msgstr "%1$s %2$s posláno:"
+
+#~ msgid ""
+#~ "At least one of your attachments are encrypted.  Please provide your %s "
+#~ "Security Password to decrypt before sending"
+#~ msgstr ""
+#~ "Přinejmenším jedna z vašich příloh je zašifrovaná. Zadejte, prosím, "
+#~ "svéheslo k %s Security k dešifrování před odesláním"
+
+#~ msgid ""
+#~ "Upload your Mailvelope public keys to the %s server so that other people "
+#~ "can send you encrypted emails"
+#~ msgstr ""
+#~ "Nahrajte své soukromé klíče pro Mailvelope na server %s, aby vám ostatní "
+#~ "mohli posílat šifrované zprávy"
+
+#~ msgid "Extra Password"
+#~ msgstr "Další heslo"
+
+#~ msgid ""
+#~ "This allows you to set an extra password that will be required for "
+#~ "reading this item."
+#~ msgstr ""
+#~ "Zde můžete nastavit další heslo, které bude vyžadováno pro čtení této "
+#~ "položky."
+
+#~ msgid "Please enter it below"
+#~ msgstr "Zadejte jej, prosím, níže"
+
+#~ msgid "Please enter your %s Security password"
+#~ msgstr "Zadejte, prosím, své heslo k %s Security"
+
+#~ msgid "Failed to add extra password"
+#~ msgstr "Nepodařilo se přidat další heslo"
+
+#~ msgid "Remember Password"
+#~ msgstr "Pamatovat heslo"
+
+#~ msgid ""
+#~ "HTML formatted emails may cause issues with PGP inline.  Click OK to "
+#~ "change to Plain Text formatted Emails"
+#~ msgstr ""
+#~ "Zprávy formátované jako HTML mohou způsobit potíže při vloženém PGP. "
+#~ "Kliknutím na OK změníte formát zpráv na prostý text."
+
+#~ msgid "Secure Email, enter your %s security password"
+#~ msgstr "Zabezpečená zpráva, zadejte své bezpečnostní heslo k %s"
+
+#~ msgid ""
+#~ "The new recipients listed below will be sent a password via email.  You "
+#~ "can also require a seperate pin, which is displayed below"
+#~ msgstr ""
+#~ "Novým adresátům vypsaným níže bude posláno heslo e-mailem. Můžete také "
+#~ "vyžadovat samostatný PIN, který je také zobrazený níže"
+
+#~ msgid ""
+#~ "You may deliver this pin any way you see fit, but we recommend doing it "
+#~ "in a second method other than email (Phone, SMS, Skype, etc)"
+#~ msgstr ""
+#~ "Tento PIN můžete doručit, jakkoliv chcete, ale doporučujeme zvolit jiný "
+#~ "způsob než e-mail (telefon, SMS, Skype atp.)"
+
+#~ msgid "If you want this extra pin requirement, click OK"
+#~ msgstr "Chcete-li využít tento dodatečný PIN, klikněte na OK"
+
+#~ msgid "Please enter your %s password to sign this email"
+#~ msgstr "Pro podepsání této zprávy, prosím, zadejte své heslo k %s"
+
+#~ msgid "Please enter your %s password for signing"
+#~ msgstr "Zadejte, prosím, své heslo k %s pro podepsání"
+
+#~ msgid "Problems creating keys, please try again later"
+#~ msgstr "Při vytváření klíčů se vyskytl problém, zkuste to, prosím později"
+
+#~ msgid ""
+#~ "Problems creating keys.  Keys already exist for this email address in "
+#~ "another account"
+#~ msgstr ""
+#~ "Při vytváření klíčů došlo k chybě. V jiném účtu již pro tuto e-mailovou "
+#~ "adresu klíče existují"
+
+#~ msgid ""
+#~ "Please choose the password you will use for %s. You will need to type "
+#~ "this password whenever you want to encrypt or decrypt items. Remember it "
+#~ "should be different from your login password, and will not change if you "
+#~ "change your login password"
+#~ msgstr ""
+#~ "Vyberte, prosím, heslo, které budete používat pro %s. Toto heslo bude "
+#~ "potřeba zadat při každém šifrování a dešifrování položky. Pamatujte, "
+#~ "heslo by se mělo lišit od vašeho přihlašovacího hesla a pokud změníte "
+#~ "přihlašovací heslo, toto heslo se nezmění. "
+
+#~ msgid "Please enter a password to protect your new encrypted items"
+#~ msgstr ""
+#~ "Zadejte, prosím, heslo pro ochranu vašich nových zašifrovaných položek"
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password"
+#~ msgstr ""
+#~ "Zadejte, prosím, druhou e-mailovou adresu pro případ, že byste "
+#~ "potřebovali změnit heslo"
+
+#~ msgid "Rember my password"
+#~ msgstr "Zapamatovat moje heslo"
+
+#~ msgid "This Email was signed and verified"
+#~ msgstr "Tato zpráva byl podepsána a ověřena"
+
+#~ msgid "This Email was signed but unable to verify"
+#~ msgstr "Tato zpráva byla podepsána, ale nebylo možné ji ověřit"
+
+#~ msgid "This Email was signed and failed verification"
+#~ msgstr "Tato zpráva byla podepsána, ale ověření selhalo"
+
+#~ msgid ""
+#~ "Please change the initial temporary %s security password that was sent to "
+#~ "you in a seperate email."
+#~ msgstr ""
+#~ "Změňte, prosím, původní dočasné bezpečnostní heslo k %s, které vám bylo "
+#~ "posláno v samostatném e-mailu."
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password</p>"
+#~ msgstr ""
+#~ "Zadejte, prosím, druhou e-mailovou adresu pro případ, že byste "
+#~ "potřebovali změnit heslo</p>"
+
+#~ msgid "This Email was signed by the sender and verified"
+#~ msgstr "Tento e-mail byl podepsán odesílatelem a ověřen"
+
+#~ msgid "If you already have a private key, you can upload it here"
+#~ msgstr "Pokud již máte soukromý klíč, můžete jej zde nahrát"
+
+#~ msgid "Finally, you can have a new PGP Key Pair created for your account"
+#~ msgstr "Nakonec je možné pro váš účet vytvořit nový pár PGP klíčů"
+
+#~ msgid "Add a name and email address to this public key"
+#~ msgstr "Přidat k tomuto veřejnému klíči jméno a e-mailovou adresu"
+
+#~ msgid "PGP default to using PGP inline for compatibility"
+#~ msgstr "Používat vložené PGP kvůli kompatibilitě"
+
+#~ msgid "Please verify your password before deleting the recovery"
+#~ msgstr "Ověřte, prosím, vaše heslo před smazáním údajů pro obnovu"
+
+#~ msgid "A new password has been sent to your email address"
+#~ msgstr "Na vaši e-mailovou adresu bylo odesláno nové heslo"
+
+#~ msgid "A new password has been sent to your secondary email address"
+#~ msgstr "Na vaši druhou e-mailovou adresu bylo odesláno nové heslo"
+
+#~ msgid "No password recovery is available"
+#~ msgstr "Heslo není možné obnovit"
+
+#~ msgid "Password reset, but unable to send to your email address"
+#~ msgstr ""
+#~ "Heslo změněno, ale nepodařilo se odeslat jej na vaši e-mailovou adresu"
+
+#~ msgid "Unable to find email address to send password reset"
+#~ msgstr ""
+#~ "Nepodařilo se nalézt e-mailovou adresu, na kterou by bylo možné odeslat "
+#~ "heslo"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Enabling Advanced PGP Features will enable key management and specifying "
+#~ "sending formats"
+#~ msgstr ""
+#~ "Povolení pokročilých funkcí PGP vám umožní spravovat klíče a upřesnit "
+#~ "formát odesílaných zpráv"
+
+#~ msgid "This email was sent with an extra password."
+#~ msgstr "Tato zpráva byla odeslána s dodatečným heslem."
+
+#~ msgid "Please enter below"
+#~ msgstr "Zadejte, prosím, níže"
+
+#~ msgid "An error occurred during sending the encrypted email."
+#~ msgstr "Při posílání zašifrované zprávy došlo k chybě."
+
+#~ msgid "This appears to be the first time you have used Encryption"
+#~ msgstr "Vypadá to, že poprvé používáte šifrování"
+
+#~ msgid ""
+#~ "Please change the temporary %s security password that was sent to you in "
+#~ "a seperate email."
+#~ msgstr ""
+#~ "Změňte, prosím, dočasné bezpečnostní heslo k %s, které vám bylo posláno v "
+#~ "samostatném e-mailu."
+
+#~ msgid "%s PGP Settings"
+#~ msgstr "Nastavení PGP v %s"
+
+#~ msgid "Changed"
+#~ msgstr "Změněna"
+
+#~ msgctxt "tour"
+#~ msgid "Sending without encryption"
+#~ msgstr "Odesílání bez šifrování"
+
+#~ msgctxt "tour"
+#~ msgid "Create Your %s Account"
+#~ msgstr "Vytvořit účet %s"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You now need to choose a password which will be used to encrypt or "
+#~ "decrypt items. You only need to set this up once. Your password will then "
+#~ "remain valid until you change it."
+#~ msgstr ""
+#~ "Musíte si zvolit heslo, které se bude používat k šifrování a dešifrování "
+#~ "dat. Stačí to udělat jednou. Vaše heslo pak bude platné, dokud ho "
+#~ "nezměníte."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You successfully set up secure communication. Your private key has been "
+#~ "created."
+#~ msgstr ""
+#~ "Úspěšně jste nastavil(a) bezpečnou komunikaci. Váš soukromý klíč byl "
+#~ "vytvořen."
+
+#~ msgid ""
+#~ "Upload your Mailvelope public keys to the Guard server so that other "
+#~ "people can send you encrypted emails"
+#~ msgstr ""
+#~ "Nahrajte své soukromé klíče pro Mailvelope na server Guard, aby vám "
+#~ "ostatní mohli posílat šifrované zprávy"
+
+#~ msgid ""
+#~ "Your pop-up blocker may have prevented a Guard window that provides "
+#~ "application functionality."
+#~ msgstr ""
+#~ "Funkce blokování vyskakovacích oken možná zakázala otevření okna aplikace "
+#~ "Guard, které by poskytlo další možnosti."
+
+#~ msgid "Please enter your Guard Security password"
+#~ msgstr "Zadejte, prosím, vaše pro Guard Security"
+
+#~ msgid "Enter Guard Security Password"
+#~ msgstr "Zadejte heslo Guard Security"
+
+#~ msgid "Please provide your Guard Security Password to share this file"
+#~ msgstr ""
+#~ "Pro sdílení tohoto souboru zadejte, prosím, vaše heslo Guard Security"
+
+#~ msgid "Secure Email, enter your Guard security password"
+#~ msgstr "Zabezpečená zpráva, zadejte své bezpečnostní heslo do Guard"
+
+#~ msgid "Keep me logged into Guard"
+#~ msgstr "Zůstat přihlášený(á) do Guard"
+
+#~ msgid "Will create new guest account for Guard"
+#~ msgstr "Bude vytvořen nový účet pro Guard"
+
+#~ msgid "Have encryption key"
+#~ msgstr "Šifrovací klíč k dispozici"
+
+#~ msgid "Please enter your Guard password to sign this email"
+#~ msgstr "Pro podepsání této zprávy prosím zadejte své heslo Guard."
+
+#~ msgid "Please enter your Guard password for signing"
+#~ msgstr "Zadejte, prosím, své heslo Guard pro podepsání"
+
+#~ msgid ""
+#~ "At least one of your attachments are encrypted.  Please provide your "
+#~ "Guard Security Password to decrypt before sending"
+#~ msgstr ""
+#~ "Přinejmenším jedna z vašich příloh je zašifrovaná. Zadejte, prosím, vaše "
+#~ "heslo Guard Security k dešifrování před odesláním"
+
+#~ msgid "Automated Email Language"
+#~ msgstr "Jazyk automatické zprávy"
+
+#~ msgid "Create Guard Security Keys"
+#~ msgstr "Vytvořit klíče Guard Security"
+
+#~ msgid "First Guard Security Password Use"
+#~ msgstr "První použití hesla Guard Security"
+
+#~ msgid ""
+#~ "Please change the temporary Guard security password that was sent to you "
+#~ "in a seperate email."
+#~ msgstr ""
+#~ "Změňte, prosím, dočasné bezpečnostní heslo do Guard, které vám bylo "
+#~ "posláno v samostatném e-mailu."
+
+#~ msgid "Please enter your Guard password"
+#~ msgstr "Zadejte, prosím, vaše heslo pro Guard"
+
+#~ msgid ""
+#~ "Please change the initial temporary Guard security password that was sent "
+#~ "to you in a seperate email."
+#~ msgstr ""
+#~ "Změňte, prosím, původní dočasné bezpečnostní heslo do Guard, které vám "
+#~ "bylo posláno v samostatném e-mailu."
+
+#~ msgid "Guard PGP Settings"
+#~ msgstr "PGP nastavení Guard"
+
+#~ msgid ""
+#~ "If you would like to upload a public key only, then do so here.  This "
+#~ "will allow you to encrypt files and receive encrypted emails using Guard, "
+#~ "but you will need to use the private key with another program to decode "
+#~ "the items."
+#~ msgstr ""
+#~ "Chcete-li nahrát jen veřejný klíč, proveďte to zde. To vám umožní "
+#~ "šifrovat soubory a přijímat zprávy šifrované pomocí Guard, ale soukromý "
+#~ "klíč budete muset použít spolu s jiným programem, budete-li chtít data "
+#~ "rozšifrovat."
+
+#~ msgid "Guided tour for Guard"
+#~ msgstr "Prohlídka aplikace Guard"
+
+#~ msgid "Sign out Guard"
+#~ msgstr "Odhlásit se z Guard"
+
+#~ msgctxt "app"
+#~ msgid "Guard Security"
+#~ msgstr "Guard Security"
+
+#~ msgid ""
+#~ "In order to start with Guard Security, you must set up a password for "
+#~ "your secured files."
+#~ msgstr ""
+#~ "Abyste mohli začít používat Guard Security, musíte nastavit heslo pro své "
+#~ "zabezpečené soubory."
+
+#~ msgid "Guard Security Settings"
+#~ msgstr "Nastavení Guard Security"
+
+#~ msgid "Change Guard Security Password."
+#~ msgstr "Změnit heslo Guard Security."
+
+#~ msgid "Enter current Guard security password"
+#~ msgstr "Zadejte současné heslo Guard Security"
+
+#~ msgid "Enter new Guard security password"
+#~ msgstr "Zadejte nové heslo Guard Security"
+
+#~ msgid "Verify new Guard security password"
+#~ msgstr "Ověřit nové heslo Guard Security"
+
+#~ msgid "Change Guard security password"
+#~ msgstr "Změnit heslo Guard Security"
+
+#~ msgid "Reset Guard security password"
+#~ msgstr "Nastavit nové heslo Guard Security"
+
+#~ msgid ""
+#~ "Send a temporary Guard security password to my secondary Email address."
+#~ msgstr ""
+#~ "Poslat na moji druhou e-mailovou adresu dočasné heslo Guard Security."
+
+#~ msgctxt "Choice"
+#~ msgid "Works only in all browsers with all your contacts"
+#~ msgstr "Funguje ve všech prohlížečích se všemi vašimi kontakty"
+
+#~ msgctxt "tour"
+#~ msgid "The Guard module"
+#~ msgstr "Modul Guard"
+
+#~ msgctxt "tour"
+#~ msgid "Guard Security Settings"
+#~ msgstr "Nastavení Guard Security"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You already set up your Guard account. But you can always change your "
+#~ "encryption password, or request a temporary password if you forget it."
+#~ msgstr ""
+#~ "Svůj účet Guard jste již nastavili. Své šifrovací heslo však můžete "
+#~ "kdykoliv změnit nebo si vyžádat dočasné, pokud jej zapomenete."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "By default Guard sends encrypted emails using PGP/Mime format. To "
+#~ "communicate with some systems you may need to use PGP Inline."
+#~ msgstr ""
+#~ "Ve výchozím nastavení posílá Guard zprávy s použitím formátu PGP/Mime. "
+#~ "Pro komunikaci s některými systémy můžete potřebovat PGP Inline."
+
+#~ msgctxt "tour"
+#~ msgid "Remove encryption"
+#~ msgstr "Odstranit šifrování"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Removing the encryption is easy, too: Simply click on the lock icon again."
+#~ msgstr ""
+#~ "Šifrování lze také snadno odstranit. Prostě znovu klikněte na ikonku "
+#~ "zámku."
+
+#~ msgctxt "tour"
+#~ msgid "Create Your Guard Account"
+#~ msgstr "Vytvořit účet Guard"
+
+#~ msgctxt "tour"
+#~ msgid "Guard set up completed"
+#~ msgstr "Nastavení Guard hotové"
+
+#~ msgid "Click to enable encryption"
+#~ msgstr "Kliknutím povolíte šifrování"
+
+#~ msgid "Click to disable encryption"
+#~ msgstr "Kliknutím vypnete šifrování"
+
+#~ msgid "Error.  Please reload message"
+#~ msgstr "Chyba. Načtěte, prosím, zprávu znovu"
+
+#~ msgid "You have exceeded bad password attempts.  Please wait %s minutes"
+#~ msgstr "Zadali jste opakovaně špatné heslo. Počkejte, prosím, %s minut"
+
+#~ msgid ""
+#~ "This email has expired and can no longer be accessed.  Contact the sender "
+#~ "for more information."
+#~ msgstr ""
+#~ "Časová platnost této zprávy vypršela a již ji nelze otevřít. Kontaktujte, "
+#~ "prosím, odesílatele pro více informací."
+
+#~ msgid ""
+#~ "This Email has been retracted by the sender and can no longer be "
+#~ "accessed.  Contact the sender for more information."
+#~ msgstr ""
+#~ "Odesílatel tuto zprávu vzal zpět a již ji nelze otevřít. Kontaktujte "
+#~ "odesílatele pro více informací."
+
+#~ msgid "Unable to decrypt Email."
+#~ msgstr "Zprávu nelze dešifrovat."
+
+#~ msgid "The sender added an extra password encryption."
+#~ msgstr "Odesílatel přidal dodatečné šifrování pomocí hesla."
+
+#~ msgid "Save Encrypted"
+#~ msgstr "Uložit zašifrované"
+
+#~ msgid "Save Decrypted"
+#~ msgstr "Uložit dešifrované"
+
+#~ msgid ""
+#~ "This Email was sent encrypted. It has been decrypted with your private key"
+#~ msgstr ""
+#~ "Tato zpráva byla poslána zašifrovaná. Byla dešifrována pomocí vašeho "
+#~ "soukromého klíče"
+
+#~ msgid "Expires: "
+#~ msgstr "Vyprší: "
+
+#~ msgid "Retract Email"
+#~ msgstr "Vzít zprávu zpět"
+
+#~ msgid "Email status"
+#~ msgstr "Stav zprávy"
+
+#~ msgid "Retract all access"
+#~ msgstr "Zrušit veškerý přístup"
+
+#~ msgid "Email has not been opened."
+#~ msgstr "Zpráva nebyla otevřena."
+
+#~ msgid "Email has been opened."
+#~ msgstr "Zpráva byla otevřena."
+
+#~ msgid "Email has been retracted."
+#~ msgstr "Zpráva byla vzata zpět."
+
+#~ msgid "Unable to get email status, please try again later"
+#~ msgstr "Nepodařilo se zjistit stav zprávy, zkuste to prosím později"
+
+#~ msgid "This will retract the email for all recipients. Click OK to confirm."
+#~ msgstr ""
+#~ "Tímto zprávu vezmete zpět pro všechny příjemce. Klikněte na OK pro "
+#~ "potvrzení."
+
+#~ msgid "Item was retracted"
+#~ msgstr "Položka byla vzata zpět"
+
+#~ msgid "Not all items retracted"
+#~ msgstr "Nepodařilo se vzít všechny položky zpět"
+
+#~ msgid "Failed to retract"
+#~ msgstr "Nepodařilo se vzít zpět"
+
+#~ msgctxt "tour"
+#~ msgid "Learn more …"
+#~ msgstr "Dozvědět se více..."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "From here you can update you encryption settings. For example you can "
+#~ "choose to send encrypted emails by default."
+#~ msgstr ""
+#~ "Zde můžete upravit nastavení šifrování. Například může nastavit "
+#~ "automatické posílání šífrovaných zpráv."
+
+#~ msgid "Message was saved"
+#~ msgstr "Zpráva byla uložena"
+
+#~ msgid "Problem creating keys"
+#~ msgstr "Problém při vytváření klíčů"
+
+#~ msgctxt "tour"
+#~ msgid "Please click on the lock icon."
+#~ msgstr "Klikněte, prosím, na ikonku zámku."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Please choose your password now, enter a secondary email address and "
+#~ "click on Ok."
+#~ msgstr ""
+#~ "Zvolte, prosím heslo, zadejte sekundární e-mailovou adresu a klikněte na "
+#~ "Ok."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You can always change your encryption password, or request a temporary "
+#~ "password if you forget it."
+#~ msgstr ""
+#~ "Své šifrovací heslo můžete kdykoliv změnit nebo si vyžádat dočasné, pokud "
+#~ "jej zapomenete."
+
+#~ msgctxt "tour"
+#~ msgid "Congratulations! You are now able to send secure emails."
+#~ msgstr "Gratulujeme. Nyní můžete odesílat zabezpečené zprávy."
+
+#~ msgctxt "tour"
+#~ msgid "Please remove the encryption now by clicking on the lock icon again."
+#~ msgstr "Šifrování odstraníte opětovným kliknutím na ikonku zámku."
+
+#~ msgid "%s already encrypted"
+#~ msgstr "%s je již zašifrován"
+
+#~ msgid "Add folder"
+#~ msgstr "Přidat složku"
+
+#~ msgid "Already Protected With Additional Password"
+#~ msgstr "Již chráněno dodatečným heslem"
+
+#~ msgid "Click to disable PGP encryption"
+#~ msgstr "Kliknutím vypnete šifrování PGP"
+
+#~ msgid "Done"
+#~ msgstr "Hotovo"
+
+#~ msgid "Drop here to upload a <b class=\"dndignore\">new encrypted file</b>"
+#~ msgstr ""
+#~ "Přetáhněte sem pro nahrání <b class=\"dndignore\">nového šifrovaného "
+#~ "souboru</b>"
+
+#~ msgid "Encrypting "
+#~ msgstr "Šifruji"
+
+#~ msgid "Encrypting %s"
+#~ msgstr "Zašifrováno %s"
+
+#~ msgid "FW: %1$s"
+#~ msgstr "FW: %1$s"
+
+#~ msgid "Failed to encrypt file"
+#~ msgstr "Nepodařilo se zašifrovat soubor"
+
+#~ msgid "Folder name"
+#~ msgstr "Název složky"
+
+#~ msgid "New Encrypted folder"
+#~ msgstr "Nová zašifrovaná složka"
+
+#~ msgid "New Encrypted subfolder"
+#~ msgstr "Nová zašifrovaná podsložka"
+
+#~ msgid "New encrypted subfolder"
+#~ msgstr "Nová zašifrovaná podsložka"
+
+#~ msgid "New folder"
+#~ msgstr "Nová složka"
+
+#~ msgid "New public folder"
+#~ msgstr "Nová veřejná složka"
+
+#~ msgid ""
+#~ "One of your recipients requires emails to be sent as PGP Inline.  "
+#~ "Changing now."
+#~ msgstr ""
+#~ "Jeden z adresátů vyžaduje, aby dostával zprávy s vloženým PGP. Měním na "
+#~ "tento způsob."
+
+#~ msgid "PGP key exists for this person"
+#~ msgstr "Pro tuto osobu existuje PGP klíč"
+
+#~ msgid "Require Additional Password"
+#~ msgstr "Vyžadovat dodatečné heslo"
+
+#~ msgid "Security Options"
+#~ msgstr "Bezpečnostní možnosti"
+
+#~ msgid "Send encrypted (PGP)"
+#~ msgstr "Poslat zašifrované (PGP)"
+
+#~ msgid "Share keys with other users to decrypt this file"
+#~ msgstr "Sdílet klíč k dešifrování tohoto souboru s ostatními uživateli"
+
+#~ msgid "Share link"
+#~ msgstr "Sdílet odkaz"
+
+#~ msgid "Sharing"
+#~ msgstr "Sdílení"
+
+#~ msgid "Sign email"
+#~ msgstr "Podepsat zprávu"
+
+#~ msgid "Status"
+#~ msgstr "Stav"
+
+#~ msgid "Stop"
+#~ msgstr "Zastavit"
+
+#~ msgid "The key for %1$s is expired and should not be used"
+#~ msgstr "Klíči k %1$s vypršela platnost a již by neměl být používán"
+
+#~ msgid "Unable to create Guard account, please try again later"
+#~ msgstr ""
+#~ "Nepodařilo se vytvořit nový Guard účet, zkuste to, prosím, znovu později"
+
+#~ msgid "Upload new files to encrypt"
+#~ msgstr "Nahrát nové soubory k zašifrování"
+
+#~ msgid "Use PGP inline (compatibility)"
+#~ msgstr "Použít vložené PGP (kompatibilita)"
+
+#~ msgid "%s hours"
+#~ msgstr "%s hodin"
+
+#~ msgid "%s week"
+#~ msgstr "%s týden"
+
+#~ msgid "%s weeks"
+#~ msgstr "%s týdnů"
+
+#~ msgid "Added keys:"
+#~ msgstr "Přidané klíče:"
+
+#~ msgid "CC:"
+#~ msgstr "CC:"
+
+#~ msgid "Click to disable Guard"
+#~ msgstr "Kliknutím vypnete Guard"
+
+#~ msgid "Click to enable Guard"
+#~ msgstr "Kliknutím zapnete Guard"
+
+#~ msgid "Confirm Guard Password"
+#~ msgstr "Potvrdit heslo Guard"
+
+#~ msgid "Create Guard Account"
+#~ msgstr "Vytvořit účet Guard"
+
+#~ msgid "Date:"
+#~ msgstr "Datum:"
+
+#~ msgid "Decode"
+#~ msgstr "Dešifrovat"
+
+#~ msgid "Default signing outgoing PGP mails"
+#~ msgstr "Výchozí podepisování odchozích zpráv"
+
+#~ msgid "Defaults"
+#~ msgstr "Výchozí"
+
+#~ msgid "Download (OG)"
+#~ msgstr "Stáhnout"
+
+#~ msgid "Enable Guard"
+#~ msgstr "Povolit Guard"
+
+#~ msgid "Encrypted email has been sent successfully."
+#~ msgstr "Zašifrovaná zpráva byl úspěšně odeslána."
+
+#~ msgid "Encrypting"
+#~ msgstr "Šifruji"
+
+#~ msgid "From:"
+#~ msgstr "Od:"
+
+#~ msgid "Fwd:"
+#~ msgstr "Přep:"
+
+#~ msgid "IDs:"
+#~ msgstr "ID:"
+
+#~ msgid "Initializing Guard, please wait"
+#~ msgstr "Inicializuji Guard, počkejte, prosím"
+
+#~ msgid "Inline"
+#~ msgstr "Vložené"
+
+#~ msgid "Make Guard default to PGP compliant"
+#~ msgstr "Nastavit Guard, aby aplikace jako výchozí používala PGP"
+
+#~ msgid "Never"
+#~ msgstr "Nikdy"
+
+#~ msgid "No recipients"
+#~ msgstr "Žádní adresáti"
+
+#~ msgid "None"
+#~ msgstr "Žádná"
+
+#~ msgid "Not able to contact guard server"
+#~ msgstr "Nepodařilo se spojit se serverem Guard"
+
+#~ msgid "On"
+#~ msgstr "V"
+
+#~ msgid "Open"
+#~ msgstr "Otevřít"
+
+#~ msgid "Open Decoded"
+#~ msgstr "Otevřít dešifrované"
+
+#~ msgid "PGP Compliant Guard"
+#~ msgstr "Guard kompatibilní s PGP"
+
+#~ msgid "PGP default to PGP inline for compatibility"
+#~ msgstr "Pro účely kompatibility používat jako výchozí vložené PGP"
+
+#~ msgid "Please enter a password to protect your Guard account"
+#~ msgstr "Zadejte, prosím, heslo pro ochranu svého účtu Guard"
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password.  A new password would be sent to this email."
+#~ msgstr ""
+#~ "Zadejte, prosím, druhou e-mailovou adresu pro případ, že byste "
+#~ "potřebovali přenastavit své heslo. Nové heslo by bylo posláno na tuto "
+#~ "adresu."
+
+#~ msgid "Please select the file location of your private key."
+#~ msgstr "Zvolte, prosím, umístění souboru s vaším soukromým klíčem."
+
+#~ msgid "Private Key Password"
+#~ msgstr "Heslo k soukromému klíči"
+
+#~ msgid "Problem uploading Private Key"
+#~ msgstr "Potíže s nahráváním soukromého klíče"
+
+#~ msgid "Public Key List"
+#~ msgstr "Seznam veřejných klíčů"
+
+#~ msgid "Recipient has Guard"
+#~ msgstr "Příjemce má Guard"
+
+#~ msgid "Retract in"
+#~ msgstr "Vzít zpět za"
+
+#~ msgid "Save Decoded"
+#~ msgstr "Uložit dešifrované"
+
+#~ msgid "Shared"
+#~ msgstr "Sdílené"
+
+#~ msgid "Sign PGP"
+#~ msgstr "Podepsat PGP"
+
+#~ msgid "Subject:"
+#~ msgstr "Předmět:"
+
+#~ msgid ""
+#~ "The key will be used locally only.  It will not be sent to the server."
+#~ msgstr "Klíč bude používán pouze lokálně. Nebude odeslán na server."
+
+#~ msgid "This appears to be the first time you have used Guard"
+#~ msgstr "Vypadá to, že jde o vaše první použití Guard"
+
+#~ msgid "To:"
+#~ msgstr "Pro:"
+
+#~ msgid "Unable to get key for encryption"
+#~ msgstr "Nepodařilo se získat klíč k dešifrování"
+
+#~ msgid "Unable to load"
+#~ msgstr "Nelze načíst"
+
+#~ msgid "Use Guard when composing a new email"
+#~ msgstr "Používat Guard při psaní nových zpráv"
+
+#~ msgid "Using a guest account for email"
+#~ msgstr "Používám pro zprávu účet hosta"
+
+#~ msgid "Your private key"
+#~ msgstr "Váš soukromý klíč"
+
+#~ msgid "Your public key"
+#~ msgstr "Váš veřejný klíč"
+
+#~ msgid "popup blocked"
+#~ msgstr "vyskakovací okno zablokováno"

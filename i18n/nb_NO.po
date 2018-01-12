@@ -1,0 +1,2415 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: open-xchange-guard-ui\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2018-01-12 09:05-0500\n"
+"Last-Translator: Greg Hill <greg.hill@open-xchange.com>\n"
+"Language-Team: NAME <EMAIL>\n"
+"Language: nb_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-POOTLE-MTIME: 1494358260.000000\n"
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "Toggle Encryption"
+msgstr ""
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "Not Supported"
+msgstr "Ikke støttet"
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "%s is not supported with secured email and will be disabled."
+msgstr "%s støtter ikke sikre eposter og vil bli deaktivert."
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "OK"
+msgstr "OK"
+
+#. %s product Name
+#: apps/mailvelope/settings.js module:oxguard
+msgid "Mailvelope"
+msgstr "Mailvelope"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Mailvelope Not Supported"
+msgstr "Mailvelope er ikke støttet"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid ""
+"Mailvelope is only supported in Google Chrome or Mozilla Firefox.  Please "
+"use one of these broswers to set up encryption."
+msgstr ""
+"Mailvelope er bare støttet i Google Chrome eller Mozilla Firefox. Vennligst "
+"bruk en av disse nettleserne for å sette opp kryptering."
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Encrypted communication"
+msgstr "Kryptert kommunikasjon"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Download browser plugin"
+msgstr "Last ned nettleserplugin"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Generate"
+msgstr "Generer"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Congratulations! You have successfully set up encryption."
+msgstr "Gratulerer! Du har nå satt opp kryptering."
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Prepare"
+msgstr "Forberedelse"
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Password"
+msgstr "Passord"
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Three steps to setup encrypted communication:"
+msgstr "Tre steg for å sette opp kryptert kommunikasjon:"
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Download browser plugin “Mailvelope”"
+msgstr "Last ned nettleser-plugin'en \"Mailvelope\""
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Create encryption keys for secure communication"
+msgstr "Opprett krypteringsnøkler for sikker kommunikasjon"
+
+#~ msgid "Mailvelope Advanced"
+#~ msgstr "Mailvelope Advanced"
+
+#~ msgid "Error"
+#~ msgstr "Feil"
+
+#~ msgid ""
+#~ "Backup your Mailvelope private keys to the server.  The keys will be "
+#~ "encrypted requiring a security code for restore"
+#~ msgstr ""
+#~ "Ta backup av dine private nøkler fra Mailvelope og lagre dem til "
+#~ "serveren. Nøklene vil bli kryptert og vil kreve en sikkerhetskode for å "
+#~ "gjenopprettes."
+
+#~ msgid "Backup"
+#~ msgstr "Backup"
+
+#~ msgid "Discard previously saved private keys."
+#~ msgstr "Forkast tidligere lagrede private nøkler"
+
+#~ msgid "Discard backup"
+#~ msgstr "Forkast backup"
+
+#~ msgid "Restore previously saved private keys."
+#~ msgstr "Gjenopprett tidligere lagrede private nøkler."
+
+#~ msgid "Restore"
+#~ msgstr "Gjenopprett"
+
+#~ msgid ""
+#~ "Upload your Mailvelope public keys to the %s server so that other people "
+#~ "can send you encrypted emails."
+#~ msgstr ""
+#~ "Last opp dine offentlige nøkler fra Mailvelope til %s-serveren så andre "
+#~ "mennesker kan sende deg krypterte eposter."
+
+#~ msgid "Upload Public Key"
+#~ msgstr "Last opp privat nøkkel"
+
+#~ msgid "Backup and Recovery"
+#~ msgstr "Backup og gjenoppretting"
+
+#~ msgid "No backup data available"
+#~ msgstr "Ingen backupdata er tilgjengelig"
+
+#~ msgid ""
+#~ "You can now backup your keys. Please store the provided password secure. "
+#~ "It is also possible to skip this step and do the backup later. You can "
+#~ "find it in the settings."
+#~ msgstr ""
+#~ "Du kan nå ta backup av nøklene dine. Vennligst lagre passordet på et "
+#~ "sikkert sted. Du kan også hoppe over dette steget og utføre backup senere "
+#~ "(du finner det i innstillingene)."
+
+#~ msgid "Skip without backup"
+#~ msgstr "Hopp over uten backup"
+
+#~ msgid "Recommended: Setup key backup"
+#~ msgstr "Anbefalt: Sett opp nøkkelbackup"
+
+#~ msgid "Enter %s security password"
+#~ msgstr "Oppgi %s sikkerhetspassord"
+
+#~ msgid "Bad password"
+#~ msgstr "Feil passord"
+
+#~ msgid "Account Locked out"
+#~ msgstr "Konto sperret"
+
+#~ msgid "Unspecified error"
+#~ msgstr "Uspesifisert feil"
+
+#~ msgid "Problems creating keys, please try again later."
+#~ msgstr "Kunne ikke opprette nøkler, vennligst forsøk igjen senere."
+
+#~ msgid ""
+#~ "Problems creating keys.  Keys already exist for this email address in "
+#~ "another account."
+#~ msgstr ""
+#~ "Feil under oppretting av nøkler. Nøkler finnes allerede for denne "
+#~ "epostadressen i en annen konto."
+
+#~ msgid "Passwords must be at least %s characters in length"
+#~ msgstr "Passordet må være minst %s tegn langt"
+
+#~ msgid "Passwords not equal"
+#~ msgstr "Passordene samsvarer ikke"
+
+#~ msgid "Enter new secondary Email address"
+#~ msgstr "Oppgi en ny sekundær epostadresse"
+
+#~ msgid "Generating key, Please wait"
+#~ msgstr "Genererer nøkler. Vennligst vent ..."
+
+#~ msgid ""
+#~ "Please choose the password you will use for %s. You will need to type "
+#~ "this password whenever you want to encrypt or decrypt items. Remember it "
+#~ "should be different from your login password, and will not change if you "
+#~ "change your login password."
+#~ msgstr ""
+#~ "Vennligst velg passordet du ønsker å bruke for %s. Du vil måtte skrive "
+#~ "inn dette passordet hver gang du ønsker å kryptere eller dekryptere "
+#~ "elementer. Husk at det bør være forskjellig fra innloggingspassordet ditt."
+
+#~ msgid "Please enter a password to protect your new encrypted items."
+#~ msgstr "Vennligst oppgi et passord for å beskytte dine krypterte elementer"
+
+#~ msgid "Confirm"
+#~ msgstr "Bekreft"
+
+#~ msgid ""
+#~ "Warning: This password for encryption cannot be restored or recovered in "
+#~ "any way.  If forgotten, all encrypted data will be lost"
+#~ msgstr ""
+#~ "Advarsel: Krypteringspassordet kan ikke gjenopprettes eller nullstilles "
+#~ "på noen måte. Hvis det glemmes vil all kryptert informasjon være tapt."
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password."
+#~ msgstr ""
+#~ "Vennligst oppgi en sekundær epostadresse i tilfelle du behøver å "
+#~ "nullstille passordet ditt."
+
+#~ msgid "Email:"
+#~ msgstr "Epost: "
+
+#~ msgid "Create %s Security Keys"
+#~ msgstr "Opprett %s-sikkerhetsnøkler"
+
+#~ msgid "Cancel"
+#~ msgstr "Avbryt"
+
+#~ msgid "Not valid email"
+#~ msgstr "Ugyldig epost"
+
+#~ msgid "Emails not equal"
+#~ msgstr "Epostadresser er ikke like"
+
+#~ msgid "Too short"
+#~ msgstr "For kort"
+
+#~ msgid "Strong"
+#~ msgstr "Sterkt"
+
+#~ msgid "Weak"
+#~ msgstr "Svakt"
+
+#~ msgid "First %s Security Use"
+#~ msgstr "Førstegangs bruk av %s-sikkerhet"
+
+#~ msgid "You have been sent an email using %s to secure the contents"
+#~ msgstr "Du har mottatt en epost fra %s for å beskytte innholdet"
+
+#~ msgid ""
+#~ "Please select a new password for use with %s.  This password will be used "
+#~ "to open encrypted emails and files that may be sent to you."
+#~ msgstr ""
+#~ "Vennligst velg et nytt passord for bruk med %s. Passordet vil brukes til "
+#~ "å åpne krypterte eposter og filer som blir sendt til deg."
+
+#~ msgid "First %s Security Password Use"
+#~ msgstr "Førstegangs bruk av sikkerhetspassord"
+
+#~ msgid ""
+#~ "Please change the initial temporary %s security password that was sent to "
+#~ "you in a separate email."
+#~ msgstr ""
+#~ "Vennligst endre det midlertidige sikkerhetspassordet som ble sendt deg i "
+#~ "en separat epost."
+
+#~ msgid "Initial Password"
+#~ msgstr "Midlertidig passord"
+
+#~ msgid "New Password"
+#~ msgstr "Nytt passord"
+
+#~ msgid "Confirm New"
+#~ msgstr "Bekreft ny"
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password.</p>"
+#~ msgstr ""
+#~ "Vennligst oppgi en sekundær epostadresse, i tilfelle du behøver å "
+#~ "nullstille passordet ditt.</p>"
+
+#~ msgid "Verify:"
+#~ msgstr "Bekreft:"
+
+#~ msgid ""
+#~ "Warning: This password for encryption cannot be restored or recovered in "
+#~ "any way.  If forgotten, all encrypted data will be lost."
+#~ msgstr ""
+#~ "Advarsel: Passordet som blir brukt til kryptering kan ikke gjenopprettes "
+#~ "på noen måte. Hvis det glemmes vil alle krypterte data være tapt."
+
+#~ msgid "Success"
+#~ msgstr "Vellykket"
+
+#~ msgid "Password changed successfully"
+#~ msgstr "Passordet ble endret"
+
+#~ msgid "New password must be at least %s characters long"
+#~ msgstr "Det nye passordet må være minst %s tegn langt"
+
+#~ msgid "Encryption key not found"
+#~ msgstr "Krypteringsnøkkelen ble ikke funnet"
+
+#~ msgid "Failed to change password"
+#~ msgstr "Det oppstod en feil under endring av passord"
+
+#~ msgid "Download decrypted"
+#~ msgstr "Last ned dekryptert"
+
+#~ msgid "Add and encrypt local file"
+#~ msgstr "Last opp og krypter lokal fil"
+
+#~ msgid "Remove encryption"
+#~ msgstr "Fjern kryptering"
+
+#~ msgid "Encrypt"
+#~ msgstr "Krypter"
+
+#~ msgid "Send by mail"
+#~ msgstr "Send via epost"
+
+#~ msgid "Download encrypted"
+#~ msgstr "Last ned kryptert"
+
+#~ msgid "Pop out"
+#~ msgstr "Popp ut"
+
+#~ msgid "Pop out standalone viewer"
+#~ msgstr "Popp ut i eget vindu"
+
+#~ msgid "Decrypt and open"
+#~ msgstr "Dekrypter og åpne"
+
+#~ msgid "Drop files here to encrypt"
+#~ msgstr "Dra og slipp filer her for å kryptere"
+
+#~ msgid "Recipient Options"
+#~ msgstr "Mottakerinnstillinger"
+
+#~ msgid ""
+#~ "At least one of your recipients uses a different webmail system.  They "
+#~ "will receive an email with a link for them to read this message.  If you "
+#~ "like, you can add a personalized message that will appear at the top of "
+#~ "this message.  This will help identify the message as coming from you."
+#~ msgstr ""
+#~ "Minst én av mottakerene bruker en annen epostplattform. De(n) aktuell(e) "
+#~ "mottakeren(e) vil motta en epost med en lenke som kan klikkes for å lese "
+#~ "eposten. For at mottakeren enklere skal kunne identifisere at du er "
+#~ "avsenderen, kan du skrive inn en personlig melding som vil inkluderes "
+#~ "øverst i denne eposten. "
+
+#~ msgid "Message:"
+#~ msgstr "Personlig melding: "
+
+#~ msgid "Language for recipient Email"
+#~ msgstr "Språk for epost til mottaker"
+
+#~ msgid "Note: Emails sent to mailing lists or groups will not work."
+#~ msgstr "Merk: Eposter sendt til epostlister eller grupper vil ikke fungere."
+
+#~ msgid ""
+#~ "Mailing list / blocked email found.  Encrypted emails to this email will "
+#~ "fail.  %s"
+#~ msgstr ""
+#~ "Epostliste/blokkert epost funnet. Krypterte eposter til denne eposten vil "
+#~ "feile. %s"
+
+#~ msgid ""
+#~ "The key for %s has expired.  You will not be able to send an encrypted "
+#~ "email to this recipient."
+#~ msgstr ""
+#~ "Nøkkelen for %s har utløpt. Du vil ikke kunne sende en kryptert epost til "
+#~ "denne mottakeren."
+
+#~ msgid "HTML Formatted Email"
+#~ msgstr "HTML-formatert epost"
+
+#~ msgid ""
+#~ "HTML formatted emails may cause issues with PGP inline.  Click OK to "
+#~ "change to Plain Text formatted Emails."
+#~ msgstr ""
+#~ "HTML-formaterte eposter kan skape problemer med \"inline PGP\". Klikk OK "
+#~ "for å endre til ren tekst."
+
+#~ msgid "HTML format is not recommended when using PGP Inline"
+#~ msgstr "HTML-format er ikke anbefalt når man bruker \"inline PGP\"."
+
+#~ msgid "Recipients cannot be added to this encrypted reply"
+#~ msgstr "Mottakere kunne ikke legges til dette krypterte svaret"
+
+#~ msgid "Reply must be encrypted"
+#~ msgstr "Svar må være kryptert"
+
+#~ msgid "Unable to attach your public key"
+#~ msgstr "Kunne ikke legge ved den offentlige nøkkelen din."
+
+#~ msgid "Will create new guest account for %s"
+#~ msgstr "Vil opprette en ny gjestekonto for %s"
+
+#~ msgid "Encryption Key Known"
+#~ msgstr "Krypteringsnøkkel kjent"
+
+#~ msgid "Send"
+#~ msgstr "Send"
+
+#~ msgid "Send Encrypted"
+#~ msgstr "Send kryptert"
+
+#~ msgid "Send Secure"
+#~ msgstr "Send kryptert"
+
+#~ msgid "Loaded"
+#~ msgstr "Lastet"
+
+#~ msgid "Secure Email, enter your %s security password."
+#~ msgstr "Sikker epost, vennligst oppgi sikkerhetspassordet ditt."
+
+#~ msgid "Keep me logged into %s"
+#~ msgstr "Forbli innlogget"
+
+#~ msgid "10 minutes"
+#~ msgstr "10 minutter"
+
+#~ msgid "20 minutes"
+#~ msgstr "20 minutter"
+
+#~ msgid "30 minutes"
+#~ msgstr "30 minutter"
+
+#~ msgid "1 hour"
+#~ msgstr "Én time"
+
+#~ msgid "2 hours"
+#~ msgstr "To timer"
+
+#~ msgid "Session"
+#~ msgstr "Sesjon"
+
+#~ msgid "Select Key Location"
+#~ msgstr "Velg nøkkelplassering"
+
+#~ msgid "Temporary Lockout"
+#~ msgstr "Midlertidig utestengning"
+
+#~ msgid "Security PIN"
+#~ msgstr "Sikkerhets-PIN"
+
+#~ msgid "Recipients:"
+#~ msgstr "Mottakere:"
+
+#~ msgid ""
+#~ "The new recipients listed below will be sent a password via email.  You "
+#~ "can also require a separate pin, which is displayed below."
+#~ msgstr ""
+#~ "Mottakerene som er listet under vil få tilsendt et passord på epost. Du "
+#~ "kan også kreve en separat pin-kode, som er vist under."
+
+#~ msgid ""
+#~ "You may deliver this pin any way you see fit, but we recommend doing it "
+#~ "in a second method other than email (Phone, SMS, Skype, etc)."
+#~ msgstr ""
+#~ "Du kan overlevere denne PIN-koden på hvilken som helst måte, men vi "
+#~ "anbefaler at det gjøres via en alternativ kanal enn epost, eksempelvis "
+#~ "telefon, SMS, Skype, el.l.)."
+
+#~ msgid "If you want this extra pin requirement, click OK."
+#~ msgstr ""
+#~ "Hvis du ønsker å kreve ekstra PIN-kode for at mottakeren skal få åpnet "
+#~ "eposten, klikk OK. "
+
+#~ msgid "Skip"
+#~ msgstr "Hopp over"
+
+#~ msgid "Unable to get key"
+#~ msgstr "Kunne ikke hente nøkkel"
+
+#~ msgid "Please enter your %s password to sign this email."
+#~ msgstr "Vennligst oppgi %s-passordet ditt for å signere denne eposten."
+
+#~ msgid ""
+#~ "There appears to be an encrypted attachment.  Please enter your %s "
+#~ "password to decode the attachment for sending."
+#~ msgstr ""
+#~ "Et vedlegg ser ut til å være kryptert. Vennligst oppgi %s-passordet ditt "
+#~ "for å dekryptere vedlegget for sending."
+
+#~ msgid "Please re-enter your %s password before sending."
+#~ msgstr "Vennligst oppgi %s-passordet ditt før sending."
+
+#~ msgid "Please re-enter your %s password before saving."
+#~ msgstr "Vennligst oppgi %s-passordet ditt på nytt før lagring."
+
+#~ msgid "Please re-enter your %s password."
+#~ msgstr "Vennligst oppgi %s-passordet ditt på nytt."
+
+#~ msgid "Security"
+#~ msgstr "Sikkerhet"
+
+#~ msgid "PGP"
+#~ msgstr "PGP"
+
+#~ msgid "Secure"
+#~ msgstr "Sikker"
+
+#~ msgid "Sign"
+#~ msgstr "Signér"
+
+#~ msgid "Format"
+#~ msgstr "Format"
+
+#~ msgid "PGP Mime"
+#~ msgstr "PGP-MIME"
+
+#~ msgid "PGP Inline"
+#~ msgstr "Inline PGP"
+
+#~ msgid "Keys"
+#~ msgstr "Nøkler"
+
+#~ msgid "Attach my key"
+#~ msgstr "Legg ved nøkkelen min"
+
+#~ msgid "Unable to find keys for all recipients."
+#~ msgstr "Kunne ikke finne nøkler for alle mottakere."
+
+#~ msgid "Unable to connect to the encryption server."
+#~ msgstr "Kunne ikke koble til krypteringstjeneren."
+
+#~ msgid "Unable to find the item on the server"
+#~ msgstr "Kunne ikke finne elementet på tjeneren"
+
+#~ msgid "Unable to get the key for that item"
+#~ msgstr "Kunne ikke hente nøkkel for dette elementet"
+
+#~ msgid "Unable to retrieve your user keys to decode"
+#~ msgstr "Kunne ikke hente nøklene dine for å dekryptere"
+
+#~ msgid "Bad extra password"
+#~ msgstr "Feil tilleggspassord"
+
+#~ msgid "No private key to decode this message"
+#~ msgstr "Ingen privat nøkkel kan dekryptere denne meldingen"
+
+#~ msgid "Unable to decrypt Email, incorrect password."
+#~ msgstr "Kunne ikke dekryptere eposten - feil passord."
+
+#~ msgid "To reset or recover your password, click %s"
+#~ msgstr "For å nullstille eller gjenopprette passordet ditt, klikk %s"
+
+#~ msgid "Settings"
+#~ msgstr "Innstillinger"
+
+#~ msgid "No Private Key available for this encrypted item."
+#~ msgstr "Ingen privat nøkkel er tilgjengelig for dette krypterte elementet."
+
+#~ msgid "Key Ids:"
+#~ msgstr "Nøkkel-ID-er"
+
+#~ msgid "Your account is locked out for %s minutes"
+#~ msgstr "Kontoen din er midlertidig sperret i %s minutter"
+
+#~ msgid "Server Error: "
+#~ msgstr "Serverfeil:"
+
+#~ msgid "Password needed"
+#~ msgstr "Passord påkrevd"
+
+#~ msgid "Please enter your %s password"
+#~ msgstr "Vennligst oppgi %s-passordet ditt"
+
+#~ msgid "Remember my password"
+#~ msgstr "Husk passordet mitt"
+
+#~ msgid "Account locked out due to bad attempts.  Please try again later."
+#~ msgstr ""
+#~ "Kontoen er låst grunnet feilede forsøk. Vennligst prøv igjen senere."
+
+#~ msgid "Error checking password"
+#~ msgstr "Feil ved kontrollering av passord"
+
+#~ msgid "Delete Public Key"
+#~ msgstr "Slett offentlig nøkkel"
+
+#~ msgid "Click OK to confirm"
+#~ msgstr "Klikk OK for å bekrefte"
+
+#~ msgid "Email"
+#~ msgstr "Epost"
+
+#~ msgid "Key Ids"
+#~ msgstr "Nøkkel-ID-er"
+
+#~ msgid "Details"
+#~ msgstr "Detaljer"
+
+#~ msgid "Delete"
+#~ msgstr "Slett"
+
+#~ msgid "No Keys Found"
+#~ msgstr "Ingen nøkler ble funnet"
+
+#~ msgid "Key Details"
+#~ msgstr "Nøkkeldetaljer"
+
+#~ msgid "Share Keys"
+#~ msgstr "Del nøkler"
+
+#~ msgid "Use PGP Inline"
+#~ msgstr "Bruk \"inline PGP\""
+
+#~ msgid "Signatures"
+#~ msgstr "Signaturer"
+
+#~ msgid "Expired"
+#~ msgstr "Utløpt"
+
+#~ msgid "Revoked"
+#~ msgstr "Tilbakekalt"
+
+#~ msgid "Fingerprint:"
+#~ msgstr "Fingeravtrykk:"
+
+#~ msgid "Created:"
+#~ msgstr "Opprettet:"
+
+#~ msgid "Master:"
+#~ msgstr "Master: "
+
+#~ msgid "True"
+#~ msgstr "Ja"
+
+#~ msgid "False"
+#~ msgstr "Nei"
+
+#~ msgid "Encryption:"
+#~ msgstr "Kryptering:"
+
+#~ msgid "IDs: "
+#~ msgstr "ID-er: "
+
+#~ msgid "Expires in %1$s days"
+#~ msgstr "Utløper om %1$s dager"
+
+#~ msgid "Problem getting signatures"
+#~ msgstr "Kunne ikke hente signaturene"
+
+#~ msgid "Positive"
+#~ msgstr "Positiv"
+
+#~ msgid "Failed check"
+#~ msgstr "Sjekk feilet"
+
+#~ msgid "Missing public"
+#~ msgstr "Mangler offentlig nøkkel"
+
+#~ msgid "Casual"
+#~ msgstr "Uformell"
+
+#~ msgid "Revocation"
+#~ msgstr "Tilbakekallelse"
+
+#~ msgid "Direct cert"
+#~ msgstr "Direkte sertifisert"
+
+#~ msgid "Default Certification"
+#~ msgstr "Standard sertifisering"
+
+#~ msgid "No signatures"
+#~ msgstr "Ingen signaturer"
+
+#~ msgid "ID Signed"
+#~ msgstr "ID signert"
+
+#~ msgid "Certification"
+#~ msgstr "Sertifisering"
+
+#~ msgid "Signed by"
+#~ msgstr "Signert av"
+
+#~ msgid "Image"
+#~ msgstr "Bilde"
+
+#~ msgid "Key Signatures"
+#~ msgstr "Nøkkelsignaturer"
+
+#~ msgid "PGP Public Key List"
+#~ msgstr "Offentlig PGP-nøkkelliste"
+
+#~ msgid "This Email was encrypted with PGP."
+#~ msgstr "Denne eposten ble kryptert med PGP."
+
+#~ msgid "This Email was signed and verified."
+#~ msgstr "Denne eposten ble signert og bekreftet."
+
+#~ msgid "This Email was signed and failed verification."
+#~ msgstr "Denne eposten ble signert, men verifisering feilet"
+
+#~ msgid "This Email was signed but unable to verify."
+#~ msgstr "Eposten ble signert men kunne ikke bekreftes."
+
+#~ msgid ""
+#~ "This Email was sent using PGP encryption. It has been decrypted with your "
+#~ "private key"
+#~ msgstr ""
+#~ "Denne eposten ble sendt med PGP-kryptering, og har blitt dekryptert med "
+#~ "den private nøkkelen din."
+
+#~ msgid "This Email was signed by the sender and verified."
+#~ msgstr "Denne eposten ble signert av avsenderen og verifisert"
+
+#~ msgid "PGP Public Key Found.  Click to Import"
+#~ msgstr "Offentlig PGP-nøkkel funnet. Klikk for å importere"
+
+#~ msgid "Save encrypted to %1$s"
+#~ msgstr "Lagre kryptert til %1$s"
+
+#~ msgctxt "app"
+#~ msgid "Drive"
+#~ msgstr "Drive"
+
+#~ msgid "Check assigned PIN"
+#~ msgstr "Sjekk tilordnet PIN"
+
+#~ msgid "PIN"
+#~ msgstr "PIN"
+
+#~ msgid "Added keys: \r\n"
+#~ msgstr "Nøkler lagt til: \r\n"
+
+#~ msgid "Key ID: "
+#~ msgstr "Nøkkel-ID: "
+
+#~ msgid "Service Unavailable"
+#~ msgstr "Tjenesten er utilgjengelig"
+
+#~ msgid "Advanced Settings"
+#~ msgstr "Avanserte innstillinger"
+
+#~ msgid "Download PGP Public Key"
+#~ msgstr "Last ned offentlig PGP-nøkkel"
+
+#~ msgid "Email your PGP Public Key"
+#~ msgstr "Send offentlig PGP-nøkkel per epost"
+
+#~ msgid "Your Keys"
+#~ msgstr "Dine nøkler"
+
+#~ msgid "Your Key List"
+#~ msgstr "Din nøkkelliste"
+
+#~ msgid "Key ID"
+#~ msgstr "Nøkkel-ID"
+
+#~ msgid "Private Key"
+#~ msgstr "Privat nøkkel"
+
+#~ msgid "Current"
+#~ msgstr "Gjeldende"
+
+#~ msgid "Download"
+#~ msgstr "Last ned"
+
+#~ msgid "Edit"
+#~ msgstr "Rediger"
+
+#~ msgid "Adding Keys"
+#~ msgstr "Legger til nøkler"
+
+#~ msgid "If you already have a private key, you can upload it here."
+#~ msgstr "Hvis du allerede har en privat nøkkel kan du laste den opp her."
+
+#~ msgid "Upload Private Key"
+#~ msgstr "Last opp privat nøkkel"
+
+#~ msgid "Finally, you can have a new PGP Key Pair created for your account."
+#~ msgstr "Til slutt kan du opprette et nytt PGP-nøkkelpar for kontoen din."
+
+#~ msgid "Create New Keys"
+#~ msgstr "Opprett nye nøkler"
+
+#~ msgid "Adding UserID"
+#~ msgstr "Legg til bruker-id"
+
+#~ msgid "Add a name and email address to this public key."
+#~ msgstr "Legg til et navn og epostadresse til denne offentlige nøkkelen."
+
+#~ msgid "Name"
+#~ msgstr "Navn"
+
+#~ msgid "Please enter your key password"
+#~ msgstr "Vennligst oppgi nøkkelpassordet ditt"
+
+#~ msgid "Invalid Email Address"
+#~ msgstr "Ugyldig epostadresse"
+
+#~ msgid "Invalid Name"
+#~ msgstr "Ugyldig navn"
+
+#~ msgid "Enter password"
+#~ msgstr "Oppgi passord"
+
+#~ msgid "User ID added"
+#~ msgstr "Bruker-ID lagt til"
+
+#~ msgid "Failed to add UserID"
+#~ msgstr "Kunne ikke legge til bruker-ID"
+
+#~ msgid "Revoke Private Key"
+#~ msgstr "Tilbakekall privat nøkkel"
+
+#~ msgid ""
+#~ "Revoke the key: This advises others that you no longer want this key "
+#~ "used.  You can continue to decode any encrypted data using the key."
+#~ msgstr ""
+#~ "Tilbakekall nøkkelen: Dette forteller andre at du ikke lenger ønsker at "
+#~ "denne nøkkelen blir brukt. Du kan fremdeles fortsette å dekryptere "
+#~ "krypterte data med nøkkelen."
+
+#~ msgid "Delete Private Key"
+#~ msgstr "Slett privat nøkkel"
+
+#~ msgid "There are two options if you no longer want to use this key"
+#~ msgstr ""
+#~ "Det er to alternativer hvis du ikke lenger ønsker å bruke denne nøkkelen"
+
+#~ msgid ""
+#~ "Revoke the key: This advises others that you no longer want this key "
+#~ "used.  You can continue to decode any encrypted data using the key. "
+#~ "(Recommended)"
+#~ msgstr ""
+#~ "Tilbakekall nøkkelen (anbefalt): Dette forteller andre om at du ikke "
+#~ "lenger ønsker at denne nøkkelen blir brukt. Du kan fremdeles dekryptere "
+#~ "krypterte data med denne nøkkelen. "
+
+#~ msgid ""
+#~ "Deleting the key: Deleting the private key will render all encrypted "
+#~ "items unreadable.  You will not be able to decode emails or files that "
+#~ "were enrypted with this key.  This cannot be undone."
+#~ msgstr ""
+#~ "Slett nøkkelen: Sletting av nøkkelen vil gjøre alle krypterte elementer "
+#~ "uleselige. Du vil ikke være i stand til å dekryptere eposter eller filer "
+#~ "som har blitt kryptert med denne nøkkelen. Dette kan ikke angres."
+
+#~ msgid "Revoke"
+#~ msgstr "Tilbakekall"
+
+#~ msgid ""
+#~ "You will no longer be able to decode any items that were encrypted with "
+#~ "this key!"
+#~ msgstr ""
+#~ "Du vil ikke lenger være i stand til å dekryptere elementer som har blitt "
+#~ "kryptert med denne nøkkelen!"
+
+#~ msgid "Enter your password below to confirm and verify"
+#~ msgstr "Oppgi passordet ditt under for å bekrefte"
+
+#~ msgid "Bad Password"
+#~ msgstr "Ugyldig passord"
+
+#~ msgid "Key Deleted"
+#~ msgstr "Nøkkel slettet"
+
+#~ msgid "Failed to delete key"
+#~ msgstr "Kunne ikke slette nøkkel"
+
+#~ msgid "Problem deleting key"
+#~ msgstr "Det oppstod en feil under sletting av nøkkelen"
+
+#~ msgid "Please verify you want to delete this key"
+#~ msgstr "Vennligst bekreft at du ønsker å slette denne nøkkelen"
+
+#~ msgid "Failed to delete"
+#~ msgstr "Kunne ikke slette"
+
+#~ msgid ""
+#~ "This will advise people not to use this key.  You can still use the key "
+#~ "to decode existing items."
+#~ msgstr ""
+#~ "Dette vil fortelle andre om å ikke bruke denne nøkkelen. Du kan fremdeles "
+#~ "bruke nøkkelen for å dekryptere eksisterende elementer."
+
+#~ msgid "Reason"
+#~ msgstr "Begrunnelse"
+
+#~ msgid "No Reason"
+#~ msgstr "Ingen begrunnelse"
+
+#~ msgid "Key superseded"
+#~ msgstr "Nøkkel avløst"
+
+#~ msgid "Key compromised"
+#~ msgstr "Nøkkel kompromittert"
+
+#~ msgid "Key retired"
+#~ msgstr "Nøkkel pensjonert"
+
+#~ msgid "User no longer valid"
+#~ msgstr "Brukeren er ikke lenger gyldig"
+
+#~ msgid "Key Revoked"
+#~ msgstr "Nøkkel tilbakekalt"
+
+#~ msgid "Failed to revoke key"
+#~ msgstr "Kunne ikke tilbakekalle nøkkelen"
+
+#~ msgid "Download Key"
+#~ msgstr "Last ned nøkkelen"
+
+#~ msgid "Download your private key for use with other email programs"
+#~ msgstr "Last ned din private nøkkel for bruk i andre epostklienter"
+
+#~ msgid "Do not distribute this key.  It is for your use only"
+#~ msgstr ""
+#~ "Ikke gi denne nøkkelen til noen andre - den er kun for ditt eget bruk."
+
+#~ msgid "Download PGP Private Key"
+#~ msgstr "Last ned privat PGP-nøkkel"
+
+#~ msgid "Download Public and Private Key"
+#~ msgstr "Last ned offentlig og privat nøkkel"
+
+#~ msgid "Key ID:"
+#~ msgstr "Nøkkel-ID:"
+
+#~ msgid "Expires:"
+#~ msgstr "Utløper:"
+
+#~ msgid "Private Key: "
+#~ msgstr "Privat nøkkel: "
+
+#~ msgid ""
+#~ "If you would like to upload a public key only, then do so here.  This "
+#~ "will allow you to encrypt files and receive encrypted emails using %s, "
+#~ "but you will need to use the private key with another program to decode "
+#~ "the items."
+#~ msgstr ""
+#~ "Hvis du kun vil laste opp en offentlig nøkkel kan du gjøre det her. Dette "
+#~ "vil la deg kryptere filer og motta krypterte eposter, men du vil måtte "
+#~ "bruke din private nøkkel i en annen klient for å kunne åpne elementene."
+
+#~ msgid "Upload Public Key Only"
+#~ msgstr "Bare last opp offentlig nøkkel"
+
+#~ msgid "PGP Public Key is attached"
+#~ msgstr "Offentlig PGP-nøkkel er vedlagt"
+
+#~ msgid "Public Keys"
+#~ msgstr "Offentlige nøkler"
+
+#~ msgid "Failed to update settings"
+#~ msgstr "Det oppstod en feil under oppdatering av innstillingene"
+
+#~ msgid "Email format"
+#~ msgstr "Epostformat"
+
+#~ msgid ""
+#~ "Emails that contain HTML and are sent with PGP Inline will often result "
+#~ "in decoding errors and possible failure.  As a result, the default Email "
+#~ "format should be changed to plaintext.  Click OK to change the default to "
+#~ "plaintext, cancel to keep your current setting."
+#~ msgstr ""
+#~ "Eposter som inneholder HTML og som sendes med \"inline PGP\" vil ofte "
+#~ "resultere i dekrypteringsfeil. Standard epostformat bør dermed endres til "
+#~ "ren tekst. Klikk OK for å endre standarden til ren tekst, eller avbryt "
+#~ "for å beholde gjeldende innstilling."
+
+#~ msgid "Ask each time"
+#~ msgstr "Spør hver gang"
+
+#~ msgid "Remember Password Default"
+#~ msgstr "Husk passord som standard"
+
+#~ msgid "Default to send encrypted when composing email"
+#~ msgstr "Bruk Guard som standard når du oppretter en ny epost"
+
+#~ msgid "Encrypt all incoming emails"
+#~ msgstr "Krypter alle innkommende eposter"
+
+#~ msgid "Default adding signature to outgoing mails"
+#~ msgstr "Signer utgående eposter som standard"
+
+#~ msgid "Default to using PGP inline for new mails"
+#~ msgstr "Bruk \"inline PGP\" som standard for nye eposter"
+
+#~ msgid "Please wait"
+#~ msgstr "Vennligst vent"
+
+#~ msgid "Advanced"
+#~ msgstr "Avansert"
+
+#~ msgid "Enable Advanced PGP Features"
+#~ msgstr "Aktiver avanserte PGP-funksjoner"
+
+#~ msgid "PGP Encryption Settings"
+#~ msgstr "PGP-krypteringsinnstillinger"
+
+#~ msgid "Security Settings"
+#~ msgstr "Sikkerhetsinnstillinger"
+
+#~ msgid "Keys uploaded"
+#~ msgstr "Nøklene ble lastet opp"
+
+#~ msgid "Failed to upload"
+#~ msgstr "Det oppstod en feil under opplasting"
+
+#~ msgid "The public key must have your primary email as a user ID"
+#~ msgstr ""
+#~ "Den offentlige nøkkelen må inneholde hovedepostadressen din som en bruker-"
+#~ "ID"
+
+#~ msgid "Upload Private Keys"
+#~ msgstr "Last opp private nøkler"
+
+#~ msgid "Please enter passwords for the upload"
+#~ msgstr "Vennligst oppgi passord for opplastningen"
+
+#~ msgid "Enter new password for the key:"
+#~ msgstr "Oppgi et nytt passord for nøkkelen:"
+
+#~ msgid "Confirm Password:"
+#~ msgstr "Bekreft passord: "
+
+#~ msgid "Private key password for the key you are uploading:"
+#~ msgstr "Passordet til den private nøkkelen du laster opp: "
+
+#~ msgid "Private Key Uploaded"
+#~ msgstr "Privat nøkkel ble lastet opp"
+
+#~ msgid "This key already exists"
+#~ msgstr "Denne nøkkelen finnes allerede"
+
+#~ msgid "Bad PGP Password"
+#~ msgstr "Feil PGP-passord"
+
+#~ msgid "The private key must have your primary email as a user ID"
+#~ msgstr "Den private nøkkelen må ha hovedepostadressen din som en bruker-ID"
+
+#~ msgid "Must use same password as existing key to merge"
+#~ msgstr ""
+#~ "Må bruke samme passord som for den eksisterende nøkkelen for å slå sammen"
+
+#~ msgid "Problem uploading Private Key "
+#~ msgstr "Det oppstod en feil under opplasting av privat nøkkel "
+
+#~ msgid "Logged out of %s"
+#~ msgstr "Logget ut av %s"
+
+#~ msgid "Failed to log out of %s"
+#~ msgstr "Kunne ikke logge ut av %s"
+
+#~ msgid "Guided tour for %s"
+#~ msgstr "Omvisning for %s"
+
+#~ msgid "Sign out %s"
+#~ msgstr "Logg ut fra %s"
+
+#~ msgctxt "app"
+#~ msgid "%s Security"
+#~ msgstr "%s-sikkerhet"
+
+#~ msgid "Get Started"
+#~ msgstr "Kom i gang"
+
+#~ msgid ""
+#~ "In order to start with %s Security, you must set up a password for your "
+#~ "secured files."
+#~ msgstr ""
+#~ "For å starte med %s-sikkerhet, må du sette opp et passord for dine "
+#~ "sikrede filer."
+
+#~ msgid "Start"
+#~ msgstr "Start"
+
+#~ msgid "%s Security Settings"
+#~ msgstr "%s-sikkerhetsinnstillinger"
+
+#~ msgid "Change %s Security Password."
+#~ msgstr "Endre sikkerhetspassordet."
+
+#~ msgid "Enter current %s security password"
+#~ msgstr "Oppgi gjeldende sikkerhetspassord"
+
+#~ msgid "Enter new %s security password"
+#~ msgstr "Oppgi nytt sikkerhetspassord"
+
+#~ msgid "Verify new %s security password"
+#~ msgstr "Bekreft nytt sikkerhetspassord"
+
+#~ msgid "Change %s security password"
+#~ msgstr "Endre sikkerhetspassord"
+
+#~ msgid "Reset %s security password"
+#~ msgstr "Nullstill sikkerhetspassord"
+
+#~ msgid "Send a temporary %s security password to my secondary Email address."
+#~ msgstr ""
+#~ "Send et midlertidig %s-sikkerhetspassord til min alternative epostadresse."
+
+#~ msgid "Delete Password Recovery"
+#~ msgstr "Slett passordgjenoppretting"
+
+#~ msgid "Advanced Users Only!"
+#~ msgstr "Kun for avanserte brukere!"
+
+#~ msgid ""
+#~ "Delete the password recovery.  The recovery is used to reset your "
+#~ "password.  If you delete the recovery, you will not be able to reset your "
+#~ "password if you forget it.  Changing your password will restore the "
+#~ "recovery."
+#~ msgstr ""
+#~ "Slett passordgjenopprettingen. Gjenopprettingen blir brukt for å "
+#~ "nullstille passordet ditt, så hvis du sletter gjenopprettingen vil du "
+#~ "ikke kunne gjøre dette. Endring av passordet ditt vil tilbakeføre "
+#~ "gjenopprettingen."
+
+#~ msgid "Please verify your password before deleting the recovery."
+#~ msgstr "Vennligst bekreft passordet ditt for å slette gjenopprettingen."
+
+#~ msgid "Recovery deleted"
+#~ msgstr "Gjenoppretting slettet"
+
+#~ msgid "Current Email address:"
+#~ msgstr "Gjeldende epostadresse:"
+
+#~ msgid "Secondary Email"
+#~ msgstr "Sekundær epostadresse"
+
+#~ msgid "Change Email address used for password reset."
+#~ msgstr ""
+#~ "Endre epostadressen som blir brukt for nullstilling av sikkerhetspassord."
+
+#~ msgid "Verify Email address"
+#~ msgstr "Bekreft epostadressen"
+
+#~ msgid "Change Email address"
+#~ msgstr "Endre epostadresse"
+
+#~ msgid "None - Primary Email will be used"
+#~ msgstr "Ingen - primær epost vil bli brukt"
+
+#~ msgid "Invalid email address"
+#~ msgstr "Ugyldig epostadresse"
+
+#~ msgid "Successfully changed email address"
+#~ msgstr "Epostadressen ble endret"
+
+#~ msgid "A new password has been sent to your email address."
+#~ msgstr "Et nytt passord har blitt sendt til epostadressen din."
+
+#~ msgid "A new password has been sent to your secondary email address."
+#~ msgstr "Et nytt passord har blitt sendt til din sekundære epostadresse"
+
+#~ msgid "No password recovery is available."
+#~ msgstr "Ingen muligheter for nullstilling er tilgjengelig."
+
+#~ msgid "Password reset, but unable to send to your email address."
+#~ msgstr ""
+#~ "Passordet ble nullstilt, men det kunne ikke sendes til epostadressen din"
+
+#~ msgid "Unable to find email address to send password reset."
+#~ msgstr ""
+#~ "Kunne ikke finne en epostadresse å sende nullstillingsbekreftelse til."
+
+#~ msgid "Unable to reset your password"
+#~ msgstr "Kunne ikke nullstille passordet"
+
+#~ msgid "Next"
+#~ msgstr "Neste"
+
+#~ msgid "Simple and Easy"
+#~ msgstr "Enkelt og greit"
+
+#~ msgctxt "Choice"
+#~ msgid "One click encryption for Emails and files"
+#~ msgstr "Kryptering med ett klikk for epost og filer"
+
+#~ msgctxt "Choice"
+#~ msgid "Works in all browsers with all your contacts"
+#~ msgstr "Virker i alle nettlesere med alle kontaktene dine"
+
+#~ msgctxt "Choice"
+#~ msgid "Easy to use, every day"
+#~ msgstr "Enkelt å bruke, hver dag"
+
+#~ msgctxt "Choice"
+#~ msgid "Security details managed by us"
+#~ msgstr "Nybegynner"
+
+#~ msgctxt "Choice"
+#~ msgid ""
+#~ "If you do not have deep knowledge of encryption, but you would like to "
+#~ "easily secure your communication with your friends or business contacts, "
+#~ "this option fits perfectly for you. Safe Email, made simple!"
+#~ msgstr ""
+#~ "Hvis du ikke har en dyp forståelse av kryptering, men ønsker å enkelt "
+#~ "kunne sikre kommunikasjonen med familie og forretningskontakter, er dette "
+#~ "valget for deg. Trygg epost - gjort enkelt!"
+
+#~ msgctxt "Choice"
+#~ msgid "Encryption Expert"
+#~ msgstr "Ekspert"
+
+#~ msgctxt "Choice"
+#~ msgid "Expert encryption options available"
+#~ msgstr "Krypteringsalternativer for eksperter er tilgjengelig"
+
+#~ msgctxt "Choice"
+#~ msgid "Works only in Firefox and Chrome"
+#~ msgstr "Virker bare i Firefox og Chrome"
+
+#~ msgctxt "Choice"
+#~ msgid "Browser plugin required"
+#~ msgstr "Nettleserplugin påkrevd"
+
+#~ msgctxt "Choice"
+#~ msgid "Security details managed by yourself"
+#~ msgstr "Sikkerhetsdetaljer administrert av deg selv"
+
+#~ msgctxt "Choice"
+#~ msgid ""
+#~ "If you are an encryption expert, and would like to manage all encryption "
+#~ "details by yourself, this option fits best for you. You need to install a "
+#~ "third-party browser plugin to work with expert encryption."
+#~ msgstr ""
+#~ "Hvis du har god kjennskap til kryptering, og ønsker å behandle alle "
+#~ "krypteringsdetaljer selv, passer dette valget best for deg. Du må "
+#~ "installere en tredjeparts nettleserplugin for å bruke ekspertkryptering."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You already set up your %s account. But you can always change your "
+#~ "encryption password, or request a temporary password if you forget it."
+#~ msgstr ""
+#~ "Du har allerede satt opp din %s-konto. Du kan alltids endre "
+#~ "krypteringspassordet ditt, eller forespørre et midlertidig passord dersom "
+#~ "du glemmer det."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You already set up your %s account.  You can change your encryption "
+#~ "password here."
+#~ msgstr ""
+#~ "Du har allerede satt opp din %s-konto. Du kan endre krypteringspassordet "
+#~ "ditt her."
+
+#~ msgctxt "tour"
+#~ msgid "The %s module"
+#~ msgstr "%s-modulen"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Security and privacy matters to everyone. That's why you can now send and "
+#~ "receive encrypted emails by simply clicking on the lock icon."
+#~ msgstr ""
+#~ "Sikkerhet og personvern er viktig for alle. Derfor kan du nå sende og "
+#~ "motta krypterte eposter bare ved å klikke på hengelås-ikonet."
+
+#~ msgctxt "tour"
+#~ msgid "%s Security Settings"
+#~ msgstr "%s-sikkerhetsinnstillinger"
+
+#~ msgctxt "tour"
+#~ msgid "PGP Encryption Settings"
+#~ msgstr "PGP-krypteringsinnstillinger"
+
+#~ msgctxt "tour"
+#~ msgid "Security Settings"
+#~ msgstr "Sikkerhetsinnstillinger"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "From here you can update your encryption settings. For example you can "
+#~ "choose to send encrypted emails by default."
+#~ msgstr ""
+#~ "Her kan du oppdatere krypteringsinnstillingene dine. Du kan for eksempel "
+#~ "velge å automatisk kryptere alle utgående eposter."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "From here, you can update your security settings.  For example, you can "
+#~ "choose to send secure emails by default."
+#~ msgstr ""
+#~ "Her kan du oppdatere sikkerhetsinnstillingene dine. For eksempel kan du "
+#~ "velge å kryptere eposter som standard."
+
+#~ msgctxt "tour"
+#~ msgid "Signature"
+#~ msgstr "Signatur"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "In addition to encrypting your emails you can also sign them. This means "
+#~ "that email recipients can be sure that the email really came from you. By "
+#~ "ticking this checkbox your signature will be added to outgoing emails by "
+#~ "default."
+#~ msgstr ""
+#~ "I tillegg til å kryptere epostene, kan du også signere dem. Dette betyr "
+#~ "at epostmottakeren kan være sikker på at eposten virkelig kom fra <i>deg</"
+#~ "i>. Ved å krysse av i denne boksen vil det automatisk bli lagt til en "
+#~ "elektronisk signatur på eposter du sender."
+
+#~ msgctxt "tour"
+#~ msgid "Alternative: PGP Inline"
+#~ msgstr "Alternativ: \"inline PGP\""
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "By default %s sends encrypted emails using PGP/Mime format. To "
+#~ "communicate with some systems you may need to use PGP Inline."
+#~ msgstr ""
+#~ "Som standard sender %s eposter i PGP/Mime-formatet. For å kommunisere med "
+#~ "enkelte systemer må du kanskje bruke Inline PGP."
+
+#~ msgctxt "tour"
+#~ msgid "Advanced Settings"
+#~ msgstr "Avanserte innstillinger"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Advanced users can manage their key lists from the PGP Encryption "
+#~ "Settings."
+#~ msgstr ""
+#~ "Avanserte brukere kan administrere nøklene sine i PGP-innstillingene."
+
+#~ msgctxt "tour"
+#~ msgid "Advanced User Settings"
+#~ msgstr "Avanserte brukerinnstillinger"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Enabling Advanced PGP Features will enable key management and specifying "
+#~ "sending formats."
+#~ msgstr ""
+#~ "Aktivering av avanserte PGP-innstillinger vil tilgjengeliggjøre "
+#~ "nøkkeladministrering og valg av sendingsformat."
+
+#~ msgctxt "tour"
+#~ msgid "Enabling and disabling encryption"
+#~ msgstr "Aktivere og deaktivere kryptering"
+
+#~ msgctxt "tour"
+#~ msgid "You are now able to send secure emails."
+#~ msgstr "Du er nå klar til å sende sikre eposter."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Sending without encryption is easy, too: Simply click on the lock icon "
+#~ "again."
+#~ msgstr ""
+#~ "Å sende uten kryptering er også enkelt. Bare klikk på hengelåsen en gang "
+#~ "til."
+
+#~ msgctxt "tour"
+#~ msgid "Encrypt files"
+#~ msgstr "Krypter filer"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You can also protect your files. Just click on Encrypt and the selected "
+#~ "file will be stored securely."
+#~ msgstr ""
+#~ "Du kan også beskytte filene dine. Bare trykk på \"Krypter\", og den "
+#~ "valgte filen vil være sikkert lagret."
+
+#~ msgctxt "tour"
+#~ msgid "Encrypt your sensitive files in Drive"
+#~ msgstr "Krypter de sensitive filene dine i Drive"
+
+#~ msgctxt "tour"
+#~ msgid "Restart Guided Tour"
+#~ msgstr "Start omvisningen på nytt"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "<em>Hint:</em> you can start guided tours, any time you need them, from "
+#~ "the system menu."
+#~ msgstr ""
+#~ "<em>Hint:</em> du kan starte omvisninger når som helst fra systemmenyen."
+
+#~ msgctxt "tour"
+#~ msgid "Guided Tour completed"
+#~ msgstr "Omvisning gjennomført"
+
+#~ msgctxt "tour"
+#~ msgid "You successfully learned how to protect your emails and files."
+#~ msgstr "Du har nå lært hvordan du beskytter filene og epostene dine!"
+
+#~ msgctxt "tour"
+#~ msgid "What you can do now:"
+#~ msgstr "Hva du kan gjøre nå:"
+
+#~ msgctxt "tour"
+#~ msgid "Write an encrypted email"
+#~ msgstr "Skriv en kryptert epost"
+
+#~ msgctxt "tour"
+#~ msgid "Activate encryption for all new emails"
+#~ msgstr "Aktiver kryptering for alle nye eposter"
+
+#~ msgctxt "tour"
+#~ msgid "Review your encryption settings"
+#~ msgstr "Gjennomgå krypteringsinnstillingene dine"
+
+#~ msgctxt "tour"
+#~ msgid "Learn more"
+#~ msgstr "Lær mer"
+
+#~ msgid "Start Setup"
+#~ msgstr "Start oppsett"
+
+#~ msgctxt "tour"
+#~ msgid "Setup %s"
+#~ msgstr "Sett opp %s"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Welcome to %1$s. You will now be taken on a tour, showing you how to use "
+#~ "%1$s."
+#~ msgstr ""
+#~ "Velkommen! Du vil nå få en omvisning som viser deg hvordan du bruker %1$s."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Firstly however, you’ll need to setup %1$s by choosing a password which "
+#~ "will be used to encrypt or decrypt items such as email or files."
+#~ msgstr ""
+#~ "Først må du imidlertid sette opp %1$s ved å velge et passord som blir "
+#~ "brukt for å kryptere og dekryptere eposter og filer."
+
+#~ msgid "Choose %s Password"
+#~ msgstr "Velg %s-passord"
+
+#~ msgid "Close"
+#~ msgstr "Lukk"
+
+#~ msgctxt "tour"
+#~ msgid "%s set up completed"
+#~ msgstr "Oppsett fullført"
+
+#~ msgctxt "tour"
+#~ msgid "Congratulations, you have successfully setup %s"
+#~ msgstr "Gratulerer! Du har nå satt opp %s"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Now you can learn more about how to use %s by following the links below:"
+#~ msgstr ""
+#~ "Du kan nå lære mer om hvordan du bruker %s ved å følge lenkene under:"
+
+#~ msgctxt "tour"
+#~ msgid "Learn more about %s"
+#~ msgstr "Lær mer om %s"
+
+#~ msgid "Choose your security solution"
+#~ msgstr "Velg din sikkerhetsløsning"
+
+#~ msgid "Key found for %1$s.  Import?"
+#~ msgstr "Nøkkel funnet for %1$s. Importere?"
+
+#~ msgid "Import"
+#~ msgstr "Importer"
+
+#~ msgid "Imported"
+#~ msgstr "Importert"
+
+#~ msgid "Updated"
+#~ msgstr "Oppdatert"
+
+#~ msgid "Invalidated"
+#~ msgstr "Ugyldiggjort"
+
+#~ msgid "Rejected"
+#~ msgstr "Avvist"
+
+#~ msgid "Warning"
+#~ msgstr "Advarsel"
+
+#~ msgid ""
+#~ "Sending an encrypted email from an account other than %s may cause "
+#~ "problems with the recipient being able to reply.  Consider using your "
+#~ "primary account."
+#~ msgstr ""
+#~ "Ved å sende en kryptert epost fra en annen konto enn %s kan skape "
+#~ "problemer med at mottakeren ikke klarer å svare. Vurder å bruke "
+#~ "hovedkontoen din i stedet. "
+
+#~ msgid "Do not warn me again"
+#~ msgstr "Ikke advar meg igjen"
+
+#~ msgid "PGP Info"
+#~ msgstr "PGP-informasjon"
+
+#~ msgid "Content Type"
+#~ msgstr "Innholdstype"
+
+#~ msgid "PGP Details"
+#~ msgstr "PGP-detaljer"
+
+#~ msgid ""
+#~ "Mailvelope is not supported in this browser.  Please use Chrome or "
+#~ "Firefox with Mailvelop installed."
+#~ msgstr ""
+#~ "Mailvelope er ikke støttet i denne nettleseren. Vennligst bruk Chrome "
+#~ "eller Firefox, med Mailvelope installert."
+
+#~ msgid "Download Decrypted"
+#~ msgstr "Last ned dekryptert"
+
+#~ msgid "Download Encrypted"
+#~ msgstr "Last ned kryptert"
+
+#~ msgid "View"
+#~ msgstr "Vis"
+
+#~ msgid "Decrypt and Open"
+#~ msgstr "Dekrypter og åpne"
+
+#~ msgid "Drop files here to upload"
+#~ msgstr "Dra og slipp filer her for å laste opp"
+
+#~ msgid "Add"
+#~ msgstr "Legg til"
+
+#~ msgid "Add:"
+#~ msgstr "Legg til: "
+
+#~ msgid "Must be in the same global address book"
+#~ msgstr "Må være i samme globale adressebok"
+
+#~ msgid "Unable to add"
+#~ msgstr "Kunne ikke legge til"
+
+#~ msgid "Select"
+#~ msgstr "Velg"
+
+#~ msgid "User"
+#~ msgstr "Bruker"
+
+#~ msgid "Retract"
+#~ msgstr "Tilbakekall"
+
+#~ msgid "Unable to share"
+#~ msgstr "Kan ikke deles"
+
+#~ msgid "Remove from share list"
+#~ msgstr "Fjern fra delingslisten"
+
+#~ msgid "Failed to remove the share"
+#~ msgstr "Det oppstod en feil under fjerning av delingen"
+
+#~ msgid "Password Needed"
+#~ msgstr "Passord påkrevd"
+
+#~ msgid "Please provide your %s security password to share this file"
+#~ msgstr "Vennligst oppgi ditt %s sikkerhetspassord for å dele denne filen"
+
+#~ msgid "No users in same context"
+#~ msgstr "Ingen brukere i samme domene"
+
+#~ msgid "The following link will take you to the shared file"
+#~ msgstr "Den følgende lenken vil ta deg til den delte filen"
+
+#~ msgid "Shared file link"
+#~ msgstr "Lenke til delt fil"
+
+#~ msgid "Attached encrypted file"
+#~ msgstr "Vedlagt kryptert fil"
+
+#~ msgid "Shared file"
+#~ msgstr "Delt fil"
+
+#~ msgid "Add Permissions"
+#~ msgstr "Legg til tillatelser"
+
+#~ msgid ""
+#~ "The following users do not have permission to view objects in this folder."
+#~ msgstr ""
+#~ "Disse brukerne har ikke tilgang til å vise elementene i denne mappen"
+
+#~ msgid "Do you wish to add read permissions to this folder for these users?"
+#~ msgstr ""
+#~ "Ønsker du å legge til lesetillatelser for denne mappen til disse brukerne?"
+
+#~ msgid "Failed to add folder sharing permissions"
+#~ msgstr "Det oppstod en feil under aktivering av delingstillatelser"
+
+#~ msgid "%s %s %s"
+#~ msgstr "%s %s %s"
+
+#~ msgid "The provided filename exceeds the allowed length."
+#~ msgstr "Det oppgitte filnavnet overskrider den tillatte lengden."
+
+#~ msgid "The allowed quota is reached."
+#~ msgstr "Den tillatte kvoten er nådd."
+
+#~ msgid "This file has not been added"
+#~ msgstr "Filen har ikke blitt lagt til"
+
+#~ msgid "Upload a new encrypted version"
+#~ msgstr "Last opp en ny kryptert versjon"
+
+#~ msgid "Upload file"
+#~ msgstr "Last opp fil"
+
+#~ msgid "Version Comment"
+#~ msgstr "Versjonskommentar"
+
+#~ msgid "Upload new encrypted version"
+#~ msgstr "Last opp en ny kryptert versjon"
+
+#~ msgid "Uploading..."
+#~ msgstr "Laster opp ..."
+
+#~ msgid ""
+#~ "You are replying to an email that has not yet been decoded.  The "
+#~ "recipient will not be able to read the contents of the original email."
+#~ msgstr ""
+#~ "Du svarer på en epost som ikke enda har blitt dekryptert. Mottakeren vil "
+#~ "ikke kunne lese innholdet av den opprinnelige eposten."
+
+#~ msgid ""
+#~ "You are forwarding an email that has not yet been decoded.  The recipient "
+#~ "will not be able to read the contents of the original email."
+#~ msgstr ""
+#~ "Du videresender en epost som ikke enda har blitt dekryptert. Mottakeren "
+#~ "vil ikke kunne lese innholdet av den opprinnelige eposten."
+
+#~ msgid "Re: %1$s"
+#~ msgstr "Re: %1$s"
+
+#~ msgid "Fwd: %1$s"
+#~ msgstr "Fwd: %1$s"
+
+#~ msgid "Original Message"
+#~ msgstr "Opprinnelig melding"
+
+#~ msgid "From: %1$s"
+#~ msgstr "Fra: %1$s"
+
+#~ msgid "To: %1$s"
+#~ msgstr "Til: %1$s"
+
+#~ msgid "CC: %1$s"
+#~ msgstr "CC: %1$s"
+
+#~ msgid "Date: %1$s"
+#~ msgstr "Dato: %1$s"
+
+#~ msgid "Subject: %1$s"
+#~ msgstr "Emne: %1$s"
+
+#~ msgid "On %1$s at %2$s %3$s wrote:"
+#~ msgstr "Den %1$s klokken %2$s skrev %3$s:"
+
+#~ msgid "Attach My Key"
+#~ msgstr "Legg ved nøkkelen min"
+
+#~ msgid "Do you really want to discard your message?"
+#~ msgstr "Ønsker du å forkaste meldingen din?"
+
+#~ msgctxt "dialog"
+#~ msgid "Discard message"
+#~ msgstr "Forkast melding"
+
+#~ msgid "Save as draft"
+#~ msgstr "Lagre som kladd"
+
+#~ msgid "Mail has empty subject. Send it anyway?"
+#~ msgstr "Eposten har ikke noe emne. Sende likevel?"
+
+#~ msgid "Yes, send without subject"
+#~ msgstr "Ja, send uten emne"
+
+#~ msgid "Add subject"
+#~ msgstr "Legg til et emne"
+
+#~ msgid "Unable to authorize against backend"
+#~ msgstr "Kunne ikke autentisere mot backend"
+
+#~ msgid "Save"
+#~ msgstr "Lagre"
+
+#~ msgid "Saving attachment to Drive"
+#~ msgid_plural "Saving attachments to Drive"
+#~ msgstr[0] "Lagrer vedlegg til Drive"
+#~ msgstr[1] "Lagrer vedleggene til Drive"
+
+#~ msgid "Attachment has been saved"
+#~ msgid_plural "Attachments have been saved"
+#~ msgstr[0] "Vedlegget ble lagret"
+#~ msgstr[1] "Vedleggene ble lagret"
+
+#~ msgid "Failed to decrypt"
+#~ msgstr "Det oppstod en feil under dekryptering"
+
+#~ msgid "Failed to save attachments"
+#~ msgstr "Det oppstod en feil under lagring av vedleggene"
+
+#~ msgid "Unsupported browser"
+#~ msgstr "Nettleser ikke støttet"
+
+#~ msgid "Mail has no recipients"
+#~ msgstr "Eposten har ingen mottakere"
+
+#~ msgid "Mail saved as draft"
+#~ msgstr "Epost lagret som kladd"
+
+#~ msgid "Unable to get keys for all users"
+#~ msgstr "Kunne ikke hente nøkler for alle brukere"
+
+#~ msgid ""
+#~ "The from address you selected for this email is not associated with an "
+#~ "encryption key.  Please send from your primary account, or optionally, "
+#~ "add the email address to your key using the advanced settings."
+#~ msgstr ""
+#~ "Fra-adressen du valgte for denne eposten er ikke tilknyttet en "
+#~ "krypteringsnøkkel. Vennligst send fra primæradressen, eller alternativt, "
+#~ "legg til epostadressen i nøkkelen din ved å bruke avanserte innstillinger."
+
+#~ msgid "An error occurred saving the email."
+#~ msgstr "En feil oppstod under lagring av eposten."
+
+#~ msgid "An error occurred sending the encrypted email."
+#~ msgstr "En feil oppstod under sending av den krypterte eposten."
+
+#~ msgid ""
+#~ "At least one of your attachments are encrypted.  Please provide your %s "
+#~ "security password to decrypt before sending"
+#~ msgstr ""
+#~ "Minst ett av vedleggene dine er kryptert. Vennligst oppgi ditt %s "
+#~ "sikkerhetspassord for å dekryptere før sending"
+
+#~ msgid "To"
+#~ msgstr "Til"
+
+#~ msgctxt "CC"
+#~ msgid "Copy"
+#~ msgstr "Kopi"
+
+#~ msgid "Decoding"
+#~ msgstr "Dekrypterer"
+
+#~ msgid ""
+#~ "Your pop-up blocker may have prevented a %s window that provides "
+#~ "application functionality."
+#~ msgstr ""
+#~ "Nettleseren din kan ha blokkert et popup-vindu som leverer sentral "
+#~ "funksjonalitet. "
+
+#~ msgid "VCard imported with warnings"
+#~ msgstr "VCard importert, med advarsler"
+
+#~ msgid "Failed to import vcard"
+#~ msgstr "Feil under importering av VCard"
+
+#~ msgid "VCard imported"
+#~ msgstr "VCard importert"
+
+#~ msgid "Save Encrypted to Drive"
+#~ msgstr "Lagre kryptert til Drive"
+
+#~ msgid "Save Decoded to Drive"
+#~ msgstr "Lagre dekryptert til Drive"
+
+#~ msgid "Open in browser"
+#~ msgstr "Åpne i nettleseren"
+
+#~ msgid "Import as PGP Public Key"
+#~ msgstr "Importer som offentlig PGP-nøkkel"
+
+#~ msgid "Add to address book"
+#~ msgstr "Legg til i adressebok"
+
+#~ msgid "no files"
+#~ msgstr "ingen filer"
+
+#~ msgid "Save attachment"
+#~ msgstr "Lagre vedlegg"
+
+#~ msgid "Unable to save decrypted file"
+#~ msgstr "Kunne ikke lagre dekryptert fil"
+
+#~ msgid "Unable to decrypt"
+#~ msgstr "Kunne ikke dekryptere"
+
+#~ msgid "Send copy by mail"
+#~ msgstr "Send kopi på epost"
+
+#~ msgid "Enter %s Security Password"
+#~ msgstr "Oppgi sikkerhetspassord"
+
+#~ msgid "Encrypt Files"
+#~ msgstr "Krypter filer"
+
+#~ msgid "Only the latest version of the files will be encrypted."
+#~ msgstr "Bare den siste versjonen av filene vil bli kryptert."
+
+#~ msgid "All previous versions will be deleted."
+#~ msgstr "Alle tidligere versjoner vil bli slettet."
+
+#~ msgid "This file could not be uploaded."
+#~ msgstr "Filen kunne ikke lastes opp."
+
+#~ msgid "Upload"
+#~ msgstr "Last opp"
+
+#~ msgid "Please provide your %s Security Password to share this file"
+#~ msgstr "Vennligst oppgi ditt %s sikkerhetspassord for å dele denne filen"
+
+#~ msgid "Bad private key"
+#~ msgstr "Feil privat nøkkel"
+
+#~ msgid "On %1$s %2$s sent:"
+#~ msgstr "Den %1$s sendte %2$s:"
+
+#~ msgid ""
+#~ "At least one of your attachments are encrypted.  Please provide your %s "
+#~ "Security Password to decrypt before sending"
+#~ msgstr ""
+#~ "Minst ett av vedleggene er krypterte. Vennligst oppgi %s-"
+#~ "sikkerhetspassordet ditt for å dekryptere eposten før sending"
+
+#~ msgid ""
+#~ "Upload your Mailvelope public keys to the %s server so that other people "
+#~ "can send you encrypted emails"
+#~ msgstr ""
+#~ "Last opp dine private nøkler fra Mailvelope til %s-serveren slik at andre "
+#~ "personer kan sende deg krypterte eposter"
+
+#~ msgid "Extra Password"
+#~ msgstr "Tilleggspassord"
+
+#~ msgid ""
+#~ "This allows you to set an extra password that will be required for "
+#~ "reading this item."
+#~ msgstr ""
+#~ "Dette gjør deg i stand til å sette et ekstra sikkerhetspassord som vil "
+#~ "være påkrevd får å åpne dette elementet."
+
+#~ msgid "Please enter it below"
+#~ msgstr "Vennligst skriv det inn under"
+
+#~ msgid "Please enter your %s Security password"
+#~ msgstr "Vennligst oppgi sikkerhetspassordet ditt"
+
+#~ msgid "Failed to add extra password"
+#~ msgstr "Det oppstod en feil under aktivering av tilleggspassord"
+
+#~ msgid "Remember Password"
+#~ msgstr "Husk passord"
+
+#~ msgid ""
+#~ "HTML formatted emails may cause issues with PGP inline.  Click OK to "
+#~ "change to Plain Text formatted Emails"
+#~ msgstr ""
+#~ "HTML-formaterte eposter kan forårsake problemer med \"Inline PGP\". Klikk "
+#~ "OK for å bytte til ren tekst-formatering."
+
+#~ msgid "Secure Email, enter your %s security password"
+#~ msgstr "Sikker epost, vennligst oppgi sikkerhetspassordet ditt"
+
+#~ msgid "This email was sent with an extra password."
+#~ msgstr "Eposten ble sendt med et tilleggspassord"
+
+#~ msgid "Please enter below"
+#~ msgstr "Vennligst skriv under"
+
+#~ msgid ""
+#~ "The new recipients listed below will be sent a password via email.  You "
+#~ "can also require a seperate pin, which is displayed below"
+#~ msgstr ""
+#~ "De nye mottakerne oppgitt under vil få tilsendt et passord via epost. Du "
+#~ "kan også kreve et tilleggspassord, som er oppgitt under"
+
+#~ msgid ""
+#~ "You may deliver this pin any way you see fit, but we recommend doing it "
+#~ "in a second method other than email (Phone, SMS, Skype, etc)"
+#~ msgstr ""
+#~ "Du kan overlevere denne koden på måten du selv ønsker, men vi anbefaler "
+#~ "at du ikke gjør det via epost. Bruk i stedet f.eks. telefon, SMS, Skype, "
+#~ "eller lignende."
+
+#~ msgid "If you want this extra pin requirement, click OK"
+#~ msgstr ""
+#~ "Hvis du ønsker å kreve tilleggspassord for at mottakeren skal få åpnet "
+#~ "eposten, klikk OK. "
+
+#~ msgid "Please enter your %s password to sign this email"
+#~ msgstr "Vennligst oppgi %s-passordet ditt for å signere denne eposten"
+
+#~ msgid "An error occurred during sending the encrypted email."
+#~ msgstr "En feil oppstod under sending av den krypterte eposten."
+
+#~ msgid "Please enter your %s password for signing"
+#~ msgstr "Vennligst oppgi %s-passordet ditt for signering"
+
+#~ msgid "Problems creating keys, please try again later"
+#~ msgstr "Kunne ikke opprette nøkler, vennligst forsøk igjen senere"
+
+#~ msgid ""
+#~ "Problems creating keys.  Keys already exist for this email address in "
+#~ "another account"
+#~ msgstr ""
+#~ "Nøklene kunne ikke genereres. Nøkler finnes allerede for denne "
+#~ "epostadressen under en annen konto."
+
+#~ msgid "This appears to be the first time you have used Encryption"
+#~ msgstr "Dette ser ut til å være første gangen du bruker kryptering"
+
+#~ msgid "Please enter a password to protect your new encrypted items"
+#~ msgstr "Vennligst oppgi et passord for å beskytte dine krypterte elementer"
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password"
+#~ msgstr ""
+#~ "Vennligst oppgi en sekundær epostadresse i tilfelle du må nullstille "
+#~ "passordet ditt"
+
+#~ msgid ""
+#~ "Please change the temporary %s security password that was sent to you in "
+#~ "a seperate email."
+#~ msgstr ""
+#~ "Vennligst endre det midlertidige sikkerhetspassordet som ble sendt deg i "
+#~ "en separat epost."
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password</p>"
+#~ msgstr ""
+#~ "Vennligst oppgi en sekundær epostadresse i tilfelle du må nullstille "
+#~ "passordet ditt</p>"
+
+#~ msgid "This Email was signed and verified"
+#~ msgstr "Denne eposten ble signert og bekreftet"
+
+#~ msgid "This Email was signed but unable to verify"
+#~ msgstr "Eposten ble signert men kunne ikke bekreftes"
+
+#~ msgid "This Email was signed and failed verification"
+#~ msgstr "Denne eposten ble signert, men verifisering feilet"
+
+#~ msgid ""
+#~ "Please change the initial temporary %s security password that was sent to "
+#~ "you in a seperate email."
+#~ msgstr ""
+#~ "Vennligst endre det midlertidige sikkerhetspassordet ditt som ble sendt "
+#~ "deg i en separat epost."
+
+#~ msgid "This Email was signed by the sender and verified"
+#~ msgstr "Denne eposten ble signert av avsenderen og verifisert"
+
+#~ msgid "%s PGP Settings"
+#~ msgstr "%s PGP-innstillinger"
+
+#~ msgid "If you already have a private key, you can upload it here"
+#~ msgstr "Hvis du allerede har en privat nøkkel kan du laste den opp her"
+
+#~ msgid "Finally, you can have a new PGP Key Pair created for your account"
+#~ msgstr "Til slutt kan du opprette et nytt PGP-nøkkelpar for kontoen din."
+
+#~ msgid "Add a name and email address to this public key"
+#~ msgstr "Legg til et navn og epostadresse til denne offentlige nøkkelen"
+
+#~ msgid "PGP default to using PGP inline for compatibility"
+#~ msgstr "Bruk \"Inline PGP\" som standard"
+
+#~ msgid "Please verify your password before deleting the recovery"
+#~ msgstr "Vennligst bekreft passordet ditt for å slette gjenopprettingen"
+
+#~ msgid "Changed"
+#~ msgstr "Endret"
+
+#~ msgid "A new password has been sent to your email address"
+#~ msgstr "Et nytt passord har blitt sendt til epostadressen din"
+
+#~ msgid "A new password has been sent to your secondary email address"
+#~ msgstr "Et nytt passord har blitt sendt til din sekundære epostadresse"
+
+#~ msgid "No password recovery is available"
+#~ msgstr "Ingen muligheter for nullstilling er tilgjengelig"
+
+#~ msgid "Password reset, but unable to send to your email address"
+#~ msgstr ""
+#~ "Passordet ble nullstilt, men det kunne ikke sendes til epostadressen din"
+
+#~ msgid "Unable to find email address to send password reset"
+#~ msgstr ""
+#~ "Kunne ikke finne en epostadresse å sende nullstillingsbekreftelse til"
+
+#~ msgctxt "tour"
+#~ msgid "Sending without encryption"
+#~ msgstr "Sende uten kryptering"
+
+#~ msgctxt "tour"
+#~ msgid "Create Your %s Account"
+#~ msgstr "Opprett din %s-konto"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You now need to choose a password which will be used to encrypt or "
+#~ "decrypt items. You only need to set this up once. Your password will then "
+#~ "remain valid until you change it."
+#~ msgstr ""
+#~ "Du må nå opprette et passord som blir brukt for å kryptere og dekryptere "
+#~ "elementer. Du trenger bare å gjøre dette én gang. Passordet vil forbli "
+#~ "gyldig inntil du evt. endrer det."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You successfully set up secure communication. Your private key has been "
+#~ "created."
+#~ msgstr ""
+#~ "Du har nå satt opp sikker kommunikasjon, og din private nøkkel har blitt "
+#~ "opprettet."
+
+#~ msgid ""
+#~ "At least one of your attachments are encrypted.  Please provide your "
+#~ "Guard Security Password to decrypt before sending"
+#~ msgstr ""
+#~ "Minst ett av vedleggene er kryptert. Vennligst oppgi Guard-"
+#~ "sikkerhetspassordet ditt for å dekryptere vedlegget."
+
+#~ msgid "Automated Email Language"
+#~ msgstr "Automatisk epostspråk"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "By default Guard sends encrypted emails using PGP/Mime format. To "
+#~ "communicate with some systems you may need to use PGP Inline."
+#~ msgstr ""
+#~ "Som standard sender Guard krypterte eposter i PGP/MIME-format. For å "
+#~ "kommunisere med enkelte systemer må du kanskje benytte \"inline PGP\"."
+
+#~ msgid "Change Guard Security Password."
+#~ msgstr "Endre Guard-sikkerhetspassord."
+
+#~ msgid "Change Guard security password"
+#~ msgstr "Endre Guard-sikkerhetspassord"
+
+#~ msgid "Click to disable encryption"
+#~ msgstr "Klikk for å deaktivere kryptering"
+
+#~ msgid "Click to enable encryption"
+#~ msgstr "Klikk her for å aktivere kryptering"
+
+#~| msgid "Change Guard Security Password."
+#~ msgid "Create Guard Security Keys"
+#~ msgstr "Opprett Guard-sikkerhetsnøkler"
+
+#~| msgid "Create Guard Account"
+#~ msgctxt "tour"
+#~ msgid "Create Your Guard Account"
+#~ msgstr "Opprett Guard-konto"
+
+#~ msgid "Email has been opened."
+#~ msgstr "Eposten har blitt åpnet."
+
+#~ msgid "Email has been retracted."
+#~ msgstr "Eposten har blitt tilbakekalt."
+
+#~ msgid "Email has not been opened."
+#~ msgstr "Eposten har ikke blitt åpnet."
+
+#~ msgid "Email status"
+#~ msgstr "Epoststatus"
+
+#~ msgid "Enter Guard Security Password"
+#~ msgstr "Oppgi Guard-sikkerhetspassord"
+
+#~ msgid "Enter current Guard security password"
+#~ msgstr "Oppgi gjeldende Guard-sikkerhetspassord"
+
+#~ msgid "Enter new Guard security password"
+#~ msgstr "Oppgi et nytt Guard-sikkerhetspassord"
+
+#~ msgid "Error.  Please reload message"
+#~ msgstr "Det oppstod en feil.  Vennligst last inn meldingen på nytt."
+
+#~ msgid "Expires: "
+#~ msgstr "Utløper:"
+
+#~ msgid "Failed to retract"
+#~ msgstr "Det oppstod en feil under tilbakekallingen"
+
+#~ msgid "First Guard Security Password Use"
+#~ msgstr "Førstegangs bruk av sikkerhetspassord"
+
+#~ msgid "Guard PGP Settings"
+#~ msgstr "PGP-innstillinger"
+
+#~| msgid "Guard Security Settings"
+#~ msgctxt "app"
+#~ msgid "Guard Security"
+#~ msgstr "Guard-sikkerhet"
+
+#~ msgid "Guard Security Settings"
+#~ msgstr "Guard-sikkerhetsinnstillinger"
+
+#~| msgid "Guard Security Settings"
+#~ msgctxt "tour"
+#~ msgid "Guard Security Settings"
+#~ msgstr "Guard-sikkerhetsinnstillinger"
+
+#~ msgctxt "tour"
+#~ msgid "Guard set up completed"
+#~ msgstr "Oppsett av Guard fullført"
+
+#~| msgid "Failed to import vcard"
+#~ msgid "Guided tour for Guard"
+#~ msgstr "Omvisning av Guard"
+
+#~ msgid "Have encryption key"
+#~ msgstr "Har krypteringsnøkkel"
+
+#~ msgid ""
+#~ "If you would like to upload a public key only, then do so here.  This "
+#~ "will allow you to encrypt files and receive encrypted emails using Guard, "
+#~ "but you will need to use the private key with another program to decode "
+#~ "the items."
+#~ msgstr ""
+#~ "Hvis du bare ønsker å laste opp en offentlig nøkkel, kan du gjøre dette "
+#~ "her. Dette vil la deg kryptere filer og motta krypterte eposter ved hjelp "
+#~ "av Guard, men du vil måtte bruke den private nøkkelen med et annet "
+#~ "program for å dekryptere elementene."
+
+#~ msgid ""
+#~ "In order to start with Guard Security, you must set up a password for "
+#~ "your secured files."
+#~ msgstr ""
+#~ "For å ta i bruk Guard må du sette opp et sikkerhetspassord for dine "
+#~ "krypterte filer."
+
+#~ msgid "Item was retracted"
+#~ msgstr "Eposten ble tilbakekalt"
+
+#~ msgid "Keep me logged into Guard"
+#~ msgstr "Husk sikkerhetspassordet for denne sesjonen"
+
+#~ msgctxt "tour"
+#~ msgid "Learn more …"
+#~ msgstr "Lær mer …"
+
+#~ msgid "Not all items retracted"
+#~ msgstr "Ikke alle elementer ble tilbakekalt"
+
+#~ msgid ""
+#~ "Please change the initial temporary Guard security password that was sent "
+#~ "to you in a seperate email."
+#~ msgstr ""
+#~ "Vennligst endre det midlertidige sikkerhetspassordet som ble sendt deg "
+#~ "per epost til et selvvalgt passord."
+
+#~| msgid ""
+#~| "Please change the initial temporary Guard security password that was "
+#~| "sent to you in a seperate email."
+#~ msgid ""
+#~ "Please change the temporary Guard security password that was sent to you "
+#~ "in a seperate email."
+#~ msgstr ""
+#~ "Vennligst endre det midlertidige sikkerhetspassordet som ble sendt deg "
+#~ "per epost til et selvvalgt passord."
+
+#~ msgid "Please enter your Guard Security password"
+#~ msgstr "Vennligst oppgi Guard-sikkerhetspassordet ditt"
+
+#~| msgid "Please enter your Guard Security password"
+#~ msgid "Please enter your Guard password"
+#~ msgstr "Vennligst oppgi Guard-sikkerhetspassordet ditt"
+
+#~ msgid "Please enter your Guard password for signing"
+#~ msgstr ""
+#~ "Vennligst oppgi Guard-sikkerhetspassordet ditt for å signere eposten"
+
+#~ msgid "Please enter your Guard password to sign this email"
+#~ msgstr ""
+#~ "Vennligst oppgi Guard-sikkerhetspassordet ditt for å signere eposten"
+
+#~ msgid "Please provide your Guard Security Password to share this file"
+#~ msgstr "Vennligst oppgi sikkerhetspassordet ditt for å dele denne filen"
+
+#~| msgid "Remove Encryption"
+#~ msgctxt "tour"
+#~ msgid "Remove encryption"
+#~ msgstr "Fjern kryptering"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Removing the encryption is easy, too: Simply click on the lock icon again."
+#~ msgstr ""
+#~ "Fjerning av kryptering er også enkelt: klikk bare på hengelåsen en gang "
+#~ "til."
+
+#~ msgid "Reset Guard security password"
+#~ msgstr "Nullstill Guard-sikkerhetspassord"
+
+#~ msgid "Retract Email"
+#~ msgstr "Tilbakekall epost"
+
+#~ msgid "Retract all access"
+#~ msgstr "Tilbakekall all tilgang"
+
+#~ msgid "Save Decrypted"
+#~ msgstr "Lagre kryptert"
+
+#~ msgid "Save Encrypted"
+#~ msgstr "Lagre kryptert"
+
+#~ msgid "Secure Email, enter your Guard security password"
+#~ msgstr "Kryptert epost - oppgi sikkerhetspassordet ditt"
+
+#~ msgid ""
+#~ "Send a temporary Guard security password to my secondary Email address."
+#~ msgstr ""
+#~ "Send et midlertidig Guard-sikkerhetspassord til min sekundære "
+#~ "epostadresse."
+
+#~ msgid "Sign out Guard"
+#~ msgstr "Logg ut fra Guard"
+
+#~ msgctxt "tour"
+#~ msgid "The Guard module"
+#~ msgstr "Guard-modulen"
+
+#~ msgid "The sender added an extra password encryption."
+#~ msgstr ""
+#~ "Avsenderen har aktivert et tilleggspassord. Kontakt avsenderen for å få "
+#~ "vite passordet."
+
+#~ msgid ""
+#~ "This Email has been retracted by the sender and can no longer be "
+#~ "accessed.  Contact the sender for more information."
+#~ msgstr ""
+#~ "Denne eposten har blitt trukket tilbake av avsenderen og kan ikke lenger "
+#~ "åpnes. Kontakt avsenderen for mer informasjon."
+
+#~ msgid ""
+#~ "This Email was sent encrypted. It has been decrypted with your private key"
+#~ msgstr ""
+#~ "Denne eposten ble sendt kryptert, og har blitt dekryptert med den private "
+#~ "nøkkelen din."
+
+#~ msgid ""
+#~ "This email has expired and can no longer be accessed.  Contact the sender "
+#~ "for more information."
+#~ msgstr ""
+#~ "Denne eposten har utløpt og kan ikke lenger åpnes. Kontakt avsenderen for "
+#~ "mer informasjon."
+
+#~ msgid "This will retract the email for all recipients. Click OK to confirm."
+#~ msgstr ""
+#~ "Dette vil tilbakekalle eposten for alle mottakere. Klikk OK for å "
+#~ "bekrefte."
+
+#~ msgid "Unable to decrypt Email."
+#~ msgstr "Kunne ikke dekryptere eposten."
+
+#~ msgid "Unable to get email status, please try again later"
+#~ msgstr "Kunne ikke hente epoststatus, vennligst forsøk igjen senere"
+
+#~ msgid "Verify new Guard security password"
+#~ msgstr "Bekreft nytt Guard-sikkerhetspassord"
+
+#~ msgid "Will create new guest account for Guard"
+#~ msgstr "Oppretter en ny gjestekonto for Guard"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You already set up your Guard account. But you can always change your "
+#~ "encryption password, or request a temporary password if you forget it."
+#~ msgstr ""
+#~ "Du har allerede satt opp Guard-kontoen din. Du kan alltids endre "
+#~ "sikkerhetspassordet ditt, eller forespørre et midlertidig passord, hvis "
+#~ "du har glemt det."
+
+#~ msgid "You have exceeded bad password attempts.  Please wait %s minutes"
+#~ msgstr ""
+#~ "Du har tastet feil passord for mange ganger. Vennligst vent %s minutter."
+
+#~ msgid ""
+#~ "Your pop-up blocker may have prevented a Guard window that provides "
+#~ "application functionality."
+#~ msgstr ""
+#~ "Nettleseren din kan ha blokkert et popup-vindu som er nødvendig for denne "
+#~ "applikasjonen."
+
+#~ msgid "%s already encrypted"
+#~ msgstr "%s er allerede kryptert"
+
+#~ msgid "Add folder"
+#~ msgstr "Legg til mappe"
+
+#~ msgid "Already Protected With Additional Password"
+#~ msgstr "Allerede beskyttet med tilleggspassord"
+
+#~ msgid "CC:"
+#~ msgstr "CC: "
+
+#~ msgid "Click to disable PGP encryption"
+#~ msgstr "Klikk for å deaktivere PGP-kryptering"
+
+#~ msgid "Confirm Guard Password"
+#~ msgstr "Bekreft Guard-sikkerhetspassord"
+
+#~ msgid "Defaults"
+#~ msgstr "Standarder"
+
+#~ msgid "Done"
+#~ msgstr "Ferdig"
+
+#~ msgid "Drop here to upload a <b class=\"dndignore\">new encrypted file</b>"
+#~ msgstr ""
+#~ "Dra og slipp en fil her for å laste opp en <b class=\"dndignore\">ny "
+#~ "kryptert fil</b>"
+
+#~ msgid "Encrypting "
+#~ msgstr "Krypterer "
+
+#~ msgid "Encrypting %s"
+#~ msgstr "Krypterer %s"
+
+#~ msgid "FW: %1$s"
+#~ msgstr "FW: %1$s"
+
+#~ msgid "Failed to encrypt file"
+#~ msgstr "Det oppstod en feil under kryptering av filen"
+
+#~ msgid "Folder name"
+#~ msgstr "Mappenavn"
+
+#~ msgid "Initializing Guard, please wait"
+#~ msgstr "Laster inn Guard - vennligst vent ..."
+
+#~ msgid "Make Guard default to PGP compliant"
+#~ msgstr "Bruk PGP som standard i Guard"
+
+#~ msgid "Message was saved"
+#~ msgstr "Meldingen ble lagret"
+
+#~ msgid "New Encrypted folder"
+#~ msgstr "Ny kryptert mappe"
+
+#~ msgid "New Encrypted subfolder"
+#~ msgstr "Ny kryptert undermappe"
+
+#~ msgid "New encrypted subfolder"
+#~ msgstr "Ny kryptert undermappe"
+
+#~ msgid "New folder"
+#~ msgstr "Ny mappe"
+
+#~ msgid "New public folder"
+#~ msgstr "Ny fellesmappe"
+
+#~ msgid "Not able to contact guard server"
+#~ msgstr "Kunne ikke kontakte Guard-tjeneren"
+
+#~ msgid ""
+#~ "One of your recipients requires emails to be sent as PGP Inline.  "
+#~ "Changing now."
+#~ msgstr "En av mottakerne krever at \"Inline PGP\" blir brukt. Endrer ..."
+
+#~ msgid "PGP Compliant Guard"
+#~ msgstr "PGP-kompatibel Guard"
+
+#~ msgid "PGP key exists for this person"
+#~ msgstr "PGP-nøkkel eksisterer for denne personen"
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password.  A new password would be sent to this email."
+#~ msgstr ""
+#~ "Vennligst oppgi en sekundær epostadresse som kan brukes i tilfelle du må "
+#~ "nullstille sikkerhetspassordet ditt. Et nytt passord vil bli sendt til "
+#~ "denne epostadressen hvis du har behov for det."
+
+#~ msgid "Problem creating keys"
+#~ msgstr "Det oppstod en feil under generering av nøklene"
+
+#~ msgid "Require Additional Password"
+#~ msgstr "Krev tilleggspassord"
+
+#~ msgid "Security Options"
+#~ msgstr "Sikkerhetsinnstillinger"
+
+#~ msgid "Send encrypted (PGP)"
+#~ msgstr "Send kryptert (PGP)"
+
+#~ msgid "Share keys with other users to decrypt this file"
+#~ msgstr "Del nøkkelen med andre brukere for å dekryptere denne filen"
+
+#~ msgid "Share link"
+#~ msgstr "Del lenke"
+
+#~ msgid "Shared"
+#~ msgstr "Delt"
+
+#~ msgid "Sharing"
+#~ msgstr "Deling"
+
+#~ msgid "Sign email"
+#~ msgstr "Signer epost"
+
+#~ msgid "Status"
+#~ msgstr "Status"
+
+#~ msgid "Stop"
+#~ msgstr "Stopp"
+
+#~ msgid "The key for %1$s is expired and should not be used"
+#~ msgstr "Nøkkelen for %1$s har utløpt og bør ikke brukes"
+
+#~ msgid "Unable to create Guard account, please try again later"
+#~ msgstr ""
+#~ "Kunne ikke laste inn Guard-brukerkonto, vennligst forsøk igjen senere"
+
+#~ msgid "Use PGP inline (compatibility)"
+#~ msgstr "Bruk \"Inline PGP\" (kompabilitet)"
+
+#~ msgid "Your private key"
+#~ msgstr "Din private nøkkel"
+
+#~ msgid "Your public key"
+#~ msgstr "Din offentlige nøkkel"

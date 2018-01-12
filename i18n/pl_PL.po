@@ -1,0 +1,2629 @@
+# Jolanta <jolanta@bureau-cornavin.com>, 2014, 2015, 2016.
+msgid ""
+msgstr ""
+"Project-Id-Version: open-xchange-guard-ui\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2018-01-12 09:05-0500\n"
+"Last-Translator: Greg Hill <greg.hill@open-xchange.com>\n"
+"Language-Team: Polish <>\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.6.10\n"
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "Toggle Encryption"
+msgstr ""
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "Not Supported"
+msgstr "Brak obsługi"
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "%s is not supported with secured email and will be disabled."
+msgstr ""
+"Funkcja %s nie jest obsługiwana w przypadku zabezpieczonych wiadomości e-"
+"mail i zostanie wyłączona."
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "OK"
+msgstr "OK"
+
+#. %s product Name
+#: apps/mailvelope/settings.js module:oxguard
+msgid "Mailvelope"
+msgstr "Mailvelope"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Mailvelope Not Supported"
+msgstr "Mailvelope nie jest obsługiwane"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid ""
+"Mailvelope is only supported in Google Chrome or Mozilla Firefox.  Please "
+"use one of these broswers to set up encryption."
+msgstr ""
+"Mailvelope jest obsługiwane tylko w przeglądarkach Google Chrome i Mozilla "
+"Firefox. Aby skonfigurować szyfrowanie, użyj jednej z tych przeglądarek."
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Encrypted communication"
+msgstr "Komunikacja szyfrowana"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Download browser plugin"
+msgstr "Pobierz dodatek do przeglądarki"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Generate"
+msgstr "Generuj klucze"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Congratulations! You have successfully set up encryption."
+msgstr "Gratulacje! Szyfrowanie zostało prawidłowo skonfigurowane"
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Prepare"
+msgstr "Przygotuj"
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Password"
+msgstr "Hasło"
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Three steps to setup encrypted communication:"
+msgstr "Trzy kroki do skonfigurowania komunikacji szyfrowanej:"
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Download browser plugin “Mailvelope”"
+msgstr "Pobierz dodatek do przeglądarki Mailvelope"
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Create encryption keys for secure communication"
+msgstr "Utwórz klucze szyfrujące do bezpiecznej komunikacji"
+
+#~ msgid "Mailvelope Advanced"
+#~ msgstr "Zaawansowane ustawienia Mailvelope"
+
+#~ msgid "Error"
+#~ msgstr "Błąd"
+
+#~ msgid ""
+#~ "Backup your Mailvelope private keys to the server.  The keys will be "
+#~ "encrypted requiring a security code for restore"
+#~ msgstr ""
+#~ "Zrób kopię zapasową prywatnych kluczy Mailvelope na serwerze. Klucze będą "
+#~ "zaszyfrowane. Aby je odszyfrować, konieczne będzie podanie kodu "
+#~ "zabezpieczającego."
+
+#~ msgid "Backup"
+#~ msgstr "Zrób kopię zapasową"
+
+#~ msgid "Discard previously saved private keys."
+#~ msgstr "Odrzuć poprzednio zapisane klucze prywatne."
+
+#~ msgid "Discard backup"
+#~ msgstr "Odrzuć kopię zapasową"
+
+#~ msgid "Restore previously saved private keys."
+#~ msgstr "Przywróć zapisane klucze prywatne."
+
+#~ msgid "Restore"
+#~ msgstr "Przywróć"
+
+#~ msgid ""
+#~ "Upload your Mailvelope public keys to the %s server so that other people "
+#~ "can send you encrypted emails."
+#~ msgstr ""
+#~ "Prześlij klucze publiczne Mailvelope na serwer %s, aby inni mogli Ci "
+#~ "wysyłać zaszyfrowane wiadomości e-mail."
+
+#~ msgid "Upload Public Key"
+#~ msgstr "Prześlij klucz publiczny"
+
+#~ msgid "Backup and Recovery"
+#~ msgstr "Tworzenie i przywracanie kopii zapasowej"
+
+#~ msgid "No backup data available"
+#~ msgstr "Brak kopii zapasowej"
+
+#~ msgid ""
+#~ "You can now backup your keys. Please store the provided password secure. "
+#~ "It is also possible to skip this step and do the backup later. You can "
+#~ "find it in the settings."
+#~ msgstr ""
+#~ "Zrób kopię zapasową kluczy. Pamiętaj, aby podane hasło zapisać w "
+#~ "bezpiecznym miejscu. Możesz także pominąć teraz tę czynność i zrobić kopi "
+#~ "później. Odpowiednie polecenie jest dostępne w ustawieniach."
+
+#~ msgid "Skip without backup"
+#~ msgstr "Pomiń bez kopii zapasowej"
+
+#~ msgid "Recommended: Setup key backup"
+#~ msgstr "Zalecane: przygotuj kopię zapasową kluczy"
+
+#~ msgid "Enter %s security password"
+#~ msgstr "Wprowadź hasło Zabezpieczenia %s"
+
+#~ msgid "Bad password"
+#~ msgstr "Nieprawidłowe hasło"
+
+#~ msgid "Account Locked out"
+#~ msgstr "Konto zablokowane"
+
+#~ msgid "Unspecified error"
+#~ msgstr "Nieokreślony błąd"
+
+#~ msgid "Problems creating keys, please try again later."
+#~ msgstr ""
+#~ "Podczas tworzenia kluczy wystąpiły problemy. Spróbuj ponownie później."
+
+#~ msgid ""
+#~ "Problems creating keys.  Keys already exist for this email address in "
+#~ "another account."
+#~ msgstr ""
+#~ "Problem tworzenia kluczy wystąpił problem. Na innym koncie istnieją już "
+#~ "klucze dla tego adresu e-mail."
+
+#~ msgid "Passwords must be at least %s characters in length"
+#~ msgstr "Minimalna liczba znaków w nowym haśle: %s."
+
+#~ msgid "Passwords not equal"
+#~ msgstr "Hasła są różne"
+
+#~ msgid "Enter new secondary Email address"
+#~ msgstr "Wprowadź nowy zapasowy adres e-mail"
+
+#~ msgid "Generating key, Please wait"
+#~ msgstr "Generowanie klucza. Czekaj."
+
+#~ msgid ""
+#~ "Please choose the password you will use for %s. You will need to type "
+#~ "this password whenever you want to encrypt or decrypt items. Remember it "
+#~ "should be different from your login password, and will not change if you "
+#~ "change your login password."
+#~ msgstr ""
+#~ "Wybierz hasło używane dla %s. Musisz je wpisać za każdym razem, gdy "
+#~ "chcesz coś zaszyfrować lub odszyfrować. Pamiętaj, że powinno się różnić "
+#~ "od hasła logowania i nie będzie się zmieniało razem z nim."
+
+#~ msgid "Please enter a password to protect your new encrypted items."
+#~ msgstr "Aby chronić nowe zaszyfrowane elementy, wprowadź hasło."
+
+#~ msgid "Confirm"
+#~ msgstr "Potwierdź"
+
+#~ msgid ""
+#~ "Warning: This password for encryption cannot be restored or recovered in "
+#~ "any way.  If forgotten, all encrypted data will be lost"
+#~ msgstr ""
+#~ "Ostrzeżenie: tego hasła szyfrowania nie można w żaden sposób przywrócić "
+#~ "ani odzyskać. Jeśli go zapomnisz, wszystkie zaszyfrowane dane zostaną "
+#~ "utracone."
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password."
+#~ msgstr ""
+#~ "Wprowadź zapasowy adres e-mail na wypadek konieczności zresetowania hasła."
+
+#~ msgid "Email:"
+#~ msgstr "E-mail:"
+
+#~ msgid "Create %s Security Keys"
+#~ msgstr "Utwórz klucze Zabezpieczenia %s"
+
+#~ msgid "Cancel"
+#~ msgstr "Anuluj"
+
+#~ msgid "Not valid email"
+#~ msgstr "Brak prawidłowego e-maila"
+
+#~ msgid "Emails not equal"
+#~ msgstr "E-maile nie są takie same"
+
+#~ msgid "Too short"
+#~ msgstr "Zbyt krótkie"
+
+#~ msgid "Strong"
+#~ msgstr "Silne"
+
+#~ msgid "Weak"
+#~ msgstr "Słabe"
+
+#~ msgid "First %s Security Use"
+#~ msgstr "Pierwsze użycie aplikacji Zabezpieczenia %s"
+
+#~ msgid "You have been sent an email using %s to secure the contents"
+#~ msgstr "Wysłano wiadomość e-mail z użyciem aplikacji %s"
+
+#~ msgid ""
+#~ "Please select a new password for use with %s.  This password will be used "
+#~ "to open encrypted emails and files that may be sent to you."
+#~ msgstr ""
+#~ "Wpisz nowe hasło do aplikacji %s. Za jego pomocą otwierane będą "
+#~ "zaszyfrowane wiadomości e-mail i pliki."
+
+#~ msgid "First %s Security Password Use"
+#~ msgstr "Pierwsze użycie hasła Zabezpieczenia %s"
+
+#~ msgid ""
+#~ "Please change the initial temporary %s security password that was sent to "
+#~ "you in a separate email."
+#~ msgstr ""
+#~ "Zmień początkowe, tymczasowe  hasło Zabezpieczenia %s przekazane Ci w "
+#~ "osobnej wiadomości e-mail."
+
+#~ msgid "Initial Password"
+#~ msgstr "Hasło początkowe"
+
+#~ msgid "New Password"
+#~ msgstr "Nowe hasło"
+
+#~ msgid "Confirm New"
+#~ msgstr "Potwierdź nowe"
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password.</p>"
+#~ msgstr ""
+#~ "Wprowadź zapasowy adres e-mail na wypadek konieczności zresetowania hasła."
+#~ "</p>"
+
+#~ msgid "Verify:"
+#~ msgstr "Weryfikuj:"
+
+#~ msgid ""
+#~ "Warning: This password for encryption cannot be restored or recovered in "
+#~ "any way.  If forgotten, all encrypted data will be lost."
+#~ msgstr ""
+#~ "Ostrzeżenie: tego hasła szyfrowania nie można w żaden sposób przywrócić "
+#~ "ani odzyskać. Jeśli go zapomnisz, wszystkie zaszyfrowane dane zostaną "
+#~ "utracone."
+
+#~ msgid "Success"
+#~ msgstr "Wykonano"
+
+#~ msgid "Password changed successfully"
+#~ msgstr "Hasło zostało zmienione"
+
+#~ msgid "New password must be at least %s characters long"
+#~ msgstr "Nowe hasło musi się składać z co najmniej %s znaków"
+
+#~ msgid "Encryption key not found"
+#~ msgstr "Nie znaleziono klucza szyfrowania"
+
+#~ msgid "Failed to change password"
+#~ msgstr "Nie udało się zmienić hasła"
+
+#~ msgid "Download decrypted"
+#~ msgstr "Pobierz odszyfrowane"
+
+#~ msgid "Add and encrypt local file"
+#~ msgstr "Dodaj i zaszyfruj plik lokalny"
+
+#~ msgid "Remove encryption"
+#~ msgstr "Usuń szyfrowanie"
+
+#~ msgid "Encrypt"
+#~ msgstr "Zaszyfruj"
+
+#~ msgid "Send by mail"
+#~ msgstr "Wyślij w wiadomości e-mail"
+
+#~ msgid "Download encrypted"
+#~ msgstr "Pobierz zaszyfrowane"
+
+#~ msgid "Pop out"
+#~ msgstr "Otwórz w nowym oknie"
+
+#~ msgid "Pop out standalone viewer"
+#~ msgstr "Otwórz w nowym oknie przeglądarkę zewnętrzną"
+
+#~ msgid "Decrypt and open"
+#~ msgstr "Odszyfruj i otwórz"
+
+#~ msgid "Drop files here to encrypt"
+#~ msgstr "Przeciągnij tutaj pliki do zaszyfrowania"
+
+#~ msgid "Recipient Options"
+#~ msgstr "Opcje adresatów"
+
+#~ msgid ""
+#~ "At least one of your recipients uses a different webmail system.  They "
+#~ "will receive an email with a link for them to read this message.  If you "
+#~ "like, you can add a personalized message that will appear at the top of "
+#~ "this message.  This will help identify the message as coming from you."
+#~ msgstr ""
+#~ "Część adresatów używa innego systemu webmail. Otrzymają oni wiadomość e-"
+#~ "mail z łączem umożliwiającym przeczytanie Twojej wiadomości. Jeśli "
+#~ "chcesz, możesz dodać spersonalizowaną wiadomość, która pojawi się nad "
+#~ "oryginalną wiadomością. Dzięki temu będzie wyraźniej widać, że wiadomość "
+#~ "pochodzi od Ciebie."
+
+#~ msgid "Message:"
+#~ msgstr "Wiadomość:"
+
+#~ msgid "Language for recipient Email"
+#~ msgstr "Język poczty e-mail odbiorcy"
+
+#~ msgid "Note: Emails sent to mailing lists or groups will not work."
+#~ msgstr ""
+#~ "Uwaga: Wysyłanie wiadomości na listy lub grupy adresowe nie jest możliwe."
+
+#~ msgid ""
+#~ "Mailing list / blocked email found.  Encrypted emails to this email will "
+#~ "fail.  %s"
+#~ msgstr ""
+#~ "Znaleziono listę adresową lub zablokowany e-mail. Wysłanie szyfrowanej "
+#~ "wiadomości na ten adres nie jest możliwe. %s"
+
+#~ msgid ""
+#~ "The key for %s has expired.  You will not be able to send an encrypted "
+#~ "email to this recipient."
+#~ msgstr ""
+#~ "Klucz %s wygasł. Nie będzie można wysłać zaszyfrowanej wiadomości e-mail "
+#~ "do tego odbiorcy."
+
+#~ msgid "HTML Formatted Email"
+#~ msgstr "Wiadomości e-mail w formacie HTML"
+
+#~ msgid ""
+#~ "HTML formatted emails may cause issues with PGP inline.  Click OK to "
+#~ "change to Plain Text formatted Emails."
+#~ msgstr ""
+#~ "W wiadomościach e-mail w formacie HTML mogą występować problemy z "
+#~ "szyfrowaniem PGP Inline. Kliknij przycisk OK, aby włączyć wiadomości e-"
+#~ "mail formatowane jako zwykły tekst."
+
+#~ msgid "HTML format is not recommended when using PGP Inline"
+#~ msgstr "Format HTML nie jest zalecany w przypadku korzystania z PGP Inline"
+
+#~ msgid "Recipients cannot be added to this encrypted reply"
+#~ msgstr "Nie można dodać adresatów do tej szyfrowanej odpowiedzi"
+
+#~ msgid "Reply must be encrypted"
+#~ msgstr "Odpowiedź musi być zaszyfrowana"
+
+#~ msgid "Unable to attach your public key"
+#~ msgstr "Nie można dołączyć klucza publicznego"
+
+#~ msgid "Will create new guest account for %s"
+#~ msgstr "Powoduje utworzenie nowego konta gościa dla aplikacji %s"
+
+#~ msgid "Encryption Key Known"
+#~ msgstr "Klucz szyfrowania jest znany"
+
+#~ msgid "Send"
+#~ msgstr "Wyślij"
+
+#~ msgid "Send Encrypted"
+#~ msgstr "Wyślij zaszyfrowane"
+
+#~ msgid "Send Secure"
+#~ msgstr "Wyślij bezpieczną"
+
+#~ msgid "Loaded"
+#~ msgstr "Załadowano"
+
+#~ msgid "Secure Email, enter your %s security password."
+#~ msgstr "Zabezpiecz pocztę e-mail, wprowadzając hasło Zabezpieczenia %s."
+
+#~ msgid "Keep me logged into %s"
+#~ msgstr "Nie wylogowuj mnie z aplikacji %s"
+
+#~ msgid "10 minutes"
+#~ msgstr "10 minut"
+
+#~ msgid "20 minutes"
+#~ msgstr "20 minut"
+
+#~ msgid "30 minutes"
+#~ msgstr "30 minut"
+
+#~ msgid "1 hour"
+#~ msgstr "1 godzina"
+
+#~ msgid "2 hours"
+#~ msgstr "2 godziny"
+
+#~ msgid "Session"
+#~ msgstr "Sesja"
+
+#~ msgid "Select Key Location"
+#~ msgstr "Wybierz lokalizację klucza"
+
+#~ msgid "Temporary Lockout"
+#~ msgstr "Tymczasowa blokada"
+
+#~ msgid "Security PIN"
+#~ msgstr "Kod PIN zabezpieczeń"
+
+#~ msgid "Recipients:"
+#~ msgstr "Odbiorcy:"
+
+#~ msgid ""
+#~ "The new recipients listed below will be sent a password via email.  You "
+#~ "can also require a separate pin, which is displayed below."
+#~ msgstr ""
+#~ "Przedstawiona poniżej nowa lista odbiorców otrzyma hasło przez e-mail. "
+#~ "Konieczne może być podanie oddzielnego, podanego poniżej kodu PIN."
+
+#~ msgid ""
+#~ "You may deliver this pin any way you see fit, but we recommend doing it "
+#~ "in a second method other than email (Phone, SMS, Skype, etc)."
+#~ msgstr ""
+#~ "Możesz go dostarczyć w dowolny sposób, ale zalecamy to zrobić inaczej niż "
+#~ "przez e-mail (telefon, SMS, Skype itp)."
+
+#~ msgid "If you want this extra pin requirement, click OK."
+#~ msgstr ""
+#~ "Jeśli chcesz skorzystać z tego dodatkowego zabezpieczenia, kliknij "
+#~ "przycisk OK."
+
+#~ msgid "Skip"
+#~ msgstr "Pomiń"
+
+#~ msgid "Unable to get key"
+#~ msgstr "Nie można pobrać klucza"
+
+#~ msgid "Please enter your %s password to sign this email."
+#~ msgstr "Aby podpisać wiadomość e-mail, wprowadź hasło aplikacji %s."
+
+#~ msgid ""
+#~ "There appears to be an encrypted attachment.  Please enter your %s "
+#~ "password to decode the attachment for sending."
+#~ msgstr ""
+#~ "Wygląda na to, że załączono zaszyfrowany plik. Aby go odszyfrować przed "
+#~ "wysłaniem, wpisz hasło %s."
+
+#~ msgid "Please re-enter your %s password before sending."
+#~ msgstr "Przed wysłaniem wpisz ponownie hasło %s."
+
+#~ msgid "Please re-enter your %s password before saving."
+#~ msgstr "Przed zapisaniem wpisz ponownie hasło %s."
+
+#~ msgid "Please re-enter your %s password."
+#~ msgstr "Wpisz ponownie hasło %s."
+
+#~ msgid "Security"
+#~ msgstr "Zabezpieczenia"
+
+#~ msgid "PGP"
+#~ msgstr "PGP"
+
+#~ msgid "Secure"
+#~ msgstr "Zabezpiecz"
+
+#~ msgid "Sign"
+#~ msgstr "Podpisz"
+
+#~ msgid "Format"
+#~ msgstr "Format"
+
+#~ msgid "PGP Mime"
+#~ msgstr "PGP Mime"
+
+#~ msgid "PGP Inline"
+#~ msgstr "PGP Inline"
+
+#~ msgid "Keys"
+#~ msgstr "Klucze"
+
+#~ msgid "Attach my key"
+#~ msgstr "Dołącz mój klucz"
+
+#~ msgid "Unable to find keys for all recipients."
+#~ msgstr "Nie można znaleźć kluczy dla wszystkich odbiorców."
+
+#~ msgid "Unable to connect to the encryption server."
+#~ msgstr "Nie można nawiązać połączenia z serwerem szyfrowania."
+
+#~ msgid "Unable to find the item on the server"
+#~ msgstr "Nie można znaleźć pozycji na serwerze"
+
+#~ msgid "Unable to get the key for that item"
+#~ msgstr "Nie można uzyskać klucza dla danej pozycji"
+
+#~ msgid "Unable to retrieve your user keys to decode"
+#~ msgstr "Nie można pobrać kluczy użytkownika do odszyfrowania"
+
+#~ msgid "Bad extra password"
+#~ msgstr "Nieprawidłowe hasło dodatkowe"
+
+#~ msgid "No private key to decode this message"
+#~ msgstr "Brak klucza prywatnego do odkodowania tego komunikatu"
+
+#~ msgid "Unable to decrypt Email, incorrect password."
+#~ msgstr "Nie można odszyfrować wiadomości e-mai. Niepoprawne hasło."
+
+#~ msgid "To reset or recover your password, click %s"
+#~ msgstr "Aby zresetować lub odzyskać hasło, kliknij %s"
+
+#~ msgid "Settings"
+#~ msgstr "Ustawienia"
+
+#~ msgid "No Private Key available for this encrypted item."
+#~ msgstr "Brak klucza prywatnego dostępnego dla tej zaszyfrowanej pozycji."
+
+#~ msgid "Key Ids:"
+#~ msgstr "Identyfikatory kluczy:"
+
+#~ msgid "Your account is locked out for %s minutes"
+#~ msgstr "Konto zostało zablokowane na %s min"
+
+#~ msgid "Server Error: "
+#~ msgstr "Błąd serwera:"
+
+#~ msgid "Password needed"
+#~ msgstr "Potrzebne jest hasło"
+
+#~ msgid "Please enter your %s password"
+#~ msgstr "Wprowadź hasło aplikacji %s"
+
+#~ msgid "Remember my password"
+#~ msgstr "Zapamiętaj moje hasło"
+
+#~ msgid "Account locked out due to bad attempts.  Please try again later."
+#~ msgstr ""
+#~ "W wyniku błędów we wpisywaniu hasła konto zostało zablokowane. Spróbuj "
+#~ "ponownie później."
+
+#~ msgid "Error checking password"
+#~ msgstr "Błąd podczas sprawdzania hasła"
+
+#~ msgid "Delete Public Key"
+#~ msgstr "Usuń klucz publiczny"
+
+#~ msgid "Click OK to confirm"
+#~ msgstr "Kliknij OK, aby potwierdzić"
+
+#~ msgid "Email"
+#~ msgstr "E-mail"
+
+#~ msgid "Key Ids"
+#~ msgstr "Identyfikatory klucza"
+
+#~ msgid "Details"
+#~ msgstr "Szczegóły"
+
+#~ msgid "Delete"
+#~ msgstr "Usuń"
+
+#~ msgid "No Keys Found"
+#~ msgstr "Nie znaleziono kluczy"
+
+#~ msgid "Key Details"
+#~ msgstr "Szczegóły klucza"
+
+#~ msgid "Share Keys"
+#~ msgstr "Udostępnij klucze"
+
+#~ msgid "Use PGP Inline"
+#~ msgstr "Użyj PGP Inline"
+
+#~ msgid "Signatures"
+#~ msgstr "Podpisy"
+
+#~ msgid "Expired"
+#~ msgstr "Wygasły"
+
+#~ msgid "Revoked"
+#~ msgstr "Odwołany"
+
+#~ msgid "Fingerprint:"
+#~ msgstr "Odcisk:"
+
+#~ msgid "Created:"
+#~ msgstr "Utworzono:"
+
+#~ msgid "Master:"
+#~ msgstr "Główne:"
+
+#~ msgid "True"
+#~ msgstr "Prawda"
+
+#~ msgid "False"
+#~ msgstr "Fałsz"
+
+#~ msgid "Encryption:"
+#~ msgstr "Szyfrowanie:"
+
+#~ msgid "IDs: "
+#~ msgstr "Identyfikatory:"
+
+#~ msgid "Expires in %1$s days"
+#~ msgstr "Wygasa za %1$s dni"
+
+#~ msgid "Problem getting signatures"
+#~ msgstr "Problem z uzyskaniem podpisów"
+
+#~ msgid "Positive"
+#~ msgstr "Pozytywny"
+
+#~ msgid "Failed check"
+#~ msgstr "Nieudane sprawdzanie"
+
+#~ msgid "Missing public"
+#~ msgstr "Brak publicznego"
+
+#~ msgid "Casual"
+#~ msgstr "Zwykły"
+
+#~ msgid "Revocation"
+#~ msgstr "Odwołanie"
+
+#~ msgid "Direct cert"
+#~ msgstr "Bezpośr. cert."
+
+#~ msgid "Default Certification"
+#~ msgstr "Domyślna cert."
+
+#~ msgid "No signatures"
+#~ msgstr "Bez podpisów"
+
+#~ msgid "ID Signed"
+#~ msgstr "ID podp."
+
+#~ msgid "Certification"
+#~ msgstr "Certyfikacja"
+
+#~ msgid "Signed by"
+#~ msgstr "Podpisane przez"
+
+#~ msgid "Image"
+#~ msgstr "Obraz"
+
+#~ msgid "Key Signatures"
+#~ msgstr "Podpisy klucza"
+
+#~ msgid "PGP Public Key List"
+#~ msgstr "Lista kluczy publicznych PGP"
+
+#~ msgid "This Email was encrypted with PGP."
+#~ msgstr "Wiadomość e-mail została zaszyfrowana PGP."
+
+#~ msgid "This Email was signed and verified."
+#~ msgstr "Wiadomość e-mail została podpisana i zweryfikowana."
+
+#~ msgid "This Email was signed and failed verification."
+#~ msgstr "Wiadomość e-mail została podpisana, lecz nie została zweryfikowana."
+
+#~ msgid "This Email was signed but unable to verify."
+#~ msgstr "Wiadomość e-mail została podpisana, lecz nie została zweryfikowana."
+
+#~ msgid ""
+#~ "This Email was sent using PGP encryption. It has been decrypted with your "
+#~ "private key"
+#~ msgstr ""
+#~ "Wiadomość e-mail została wysłana z zastosowaniem szyfrowania PGP i "
+#~ "odszyfrowana przy użyciu Twojego klucza prywatnego"
+
+#~ msgid "This Email was signed by the sender and verified."
+#~ msgstr "Wiadomość e-mail została podpisana przez nadawcę i zweryfikowana."
+
+#~ msgid "PGP Public Key Found.  Click to Import"
+#~ msgstr "Znaleziono publiczny klucz PGP. Kliknij, aby go zaimportować"
+
+#~ msgid "Save encrypted to %1$s"
+#~ msgstr "Zapisz zaszyfrowane w \"%1$s\""
+
+#~ msgctxt "app"
+#~ msgid "Drive"
+#~ msgstr "Dysk"
+
+#~ msgid "Check assigned PIN"
+#~ msgstr "Sprawdź przypisany numer PIN"
+
+#~ msgid "PIN"
+#~ msgstr "Kod PIN"
+
+#~ msgid "Added keys: \r\n"
+#~ msgstr "Dodano klucze: \r\n"
+
+#~ msgid "Key ID: "
+#~ msgstr "ID klucza:"
+
+#~ msgid "Service Unavailable"
+#~ msgstr "Usługa niedostępna"
+
+#~ msgid "Advanced Settings"
+#~ msgstr "Ustawienia zaawansowane"
+
+#~ msgid "Download PGP Public Key"
+#~ msgstr "Pobierz swój klucz publiczny PGP"
+
+#~ msgid "Email your PGP Public Key"
+#~ msgstr "Wyślij e-mailem swój klucz publiczny PGP"
+
+#~ msgid "Your Keys"
+#~ msgstr "Twoje klucze"
+
+#~ msgid "Your Key List"
+#~ msgstr "Lista Twoich kluczy"
+
+#~ msgid "Key ID"
+#~ msgstr "ID klucza"
+
+#~ msgid "Private Key"
+#~ msgstr "Klucz prywatny"
+
+#~ msgid "Current"
+#~ msgstr "Bieżące"
+
+#~ msgid "Download"
+#~ msgstr "Pobierz"
+
+#~ msgid "Edit"
+#~ msgstr "Edytuj"
+
+#~ msgid "Adding Keys"
+#~ msgstr "Dodawanie kluczy"
+
+#~ msgid "If you already have a private key, you can upload it here."
+#~ msgstr "Jeśli masz już prywatny klucz, prześlij go tutaj."
+
+#~ msgid "Upload Private Key"
+#~ msgstr "Prześlij prywatny klucz"
+
+#~ msgid "Finally, you can have a new PGP Key Pair created for your account."
+#~ msgstr ""
+#~ "Wreszcie możesz mieć utworzoną nową parę kluczy PGP dla swojego konta."
+
+#~ msgid "Create New Keys"
+#~ msgstr "Utwórz nowe klucze"
+
+#~ msgid "Adding UserID"
+#~ msgstr "Dodawanie ID użytkownika"
+
+#~ msgid "Add a name and email address to this public key."
+#~ msgstr "Dodaj nazwę i adres e-mail do tego klucza publicznego."
+
+#~ msgid "Name"
+#~ msgstr "Nazwa"
+
+#~ msgid "Please enter your key password"
+#~ msgstr "Wprowadź hasło do klucza"
+
+#~ msgid "Invalid Email Address"
+#~ msgstr "Nieprawidłowy adres e-mail"
+
+#~ msgid "Invalid Name"
+#~ msgstr "Nieprawidłowa nazwa"
+
+#~ msgid "Enter password"
+#~ msgstr "Wprowadź hasło"
+
+#~ msgid "User ID added"
+#~ msgstr "Dodano ID użytkownika"
+
+#~ msgid "Failed to add UserID"
+#~ msgstr "Nie udało się dodać ID użytkownika"
+
+#~ msgid "Revoke Private Key"
+#~ msgstr "Odwołaj klucz prywatny"
+
+#~ msgid ""
+#~ "Revoke the key: This advises others that you no longer want this key "
+#~ "used.  You can continue to decode any encrypted data using the key."
+#~ msgstr ""
+#~ "Odwołaj klucz. W ten sposób poinformujesz innych, że już nie chcesz, by "
+#~ "ten klucz był używany. Nadal będziesz mieć możliwość odszyfrowywania za "
+#~ "jego pomocą zaszyfrowanych danych."
+
+#~ msgid "Delete Private Key"
+#~ msgstr "Usuń klucz prywatny"
+
+#~ msgid "There are two options if you no longer want to use this key"
+#~ msgstr "Jeśli nie chcesz już używać tego klucza, masz dwie możliwości"
+
+#~ msgid ""
+#~ "Revoke the key: This advises others that you no longer want this key "
+#~ "used.  You can continue to decode any encrypted data using the key. "
+#~ "(Recommended)"
+#~ msgstr ""
+#~ "Odwołaj klucz. W ten sposób poinformujesz innych, że już nie chcesz, by "
+#~ "ten klucz był używany. Nadal będziesz mieć możliwość odszyfrowywania za "
+#~ "jego pomocą zaszyfrowanych danych. (Zalecane)"
+
+#~ msgid ""
+#~ "Deleting the key: Deleting the private key will render all encrypted "
+#~ "items unreadable.  You will not be able to decode emails or files that "
+#~ "were enrypted with this key.  This cannot be undone."
+#~ msgstr ""
+#~ "Usuń klucz. Usunięcie klucza prywatnego poskutkuje brakiem możliwości "
+#~ "odczytania wszystkich zaszyfrowanych elementów. Nie będziesz mieć "
+#~ "możliwości odszyfrowywania za jego pomocą zaszyfrowanych wiadomości e-"
+#~ "mail ani plików. Tej operacji nie można cofnąć."
+
+#~ msgid "Revoke"
+#~ msgstr "Odwołaj"
+
+#~ msgid ""
+#~ "You will no longer be able to decode any items that were encrypted with "
+#~ "this key!"
+#~ msgstr ""
+#~ "Nie będziesz mieć możliwości odszyfrowywania elementów zaszyfrowanych za "
+#~ "pomocą tego klucza!"
+
+#~ msgid "Enter your password below to confirm and verify"
+#~ msgstr "Wprowadź hasło poniżej, aby potwierdzić i zweryfikować"
+
+#~ msgid "Bad Password"
+#~ msgstr "Nieprawidłowe hasło"
+
+#~ msgid "Key Deleted"
+#~ msgstr "Usunięto klucz"
+
+#~ msgid "Failed to delete key"
+#~ msgstr "Nie udało się usunąć klucza"
+
+#~ msgid "Problem deleting key"
+#~ msgstr "Problem z usunięciem klucza"
+
+#~ msgid "Please verify you want to delete this key"
+#~ msgstr "Zweryfikuj, że chcesz usunąć ten klucz"
+
+#~ msgid "Failed to delete"
+#~ msgstr "Nie udało się usunąć"
+
+#~ msgid ""
+#~ "This will advise people not to use this key.  You can still use the key "
+#~ "to decode existing items."
+#~ msgstr ""
+#~ "W ten sposób poinformujesz innych, żeby nie używali tego klucza. Nadal "
+#~ "będziesz mieć możliwość odszyfrowywania za jego pomocą istniejących już "
+#~ "zaszyfrowanych elementów."
+
+#~ msgid "Reason"
+#~ msgstr "Powód"
+
+#~ msgid "No Reason"
+#~ msgstr "Brak powodu"
+
+#~ msgid "Key superseded"
+#~ msgstr "Zastąpiono klucz"
+
+#~ msgid "Key compromised"
+#~ msgstr "Naruszono bezpieczeństwo klucza"
+
+#~ msgid "Key retired"
+#~ msgstr "Wycofano klucz"
+
+#~ msgid "User no longer valid"
+#~ msgstr "Użytkownik nie jest już aktywny"
+
+#~ msgid "Key Revoked"
+#~ msgstr "Odwołano klucz"
+
+#~ msgid "Failed to revoke key"
+#~ msgstr "Nie udało się odwołać klucza"
+
+#~ msgid "Download Key"
+#~ msgstr "Pobierz klucz"
+
+#~ msgid "Download your private key for use with other email programs"
+#~ msgstr ""
+#~ "Pobierz klucz prywatny do wprowadzenia go w innych programach e-mail"
+
+#~ msgid "Do not distribute this key.  It is for your use only"
+#~ msgstr "Nie przekazuj tego klucza dalej. Jest on tylko dla Ciebie."
+
+#~ msgid "Download PGP Private Key"
+#~ msgstr "Pobierz prywatny klucz PGP"
+
+#~ msgid "Download Public and Private Key"
+#~ msgstr "Pobierz klucz publiczny i prywatny"
+
+#~ msgid "Key ID:"
+#~ msgstr "ID klucza:"
+
+#~ msgid "Expires:"
+#~ msgstr "Wygasa:"
+
+#~ msgid "Private Key: "
+#~ msgstr "Klucz prywatny:"
+
+#~ msgid ""
+#~ "If you would like to upload a public key only, then do so here.  This "
+#~ "will allow you to encrypt files and receive encrypted emails using %s, "
+#~ "but you will need to use the private key with another program to decode "
+#~ "the items."
+#~ msgstr ""
+#~ "Jeśli chcesz tylko przesłać klucz publiczny, zrób to tutaj. Umożliwi Ci "
+#~ "to szyfrowanie plików oraz odbieranie zaszyfrowanych wiadomości e-mail "
+#~ "przy użyciu aplikacji %s, ale w celu odkodowania elementów trzeba będzie "
+#~ "użyć klucza prywatnego w innym programie."
+
+#~ msgid "Upload Public Key Only"
+#~ msgstr "Prześlij tylko klucz publiczny"
+
+#~ msgid "PGP Public Key is attached"
+#~ msgstr "Załączono publiczny klucz PGP"
+
+#~ msgid "Public Keys"
+#~ msgstr "Klucze publiczne"
+
+#~ msgid "Failed to update settings"
+#~ msgstr "Aktualizacja ustawień nie powiodła się"
+
+#~ msgid "Email format"
+#~ msgstr "Format wiadomości e-mail"
+
+#~ msgid ""
+#~ "Emails that contain HTML and are sent with PGP Inline will often result "
+#~ "in decoding errors and possible failure.  As a result, the default Email "
+#~ "format should be changed to plaintext.  Click OK to change the default to "
+#~ "plaintext, cancel to keep your current setting."
+#~ msgstr ""
+#~ "E-maile z kodem HTML i wysyłane z szyfrowaniem PGP Inline mogą być "
+#~ "błędnie odkodowywane. Proponujemy zmianę domyślnego formatu wiadomości e-"
+#~ "mail na zwykły tekst. Kliknij przycisk OK, aby to zrobić, lub Anuluj, aby "
+#~ "zachować bieżące ustawienia."
+
+#~ msgid "Ask each time"
+#~ msgstr "Zapytaj za każdym razem"
+
+#~ msgid "Remember Password Default"
+#~ msgstr "Zapamiętaj hasło domyślne"
+
+#~ msgid "Default to send encrypted when composing email"
+#~ msgstr ""
+#~ "Ustaw domyślne wysyłanie zaszyfrowanych danych w przypadku tworzenia "
+#~ "wiadomości e-mail"
+
+#~ msgid "Encrypt all incoming emails"
+#~ msgstr "Szyfruj wszystkie wiadomości przychodzące"
+
+#~ msgid "Default adding signature to outgoing mails"
+#~ msgstr "Domyślne dodawanie podpisu do wychodzących wiadomości e-mail"
+
+#~ msgid "Default to using PGP inline for new mails"
+#~ msgstr ""
+#~ "Ustaw domyślne stosowanie PGP Inline w przypadku nowych wiadomości e-mail"
+
+#~ msgid "Please wait"
+#~ msgstr "Poczekaj"
+
+#~ msgid "Advanced"
+#~ msgstr "Zaawansowane"
+
+#~ msgid "Enable Advanced PGP Features"
+#~ msgstr "Włącz zaawansowane funkcje PGP"
+
+#~ msgid "PGP Encryption Settings"
+#~ msgstr "Ustawienia szyfrowania PGP"
+
+#~ msgid "Security Settings"
+#~ msgstr "Ustawienia zabezpieczeń"
+
+#~ msgid "Keys uploaded"
+#~ msgstr "Przesłano klucze"
+
+#~ msgid "Failed to upload"
+#~ msgstr "Przesłanie nieudane"
+
+#~ msgid "The public key must have your primary email as a user ID"
+#~ msgstr ""
+#~ "Klucz publiczny musi mieć Twój podstawowy adres e-mail jako ID użytkownika"
+
+#~ msgid "Upload Private Keys"
+#~ msgstr "Prześlij prywatne klucze"
+
+#~ msgid "Please enter passwords for the upload"
+#~ msgstr "Wprowadź hasło w celu przesłania"
+
+#~ msgid "Enter new password for the key:"
+#~ msgstr "Wprowadź nowe hasło dla klucza:"
+
+#~ msgid "Confirm Password:"
+#~ msgstr "Potwierdź hasło:"
+
+#~ msgid "Private key password for the key you are uploading:"
+#~ msgstr "Hasło klucza prywatnego na potrzeby przesłania klucza:"
+
+#~ msgid "Private Key Uploaded"
+#~ msgstr "Przesłano prywatny klucz"
+
+#~ msgid "This key already exists"
+#~ msgstr "Ten klucz już istnieje"
+
+#~ msgid "Bad PGP Password"
+#~ msgstr "Złe hasło PGP"
+
+#~ msgid "The private key must have your primary email as a user ID"
+#~ msgstr ""
+#~ "Klucz prywatny musi mieć Twój podstawowy adres e-mail jako ID użytkownika"
+
+#~ msgid "Must use same password as existing key to merge"
+#~ msgstr ""
+#~ "Aby było możliwe scalenie, hasło musi być takie samo, co w istniejącym "
+#~ "kluczu"
+
+#~ msgid "Problem uploading Private Key "
+#~ msgstr "Problem z przesłaniem klucza prywatnego"
+
+#~ msgid "Logged out of %s"
+#~ msgstr "Wylogowano z aplikacji %s"
+
+#~ msgid "Failed to log out of %s"
+#~ msgstr "Nie udało się wylogować z aplikacji %s"
+
+#~ msgid "Guided tour for %s"
+#~ msgstr "Przewodnik po aplikacji %s"
+
+#~ msgid "Sign out %s"
+#~ msgstr "Wyloguj z aplikacji %s"
+
+#~ msgctxt "app"
+#~ msgid "%s Security"
+#~ msgstr "Zabezpieczenie %s"
+
+#~ msgid "Get Started"
+#~ msgstr "Zaczynamy"
+
+#~ msgid ""
+#~ "In order to start with %s Security, you must set up a password for your "
+#~ "secured files."
+#~ msgstr ""
+#~ "Aby rozpocząć pracę z Zabezpieczeniem %s, musisz skonfigurować hasło do "
+#~ "zabezpieczonych plików."
+
+#~ msgid "Start"
+#~ msgstr "Rozpocznij"
+
+#~ msgid "%s Security Settings"
+#~ msgstr "Ustawienia zabezpieczeń %s"
+
+#~ msgid "Change %s Security Password."
+#~ msgstr "Zmień hasło Zabezpieczenia %s."
+
+#~ msgid "Enter current %s security password"
+#~ msgstr "Wprowadź bieżące hasło Zabezpieczenia %s"
+
+#~ msgid "Enter new %s security password"
+#~ msgstr "Wprowadź nowe hasło Zabezpieczenia %s"
+
+#~ msgid "Verify new %s security password"
+#~ msgstr "Zweryfikuj nowe hasło Zabezpieczenia %s"
+
+#~ msgid "Change %s security password"
+#~ msgstr "Zmień hasło aplikacji Zabezpieczenia %s"
+
+#~ msgid "Reset %s security password"
+#~ msgstr "Zresetuj hasło Zabezpieczenia %s"
+
+#~ msgid "Send a temporary %s security password to my secondary Email address."
+#~ msgstr ""
+#~ "Wyślij tymczasowe hasło Zabezpieczenia %s na mój zapasowy adres e-mail."
+
+#~ msgid "Delete Password Recovery"
+#~ msgstr "Usuń odzyskiwanie hasła"
+
+#~ msgid "Advanced Users Only!"
+#~ msgstr "Tylko dla użytkowników zaawansowanych!"
+
+#~ msgid ""
+#~ "Delete the password recovery.  The recovery is used to reset your "
+#~ "password.  If you delete the recovery, you will not be able to reset your "
+#~ "password if you forget it.  Changing your password will restore the "
+#~ "recovery."
+#~ msgstr ""
+#~ "Usuń odzyskiwanie hasła. Odzyskiwanie służy do resetowania hasła. Jeśli "
+#~ "usuniesz odzyskiwanie, nie będziesz mieć możliwości zresetowania "
+#~ "zapomnianego hasła. Zmiana hasła ponownie uaktywni odzyskiwanie."
+
+#~ msgid "Please verify your password before deleting the recovery."
+#~ msgstr "Zweryfikuj hasło przed usunięciem odzyskiwania."
+
+#~ msgid "Recovery deleted"
+#~ msgstr "Usunięto odzyskiwanie"
+
+#~ msgid "Current Email address:"
+#~ msgstr "Bieżący adres e-mail:"
+
+#~ msgid "Secondary Email"
+#~ msgstr "Zapasowy adres e-mail"
+
+#~ msgid "Change Email address used for password reset."
+#~ msgstr "Zmień adres e-mail podany na potrzeby resetowania hasła."
+
+#~ msgid "Verify Email address"
+#~ msgstr "Potwierdź adres e-mail"
+
+#~ msgid "Change Email address"
+#~ msgstr "Zmień adres e-mail"
+
+#~ msgid "None - Primary Email will be used"
+#~ msgstr "Brak - Będzie używany podstawowy adres e-mail"
+
+#~ msgid "Invalid email address"
+#~ msgstr "Nieprawidłowy adres e-mail"
+
+#~ msgid "Successfully changed email address"
+#~ msgstr "Zmieniono pomyślnie adres e-mail"
+
+#~ msgid "A new password has been sent to your email address."
+#~ msgstr "Nowe hasło zostało wysłane na Twój adres e-mail."
+
+#~ msgid "A new password has been sent to your secondary email address."
+#~ msgstr "Nowe hasło zostało wysłane na Twój zapasowy adres e-mail."
+
+#~ msgid "No password recovery is available."
+#~ msgstr "Brak opcji odzyskania hasła."
+
+#~ msgid "Password reset, but unable to send to your email address."
+#~ msgstr ""
+#~ "Hasło zostało zresetowane, ale nie można go wysłać na Twój adres e-mail."
+
+#~ msgid "Unable to find email address to send password reset."
+#~ msgstr ""
+#~ "Nie znaleziono adresu e-mail, na który można by wysłać zresetowane hasło."
+
+#~ msgid "Unable to reset your password"
+#~ msgstr "Nie udało się zresetować hasła"
+
+#~ msgid "Next"
+#~ msgstr "Dalej"
+
+#~ msgid "Simple and Easy"
+#~ msgstr "Proste i łatwe"
+
+#~ msgctxt "Choice"
+#~ msgid "One click encryption for Emails and files"
+#~ msgstr "Szyfrowanie wiadomości e-mail i plików jednym kliknięciem"
+
+#~ msgctxt "Choice"
+#~ msgid "Works in all browsers with all your contacts"
+#~ msgstr "Działa we wszystkich przeglądarkach ze wszystkimi kontaktami"
+
+#~ msgctxt "Choice"
+#~ msgid "Easy to use, every day"
+#~ msgstr "Łatwe w codziennym użyciu"
+
+#~ msgctxt "Choice"
+#~ msgid "Security details managed by us"
+#~ msgstr "Szczegóły zabezpieczeń zarządzane przez nas"
+
+#~ msgctxt "Choice"
+#~ msgid ""
+#~ "If you do not have deep knowledge of encryption, but you would like to "
+#~ "easily secure your communication with your friends or business contacts, "
+#~ "this option fits perfectly for you. Safe Email, made simple!"
+#~ msgstr ""
+#~ "Jeśli nie znasz się na szyfrowaniu, a mimo tego zależy Ci na bezpiecznej "
+#~ "komunikacji ze znajomymi lub kontrahentami, skorzystaj z naszej "
+#~ "propozycji. Prosta, bezpieczna poczta!"
+
+#~ msgctxt "Choice"
+#~ msgid "Encryption Expert"
+#~ msgstr "Ekspert szyfrowania"
+
+#~ msgctxt "Choice"
+#~ msgid "Expert encryption options available"
+#~ msgstr "Udostępnione zaawansowane opcje szyfrowania"
+
+#~ msgctxt "Choice"
+#~ msgid "Works only in Firefox and Chrome"
+#~ msgstr "Działa tylko w Firefox i Chrome"
+
+#~ msgctxt "Choice"
+#~ msgid "Browser plugin required"
+#~ msgstr "Wymagana instalacja dodatku w przeglądarce"
+
+#~ msgctxt "Choice"
+#~ msgid "Security details managed by yourself"
+#~ msgstr "Szczegóły zabezpieczeń zarządzane przez Ciebie"
+
+#~ msgctxt "Choice"
+#~ msgid ""
+#~ "If you are an encryption expert, and would like to manage all encryption "
+#~ "details by yourself, this option fits best for you. You need to install a "
+#~ "third-party browser plugin to work with expert encryption."
+#~ msgstr ""
+#~ "Jeśli znasz się na szyfrowaniu i chcesz samodzielnie skonfigurować "
+#~ "wszystkie szczegóły, wybierz tę opcję. Aby wykorzystać funkcje "
+#~ "eksperckie, konieczna będzie instalacja zewnętrznego dodatku do "
+#~ "przeglądarki."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You already set up your %s account. But you can always change your "
+#~ "encryption password, or request a temporary password if you forget it."
+#~ msgstr ""
+#~ "Masz już skonfigurowane konto aplikacji %s. W każdej chwili możesz jednak "
+#~ "zmienić hasło szyfrowania, a jeśli go nie pamiętasz — zamówić hasło "
+#~ "tymczasowe."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You already set up your %s account.  You can change your encryption "
+#~ "password here."
+#~ msgstr ""
+#~ "Masz już skonfigurowane konto aplikacji %s. W tym miejscu możesz zmienić "
+#~ "hasło szyfrowania."
+
+#~ msgctxt "tour"
+#~ msgid "The %s module"
+#~ msgstr "Moduł %s"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Security and privacy matters to everyone. That's why you can now send and "
+#~ "receive encrypted emails by simply clicking on the lock icon."
+#~ msgstr ""
+#~ "Wszyscy potrzebujemy bezpieczeństwa i prywatności. Dlatego wprowadziliśmy "
+#~ "funkcję wysyłania szyfrowanych wiadomości e-mail po kliknięciu ikony "
+#~ "kłódki."
+
+#~ msgctxt "tour"
+#~ msgid "%s Security Settings"
+#~ msgstr "Ustawienia zabezpieczeń %s"
+
+#~ msgctxt "tour"
+#~ msgid "PGP Encryption Settings"
+#~ msgstr "Ustawienia szyfrowania PGP"
+
+#~ msgctxt "tour"
+#~ msgid "Security Settings"
+#~ msgstr "Ustawienia zabezpieczeń"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "From here you can update your encryption settings. For example you can "
+#~ "choose to send encrypted emails by default."
+#~ msgstr ""
+#~ "W tym miejscu możesz aktualizować ustawienia szyfrowania. Możesz na "
+#~ "przykład wybrać domyślne wysyłanie szyfrowanych wiadomości e-mail."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "From here, you can update your security settings.  For example, you can "
+#~ "choose to send secure emails by default."
+#~ msgstr ""
+#~ "W tym miejscu możesz aktualizować ustawienia bezpieczeństwa. Możesz na "
+#~ "przykład wybrać domyślne wysyłanie zabezpieczonych wiadomości."
+
+#~ msgctxt "tour"
+#~ msgid "Signature"
+#~ msgstr "Podpis"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "In addition to encrypting your emails you can also sign them. This means "
+#~ "that email recipients can be sure that the email really came from you. By "
+#~ "ticking this checkbox your signature will be added to outgoing emails by "
+#~ "default."
+#~ msgstr ""
+#~ "Wiadomość możesz nie tylko zaszyfrować, ale również podpisać. Oznacza to, "
+#~ "że odbiorca wiadomości będzie miał pewność co do jej nadawcy. Zaznaczenie "
+#~ "tego pola wyboru oznacza, że wysyłane wiadomości e-mail będą domyślnie "
+#~ "podpisywane."
+
+#~ msgctxt "tour"
+#~ msgid "Alternative: PGP Inline"
+#~ msgstr "Alternatywne rozwiązanie: PGP Inline"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "By default %s sends encrypted emails using PGP/Mime format. To "
+#~ "communicate with some systems you may need to use PGP Inline."
+#~ msgstr ""
+#~ "Domyślnie aplikacja %s wysyła zaszyfrowane wiadomości e-mail w formacie "
+#~ "PGP/Mime. Do komunikacji z niektórymi systemami może być konieczne użycie "
+#~ "PGP Inline."
+
+#~ msgctxt "tour"
+#~ msgid "Advanced Settings"
+#~ msgstr "Ustawienia zaawansowane"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Advanced users can manage their key lists from the PGP Encryption "
+#~ "Settings."
+#~ msgstr ""
+#~ "W części Ustawienia szyfrowania PGP użytkownicy zaawansowani mogą "
+#~ "zarządzać listą kluczy."
+
+#~ msgctxt "tour"
+#~ msgid "Advanced User Settings"
+#~ msgstr "Zaawansowane ustawienia użytkownika"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Enabling Advanced PGP Features will enable key management and specifying "
+#~ "sending formats."
+#~ msgstr ""
+#~ "Włączanie opcji Zaawansowane ustawienia PGP umożliwi zarządzanie kluczami "
+#~ "i wskazanie formatów wysyłki."
+
+#~ msgctxt "tour"
+#~ msgid "Enabling and disabling encryption"
+#~ msgstr "Włączanie i wyłączanie szyfrowania"
+
+#~ msgctxt "tour"
+#~ msgid "You are now able to send secure emails."
+#~ msgstr "Teraz już możesz wysyłać zabezpieczone wiadomości e-mail."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Sending without encryption is easy, too: Simply click on the lock icon "
+#~ "again."
+#~ msgstr ""
+#~ "Wysyłanie bez szyfrowania również jest proste. Wystarczy jeszcze raz "
+#~ "kliknąć ikonę kłódki."
+
+#~ msgctxt "tour"
+#~ msgid "Encrypt files"
+#~ msgstr "Szyfruj pliki"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You can also protect your files. Just click on Encrypt and the selected "
+#~ "file will be stored securely."
+#~ msgstr ""
+#~ "Możesz także zabezpieczyć swoje pliki. Aby to zrobić, kliknij polecenie "
+#~ "Szyfruj."
+
+#~ msgctxt "tour"
+#~ msgid "Encrypt your sensitive files in Drive"
+#~ msgstr "Zaszyfruj poufne pliki w aplikacji Drive"
+
+#~ msgctxt "tour"
+#~ msgid "Restart Guided Tour"
+#~ msgstr "Ponownie uruchom przewodnik"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "<em>Hint:</em> you can start guided tours, any time you need them, from "
+#~ "the system menu."
+#~ msgstr ""
+#~ "<em>Wskazówka:</em> w razie potrzeby przewodniki można w każdej chwili "
+#~ "uruchamiać za pomocą menu systemowego."
+
+#~ msgctxt "tour"
+#~ msgid "Guided Tour completed"
+#~ msgstr "Koniec przewodnika"
+
+#~ msgctxt "tour"
+#~ msgid "You successfully learned how to protect your emails and files."
+#~ msgstr "Wiesz już, jak chronić swoje wiadomości e-mail i pliki."
+
+#~ msgctxt "tour"
+#~ msgid "What you can do now:"
+#~ msgstr "Co możesz teraz zrobić:"
+
+#~ msgctxt "tour"
+#~ msgid "Write an encrypted email"
+#~ msgstr "Napisz szyfrowaną wiadomość e-mail"
+
+#~ msgctxt "tour"
+#~ msgid "Activate encryption for all new emails"
+#~ msgstr "Włącz szyfrowanie wszystkich nowych wiadomości e-mail"
+
+#~ msgctxt "tour"
+#~ msgid "Review your encryption settings"
+#~ msgstr "Przejrzyj ustawienia szyfrowania"
+
+#~ msgctxt "tour"
+#~ msgid "Learn more"
+#~ msgstr "Dowiedz się więcej"
+
+#~ msgid "Start Setup"
+#~ msgstr "Rozpocznij konfigurację"
+
+#~ msgctxt "tour"
+#~ msgid "Setup %s"
+#~ msgstr "Konfiguracja %s"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Welcome to %1$s. You will now be taken on a tour, showing you how to use "
+#~ "%1$s."
+#~ msgstr ""
+#~ "Witamy w %1$s! Za chwilę zaprezentujemy sposób używania funkcji %1$s."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Firstly however, you’ll need to setup %1$s by choosing a password which "
+#~ "will be used to encrypt or decrypt items such as email or files."
+#~ msgstr ""
+#~ "Najpierw musisz jednak ją skonfigurować, podając hasło, które posłuży do "
+#~ "szyfrowania i odszyfrowywania wiadomości e-mail i plików."
+
+#~ msgid "Choose %s Password"
+#~ msgstr "Zmień hasło do aplikacji %s"
+
+#~ msgid "Close"
+#~ msgstr "Zamknij"
+
+#~ msgctxt "tour"
+#~ msgid "%s set up completed"
+#~ msgstr "Ukończono konfigurację aplikacji %s"
+
+#~ msgctxt "tour"
+#~ msgid "Congratulations, you have successfully setup %s"
+#~ msgstr "Gratulacje! Aplikacja %s została prawidłowo skonfigurowana"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Now you can learn more about how to use %s by following the links below:"
+#~ msgstr "Dowiesz się więcej o aplikacji %s, klikając poniższe łącza:"
+
+#~ msgctxt "tour"
+#~ msgid "Learn more about %s"
+#~ msgstr "Dowiedz się więcej o aplikacji %s"
+
+#~ msgid "Choose your security solution"
+#~ msgstr "Wybierz rozwiązanie bezpieczeństwa"
+
+#~ msgid "Key found for %1$s.  Import?"
+#~ msgstr "Znaleziono klucz dla %1$s.  Zaimportować?"
+
+#~ msgid "Import"
+#~ msgstr "Importuj"
+
+#~ msgid "Imported"
+#~ msgstr "Zaimportowano"
+
+#~ msgid "Updated"
+#~ msgstr "Zaktualizowano"
+
+#~ msgid "Invalidated"
+#~ msgstr "Unieważniono"
+
+#~ msgid "Rejected"
+#~ msgstr "Odrzucono"
+
+#~ msgid "Warning"
+#~ msgstr "Ostrzeżenie"
+
+#~ msgid ""
+#~ "Sending an encrypted email from an account other than %s may cause "
+#~ "problems with the recipient being able to reply.  Consider using your "
+#~ "primary account."
+#~ msgstr ""
+#~ "Wysłanie zaszyfrowanej wiadomości e-mail z konta innego niż konto "
+#~ "aplikacji %s może spowodować problemy uniemożliwiające adresatowi "
+#~ "wysłanie odpowiedzi. Rozważ skorzystanie z konta podstawowego."
+
+#~ msgid "Do not warn me again"
+#~ msgstr "Nie ostrzegaj ponownie"
+
+#~ msgid "PGP Info"
+#~ msgstr "Informacje o PGP"
+
+#~ msgid "Content Type"
+#~ msgstr "Typ zawartości"
+
+#~ msgid "PGP Details"
+#~ msgstr "Szczegóły PGP"
+
+#~ msgid ""
+#~ "Mailvelope is not supported in this browser.  Please use Chrome or "
+#~ "Firefox with Mailvelop installed."
+#~ msgstr ""
+#~ "Mailvelope nie jest obsługiwane w tej przeglądarce. Uruchom przeglądarkę "
+#~ "Chrome lub Firefox z zainstalowanym dodatkiem Mailvelope."
+
+#~ msgid "Enter re-enter %s security password"
+#~ msgstr "Wpisz ponownie hasło do %s"
+
+#~ msgid "Download Decrypted"
+#~ msgstr "Pobierz odszyfrowane"
+
+#~ msgid "Download Encrypted"
+#~ msgstr "Pobierz zaszyfrowane"
+
+#~ msgid "View"
+#~ msgstr "Widok"
+
+#~ msgid "Decrypt and Open"
+#~ msgstr "Odszyfruj i otwórz"
+
+#~ msgid "Drop files here to upload"
+#~ msgstr "Przeciągnij tutaj pliki do przesłania"
+
+#~ msgid "Add"
+#~ msgstr "Dodaj"
+
+#~ msgid "Add:"
+#~ msgstr "Dodaj:"
+
+#~ msgid "Must be in the same global address book"
+#~ msgstr "Musi się znajdować w tej samej globalnej książce adresowej"
+
+#~ msgid "Unable to add"
+#~ msgstr "Nie można dodać"
+
+#~ msgid "Select"
+#~ msgstr "Wybierz"
+
+#~ msgid "User"
+#~ msgstr "Użytkownik"
+
+#~ msgid "Retract"
+#~ msgstr "Wycofaj"
+
+#~ msgid "Unable to share"
+#~ msgstr "Nie można udostępnić"
+
+#~ msgid "Remove from share list"
+#~ msgstr "Usuń z listy udostępniania"
+
+#~ msgid "Failed to remove the share"
+#~ msgstr "Nie można usunąć udostępnienia"
+
+#~ msgid "Password Needed"
+#~ msgstr "Potrzebne jest hasło"
+
+#~ msgid "Please provide your %s security password to share this file"
+#~ msgstr "Aby udostępnić ten plik, podaj hasło Zabezpieczenia %s"
+
+#~ msgid "No users in same context"
+#~ msgstr "Nie ma użytkowników w tym samym kontekście"
+
+#~ msgid "The following link will take you to the shared file"
+#~ msgstr "Poniższe łącze umożliwia przejście do udostępnionego pliku"
+
+#~ msgid "Shared file link"
+#~ msgstr "Łącze do udostępnionego pliku"
+
+#~ msgid "Attached encrypted file"
+#~ msgstr "Załączono zaszyfrowany plik"
+
+#~ msgid "Shared file"
+#~ msgstr "Udostępniony plik"
+
+#~ msgid "Add Permissions"
+#~ msgstr "Dodaj uprawnienia"
+
+#~ msgid ""
+#~ "The following users do not have permission to view objects in this folder."
+#~ msgstr ""
+#~ "Niżej wymienieni użytkownicy nie mają uprawnień do wyświetlania obiektów "
+#~ "z tego folderu."
+
+#~ msgid "Do you wish to add read permissions to this folder for these users?"
+#~ msgstr "Czy chcesz dać im uprawnienia do odczytu tego folderu?"
+
+#~ msgid "Failed to add folder sharing permissions"
+#~ msgstr "Nie udało się dodać uprawnień udostępniania folderu"
+
+#~ msgid "%s %s %s"
+#~ msgstr "%s %s %s"
+
+#~ msgid "The provided filename exceeds the allowed length."
+#~ msgstr "Podana nazwa pliku jest zbyt długa."
+
+#~ msgid "The allowed quota is reached."
+#~ msgstr "Osiągnięto limit przydziału."
+
+#~ msgid "This file has not been added"
+#~ msgstr "Plik nie został dodany"
+
+#~ msgid "Upload a new encrypted version"
+#~ msgstr "Prześlij nową zaszyfrowaną wersję"
+
+#~ msgid "Upload file"
+#~ msgstr "Prześlij plik"
+
+#~ msgid "Version Comment"
+#~ msgstr "Komentarz do wersji"
+
+#~ msgid "Upload new encrypted version"
+#~ msgstr "Prześlij nową zaszyfrowaną wersję"
+
+#~ msgid "Uploading..."
+#~ msgstr "Przesyłanie..."
+
+#~ msgid ""
+#~ "You are replying to an email that has not yet been decoded.  The "
+#~ "recipient will not be able to read the contents of the original email."
+#~ msgstr ""
+#~ "Odpowiadasz na e-mail, który nie został jeszcze zdekodowany. Odbiorca nie "
+#~ "będzie mógł poznać treści oryginalnej wiadomości."
+
+#~ msgid ""
+#~ "You are forwarding an email that has not yet been decoded.  The recipient "
+#~ "will not be able to read the contents of the original email."
+#~ msgstr ""
+#~ "Przesyłasz dalej e-mail, który nie został jeszcze zdekodowany. Odbiorca "
+#~ "nie będzie mógł poznać treści oryginalnej wiadomości."
+
+#~ msgid "Re: %1$s"
+#~ msgstr "Odp.: %1$s"
+
+#~ msgid "Fwd: %1$s"
+#~ msgstr "Fwd: %1$s"
+
+#~ msgid "Original Message"
+#~ msgstr "Oryginalna wiadomość"
+
+#~ msgid "From: %1$s"
+#~ msgstr "Od: %1$s"
+
+#~ msgid "To: %1$s"
+#~ msgstr "Do: %1$s"
+
+#~ msgid "CC: %1$s"
+#~ msgstr "DW: %1$s"
+
+#~ msgid "Date: %1$s"
+#~ msgstr "Data: %1$s"
+
+#~ msgid "Subject: %1$s"
+#~ msgstr "Temat: %1$s"
+
+#~ msgid "On %1$s at %2$s %3$s wrote:"
+#~ msgstr "%1$s o %2$s %3$s napisał(a):"
+
+#~ msgid "Attach My Key"
+#~ msgstr "Dołącz mój klucz"
+
+#~ msgid "Do you really want to discard your message?"
+#~ msgstr "Czy na pewno chcesz odrzucić tę wiadomość?"
+
+#~ msgctxt "dialog"
+#~ msgid "Discard message"
+#~ msgstr "Odrzuć wiadomość"
+
+#~ msgid "Save as draft"
+#~ msgstr "Zapisz jako wersję roboczą"
+
+#~ msgid "Mail has empty subject. Send it anyway?"
+#~ msgstr "Wiadomość ma pusty temat. Czy chcesz ją wysłać mimo tego?"
+
+#~ msgid "Yes, send without subject"
+#~ msgstr "Tak, wyślij bez tematu"
+
+#~ msgid "Add subject"
+#~ msgstr "Dodaj temat"
+
+#~ msgid "Unable to authorize against backend"
+#~ msgstr "Nie można autoryzować w systemie zaplecza"
+
+#~ msgid "Save"
+#~ msgstr "Zapisz"
+
+#~ msgid "Saving attachment to Drive"
+#~ msgid_plural "Saving attachments to Drive"
+#~ msgstr[0] "Zapisywanie załącznika w aplikacji Drive"
+#~ msgstr[1] "Zapisywanie załączników w aplikacji Drive"
+#~ msgstr[2] "Zapisywanie załącznika w aplikacji Drive"
+
+#~ msgid "Attachment has been saved"
+#~ msgid_plural "Attachments have been saved"
+#~ msgstr[0] "Zapisano załącznik"
+#~ msgstr[1] "Zapisano załączniki"
+#~ msgstr[2] "Zapisano załączniki"
+
+#~ msgid "Failed to decrypt"
+#~ msgstr "Nie udało się odszyfrować"
+
+#~ msgid "Failed to save attachments"
+#~ msgstr "Nie udało się zapisać załączników"
+
+#~ msgid "Unsupported browser"
+#~ msgstr "Nieobsługiwana przeglądarka"
+
+#~ msgid "Mail has no recipients"
+#~ msgstr "Wiadomość nie ma adresatów"
+
+#~ msgid "Mail saved as draft"
+#~ msgstr "Wiadomość zapisana jako wersja robocza"
+
+#~ msgid "Unable to get keys for all users"
+#~ msgstr "Nie można pobrać klucza dla wszystkich użytkowników"
+
+#~ msgid ""
+#~ "The from address you selected for this email is not associated with an "
+#~ "encryption key.  Please send from your primary account, or optionally, "
+#~ "add the email address to your key using the advanced settings."
+#~ msgstr ""
+#~ "Adres nadawcy wybrany dla danej wiadomości e-mail nie jest powiązany z "
+#~ "kluczem szyfrowania. Wyślij wiadomość z głównego adresu lub dodaj ten "
+#~ "adres do klucza w ustawieniach zaawansowanych."
+
+#~ msgid "An error occurred saving the email."
+#~ msgstr "Podczas zapisywania wiadomości wystąpił błąd."
+
+#~ msgid "An error occurred sending the encrypted email."
+#~ msgstr "Podczas wysyłania zaszyfrowanej wiadomości e-mail wystąpił błąd."
+
+#~ msgid ""
+#~ "At least one of your attachments are encrypted.  Please provide your %s "
+#~ "security password to decrypt before sending"
+#~ msgstr ""
+#~ "Co najmniej jeden z załączników jest zaszyfrowany. Aby go odszyfrować "
+#~ "przed wysłaniem, podaj hasło Zabezpieczenia %s."
+
+#~ msgid "To"
+#~ msgstr "Do"
+
+#~ msgctxt "CC"
+#~ msgid "Copy"
+#~ msgstr "Kopiuj"
+
+#~ msgid "Decoding"
+#~ msgstr "Odkodowywanie"
+
+#~ msgid ""
+#~ "Your pop-up blocker may have prevented a %s window that provides "
+#~ "application functionality."
+#~ msgstr ""
+#~ "Być może blokada wyskakujących okienek zablokowała wyświetlenie okna %s "
+#~ "udostępniającego funkcje aplikacji."
+
+#~ msgid "VCard imported with warnings"
+#~ msgstr "Wizytówka VCard została zaimportowana z ostrzeżeniami"
+
+#~ msgid "Failed to import vcard"
+#~ msgstr "Nie udało się zaimportować wizytówki"
+
+#~ msgid "VCard imported"
+#~ msgstr "Zaimportowano wizytówkę"
+
+#~ msgid "Save Encrypted to Drive"
+#~ msgstr "Zapisz jako szyfrowane w usłudze Drive"
+
+#~ msgid "Save Decoded to Drive"
+#~ msgstr "Zapisz jako nieszyfrowane w usłudze Drive"
+
+#~ msgid "Open in browser"
+#~ msgstr "Otwórz w przeglądarce"
+
+#~ msgid "Import as PGP Public Key"
+#~ msgstr "Importuj jako klucz PGP"
+
+#~ msgid "Add to address book"
+#~ msgstr "Dodaj do książki adresowej"
+
+#~ msgid "no files"
+#~ msgstr "brak plików"
+
+#~ msgid "Save attachment"
+#~ msgstr "Zapisz załącznik"
+
+#~ msgid "Unable to save decrypted file"
+#~ msgstr "Nie można zapisać odszyfrowanego pliku"
+
+#~ msgid "Unable to decrypt"
+#~ msgstr "Nie można odszyfrować"
+
+#~ msgid "Send copy by mail"
+#~ msgstr "Wyślij kopię pocztą"
+
+#~ msgid "Enter %s Security Password"
+#~ msgstr "Wprowadź hasło Zabezpieczenia %s"
+
+#~ msgid "Encrypt Files"
+#~ msgstr "Zaszyfruj pliki"
+
+#~ msgid "Only the latest version of the files will be encrypted."
+#~ msgstr "Zostanie zaszyfrowana tylko najnowsza wersja plików."
+
+#~ msgid "All previous versions will be deleted."
+#~ msgstr "Wszystkie starsze wersje zostaną usunięte."
+
+#~ msgid "This file could not be uploaded."
+#~ msgstr "Przesłanie tego pliku nie było możliwe."
+
+#~ msgid "Upload"
+#~ msgstr "Prześlij"
+
+#~ msgid "Please provide your %s Security Password to share this file"
+#~ msgstr "Aby udostępnić plik, wprowadź hasło Zabezpieczenia %s"
+
+#~ msgid "Bad private key"
+#~ msgstr "Nieprawidłowy klucz prywatny"
+
+#~ msgid "On %1$s %2$s sent:"
+#~ msgstr "%1$s użytkownik %2$s wysłał:"
+
+#~ msgid ""
+#~ "At least one of your attachments are encrypted.  Please provide your %s "
+#~ "Security Password to decrypt before sending"
+#~ msgstr ""
+#~ "Co najmniej jeden załącznik jest zaszyfrowany. Aby go odszyfrować przed "
+#~ "wysłaniem, wprowadź hasło Zabezpieczenia %s."
+
+#~ msgid ""
+#~ "Upload your Mailvelope public keys to the %s server so that other people "
+#~ "can send you encrypted emails"
+#~ msgstr ""
+#~ "Prześlij klucze publiczne Mailvelope na serwer %s, aby inni mogli Ci "
+#~ "wysyłać zaszyfrowane wiadomości e-mail"
+
+#~ msgid "Extra Password"
+#~ msgstr "Dodatkowe hasło"
+
+#~ msgid ""
+#~ "This allows you to set an extra password that will be required for "
+#~ "reading this item."
+#~ msgstr ""
+#~ "Umożliwia skonfigurowanie dodatkowego hasła, które będzie wymagane do "
+#~ "odczytania elementu."
+
+#~ msgid "Please enter it below"
+#~ msgstr "Wprowadź w poniższym polu"
+
+#~ msgid "Please enter your %s Security password"
+#~ msgstr "Wprowadź hasło Zabezpieczenia %s"
+
+#~ msgid "Failed to add extra password"
+#~ msgstr "Nie udało się skonfigurować dodatkowego hasła"
+
+#~ msgid "Remember Password"
+#~ msgstr "Pamiętaj hasło"
+
+#~ msgid ""
+#~ "HTML formatted emails may cause issues with PGP inline.  Click OK to "
+#~ "change to Plain Text formatted Emails"
+#~ msgstr ""
+#~ "W wiadomościach e-mail w formacie HTML mogą występować problemy z "
+#~ "szyfrowaniem PGP Inline. Kliknij przycisk OK, aby włączyć wiadomości e-"
+#~ "mail formatowane jako zwykły tekst."
+
+#~ msgid "Secure Email, enter your %s security password"
+#~ msgstr "Zabezpiecz pocztę e-mail, wprowadzając hasło Zabezpieczenia %s"
+
+#~ msgid ""
+#~ "The new recipients listed below will be sent a password via email.  You "
+#~ "can also require a seperate pin, which is displayed below"
+#~ msgstr ""
+#~ "Przedstawiona poniżej nowa lista odbiorców otrzyma hasło przez e-mail. "
+#~ "Konieczne może być podanie oddzielnego, podanego poniżej kodu PIN"
+
+#~ msgid ""
+#~ "You may deliver this pin any way you see fit, but we recommend doing it "
+#~ "in a second method other than email (Phone, SMS, Skype, etc)"
+#~ msgstr ""
+#~ "Możesz go dostarczyć w dowolny sposób, ale zalecamy to zrobić inaczej niż "
+#~ "przez e-mail (telefon, SMS, Skype itp)"
+
+#~ msgid "If you want this extra pin requirement, click OK"
+#~ msgstr ""
+#~ "Jeśli chcesz skorzystać z tego dodatkowego zabezpieczenia, kliknij "
+#~ "przycisk OK"
+
+#~ msgid "Please enter your %s password to sign this email"
+#~ msgstr "Aby podpisać wiadomość e-mail, wprowadź hasło aplikacji %s"
+
+#~ msgid "Please enter your %s password for signing"
+#~ msgstr "W celu podpisania wprowadź hasło aplikacji %s"
+
+#~ msgid "Problems creating keys, please try again later"
+#~ msgstr ""
+#~ "Podczas tworzenia kluczy wystąpiły problemy. Spróbuj ponownie później."
+
+#~ msgid ""
+#~ "Problems creating keys.  Keys already exist for this email address in "
+#~ "another account"
+#~ msgstr ""
+#~ "Problem tworzenia kluczy wystąpił problem. Na innym koncie istnieją już "
+#~ "klucze dla tego adresu e-mail"
+
+#~ msgid ""
+#~ "Please choose the password you will use for %s. You will need to type "
+#~ "this password whenever you want to encrypt or decrypt items. Remember it "
+#~ "should be different from your login password, and will not change if you "
+#~ "change your login password"
+#~ msgstr ""
+#~ "Wybierz hasło używane dla %s. Musisz je wpisać za każdym razem, gdy "
+#~ "chcesz coś zaszyfrować lub odszyfrować. Pamiętaj, że powinno się różnić "
+#~ "od hasła logowania i nie będzie się zmieniało razem z nim."
+
+#~ msgid "Please enter a password to protect your new encrypted items"
+#~ msgstr "Aby chronić nowe zaszyfrowane elementy, wprowadź hasło"
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password"
+#~ msgstr ""
+#~ "Wprowadź zapasowy adres e-mail na wypadek konieczności zresetowania hasła"
+
+#~ msgid "Rember my password"
+#~ msgstr "Pamiętaj moje hasło"
+
+#~ msgid "This Email was signed and verified"
+#~ msgstr "Wiadomość e-mail została podpisana i zweryfikowana"
+
+#~ msgid "This Email was signed but unable to verify"
+#~ msgstr "Wiadomość e-mail została podpisana, lecz nie została zweryfikowana"
+
+#~ msgid "This Email was signed and failed verification"
+#~ msgstr "Wiadomość e-mail została podpisana, lecz nie została zweryfikowana"
+
+#~ msgid ""
+#~ "Please change the initial temporary %s security password that was sent to "
+#~ "you in a seperate email."
+#~ msgstr ""
+#~ "Zmień początkowe, tymczasowe  hasło Zabezpieczenia %s przekazane Ci w "
+#~ "osobnej wiadomości e-mail."
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password</p>"
+#~ msgstr ""
+#~ "Wprowadź zapasowy adres e-mail na wypadek konieczności zresetowania "
+#~ "hasła</p>"
+
+#~ msgid "This Email was signed by the sender and verified"
+#~ msgstr "Wiadomość e-mail została podpisana przez nadawcę i zweryfikowana"
+
+#~ msgid "If you already have a private key, you can upload it here"
+#~ msgstr "Jeśli masz już prywatny klucz, prześlij go tutaj"
+
+#~ msgid "Finally, you can have a new PGP Key Pair created for your account"
+#~ msgstr ""
+#~ "Wreszcie możesz mieć utworzoną nową parę kluczy PGP dla swojego konta"
+
+#~ msgid "Add a name and email address to this public key"
+#~ msgstr "Dodaj nazwę i adres e-mail do tego klucza publicznego"
+
+#~ msgid "PGP default to using PGP inline for compatibility"
+#~ msgstr ""
+#~ "Domyślne ustawienie PGP zapewniające użycie PGP Inline ze względu na "
+#~ "zgodność"
+
+#~ msgid "Please verify your password before deleting the recovery"
+#~ msgstr "Zweryfikuj hasło przed usunięciem odzyskiwania"
+
+#~ msgid "A new password has been sent to your email address"
+#~ msgstr "Nowe hasło zostało wysłane na Twój adres e-mail"
+
+#~ msgid "A new password has been sent to your secondary email address"
+#~ msgstr "Nowe hasło zostało wysłane na Twój zapasowy adres e-mail"
+
+#~ msgid "No password recovery is available"
+#~ msgstr "Brak opcji odzyskania hasła"
+
+#~ msgid "Password reset, but unable to send to your email address"
+#~ msgstr ""
+#~ "Hasło zostało zresetowane, ale nie można go wysłać na Twój adres e-mail"
+
+#~ msgid "Unable to find email address to send password reset"
+#~ msgstr ""
+#~ "Nie znaleziono adresu e-mail, na który można by wysłać zresetowane hasło"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Enabling Advanced PGP Features will enable key management and specifying "
+#~ "sending formats"
+#~ msgstr ""
+#~ "Włączanie opcji Zaawansowane ustawienia PGP umożliwi zarządzanie kluczami "
+#~ "i wskazanie formatów wysyłki."
+
+#~ msgid "This email was sent with an extra password."
+#~ msgstr "Wiadomość e-mail została wysłana z opcją dodatkowego hasła."
+
+#~ msgid "Please enter below"
+#~ msgstr "Wprowadź w poniższym polu"
+
+#~ msgid "An error occurred during sending the encrypted email."
+#~ msgstr "Podczas wysyłania zaszyfrowanej wiadomości e-mail wystąpił błąd."
+
+#~ msgid "This appears to be the first time you have used Encryption"
+#~ msgstr "Wygląda na to, że używasz szyfrowania po raz pierwszy"
+
+#~ msgid ""
+#~ "Please change the temporary %s security password that was sent to you in "
+#~ "a seperate email."
+#~ msgstr ""
+#~ "Zmień tymczasowe hasło Zabezpieczenia %s przekazane Ci w osobnej "
+#~ "wiadomości e-mail."
+
+#~ msgid "%s PGP Settings"
+#~ msgstr "Ustawienia PGP aplikacji %s"
+
+#~ msgid "Changed"
+#~ msgstr "Zmieniono"
+
+#~ msgctxt "tour"
+#~ msgid "Sending without encryption"
+#~ msgstr "Wysyłanie bez szyfrowania"
+
+#~ msgctxt "tour"
+#~ msgid "Create Your %s Account"
+#~ msgstr "Utwórz swoje konto aplikacji %s"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You now need to choose a password which will be used to encrypt or "
+#~ "decrypt items. You only need to set this up once. Your password will then "
+#~ "remain valid until you change it."
+#~ msgstr ""
+#~ "Wpisz hasło potrzebne do szyfrowania lub odszyfrowywania zawartości. "
+#~ "Wystarczy to zrobić raz. Hasło będzie ważne, dopóki nie zostanie "
+#~ "zmienione."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You successfully set up secure communication. Your private key has been "
+#~ "created."
+#~ msgstr ""
+#~ "Utworzyliśmy Twój klucz prywatny. Oznacza to, że mechanizm bezpiecznej "
+#~ "komunikacji został pomyślnie skonfigurowany."
+
+#~ msgid ""
+#~ "Upload your Mailvelope public keys to the Guard server so that other "
+#~ "people can send you encrypted emails"
+#~ msgstr ""
+#~ "Prześlij klucze publiczne Mailvelope do serwera Guard. Pozwoli to innym "
+#~ "osobom na wysyłanie do Ciebie zaszyfrowanych wiadomości"
+
+#~ msgid ""
+#~ "Your pop-up blocker may have prevented a Guard window that provides "
+#~ "application functionality."
+#~ msgstr ""
+#~ "Mechanizm blokowania okienek wyskakujących uniemożliwił wyświetlenie okna "
+#~ "aplikacji Guard zapewniającej część potrzebnych funkcji."
+
+#~ msgid "Please enter your Guard Security password"
+#~ msgstr "Wprowadź hasło aplikacji Guard Security"
+
+#~ msgid "Enter Guard Security Password"
+#~ msgstr "Wprowadź hasło aplikacji Guard Security"
+
+#~ msgid "Please provide your Guard Security Password to share this file"
+#~ msgstr "Aby udostępnić ten plik, podaj hasło aplikacji Guard Security"
+
+#~ msgid "Secure Email, enter your Guard security password"
+#~ msgstr ""
+#~ "Bezpieczna wiadomość e-mail — Wprowadź hasło aplikacji Guard Security"
+
+#~ msgid "Keep me logged into Guard"
+#~ msgstr "Nie wylogowuj mnie z aplikacji Guard"
+
+#~ msgid "Will create new guest account for Guard"
+#~ msgstr "Spowoduje utworzenie nowego konta gościa dla aplikacji Guard"
+
+#~ msgid "Have encryption key"
+#~ msgstr "Jest dostępny klucz szyfrowania"
+
+#~ msgid "Please enter your Guard password to sign this email"
+#~ msgstr "Aby podpisać wiadomość, wprowadź hasło aplikacji Guard"
+
+#~ msgid "Please enter your Guard password for signing"
+#~ msgstr "Aby podpisywać wiadomości, wprowadź hasło do aplikacji Guard"
+
+#~ msgid ""
+#~ "At least one of your attachments are encrypted.  Please provide your "
+#~ "Guard Security Password to decrypt before sending"
+#~ msgstr ""
+#~ "Co najmniej jeden załącznik jest zaszyfrowany. Aby go odszyfrować przed "
+#~ "wysłaniem, podaj hasło aplikacji Guard Security."
+
+#~ msgid "Automated Email Language"
+#~ msgstr "Automatyczny język wiadomości e-mail"
+
+#~ msgid "Create Guard Security Keys"
+#~ msgstr "Utwórz klucze aplikacji Guard Security"
+
+#~ msgid "First Guard Security Password Use"
+#~ msgstr "Pierwsze użycie hasła aplikacji Guard Security"
+
+#~ msgid ""
+#~ "Please change the temporary Guard security password that was sent to you "
+#~ "in a seperate email."
+#~ msgstr ""
+#~ "Zmień hasło tymczasowe aplikacji Guard Security wysłane w osobnej "
+#~ "wiadomości e-mail."
+
+#~ msgid "Please enter your Guard password"
+#~ msgstr "Wpisz hasło aplikacji Guard"
+
+#~ msgid ""
+#~ "Please change the initial temporary Guard security password that was sent "
+#~ "to you in a seperate email."
+#~ msgstr ""
+#~ "Zmień początkowe hasło tymczasowe aplikacji Guard Security wysłane w "
+#~ "osobnej wiadomości e-mail."
+
+#~ msgid "Guard PGP Settings"
+#~ msgstr "Ustawienia PGP aplikacji Guard"
+
+#~ msgid ""
+#~ "If you would like to upload a public key only, then do so here.  This "
+#~ "will allow you to encrypt files and receive encrypted emails using Guard, "
+#~ "but you will need to use the private key with another program to decode "
+#~ "the items."
+#~ msgstr ""
+#~ "Jeśli chcesz przesłać tylko klucz publiczny, zrób to tutaj. Umożliwi Ci "
+#~ "to szyfrowanie plików i odbieranie szyfrowanych wiadomości e-mail za "
+#~ "pomocą aplikacji Guard, ale odszyfrowywanie elementów będzie wymagało "
+#~ "użycia klucza prywatnego w innym programie."
+
+#~ msgid "Guided tour for Guard"
+#~ msgstr "Przewodnik po aplikacji Guard"
+
+#~ msgid "Sign out Guard"
+#~ msgstr "Wyloguj z aplikacji Guard"
+
+#~ msgctxt "app"
+#~ msgid "Guard Security"
+#~ msgstr "Guard Security"
+
+#~ msgid ""
+#~ "In order to start with Guard Security, you must set up a password for "
+#~ "your secured files."
+#~ msgstr ""
+#~ "Aby zacząć pracę z aplikacją Guard Security, musisz ustawić w niej hasło "
+#~ "do zabezpieczonych plików."
+
+#~ msgid "Guard Security Settings"
+#~ msgstr "Ustawienia aplikacji Guard Security"
+
+#~ msgid "Change Guard Security Password."
+#~ msgstr "Zmień hasło aplikacji Guard Security."
+
+#~ msgid "Enter current Guard security password"
+#~ msgstr "Wprowadź bieżące hasło aplikacji Guard Security"
+
+#~ msgid "Enter new Guard security password"
+#~ msgstr "Wprowadź nowe hasło aplikacji Guard Security"
+
+#~ msgid "Verify new Guard security password"
+#~ msgstr "Zweryfikuj nowe hasło aplikacji Guard Security"
+
+#~ msgid "Change Guard security password"
+#~ msgstr "Zmień hasło aplikacji Guard Security"
+
+#~ msgid "Reset Guard security password"
+#~ msgstr "Zresetuj hasło aplikacji Guard Security"
+
+#~ msgid ""
+#~ "Send a temporary Guard security password to my secondary Email address."
+#~ msgstr ""
+#~ "Wyślij tymczasowe hasło aplikacji Guard Security na mój zapasowy adres e-"
+#~ "mail."
+
+#~ msgctxt "tour"
+#~ msgid "The Guard module"
+#~ msgstr "Moduł Guard"
+
+#~ msgctxt "tour"
+#~ msgid "Guard Security Settings"
+#~ msgstr "Ustawienia bezpieczeństwa aplikacji Guard"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You already set up your Guard account. But you can always change your "
+#~ "encryption password, or request a temporary password if you forget it."
+#~ msgstr ""
+#~ "Konto Guard już jest skonfigurowane. Jednak w każdej chwili możesz "
+#~ "zmienić hasło szyfrowania lub poprosić o hasło tymczasowe, jeśli go "
+#~ "zapomnisz."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "By default Guard sends encrypted emails using PGP/Mime format. To "
+#~ "communicate with some systems you may need to use PGP Inline."
+#~ msgstr ""
+#~ "Domyślnie moduł Guard wysyła zaszyfrowane wiadomości za pomocą formatu "
+#~ "PGP/MIME. Jednak do komunikacji z niektórymi systemami konieczne może być "
+#~ "wpisywanie zaszyfrowanej wiadomości PGP w treści e-maila."
+
+#~ msgctxt "tour"
+#~ msgid "Remove encryption"
+#~ msgstr "Usuń szyfrowanie"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Removing the encryption is easy, too: Simply click on the lock icon again."
+#~ msgstr ""
+#~ "Usunięcie szyfrowania też jest proste: wystarczy jeszcze raz kliknąć "
+#~ "ikonę kłódki."
+
+#~ msgctxt "tour"
+#~ msgid "Create Your Guard Account"
+#~ msgstr "Utwórz konto Guard"
+
+#~ msgctxt "tour"
+#~ msgid "Guard set up completed"
+#~ msgstr "Moduł Guard został pomyślnie skonfigurowany"
+
+#~ msgctxt "Choice"
+#~ msgid "Works only in all browsers with all your contacts"
+#~ msgstr "Działa we wszystkich przeglądarkach i ze wszystkimi kontaktami"
+
+#~ msgid "Click to enable encryption"
+#~ msgstr "Kliknij, aby włączyć szyfrowanie"
+
+#~ msgid "Click to disable encryption"
+#~ msgstr "Kliknij, aby wyłączyć szyfrowanie"
+
+#~ msgid "Error.  Please reload message"
+#~ msgstr "Błąd. Załaduj wiadomość ponownie"
+
+#~ msgid "You have exceeded bad password attempts.  Please wait %s minutes"
+#~ msgstr ""
+#~ "Osiągnięto limit prób użycia nieprawidłowego hasła. Odczekaj %s min."
+
+#~ msgid ""
+#~ "This email has expired and can no longer be accessed.  Contact the sender "
+#~ "for more information."
+#~ msgstr ""
+#~ "Wiadomość e-mail wygasła i nie można uzyskać do niej dostępu. Aby uzyskać "
+#~ "więcej informacji, skontaktuj się z nadawcą."
+
+#~ msgid ""
+#~ "This Email has been retracted by the sender and can no longer be "
+#~ "accessed.  Contact the sender for more information."
+#~ msgstr ""
+#~ "Wiadomość e-mail została wycofana przez nadawcę i nie można uzyskać do "
+#~ "niej dostępu. Aby uzyskać więcej informacji, skontaktuj się z nadawcą."
+
+#~ msgid "Unable to decrypt Email."
+#~ msgstr "Nie można odszyfrować wiadomości e-mail."
+
+#~ msgid "The sender added an extra password encryption."
+#~ msgstr "Nadawca zastosował szyfrowanie wymagające dodatkowego hasła."
+
+#~ msgid "Save Encrypted"
+#~ msgstr "Zapisz zaszyfrowane"
+
+#~ msgid "Save Decrypted"
+#~ msgstr "Zapisz odszyfrowane"
+
+#~ msgid ""
+#~ "This Email was sent encrypted. It has been decrypted with your private key"
+#~ msgstr ""
+#~ "Wiadomość e-mail została wysłana jako zaszyfrowana. Odszyfrowano ją przy "
+#~ "użyciu klucza prywatnego."
+
+#~ msgid "Expires: "
+#~ msgstr "Wygasa:"
+
+#~ msgid "Retract Email"
+#~ msgstr "Wycofaj wiadomość e-mail"
+
+#~ msgid "Email status"
+#~ msgstr "Status wiadomości e-mail"
+
+#~ msgid "Retract all access"
+#~ msgstr "Wycofaj wszelki dostęp"
+
+#~ msgid "Email has not been opened."
+#~ msgstr "Wiadomość e-mail nie została otwarta."
+
+#~ msgid "Email has been opened."
+#~ msgstr "Wiadomość e-mail została otwarta."
+
+#~ msgid "Email has been retracted."
+#~ msgstr "Wiadomość e-mail została wycofana."
+
+#~ msgid "Unable to get email status, please try again later"
+#~ msgstr ""
+#~ "Nie udało się uzyskać statusu wiadomości e-mail. Spróbuj ponownie później."
+
+#~ msgid "This will retract the email for all recipients. Click OK to confirm."
+#~ msgstr ""
+#~ "Spowoduje to wycofanie wiadomości e-mail w przypadku wszystkich "
+#~ "adresatów. Kliknij OK, aby potwierdzić."
+
+#~ msgid "Item was retracted"
+#~ msgstr "Pozycja została wycofana."
+
+#~ msgid "Not all items retracted"
+#~ msgstr "Nie udało się wycofać wszystkich pozycji"
+
+#~ msgid "Failed to retract"
+#~ msgstr "Nie udało się wycofać"
+
+#~ msgctxt "tour"
+#~ msgid "Learn more …"
+#~ msgstr "Dowiedz się więcej..."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "From here you can update you encryption settings. For example you can "
+#~ "choose to send encrypted emails by default."
+#~ msgstr ""
+#~ "W tym miejscu możesz zmienić ustawienia szyfrowania. Możesz na przykład "
+#~ "ustawić domyślne wysyłanie zaszyfrowanych wiadomości."
+
+#~ msgid "Message was saved"
+#~ msgstr "Wiadomość została zapisana"
+
+#~ msgid "Problem creating keys"
+#~ msgstr "Problem z tworzeniem kluczy"
+
+#~ msgctxt "tour"
+#~ msgid "Please click on the lock icon."
+#~ msgstr "Kliknij ikonę kłódki."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Please choose your password now, enter a secondary email address and "
+#~ "click on Ok."
+#~ msgstr "Wpisz hasło, podaj dodatkowy adres e-mail i kliknij przycisk OK."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You can always change your encryption password, or request a temporary "
+#~ "password if you forget it."
+#~ msgstr ""
+#~ "Zawsze możesz zmienić hasło szyfrujące lub, jeśli go zapomnisz, poprosić "
+#~ "o hasło tymczasowe."
+
+#~ msgctxt "tour"
+#~ msgid "Congratulations! You are now able to send secure emails."
+#~ msgstr ""
+#~ "Gratulacje! Od teraz możesz wysyłać zabezpieczone wiadomości e-mail."
+
+#~ msgctxt "tour"
+#~ msgid "Please remove the encryption now by clicking on the lock icon again."
+#~ msgstr "Usuń szyfrowanie, klikając ponownie ikonę kłódki."
+
+#~ msgid "%s already encrypted"
+#~ msgstr "Plik %s jest już zaszyfrowany"
+
+#~ msgid "Add folder"
+#~ msgstr "Dodaj folder"
+
+#~ msgid "Already Protected With Additional Password"
+#~ msgstr "Jest już włączona ochrona dodatkowym hasłem"
+
+#~ msgid "Click to disable PGP encryption"
+#~ msgstr "Kliknij, aby wyłączyć szyfrowanie PGP"
+
+#~ msgid "Done"
+#~ msgstr "Gotowe"
+
+#~ msgid "Drop here to upload a <b class=\"dndignore\">new encrypted file</b>"
+#~ msgstr ""
+#~ "Aby przesłać <b class=\"dndignore\">nowy zaszyfrowany plik</b>, upuść go "
+#~ "tutaj"
+
+#~ msgid "Encrypting "
+#~ msgstr "Szyfrowanie"
+
+#~ msgid "Encrypting %s"
+#~ msgstr "Szyfrowanie pliku %s"
+
+#~ msgid "FW: %1$s"
+#~ msgstr "FW: %1$s"
+
+#~ msgid "Failed to encrypt file"
+#~ msgstr "Nie udało się zaszyfrować pliku"
+
+#~ msgid "Folder name"
+#~ msgstr "Nazwa folderu"
+
+#~ msgid "New Encrypted folder"
+#~ msgstr "Nowy zaszyfrowany folder"
+
+#~ msgid "New Encrypted subfolder"
+#~ msgstr "Nowy zaszyfrowany podfolder"
+
+#~ msgid "New encrypted subfolder"
+#~ msgstr "Nowy zaszyfrowany podfolder"
+
+#~ msgid "New folder"
+#~ msgstr "Nowy folder"
+
+#~ msgid "New public folder"
+#~ msgstr "Nowy folder publiczny"
+
+#~ msgid ""
+#~ "One of your recipients requires emails to be sent as PGP Inline.  "
+#~ "Changing now."
+#~ msgstr ""
+#~ "W przypadku jednego z adresatów wymagane jest wysyłanie wiadomości e-mail "
+#~ "przy użyciu PGP Inline. Następuje zmiana."
+
+#~ msgid "PGP key exists for this person"
+#~ msgstr "Istnieje klucz PGP dla tej osoby"
+
+#~ msgid "Require Additional Password"
+#~ msgstr "Wymagaj dodatkowego hasła"
+
+#~ msgid "Security Options"
+#~ msgstr "Opcje zabezpieczeń"
+
+#~ msgid "Send encrypted (PGP)"
+#~ msgstr "Wyślij zaszyfrowane (PGP)"
+
+#~ msgid "Share keys with other users to decrypt this file"
+#~ msgstr "Udostępnij klucze innym użytkownikom w celu odszyfrowania pliku"
+
+#~ msgid "Share link"
+#~ msgstr "Udostępnij łącze"
+
+#~ msgid "Sharing"
+#~ msgstr "Udostępnianie"
+
+#~ msgid "Sign email"
+#~ msgstr "Podpisz wiadomość e-mail"
+
+#~ msgid "Status"
+#~ msgstr "Status"
+
+#~ msgid "Stop"
+#~ msgstr "Zatrzymaj"
+
+#~ msgid "The key for %1$s is expired and should not be used"
+#~ msgstr "Klucz dla „%1$s” wygasł i nie należy go używać"
+
+#~ msgid "Unable to create Guard account, please try again later"
+#~ msgstr ""
+#~ "Nie udało się utworzyć konta aplikacji Guard. Spróbuj ponownie później."
+
+#~ msgid "Upload new files to encrypt"
+#~ msgstr "Prześlij nowe pliki do zaszyfrowania"
+
+#~ msgid "Use PGP inline (compatibility)"
+#~ msgstr "Użyj PGP w tekście (zgodność)"
+
+#~ msgid "%s hours"
+#~ msgstr "%s godz."
+
+#~ msgid "%s week"
+#~ msgstr "%s tydzień"
+
+#~ msgid "%s weeks"
+#~ msgstr "%s tyg."
+
+#~ msgid "Added keys:"
+#~ msgstr "Dodane klucze:"
+
+#~ msgid "CC:"
+#~ msgstr "DW:"
+
+#~ msgid "Click to disable Guard"
+#~ msgstr "Kliknij, aby wyłączyć aplikację Guard"
+
+#~ msgid "Click to enable Guard"
+#~ msgstr "Kliknij, aby włączyć aplikację Guard"
+
+#~ msgid "Confirm Guard Password"
+#~ msgstr "Potwierdź hasło do aplikacji Guard"
+
+#~ msgid "Create Guard Account"
+#~ msgstr "Utwórz konto aplikacji Guard"
+
+#~ msgid "Date:"
+#~ msgstr "Data:"
+
+#~ msgid "Decode"
+#~ msgstr "Odkoduj"
+
+#~ msgid "Default signing outgoing PGP mails"
+#~ msgstr "Domyślne podpisywanie wysyłanej poczty PGP"
+
+#~ msgid "Defaults"
+#~ msgstr "Domyślne"
+
+#~ msgid "Download (OG)"
+#~ msgstr "Pobierz"
+
+#~ msgid "Enable Guard"
+#~ msgstr "Włącz aplikację Guard"
+
+#~ msgid "Encrypted email has been sent successfully."
+#~ msgstr "Pomyślnie wysłano zaszyfrowaną wiadomość e-mail."
+
+#~ msgid "Encrypting"
+#~ msgstr "Szyfrowanie"
+
+#~ msgid "From:"
+#~ msgstr "Od:"
+
+#~ msgid "Fwd:"
+#~ msgstr "PD:"
+
+#~ msgid "IDs:"
+#~ msgstr "Identyfikatory:"
+
+#~ msgid "Initializing Guard, please wait"
+#~ msgstr "Inicjowanie aplikacji Guard. Czekaj."
+
+#~ msgid "Inline"
+#~ msgstr "W tekście"
+
+#~ msgid "Make Guard default to PGP compliant"
+#~ msgstr "Ustaw aplikację Guard domyślnie jako zgodną z PGP"
+
+#~ msgid "Never"
+#~ msgstr "Nigdy"
+
+#~ msgid "No recipients"
+#~ msgstr "Brak odbiorców"
+
+#~ msgid "None"
+#~ msgstr "Brak"
+
+#~ msgid "Not able to contact guard server"
+#~ msgstr "Brak kontaktu z serwerem Guard"
+
+#~ msgid "On"
+#~ msgstr "dn."
+
+#~ msgid "Open"
+#~ msgstr "Otwórz"
+
+#~ msgid "Open Decoded"
+#~ msgstr "Otwórz odkodowane"
+
+#~ msgid "PGP Compliant Guard"
+#~ msgstr "Aplikacja Guard zgodna z PGP"
+
+#~ msgid "PGP default to PGP inline for compatibility"
+#~ msgstr "PGP domyślnie jako PGP w tekście (w celu zachowania zgodności)"
+
+#~ msgid "Please enter a password to protect your Guard account"
+#~ msgstr "Wprowadź hasło, aby chronić konto aplikacji Guard"
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password.  A new password would be sent to this email."
+#~ msgstr ""
+#~ "Wprowadź zapasowy adres e-mail na wypadek konieczności zresetowania "
+#~ "hasła. Nowe hasło zostanie wysłane na ten adres."
+
+#~ msgid "Please select the file location of your private key."
+#~ msgstr "Wybierz lokalizację pliku klucza prywatnego."
+
+#~ msgid "Private Key Password"
+#~ msgstr "Hasło klucza prywatnego"
+
+#~ msgid "Problem uploading Private Key"
+#~ msgstr "Wystąpił problem z przesyłaniem prywatnego klucza"
+
+#~ msgid "Public Key List"
+#~ msgstr "Lista kluczy publicznych"
+
+#~ msgid "Recipient has Guard"
+#~ msgstr "Adresat ma aplikację Guard"
+
+#~ msgid "Retract in"
+#~ msgstr "Wycofaj za"
+
+#~ msgid "Save Decoded"
+#~ msgstr "Zapisz odkodowane"
+
+#~ msgid "Shared"
+#~ msgstr "Udostępniony"
+
+#~ msgid "Sign PGP"
+#~ msgstr "Zaloguj za pomocą PGP"
+
+#~ msgid "Subject:"
+#~ msgstr "Temat:"
+
+#~ msgid ""
+#~ "The key will be used locally only.  It will not be sent to the server."
+#~ msgstr ""
+#~ "Klucz będzie używany tylko lokalnie. Nie będzie wysyłany do serwera."
+
+#~ msgid "This appears to be the first time you have used Guard"
+#~ msgstr "Wygląda na to, że używasz aplikacji Guard po raz pierwszy"
+
+#~ msgid "To:"
+#~ msgstr "Do:"
+
+#~ msgid "Unable to get key for encryption"
+#~ msgstr "Nie można uzyskać klucza na potrzeby szyfrowania"
+
+#~ msgid "Unable to load"
+#~ msgstr "Nie można załadować"
+
+#~ msgid "Use Guard when composing a new email"
+#~ msgstr "Podczas pisania nowej wiadomości e-mail, użyj aplikacji Guard"
+
+#~ msgid "Using a guest account for email"
+#~ msgstr "Do poczty e-mail jest używane konto gościa"
+
+#~ msgid "Your private key"
+#~ msgstr "Twój klucz prywatny"
+
+#~ msgid "Your public key"
+#~ msgstr "Twój klucz publiczny"
+
+#~ msgid "popup blocked"
+#~ msgstr "wyskakujące okienko zablokowane"

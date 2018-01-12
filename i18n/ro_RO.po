@@ -1,0 +1,2635 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: open-xchange-guard-ui\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2018-01-12 09:06-0500\n"
+"Last-Translator: Greg Hill <greg.hill@open-xchange.com>\n"
+"Language-Team: Romanian <ro@bureau-cornavin.com>\n"
+"Language: ro_RO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?"
+"2:1));\n"
+"X-Generator: Poedit 1.6.10\n"
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "Toggle Encryption"
+msgstr ""
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "Not Supported"
+msgstr "Nu este suportat"
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "%s is not supported with secured email and will be disabled."
+msgstr "%s nu este suportat pentru e-mailuri securizate și se va dezactiva."
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "OK"
+msgstr "OK"
+
+#. %s product Name
+#: apps/mailvelope/settings.js module:oxguard
+msgid "Mailvelope"
+msgstr "Mailvelope"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Mailvelope Not Supported"
+msgstr "Mailvelope nu este suportat"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid ""
+"Mailvelope is only supported in Google Chrome or Mozilla Firefox.  Please "
+"use one of these broswers to set up encryption."
+msgstr ""
+"Mailvelope este suportat doar în Google Chrome sau Mozilla Firefox. "
+"Utilizați unul dintre aceste navigatoare pentru a configura criptatrea."
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Encrypted communication"
+msgstr "Comunicare criptată"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Download browser plugin"
+msgstr "Descărcați modulul pentru navigator"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Generate"
+msgstr "Generează"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Congratulations! You have successfully set up encryption."
+msgstr "Felicitări! Ați configurat criptarea cu succes."
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Prepare"
+msgstr "Pregătește"
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Password"
+msgstr "Parolă"
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Three steps to setup encrypted communication:"
+msgstr "Trei etape de configurare a comunicării criptate:"
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Download browser plugin “Mailvelope”"
+msgstr "Descărcați modulul “Mailvelope” pentru navigator"
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Create encryption keys for secure communication"
+msgstr "Creați chei de criptare pentru comunicare securizată"
+
+#~ msgid "Mailvelope Advanced"
+#~ msgstr "Mailvelope avansat"
+
+#~ msgid "Error"
+#~ msgstr "Eroare"
+
+#~ msgid ""
+#~ "Backup your Mailvelope private keys to the server.  The keys will be "
+#~ "encrypted requiring a security code for restore"
+#~ msgstr ""
+#~ "Creați o copie de rezervă a cheilor private Mailvelope pe server. Cheile "
+#~ "vor fi criptate și vor necesita un cod de securitate pentru restaurare"
+
+#~ msgid "Backup"
+#~ msgstr "Copie de rezervă"
+
+#~ msgid "Discard previously saved private keys."
+#~ msgstr "Renunță la cheile private salvate anterior."
+
+#~ msgid "Discard backup"
+#~ msgstr "Renunță la copia de rezervă"
+
+#~ msgid "Restore previously saved private keys."
+#~ msgstr "Restaurează cheile private salvate."
+
+#~ msgid "Restore"
+#~ msgstr "Restaurează"
+
+#~ msgid ""
+#~ "Upload your Mailvelope public keys to the %s server so that other people "
+#~ "can send you encrypted emails."
+#~ msgstr ""
+#~ "Încărcați-vă cheile publice Mailvelope pe serverul %s, astfel încât alții "
+#~ "să vă poată trimite mesaje criptate."
+
+#~ msgid "Upload Public Key"
+#~ msgstr "Încarcă cheia publică"
+
+#~ msgid "Backup and Recovery"
+#~ msgstr "Copie de rezervă și recuperare"
+
+#~ msgid "No backup data available"
+#~ msgstr "Nu există date de rezervă"
+
+#~ msgid ""
+#~ "You can now backup your keys. Please store the provided password secure. "
+#~ "It is also possible to skip this step and do the backup later. You can "
+#~ "find it in the settings."
+#~ msgstr ""
+#~ "Puteți crea acum o copie de rezervă a cheilor. Stocați parola furnizată "
+#~ "într-un loc sigur. Puteți să omiteți această etapă și să creați copia de "
+#~ "rezervă mai târziu, utilizând setările."
+
+#~ msgid "Skip without backup"
+#~ msgstr "Omiteți fără creare copie de rezervă"
+
+#~ msgid "Recommended: Setup key backup"
+#~ msgstr "Recomandare: Configurați copii de rezervă pentru chei"
+
+#~ msgid "Enter %s security password"
+#~ msgstr "Introduceți parola de securitate %s"
+
+#~ msgid "Bad password"
+#~ msgstr "Parolă greșită"
+
+#~ msgid "Account Locked out"
+#~ msgstr "Cont blocat"
+
+#~ msgid "Unspecified error"
+#~ msgstr "Eroare nespecificată"
+
+#~ msgid "Problems creating keys, please try again later."
+#~ msgstr "Probleme la crearea cheilor, încercați din nou."
+
+#~ msgid ""
+#~ "Problems creating keys.  Keys already exist for this email address in "
+#~ "another account."
+#~ msgstr ""
+#~ "Au apărut probleme la crearea cheilor. Cheile există deja pentru această "
+#~ "adresă de e-mail într-un alt cont."
+
+#~ msgid "Passwords must be at least %s characters in length"
+#~ msgstr "Parolele trebuie să conțină cel puțin %s caractere"
+
+#~ msgid "Passwords not equal"
+#~ msgstr "Parolele nu sunt identice"
+
+#~ msgid "Enter new secondary Email address"
+#~ msgstr "Introduceți o nouă adresă de e-mail secundară"
+
+#~ msgid "Generating key, Please wait"
+#~ msgstr "Se generează cheia, așteptați"
+
+#~ msgid ""
+#~ "Please choose the password you will use for %s. You will need to type "
+#~ "this password whenever you want to encrypt or decrypt items. Remember it "
+#~ "should be different from your login password, and will not change if you "
+#~ "change your login password."
+#~ msgstr ""
+#~ "Alegeți parola pe care doriți să o utilizați pentru %s. Va trebui să "
+#~ "introduceți această parolă de fiecare dată când doriți să criptați sau să "
+#~ "decriptați elemente. Nu uitați, parola ar trebui să fie diferită de cea "
+#~ "de autentificare și nu se modifică odată cu schimbarea parolei de "
+#~ "autentificare."
+
+#~ msgid "Please enter a password to protect your new encrypted items."
+#~ msgstr "Introduceți o parolă pentru a proteja noile elemente criptate."
+
+#~ msgid "Confirm"
+#~ msgstr "Confirmă"
+
+#~ msgid ""
+#~ "Warning: This password for encryption cannot be restored or recovered in "
+#~ "any way.  If forgotten, all encrypted data will be lost"
+#~ msgstr ""
+#~ "Avertisment: Această parolă de criptare nu poate fi restaurată sau "
+#~ "recuperată. Dacă o uitați, veți pierde toate datele."
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password."
+#~ msgstr ""
+#~ "Introduceți o adresă de e-mail secundară în cazul în care trebuie să vă "
+#~ "resetați parola."
+
+#~ msgid "Email:"
+#~ msgstr "E-mail:"
+
+#~ msgid "Create %s Security Keys"
+#~ msgstr "Creează cheile de securitate %s"
+
+#~ msgid "Cancel"
+#~ msgstr "Anulează"
+
+#~ msgid "Not valid email"
+#~ msgstr "E-mail incorect"
+
+#~ msgid "Emails not equal"
+#~ msgstr "Adresele nu coincid"
+
+#~ msgid "Too short"
+#~ msgstr "Prea scurt"
+
+#~ msgid "Strong"
+#~ msgstr "Puternic"
+
+#~ msgid "Weak"
+#~ msgstr "Slab"
+
+#~ msgid "First %s Security Use"
+#~ msgstr "Prima utilizare securitate %s"
+
+#~ msgid "You have been sent an email using %s to secure the contents"
+#~ msgstr ""
+#~ "Ați primit un mesaj ce utilizează %s pentru securizarea conținutului"
+
+#~ msgid ""
+#~ "Please select a new password for use with %s.  This password will be used "
+#~ "to open encrypted emails and files that may be sent to you."
+#~ msgstr ""
+#~ "Selectați o nouă parolă pentru %s. Această parolă va fi utilizată pentru "
+#~ "a deschide mesajele sau fișierele criptate primite."
+
+#~ msgid "First %s Security Password Use"
+#~ msgstr "Prima utilizare parolă de securitate %s "
+
+#~ msgid ""
+#~ "Please change the initial temporary %s security password that was sent to "
+#~ "you in a separate email."
+#~ msgstr ""
+#~ "Modificați parola inițială temporară de securitate%s care vi-a fost "
+#~ "trimisă într-un e-mail separat."
+
+#~ msgid "Initial Password"
+#~ msgstr "Parolă inițială"
+
+#~ msgid "New Password"
+#~ msgstr "Parolă nouă"
+
+#~ msgid "Confirm New"
+#~ msgstr "Confirmați parola nouă"
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password.</p>"
+#~ msgstr ""
+#~ "Introduceți o adresă de e-mail secundară pentru cazul în care trebuie să "
+#~ "vă resetați parola.</p>"
+
+#~ msgid "Verify:"
+#~ msgstr "Verifică:"
+
+#~ msgid ""
+#~ "Warning: This password for encryption cannot be restored or recovered in "
+#~ "any way.  If forgotten, all encrypted data will be lost."
+#~ msgstr ""
+#~ "Avertisment: Această parolă de criptare nu poate fi restaurată sau "
+#~ "recuperată. Dacă o uitați, veți pierde toate datele."
+
+#~ msgid "Success"
+#~ msgstr "Succes"
+
+#~ msgid "Password changed successfully"
+#~ msgstr "Parola a fost schimbată cu succes"
+
+#~ msgid "New password must be at least %s characters long"
+#~ msgstr "Noua parolă trebuie să conțină cel puțin %s caractere"
+
+#~ msgid "Encryption key not found"
+#~ msgstr "Cheia de criptare nu a fost găsită"
+
+#~ msgid "Failed to change password"
+#~ msgstr "Schimbarea parolei a eșuat"
+
+#~ msgid "Download decrypted"
+#~ msgstr "Descarcă decriptat"
+
+#~ msgid "Add and encrypt local file"
+#~ msgstr "Adaugă și criptează fișier local"
+
+#~ msgid "Remove encryption"
+#~ msgstr "Elimină criptarea"
+
+#~ msgid "Encrypt"
+#~ msgstr "Criptează "
+
+#~ msgid "Send by mail"
+#~ msgstr "Trimite prin e-mail"
+
+#~ msgid "Download encrypted"
+#~ msgstr "Descarcă criptat"
+
+#~ msgid "Pop out"
+#~ msgstr "Deschide în fereastră nouă"
+
+#~ msgid "Pop out standalone viewer"
+#~ msgstr "Deschide aplicația de vizualizare într-o fereastră nouă"
+
+#~ msgid "Decrypt and open"
+#~ msgstr "Decriptează și deschide"
+
+#~ msgid "Drop files here to encrypt"
+#~ msgstr "Glisați aici fișierele de criptat"
+
+#~ msgid "Recipient Options"
+#~ msgstr "Opțiuni destinatar"
+
+#~ msgid ""
+#~ "At least one of your recipients uses a different webmail system.  They "
+#~ "will receive an email with a link for them to read this message.  If you "
+#~ "like, you can add a personalized message that will appear at the top of "
+#~ "this message.  This will help identify the message as coming from you."
+#~ msgstr ""
+#~ "Cel puțin unul dintre destinatari folosește un sistem de webmail diferit. "
+#~ "Aceștia vor primi un e-mail cu o legătură către acest mesaj. Dacă doriți, "
+#~ "puteți să adăugați un mesaj personalizat care va apărea în partea de sus "
+#~ "a acestui e-mail. Acesta le va permite să vadă că e-mailul vine din "
+#~ "partea dumneavoastră."
+
+#~ msgid "Message:"
+#~ msgstr "Mesaj:"
+
+#~ msgid "Language for recipient Email"
+#~ msgstr "Limba pentru e-mail destinatar"
+
+#~ msgid "Note: Emails sent to mailing lists or groups will not work."
+#~ msgstr ""
+#~ "Avertisment: mesajele trimise către liste sau grupuri nu vor funcționa."
+
+#~ msgid ""
+#~ "Mailing list / blocked email found.  Encrypted emails to this email will "
+#~ "fail.  %s"
+#~ msgstr ""
+#~ "S-a găsit o listă / un mesaj blocat. Mesajele criptate către această "
+#~ "adresă vor eșua. %s"
+
+#~ msgid ""
+#~ "The key for %s has expired.  You will not be able to send an encrypted "
+#~ "email to this recipient."
+#~ msgstr ""
+#~ "Cheia pentru %s a expirat. Nu veți mai putea trimite mesaje criptate "
+#~ "către acest destinatar."
+
+#~ msgid "HTML Formatted Email"
+#~ msgstr "E-mail în format HTML"
+
+#~ msgid ""
+#~ "HTML formatted emails may cause issues with PGP inline.  Click OK to "
+#~ "change to Plain Text formatted Emails."
+#~ msgstr ""
+#~ "Mesajele în format HTML pot cauza probleme cu PGP inline. Apăsați OK "
+#~ "pentru a comuta pe mesaje în format text."
+
+#~ msgid "HTML format is not recommended when using PGP Inline"
+#~ msgstr "Formatul HTML nu este recomandat dacă utilizați PGP inline"
+
+#~ msgid "Recipients cannot be added to this encrypted reply"
+#~ msgstr "Nu se pot adăuga destinatari la acest răspuns criptat"
+
+#~ msgid "Reply must be encrypted"
+#~ msgstr "Răspunsul trebuie să fie criptat"
+
+#~ msgid "Unable to attach your public key"
+#~ msgstr "Nu s-a putut atașa cheia publică"
+
+#~ msgid "Will create new guest account for %s"
+#~ msgstr "Va crea un nou cont invitat pentru %s"
+
+#~ msgid "Encryption Key Known"
+#~ msgstr "Cheie de criptare cunoscută"
+
+#~ msgid "Send"
+#~ msgstr "Trimite"
+
+#~ msgid "Send Encrypted"
+#~ msgstr "Trimite criptat"
+
+#~ msgid "Send Secure"
+#~ msgstr "Trimite ca securizat"
+
+#~ msgid "Loaded"
+#~ msgstr "Încărcat"
+
+#~ msgid "Secure Email, enter your %s security password."
+#~ msgstr "E-mail securizat, introduceți parola %s."
+
+#~ msgid "Keep me logged into %s"
+#~ msgstr "Păstrează-mă autentificat în %s"
+
+#~ msgid "10 minutes"
+#~ msgstr "10 minute"
+
+#~ msgid "20 minutes"
+#~ msgstr "20 de minute"
+
+#~ msgid "30 minutes"
+#~ msgstr "30 de minute"
+
+#~ msgid "1 hour"
+#~ msgstr "1 oră"
+
+#~ msgid "2 hours"
+#~ msgstr "2 ore"
+
+#~ msgid "Session"
+#~ msgstr "Sesiune"
+
+#~ msgid "Select Key Location"
+#~ msgstr "Selectați locația cheii"
+
+#~ msgid "Temporary Lockout"
+#~ msgstr "Blocare temporară"
+
+#~ msgid "Security PIN"
+#~ msgstr "Cod PIN de securitate"
+
+#~ msgid "Recipients:"
+#~ msgstr "Destinatari:"
+
+#~ msgid ""
+#~ "The new recipients listed below will be sent a password via email.  You "
+#~ "can also require a separate pin, which is displayed below."
+#~ msgstr ""
+#~ "Noii destinatari din lista de mai jos vor primi o parolă prin e-mail. De "
+#~ "asemenea, puteți solicita un cod pin separat, care este afișat mai jos."
+
+#~ msgid ""
+#~ "You may deliver this pin any way you see fit, but we recommend doing it "
+#~ "in a second method other than email (Phone, SMS, Skype, etc)."
+#~ msgstr ""
+#~ "Puteți comunica acest cod pin cum doriți, dar vă recomandăm să utilizați "
+#~ "o metodă diferită de e-mail (telefon, SMS, Skype, etc)."
+
+#~ msgid "If you want this extra pin requirement, click OK."
+#~ msgstr "Dacă doriți să solicitați acest cod pin suplimentar, apăsați pe OK."
+
+#~ msgid "Skip"
+#~ msgstr "Ignoră"
+
+#~ msgid "Unable to get key"
+#~ msgstr "Nu s-a putut obține cheia"
+
+#~ msgid "Please enter your %s password to sign this email."
+#~ msgstr "Introduceți parola %s pentru a semna acest mesaj."
+
+#~ msgid ""
+#~ "There appears to be an encrypted attachment.  Please enter your %s "
+#~ "password to decode the attachment for sending."
+#~ msgstr ""
+#~ "Fișierul atașat pare a fi criptat. Introduceți parola %s penru a decripta "
+#~ "și trimite fișierul atașat."
+
+#~ msgid "Please re-enter your %s password before sending."
+#~ msgstr "Reintroduceți parola %s înainte de a trimite"
+
+#~ msgid "Please re-enter your %s password before saving."
+#~ msgstr "Reintroduceți parola %s înainte de a trimite"
+
+#~ msgid "Please re-enter your %s password."
+#~ msgstr "Reintroduceți parola %s."
+
+#~ msgid "Security"
+#~ msgstr "Securitate"
+
+#~ msgid "PGP"
+#~ msgstr "PGP"
+
+#~ msgid "Secure"
+#~ msgstr "Securizat"
+
+#~ msgid "Sign"
+#~ msgstr "Semnează"
+
+#~ msgid "Format"
+#~ msgstr "Format"
+
+#~ msgid "PGP Mime"
+#~ msgstr "Mime PGP"
+
+#~ msgid "PGP Inline"
+#~ msgstr "PGP inline"
+
+#~ msgid "Keys"
+#~ msgstr "Chei"
+
+#~ msgid "Attach my key"
+#~ msgstr "Atașează cheia mea"
+
+#~ msgid "Unable to find keys for all recipients."
+#~ msgstr "Nu s-au putut obține cheile pentru toți destinatarii"
+
+#~ msgid "Unable to connect to the encryption server."
+#~ msgstr "Conectare la serverul de criptare imposibilă."
+
+#~ msgid "Unable to find the item on the server"
+#~ msgstr "Imposibil de găsit elementul pe server"
+
+#~ msgid "Unable to get the key for that item"
+#~ msgstr "Imposibil de obținut cheia pentru acest element"
+
+#~ msgid "Unable to retrieve your user keys to decode"
+#~ msgstr ""
+#~ "Imposibil de recuperat cheile dumneavoastră de utilizator pentru "
+#~ "decodificare"
+
+#~ msgid "Bad extra password"
+#~ msgstr "Parolă suplimentară greșită"
+
+#~ msgid "No private key to decode this message"
+#~ msgstr "Nicio cheie privată pentru decodificarea mesajului"
+
+#~ msgid "Unable to decrypt Email, incorrect password."
+#~ msgstr "Imposibil de decriptat e-mailul, parola este greșită."
+
+#~ msgid "To reset or recover your password, click %s"
+#~ msgstr "Pentru a vă reinițializa sau recupera parola, apăsați pe %s"
+
+#~ msgid "Settings"
+#~ msgstr "Setări"
+
+#~ msgid "No Private Key available for this encrypted item."
+#~ msgstr "Nicio cheie privată disponibilă pentru acest element criptat."
+
+#~ msgid "Key Ids:"
+#~ msgstr "Identificatori chei:"
+
+#~ msgid "Your account is locked out for %s minutes"
+#~ msgstr "Contul dumneavoastră este blocat pentru %s minute"
+
+#~ msgid "Server Error: "
+#~ msgstr "Eroare de server:"
+
+#~ msgid "Password needed"
+#~ msgstr "Se necesită parola"
+
+#~ msgid "Please enter your %s password"
+#~ msgstr "Introduceți parola %s"
+
+#~ msgid "Remember my password"
+#~ msgstr "Reține parola"
+
+#~ msgid "Account locked out due to bad attempts.  Please try again later."
+#~ msgstr ""
+#~ "Contul este blocat din cauza unor încercări eronate. Încercați din nou "
+#~ "mai târziu."
+
+#~ msgid "Error checking password"
+#~ msgstr "Eroare la verificarea parolei"
+
+#~ msgid "Delete Public Key"
+#~ msgstr "Șterge cheia publică"
+
+#~ msgid "Click OK to confirm"
+#~ msgstr "Apăsați pe OK pentru a confirma"
+
+#~ msgid "Email"
+#~ msgstr "E-mail"
+
+#~ msgid "Key Ids"
+#~ msgstr "Identificatori chei"
+
+#~ msgid "Details"
+#~ msgstr "Detalii"
+
+#~ msgid "Delete"
+#~ msgstr "Șterge"
+
+#~ msgid "No Keys Found"
+#~ msgstr "Nu a fost găsită nicio cheie"
+
+#~ msgid "Key Details"
+#~ msgstr "Detalii cheie"
+
+#~ msgid "Share Keys"
+#~ msgstr "Partajează cheile"
+
+#~ msgid "Use PGP Inline"
+#~ msgstr "Folosește PGP inline"
+
+#~ msgid "Signatures"
+#~ msgstr "Semnături"
+
+#~ msgid "Expired"
+#~ msgstr "Expirat"
+
+#~ msgid "Revoked"
+#~ msgstr "Anulat"
+
+#~ msgid "Fingerprint:"
+#~ msgstr "Amprentă:"
+
+#~ msgid "Created:"
+#~ msgstr "Creat:"
+
+#~ msgid "Master:"
+#~ msgstr "Master:"
+
+#~ msgid "True"
+#~ msgstr "Adevărat"
+
+#~ msgid "False"
+#~ msgstr "Fals"
+
+#~ msgid "Encryption:"
+#~ msgstr "Criptare:"
+
+#~ msgid "IDs: "
+#~ msgstr "Identificatori:"
+
+#~ msgid "Expires in %1$s days"
+#~ msgstr "Expiră peste %1$s zile"
+
+#~ msgid "Problem getting signatures"
+#~ msgstr "Problemă la obținerea semnăturilor"
+
+#~ msgid "Positive"
+#~ msgstr "Pozitiv"
+
+#~ msgid "Failed check"
+#~ msgstr "Verificare eșuată"
+
+#~ msgid "Missing public"
+#~ msgstr "Lipsește cheia publică"
+
+#~ msgid "Casual"
+#~ msgstr "Ocazional"
+
+#~ msgid "Revocation"
+#~ msgstr "Revocare"
+
+#~ msgid "Direct cert"
+#~ msgstr "Certificare directă"
+
+#~ msgid "Default Certification"
+#~ msgstr "Certificare implicită"
+
+#~ msgid "No signatures"
+#~ msgstr "Nicio semnătură"
+
+#~ msgid "ID Signed"
+#~ msgstr "Identificator semnat"
+
+#~ msgid "Certification"
+#~ msgstr "Certificare"
+
+#~ msgid "Signed by"
+#~ msgstr "Semnat de"
+
+#~ msgid "Image"
+#~ msgstr "Imagine"
+
+#~ msgid "Key Signatures"
+#~ msgstr "Semnături pentru chei"
+
+#~ msgid "PGP Public Key List"
+#~ msgstr "Listă de chei PGP publice"
+
+#~ msgid "This Email was encrypted with PGP."
+#~ msgstr "Acest e-mail a fost criptat utilizând PGP."
+
+#~ msgid "This Email was signed and verified."
+#~ msgstr "Acest e-mail a fost semnat și verificat."
+
+#~ msgid "This Email was signed and failed verification."
+#~ msgstr "Acest e-mail a fost semnat, dar verificarea a eșuat."
+
+#~ msgid "This Email was signed but unable to verify."
+#~ msgstr "Acest e-mail a fost semnat dar nu s-a putut verifica."
+
+#~ msgid ""
+#~ "This Email was sent using PGP encryption. It has been decrypted with your "
+#~ "private key"
+#~ msgstr ""
+#~ "E-mailul a fost trimis utilizând o criptare PGP. A fost decodificat cu "
+#~ "cheia dumneavoastră privată"
+
+#~ msgid "This Email was signed by the sender and verified."
+#~ msgstr "E-mailul a fost semnat de către expeditor și verificat."
+
+#~ msgid "PGP Public Key Found.  Click to Import"
+#~ msgstr "S-a găsit o cheie PGP publică. Apăsați pentru a o importa"
+
+#~ msgid "Save encrypted to %1$s"
+#~ msgstr "Salvează criptat în %1$s"
+
+#~ msgctxt "app"
+#~ msgid "Drive"
+#~ msgstr "Drive"
+
+#~ msgid "Check assigned PIN"
+#~ msgstr "Verifică codul PIN atribuit"
+
+#~ msgid "PIN"
+#~ msgstr "Cod PIN"
+
+#~ msgid "Added keys: \r\n"
+#~ msgstr "Chei adăugate: \r\n"
+
+#~ msgid "Key ID: "
+#~ msgstr "Identificator cheie:"
+
+#~ msgid "Service Unavailable"
+#~ msgstr "Serviciul nu este disponibil"
+
+#~ msgid "Advanced Settings"
+#~ msgstr "Setări avasate"
+
+#~ msgid "Download PGP Public Key"
+#~ msgstr "Descărcare cheie PGP publică"
+
+#~ msgid "Email your PGP Public Key"
+#~ msgstr "Trimite cheia dvs PGP publică prin mail"
+
+#~ msgid "Your Keys"
+#~ msgstr "Cheile dumneavoastră"
+
+#~ msgid "Your Key List"
+#~ msgstr "Lista dumneavoastră de chei"
+
+#~ msgid "Key ID"
+#~ msgstr "Identificator cheie"
+
+#~ msgid "Private Key"
+#~ msgstr "Cheie privată"
+
+#~ msgid "Current"
+#~ msgstr "Actuală"
+
+#~ msgid "Download"
+#~ msgstr "Descarcă"
+
+#~ msgid "Edit"
+#~ msgstr "Editează"
+
+#~ msgid "Adding Keys"
+#~ msgstr "Se adaugă cheile"
+
+#~ msgid "If you already have a private key, you can upload it here."
+#~ msgstr "Dacă dețineți deja o cheie privată, o puteți încărca aici."
+
+#~ msgid "Upload Private Key"
+#~ msgstr "Încărcați cheia privată"
+
+#~ msgid "Finally, you can have a new PGP Key Pair created for your account."
+#~ msgstr ""
+#~ "În sfârșit, se poate crea o nouă pereche de chei PGP pentru contul "
+#~ "dumneavoastră."
+
+#~ msgid "Create New Keys"
+#~ msgstr "Creează chei noi"
+
+#~ msgid "Adding UserID"
+#~ msgstr "Se adaugă identificatorul utilizatorului"
+
+#~ msgid "Add a name and email address to this public key."
+#~ msgstr "Adăugați un nume și o adresă de e-mail la această cheie publică."
+
+#~ msgid "Name"
+#~ msgstr "Nume"
+
+#~ msgid "Please enter your key password"
+#~ msgstr "Introduceți parola pentru cheie"
+
+#~ msgid "Invalid Email Address"
+#~ msgstr "Adresă de e-mail incorectă"
+
+#~ msgid "Invalid Name"
+#~ msgstr "Nume incorect"
+
+#~ msgid "Enter password"
+#~ msgstr "Introduceți parola"
+
+#~ msgid "User ID added"
+#~ msgstr "Identificatorul utilizatorului a fost adăugat"
+
+#~ msgid "Failed to add UserID"
+#~ msgstr "Adăugarea identificatorului utilizatorului a eșuat"
+
+#~ msgid "Revoke Private Key"
+#~ msgstr "Anulează cheia privată"
+
+#~ msgid ""
+#~ "Revoke the key: This advises others that you no longer want this key "
+#~ "used.  You can continue to decode any encrypted data using the key."
+#~ msgstr ""
+#~ "Anulează cheia: această acțiune îi informează pe ceilalți că nu mai "
+#~ "doriți ca această cheie să fie folosită. Puteți să decodificați în "
+#~ "continuare orice informații criptate folosind cheia."
+
+#~ msgid "Delete Private Key"
+#~ msgstr "Șterge cheia privată"
+
+#~ msgid "There are two options if you no longer want to use this key"
+#~ msgstr "Există două opțiuni dacă nu mai doriți să utilizați această cheie"
+
+#~ msgid ""
+#~ "Revoke the key: This advises others that you no longer want this key "
+#~ "used.  You can continue to decode any encrypted data using the key. "
+#~ "(Recommended)"
+#~ msgstr ""
+#~ "Anulează cheia: această acțiune îi informează pe ceilalți că nu mai "
+#~ "doriți ca această cheie să fie folosită. Puteți să decodificați în "
+#~ "continuare orice informații criptate folosind cheia. (Recomandată)"
+
+#~ msgid ""
+#~ "Deleting the key: Deleting the private key will render all encrypted "
+#~ "items unreadable.  You will not be able to decode emails or files that "
+#~ "were enrypted with this key.  This cannot be undone."
+#~ msgstr ""
+#~ "Ștergerea cheii: ștergerea cheii private va împiedica citirea tuturor "
+#~ "elementelor criptate. Nu veți putea decodifica mesajele sau fișierele "
+#~ "care au fost criptate folosind această cheie. Acțiunea nu poate fi "
+#~ "anulată."
+
+#~ msgid "Revoke"
+#~ msgstr "Anulează"
+
+#~ msgid ""
+#~ "You will no longer be able to decode any items that were encrypted with "
+#~ "this key!"
+#~ msgstr ""
+#~ "Nu veți mai putea decodifica niciun element care a fost cifrat utilizând "
+#~ "această cheie!"
+
+#~ msgid "Enter your password below to confirm and verify"
+#~ msgstr "Introduceți parola mai jos pentru a confirma și a verifica"
+
+#~ msgid "Bad Password"
+#~ msgstr "Parolă greșită"
+
+#~ msgid "Key Deleted"
+#~ msgstr "Cheie ștearsă"
+
+#~ msgid "Failed to delete key"
+#~ msgstr "Ștergerea cheii a eșuat"
+
+#~ msgid "Problem deleting key"
+#~ msgstr "Problemă la ștergerea cheii"
+
+#~ msgid "Please verify you want to delete this key"
+#~ msgstr "Verificați dacă doriți să ștergeți cheia"
+
+#~ msgid "Failed to delete"
+#~ msgstr "Nu s-a putut șterge"
+
+#~ msgid ""
+#~ "This will advise people not to use this key.  You can still use the key "
+#~ "to decode existing items."
+#~ msgstr ""
+#~ "Această acțiune le recomanda celorlalți utilizatori să nu utilizeze "
+#~ "această cheie. Puteți să utilizați în continuare cheia pentru a "
+#~ "decodifica elementele existente."
+
+#~ msgid "Reason"
+#~ msgstr "Motiv"
+
+#~ msgid "No Reason"
+#~ msgstr "Niciun motiv"
+
+#~ msgid "Key superseded"
+#~ msgstr "Cheie înlocuită"
+
+#~ msgid "Key compromised"
+#~ msgstr "Cheie compromisă"
+
+#~ msgid "Key retired"
+#~ msgstr "Cheie retrasă"
+
+#~ msgid "User no longer valid"
+#~ msgstr "Utilizatorul nu mai este valabil"
+
+#~ msgid "Key Revoked"
+#~ msgstr "Cheie anulată"
+
+#~ msgid "Failed to revoke key"
+#~ msgstr "Anulare cheii a eșuat"
+
+#~ msgid "Download Key"
+#~ msgstr "Descarcă cheia"
+
+#~ msgid "Download your private key for use with other email programs"
+#~ msgstr ""
+#~ "Descărcați cheia dumneavoastră privată pentru a o utiliza cu alte "
+#~ "programe de e-mail"
+
+#~ msgid "Do not distribute this key.  It is for your use only"
+#~ msgstr "Nu distribuiți această cheie. Este doar pentru dumneavoastră"
+
+#~ msgid "Download PGP Private Key"
+#~ msgstr "Descărcare cheie privată PGP"
+
+#~ msgid "Download Public and Private Key"
+#~ msgstr "Descarcă cheia publică și privată"
+
+#~ msgid "Key ID:"
+#~ msgstr "Identificator cheie:"
+
+#~ msgid "Expires:"
+#~ msgstr "Expiră:"
+
+#~ msgid "Private Key: "
+#~ msgstr "Cheie privată:"
+
+#~ msgid ""
+#~ "If you would like to upload a public key only, then do so here.  This "
+#~ "will allow you to encrypt files and receive encrypted emails using %s, "
+#~ "but you will need to use the private key with another program to decode "
+#~ "the items."
+#~ msgstr ""
+#~ "Dacă doriți să încărcați doar o cheie publică, puteți să o încărcați "
+#~ "aici. Vă va permite să criptați fișiere și să primiți mesaje criptate "
+#~ "utilizând %s, dar pentru a decodifica elemente trebuie să utilizați cheia "
+#~ "privată prin alt program."
+
+#~ msgid "Upload Public Key Only"
+#~ msgstr "Încarcă doar cheia publică"
+
+#~ msgid "PGP Public Key is attached"
+#~ msgstr "Cheia PGP publică este atașată"
+
+#~ msgid "Public Keys"
+#~ msgstr "Chei publice"
+
+#~ msgid "Failed to update settings"
+#~ msgstr "Actualizarea setărilor a eșuat"
+
+#~ msgid "Email format"
+#~ msgstr "Format e-mail"
+
+#~ msgid ""
+#~ "Emails that contain HTML and are sent with PGP Inline will often result "
+#~ "in decoding errors and possible failure.  As a result, the default Email "
+#~ "format should be changed to plaintext.  Click OK to change the default to "
+#~ "plaintext, cancel to keep your current setting."
+#~ msgstr ""
+#~ "Mesajele ce conțin HTML și sunt expediate cu PGP inline pot genera de "
+#~ "multe ori erori de decodificare. În consecință, se recomandă textul "
+#~ "simplu ca format e-mail implicit. Apăsați OK pentru a seta implicit pe "
+#~ "text simplu sau Renunță pentru a păstra setările actuale."
+
+#~ msgid "Ask each time"
+#~ msgstr "Întreabă de fiecare dată"
+
+#~ msgid "Remember Password Default"
+#~ msgstr "Reține parola implicită"
+
+#~ msgid "Default to send encrypted when composing email"
+#~ msgstr "Implicit mesajele compuse sunt trimise criptate"
+
+#~ msgid "Encrypt all incoming emails"
+#~ msgstr "Criptează toate mesajele primite"
+
+#~ msgid "Default adding signature to outgoing mails"
+#~ msgstr "Implicit se adaugă semnătura la mesajele trimise"
+
+#~ msgid "Default to using PGP inline for new mails"
+#~ msgstr "Implicit se utilizează PGP inline pentru mesaje noi"
+
+#~ msgid "Please wait"
+#~ msgstr "Așteptați"
+
+#~ msgid "Advanced"
+#~ msgstr "Avansat"
+
+#~ msgid "Enable Advanced PGP Features"
+#~ msgstr "Activează funcționalitățile avansate PGP"
+
+#~ msgid "PGP Encryption Settings"
+#~ msgstr "Setări de criptare PGP"
+
+#~ msgid "Security Settings"
+#~ msgstr "Setări de securitate"
+
+#~ msgid "Keys uploaded"
+#~ msgstr "Cheile au fost încărcate"
+
+#~ msgid "Failed to upload"
+#~ msgstr "Încărcarea a eșuat"
+
+#~ msgid "The public key must have your primary email as a user ID"
+#~ msgstr ""
+#~ "Cheia publică trebuie să aibă emailul dumneavoastră principal ca "
+#~ "identificator de utilizator"
+
+#~ msgid "Upload Private Keys"
+#~ msgstr "Încărcați cheile private"
+
+#~ msgid "Please enter passwords for the upload"
+#~ msgstr "Introduceți parolele pentru încărcare"
+
+#~ msgid "Enter new password for the key:"
+#~ msgstr "Introduceți o parolă nouă pentru cheie:"
+
+#~ msgid "Confirm Password:"
+#~ msgstr "Confirmați parola:"
+
+#~ msgid "Private key password for the key you are uploading:"
+#~ msgstr "Parolă pentru cheia privată pe care o încărcați:"
+
+#~ msgid "Private Key Uploaded"
+#~ msgstr "Cheia privată a fost încărcată"
+
+#~ msgid "This key already exists"
+#~ msgstr "Această cheie există deja"
+
+#~ msgid "Bad PGP Password"
+#~ msgstr "Parolă PGP greșită"
+
+#~ msgid "The private key must have your primary email as a user ID"
+#~ msgstr ""
+#~ "Cheia privată trebuie să aibă emailul dumneavoastră principal ca "
+#~ "identificator de utilizator"
+
+#~ msgid "Must use same password as existing key to merge"
+#~ msgstr ""
+#~ "Pentru îmbinare trebuie utilizată aceeași parolă ca pentru cheia existentă"
+
+#~ msgid "Problem uploading Private Key "
+#~ msgstr "Problemă la încărcarea cheii private"
+
+#~ msgid "Logged out of %s"
+#~ msgstr "Deconectat din %s"
+
+#~ msgid "Failed to log out of %s"
+#~ msgstr "Deconectarea din %s a eșuat"
+
+#~ msgid "Guided tour for %s"
+#~ msgstr "Vizită ghidată pentru %s"
+
+#~ msgid "Sign out %s"
+#~ msgstr "Deconectare de la %s"
+
+#~ msgctxt "app"
+#~ msgid "%s Security"
+#~ msgstr "Securitate %s"
+
+#~ msgid "Get Started"
+#~ msgstr "Introducere"
+
+#~ msgid ""
+#~ "In order to start with %s Security, you must set up a password for your "
+#~ "secured files."
+#~ msgstr ""
+#~ "Pentru a începe să utilizați securitatea %s trebuie să setați o parolă "
+#~ "pentru fișierele dumneavoastră securizate."
+
+#~ msgid "Start"
+#~ msgstr "Pornire"
+
+#~ msgid "%s Security Settings"
+#~ msgstr "Setări de securitate %s"
+
+#~ msgid "Change %s Security Password."
+#~ msgstr "Modifică parola de securitate %s."
+
+#~ msgid "Enter current %s security password"
+#~ msgstr "Introduceți parola actuală de securitate %s"
+
+#~ msgid "Enter new %s security password"
+#~ msgstr "Introduceți parola nouă de securitate %s"
+
+#~ msgid "Verify new %s security password"
+#~ msgstr "Verificați parola nouă de securitate %s"
+
+#~ msgid "Change %s security password"
+#~ msgstr "Modificați parola de securitate %s"
+
+#~ msgid "Reset %s security password"
+#~ msgstr "Resetați parola de securitate %s"
+
+#~ msgid "Send a temporary %s security password to my secondary Email address."
+#~ msgstr ""
+#~ "Trimite o parola temporară de securitate %s la adresa de e-mail secundară."
+
+#~ msgid "Delete Password Recovery"
+#~ msgstr "Șterge recuperarea parolei"
+
+#~ msgid "Advanced Users Only!"
+#~ msgstr "Doar pentru utilizatori avansați!"
+
+#~ msgid ""
+#~ "Delete the password recovery.  The recovery is used to reset your "
+#~ "password.  If you delete the recovery, you will not be able to reset your "
+#~ "password if you forget it.  Changing your password will restore the "
+#~ "recovery."
+#~ msgstr ""
+#~ "Șterge recuperarea parolei. Recuperarea este folosită pentru a vă "
+#~ "reinițializa parola. Dacă ștergeți recuperarea, nu vă veți putea "
+#~ "reinițializa parola în cazul în care o uitați. Schimbarea parolei va "
+#~ "restabili recuperarea. "
+
+#~ msgid "Please verify your password before deleting the recovery."
+#~ msgstr "Verificați-vă parola înainte de a șterge recuperarea."
+
+#~ msgid "Recovery deleted"
+#~ msgstr "Recuperare ștearsă"
+
+#~ msgid "Current Email address:"
+#~ msgstr "Adresă de e-mail actuală:"
+
+#~ msgid "Secondary Email"
+#~ msgstr "Adresă de e-mail secundară"
+
+#~ msgid "Change Email address used for password reset."
+#~ msgstr "Schimbă adresa de e-mail folosită pentru resetarea parolei."
+
+#~ msgid "Verify Email address"
+#~ msgstr "Verifică adresa de e-mail"
+
+#~ msgid "Change Email address"
+#~ msgstr "Schimbă adresa de e-mail"
+
+#~ msgid "None - Primary Email will be used"
+#~ msgstr "Nimic - se va folosi e-mailul principal"
+
+#~ msgid "Invalid email address"
+#~ msgstr "Adresă de e-mail incorectă"
+
+#~ msgid "Successfully changed email address"
+#~ msgstr "Adresa de e-mail a fost modificată cu succes"
+
+#~ msgid "A new password has been sent to your email address."
+#~ msgstr "O nouă parolă a fost trimisă la adresa dumneavoastră de e-mail."
+
+#~ msgid "A new password has been sent to your secondary email address."
+#~ msgstr ""
+#~ "O nouă parolă a fost trimisă la adresa dumneavoastră de e-mail secundară."
+
+#~ msgid "No password recovery is available."
+#~ msgstr "Recuperarea parolei nu este disponibilă."
+
+#~ msgid "Password reset, but unable to send to your email address."
+#~ msgstr ""
+#~ "Parola a fost resetată, dar nu a putut fi trimisă la adresa dumneavoastră "
+#~ "de e-mail."
+
+#~ msgid "Unable to find email address to send password reset."
+#~ msgstr ""
+#~ "Nu s-a putut găsi adresa de e-mail pentru trimiterea parolei resetate."
+
+#~ msgid "Unable to reset your password"
+#~ msgstr "Parola nu a putut fi resetată"
+
+#~ msgid "Next"
+#~ msgstr "Continuă"
+
+#~ msgid "Simple and Easy"
+#~ msgstr "Simplu și ușor"
+
+#~ msgctxt "Choice"
+#~ msgid "One click encryption for Emails and files"
+#~ msgstr "Criptare cu un singur clic pentru mesaje și fișiere"
+
+#~ msgctxt "Choice"
+#~ msgid "Works in all browsers with all your contacts"
+#~ msgstr ""
+#~ "Funcționează în toate navigatoarele ce conțin toate contactele "
+#~ "dumneavoastră"
+
+#~ msgctxt "Choice"
+#~ msgid "Easy to use, every day"
+#~ msgstr "Simplu de utilizat, în fiecare zi"
+
+#~ msgctxt "Choice"
+#~ msgid "Security details managed by us"
+#~ msgstr "Detaliile de securitate gestionate de noi"
+
+#~ msgctxt "Choice"
+#~ msgid ""
+#~ "If you do not have deep knowledge of encryption, but you would like to "
+#~ "easily secure your communication with your friends or business contacts, "
+#~ "this option fits perfectly for you. Safe Email, made simple!"
+#~ msgstr ""
+#~ "Dacă nu dispuneți de cunoștințe aprofundate de criptare, dar doriți să "
+#~ "securizați comunicarea cu prietenii sau contactele profesionale, aceasta "
+#~ "este opțiunea perfectă pentru dumneavoastră. Poștă electronică securizată "
+#~ "ușor de utilizat!"
+
+#~ msgctxt "Choice"
+#~ msgid "Encryption Expert"
+#~ msgstr "Expert în criptare"
+
+#~ msgctxt "Choice"
+#~ msgid "Expert encryption options available"
+#~ msgstr "Opțiuni de criptare disponibile pentru experți"
+
+#~ msgctxt "Choice"
+#~ msgid "Works only in Firefox and Chrome"
+#~ msgstr "Funcționează doar în Firefox și Chrome"
+
+#~ msgctxt "Choice"
+#~ msgid "Browser plugin required"
+#~ msgstr "Se necesită un modul de navigator"
+
+#~ msgctxt "Choice"
+#~ msgid "Security details managed by yourself"
+#~ msgstr "Detalii de securitate gestionate de dumneavoastră"
+
+#~ msgctxt "Choice"
+#~ msgid ""
+#~ "If you are an encryption expert, and would like to manage all encryption "
+#~ "details by yourself, this option fits best for you. You need to install a "
+#~ "third-party browser plugin to work with expert encryption."
+#~ msgstr ""
+#~ "Dacă sunteți un expert în criptare și doriți să gestionați detaliile "
+#~ "criptării, această opțiune vi se potrivește. Trebuie să instalați un "
+#~ "modul de navigator extern pentru a utiliza criptarea pentru experți."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You already set up your %s account. But you can always change your "
+#~ "encryption password, or request a temporary password if you forget it."
+#~ msgstr ""
+#~ "Vi-ați configurat deja contul %s. Puteți modifica oricând parola de "
+#~ "criptare sau puteți cere o parolă temporară dacă o uitați."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You already set up your %s account.  You can change your encryption "
+#~ "password here."
+#~ msgstr ""
+#~ "Vi-ați configurat deja contul %s. Puteți să vă modificați parola de "
+#~ "criptare aici."
+
+#~ msgctxt "tour"
+#~ msgid "The %s module"
+#~ msgstr "Modulul %s"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Security and privacy matters to everyone. That's why you can now send and "
+#~ "receive encrypted emails by simply clicking on the lock icon."
+#~ msgstr ""
+#~ "Securitatea și confidențialitatea sunt importante pentru toți. De aceea "
+#~ "puteți acum primi și expedia mesaje criptate printr-o simplă apăsare pe "
+#~ "pictograma lacăt."
+
+#~ msgctxt "tour"
+#~ msgid "%s Security Settings"
+#~ msgstr "Setări de securitate %s"
+
+#~ msgctxt "tour"
+#~ msgid "PGP Encryption Settings"
+#~ msgstr "Setări criptare PGP"
+
+#~ msgctxt "tour"
+#~ msgid "Security Settings"
+#~ msgstr "Setări de securitate"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "From here you can update your encryption settings. For example you can "
+#~ "choose to send encrypted emails by default."
+#~ msgstr ""
+#~ "Aici puteți să vă actualizați setările de criptare. De exemplu, puteți "
+#~ "alege să trimiteți mesaje criptate implicit. "
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "From here, you can update your security settings.  For example, you can "
+#~ "choose to send secure emails by default."
+#~ msgstr ""
+#~ "De aici puteți actualiza setările de securitate. De exemplu, puteți alege "
+#~ "să trimiteți implicit mesaje securizate."
+
+#~ msgctxt "tour"
+#~ msgid "Signature"
+#~ msgstr "Semnătură"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "In addition to encrypting your emails you can also sign them. This means "
+#~ "that email recipients can be sure that the email really came from you. By "
+#~ "ticking this checkbox your signature will be added to outgoing emails by "
+#~ "default."
+#~ msgstr ""
+#~ "Adițional, mesajele criptate pot fi și semnate. În acest caz destinatarii "
+#~ "mesajelor pot fi siguri că mailul provine de la dumneavoastră.Dacă bifați "
+#~ "această căsuță, semnătura va fi adăugată implicit la mesajele expediate."
+
+#~ msgctxt "tour"
+#~ msgid "Alternative: PGP Inline"
+#~ msgstr "Alternativă: PGP inline"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "By default %s sends encrypted emails using PGP/Mime format. To "
+#~ "communicate with some systems you may need to use PGP Inline."
+#~ msgstr ""
+#~ "Implicit, %s trimite mesaje e-mail securizate utilizând formatul PGP/"
+#~ "Mime. Pentru a comunica cu anumite sisteme va trebui să utilizați PGP "
+#~ "Inline."
+
+#~ msgctxt "tour"
+#~ msgid "Advanced Settings"
+#~ msgstr "Setări avansate"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Advanced users can manage their key lists from the PGP Encryption "
+#~ "Settings."
+#~ msgstr ""
+#~ "Utilizatorii avansați pot gestiona lista de chei din Setările de criptare "
+#~ "PGP."
+
+#~ msgctxt "tour"
+#~ msgid "Advanced User Settings"
+#~ msgstr "Setări avansate utilizator"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Enabling Advanced PGP Features will enable key management and specifying "
+#~ "sending formats."
+#~ msgstr ""
+#~ "Activarea funcționalităților avansate de PGP va activa gestiunea de chei "
+#~ "și specificarea formatelor de expediere."
+
+#~ msgctxt "tour"
+#~ msgid "Enabling and disabling encryption"
+#~ msgstr "Activarea și dezactivarea criptării"
+
+#~ msgctxt "tour"
+#~ msgid "You are now able to send secure emails."
+#~ msgstr "Acum puteți să trimiteți mesaje securizate."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Sending without encryption is easy, too: Simply click on the lock icon "
+#~ "again."
+#~ msgstr ""
+#~ "Trimiterea fără criptare este, de asemenea, foarte simplă: trebuie doar "
+#~ "să apăsați din nou pe pictograma lacăt."
+
+#~ msgctxt "tour"
+#~ msgid "Encrypt files"
+#~ msgstr "Criptează fișierele"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You can also protect your files. Just click on Encrypt and the selected "
+#~ "file will be stored securely."
+#~ msgstr ""
+#~ "Puteți de asemenea proteja fișierele. Trebuie doar să apăsați pe "
+#~ "Criptează și fișierele selectate vor fi stocate în mod securizat."
+
+#~ msgctxt "tour"
+#~ msgid "Encrypt your sensitive files in Drive"
+#~ msgstr "Cripta fișierele cu date sensibile"
+
+#~ msgctxt "tour"
+#~ msgid "Restart Guided Tour"
+#~ msgstr "Începe din nou vizita ghidată"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "<em>Hint:</em> you can start guided tours, any time you need them, from "
+#~ "the system menu."
+#~ msgstr ""
+#~ "<em>Indiciu:</em> puteți să porniți vizite ghidate din meniul de sistem "
+#~ "oricând aveți nevoie."
+
+#~ msgctxt "tour"
+#~ msgid "Guided Tour completed"
+#~ msgstr "Vizită ghidată terminată"
+
+#~ msgctxt "tour"
+#~ msgid "You successfully learned how to protect your emails and files."
+#~ msgstr "Ați învățat cum să vă protejați mesajele și fișierele."
+
+#~ msgctxt "tour"
+#~ msgid "What you can do now:"
+#~ msgstr "Ce puteți face acum:"
+
+#~ msgctxt "tour"
+#~ msgid "Write an encrypted email"
+#~ msgstr "Scrie un mesaj criptat"
+
+#~ msgctxt "tour"
+#~ msgid "Activate encryption for all new emails"
+#~ msgstr "Activa criptarea pentru toate mesajele noi"
+
+#~ msgctxt "tour"
+#~ msgid "Review your encryption settings"
+#~ msgstr "Analiza setările de criptare"
+
+#~ msgctxt "tour"
+#~ msgid "Learn more"
+#~ msgstr "Mai multe informații"
+
+#~ msgid "Start Setup"
+#~ msgstr "Pornește configurarea"
+
+#~ msgctxt "tour"
+#~ msgid "Setup %s"
+#~ msgstr "Configurare %s"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Welcome to %1$s. You will now be taken on a tour, showing you how to use "
+#~ "%1$s."
+#~ msgstr ""
+#~ "Bine ați venit la %1$s. Veți începe acum o vizită ghidată, ce vă va arăta "
+#~ "cum să utilizați %1$s."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Firstly however, you’ll need to setup %1$s by choosing a password which "
+#~ "will be used to encrypt or decrypt items such as email or files."
+#~ msgstr ""
+#~ "În primul rând trebuie să configurați %1$s selectând o parolă, ce va fi "
+#~ "utilizată pentru a cripta sau decripta elemente ca de ex. mesaje sau "
+#~ "fișiere."
+
+#~ msgid "Choose %s Password"
+#~ msgstr "Selectați parola %s"
+
+#~ msgid "Close"
+#~ msgstr "Închide"
+
+#~ msgctxt "tour"
+#~ msgid "%s set up completed"
+#~ msgstr "Configurare %s finalizată"
+
+#~ msgctxt "tour"
+#~ msgid "Congratulations, you have successfully setup %s"
+#~ msgstr "Felicitări, ați configurat %s cu succes"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Now you can learn more about how to use %s by following the links below:"
+#~ msgstr ""
+#~ "Puteți obține mai multe informații despre modul de utilizare al % la "
+#~ "legăturile de mai jos:"
+
+#~ msgctxt "tour"
+#~ msgid "Learn more about %s"
+#~ msgstr "Informații suplimentare despre %s"
+
+#~ msgid "Choose your security solution"
+#~ msgstr "Alegeți soluția pentru securitate"
+
+#~ msgid "Key found for %1$s.  Import?"
+#~ msgstr "S-a găsit o cheie pentru %1$s. Doriți să o importați?"
+
+#~ msgid "Import"
+#~ msgstr "Importă"
+
+#~ msgid "Imported"
+#~ msgstr "Importat"
+
+#~ msgid "Updated"
+#~ msgstr "Actualizat"
+
+#~ msgid "Invalidated"
+#~ msgstr "Invalidat"
+
+#~ msgid "Rejected"
+#~ msgstr "Refuzat"
+
+#~ msgid "Warning"
+#~ msgstr "Avertisment"
+
+#~ msgid ""
+#~ "Sending an encrypted email from an account other than %s may cause "
+#~ "problems with the recipient being able to reply.  Consider using your "
+#~ "primary account."
+#~ msgstr ""
+#~ "Expedierea unui mesaj criptat dintr-un alt cont decât %s poate cauza "
+#~ "probleme destinatarului când acesta dorește să răspundă. Vă recomandăm "
+#~ "utilizarea contului principal."
+
+#~ msgid "Do not warn me again"
+#~ msgstr "Nu mă mai avertiza"
+
+#~ msgid "PGP Info"
+#~ msgstr "Informații PGP"
+
+#~ msgid "Content Type"
+#~ msgstr "Tip conținut"
+
+#~ msgid "PGP Details"
+#~ msgstr "Detalii PGP"
+
+#~ msgid ""
+#~ "Mailvelope is not supported in this browser.  Please use Chrome or "
+#~ "Firefox with Mailvelop installed."
+#~ msgstr ""
+#~ "Mailvelope nu este suportat în acest navigator. Utilizați Chrome sau "
+#~ "Firefox cu Mailvelope instalat."
+
+#~ msgid "Enter re-enter %s security password"
+#~ msgstr "Reintroduceți parola de securitate %s"
+
+#~ msgid "Download Decrypted"
+#~ msgstr "Descărcare decodificată"
+
+#~ msgid "Download Encrypted"
+#~ msgstr "Descarcă criptat"
+
+#~ msgid "View"
+#~ msgstr "Vedere"
+
+#~ msgid "Decrypt and Open"
+#~ msgstr "Decodifică și deschide"
+
+#~ msgid "Drop files here to upload"
+#~ msgstr "Glisați aici fișierele de încărcat"
+
+#~ msgid "Add"
+#~ msgstr "Adaugă"
+
+#~ msgid "Add:"
+#~ msgstr "Adaugă:"
+
+#~ msgid "Must be in the same global address book"
+#~ msgstr "Trebuie să fie în aceeași agendă de contacte globală"
+
+#~ msgid "Unable to add"
+#~ msgstr "Imposibil de adăugat"
+
+#~ msgid "Select"
+#~ msgstr "Selectează"
+
+#~ msgid "User"
+#~ msgstr "Utilizator"
+
+#~ msgid "Retract"
+#~ msgstr "Retrage"
+
+#~ msgid "Unable to share"
+#~ msgstr "Imposibil de partajat"
+
+#~ msgid "Remove from share list"
+#~ msgstr "Elimină din lista de partajare"
+
+#~ msgid "Failed to remove the share"
+#~ msgstr "Eliminarea partajului a eșuat"
+
+#~ msgid "Password Needed"
+#~ msgstr "Parolă necesară"
+
+#~ msgid "Please provide your %s security password to share this file"
+#~ msgstr "Furnizați parola de securitate %s pentru a partaja acest fișier"
+
+#~ msgid "No users in same context"
+#~ msgstr "Niciun utilizator în același context"
+
+#~ msgid "The following link will take you to the shared file"
+#~ msgstr "Legătura următoare vă va dirija către fișierul partajat"
+
+#~ msgid "Shared file link"
+#~ msgstr "Legătură către fișierul partajat"
+
+#~ msgid "Attached encrypted file"
+#~ msgstr "Fișier codificat atașat"
+
+#~ msgid "Shared file"
+#~ msgstr "Fișier partajat"
+
+#~ msgid "Add Permissions"
+#~ msgstr "Adaugă permisiuni"
+
+#~ msgid ""
+#~ "The following users do not have permission to view objects in this folder."
+#~ msgstr ""
+#~ "Următorii utilizatori nu au permisiuni pentru a vizualiza obiectele din "
+#~ "acest dosar."
+
+#~ msgid "Do you wish to add read permissions to this folder for these users?"
+#~ msgstr ""
+#~ "Doriți să adăugați permisiuni de citire în acest dosar pentru acești "
+#~ "utilizatori?"
+
+#~ msgid "Failed to add folder sharing permissions"
+#~ msgstr "Adăugarea permisiunilor de partajare a dosarului a eșuat"
+
+#~ msgid "%s %s %s"
+#~ msgstr "%s %s %s"
+
+#~ msgid "The provided filename exceeds the allowed length."
+#~ msgstr "Numele de fișier furnizat depășește lungimea permisă."
+
+#~ msgid "The allowed quota is reached."
+#~ msgstr "S-a atins limita permisă."
+
+#~ msgid "This file has not been added"
+#~ msgstr "Fișierul nu a fost adăugat"
+
+#~ msgid "Upload a new encrypted version"
+#~ msgstr "Încarcă o versiune criptată nouă"
+
+#~ msgid "Upload file"
+#~ msgstr "Încarcă un fișier"
+
+#~ msgid "Version Comment"
+#~ msgstr "Comentariu versiune"
+
+#~ msgid "Upload new encrypted version"
+#~ msgstr "Încarcă o versiune criptată nouă"
+
+#~ msgid "Uploading..."
+#~ msgstr "Se încarcă..."
+
+#~ msgid ""
+#~ "You are replying to an email that has not yet been decoded.  The "
+#~ "recipient will not be able to read the contents of the original email."
+#~ msgstr ""
+#~ "Răspundeți la un mesaj ce nu a fost încă decodat. Destinatarul nu va "
+#~ "putea citi conținutul mesajului inițial."
+
+#~ msgid ""
+#~ "You are forwarding an email that has not yet been decoded.  The recipient "
+#~ "will not be able to read the contents of the original email."
+#~ msgstr ""
+#~ "Redirecționați un mesaj ce nu a fost încă decodat. Destinatarul nu va "
+#~ "putea citi conținutul mesajului inițial."
+
+#~ msgid "Re: %1$s"
+#~ msgstr "Răspuns: %1$s"
+
+#~ msgid "Fwd: %1$s"
+#~ msgstr "Redirecționat: %1$s"
+
+#~ msgid "Original Message"
+#~ msgstr "Mesaj original"
+
+#~ msgid "From: %1$s"
+#~ msgstr "De la: %1$s"
+
+#~ msgid "To: %1$s"
+#~ msgstr "Către: %1$s"
+
+#~ msgid "CC: %1$s"
+#~ msgstr "CC: %1$s"
+
+#~ msgid "Date: %1$s"
+#~ msgstr "Dată: %1$s"
+
+#~ msgid "Subject: %1$s"
+#~ msgstr "Subiect: %1$s"
+
+#~ msgid "On %1$s at %2$s %3$s wrote:"
+#~ msgstr "Pe %1$s la %2$s %3$s a scris:"
+
+#~ msgid "Attach My Key"
+#~ msgstr "Atașează cheia mea"
+
+#~ msgid "Do you really want to discard your message?"
+#~ msgstr "Sigur doriți să renunțați la mesaj?"
+
+#~ msgctxt "dialog"
+#~ msgid "Discard message"
+#~ msgstr "Renunță la mesaj"
+
+#~ msgid "Save as draft"
+#~ msgstr "Salvează ca schiță"
+
+#~ msgid "Mail has empty subject. Send it anyway?"
+#~ msgstr "Mesajul nu are subiect. Doriți totuși să-l trimiteți?"
+
+#~ msgid "Yes, send without subject"
+#~ msgstr "Da, trimite fără subiect"
+
+#~ msgid "Add subject"
+#~ msgstr "Adaugă subiect"
+
+#~ msgid "Unable to authorize against backend"
+#~ msgstr "Imposibil de autorizat prin server"
+
+#~ msgid "Save"
+#~ msgstr "Salvează"
+
+#~ msgid "Saving attachment to Drive"
+#~ msgid_plural "Saving attachments to Drive"
+#~ msgstr[0] "Se salvează fișierul atașat în Drive"
+#~ msgstr[1] "Se salvează fișierele atașate în Drive"
+#~ msgstr[2] "Se salvează fișierele atașate în Drive"
+
+#~ msgid "Attachment has been saved"
+#~ msgid_plural "Attachments have been saved"
+#~ msgstr[0] "Fișierul atașat a fost salvat"
+#~ msgstr[1] "Fișierele atașate au fost salvate"
+#~ msgstr[2] "Fișierele atașate au fost salvate"
+
+#~ msgid "Failed to decrypt"
+#~ msgstr "Decodificarea a eșuat"
+
+#~ msgid "Failed to save attachments"
+#~ msgstr "Salvarea fișierelor atașate a eșuat"
+
+#~ msgid "Unsupported browser"
+#~ msgstr "Navigator nesuportat"
+
+#~ msgid "Mail has no recipients"
+#~ msgstr "Mesajul nu conține niciun destinatar"
+
+#~ msgid "Mail saved as draft"
+#~ msgstr "Mesaj salvat ca schiță"
+
+#~ msgid "Unable to get keys for all users"
+#~ msgstr "Nu s-au putut obține cheile pentru toți utilizatorii"
+
+#~ msgid ""
+#~ "The from address you selected for this email is not associated with an "
+#~ "encryption key.  Please send from your primary account, or optionally, "
+#~ "add the email address to your key using the advanced settings."
+#~ msgstr ""
+#~ "Adresa de expeditor selectată pentru acest mesaj nu este asociată cu "
+#~ "nicio cheie de criptare. Trimiteți din contul dumneavoastră principal "
+#~ "sau, opțional, adăugați adresa de mail la cheie utilizând setările "
+#~ "avansate."
+
+#~ msgid "An error occurred saving the email."
+#~ msgstr "A apărut o eroare la salvarea e-mailului."
+
+#~ msgid "An error occurred sending the encrypted email."
+#~ msgstr "A apărut o eroare la trimiterea mesajului criptat."
+
+#~ msgid ""
+#~ "At least one of your attachments are encrypted.  Please provide your %s "
+#~ "security password to decrypt before sending"
+#~ msgstr ""
+#~ "Cel puțin unul dintre fișierele atașate este criptat. Furnizați parola de "
+#~ "securitate %s pentru a decripta înainte de a trimite"
+
+#~ msgid "To"
+#~ msgstr "Către"
+
+#~ msgctxt "CC"
+#~ msgid "Copy"
+#~ msgstr "Copie"
+
+#~ msgid "Decoding"
+#~ msgstr "Decodificare"
+
+#~ msgid ""
+#~ "Your pop-up blocker may have prevented a %s window that provides "
+#~ "application functionality."
+#~ msgstr ""
+#~ "Este posibil ca blocarea ferestrelor pop-up să fi blocat o fereastră %s "
+#~ "care oferă funcționalitatea de aplicație."
+
+#~ msgid "VCard imported with warnings"
+#~ msgstr "VCard-ul s-a importat cu avertismente"
+
+#~ msgid "Failed to import vcard"
+#~ msgstr "Nu s-a putut importa vcardul"
+
+#~ msgid "VCard imported"
+#~ msgstr "VCard importat"
+
+#~ msgid "Save Encrypted to Drive"
+#~ msgstr "Salvează criptat în Drive"
+
+#~ msgid "Save Decoded to Drive"
+#~ msgstr "Salvează decodificat în Drive"
+
+#~ msgid "Open in browser"
+#~ msgstr "Deschide în navigator"
+
+#~ msgid "Import as PGP Public Key"
+#~ msgstr "Importă ca cheie PGP publică"
+
+#~ msgid "Add to address book"
+#~ msgstr "Adaugă în agenda de contacte"
+
+#~ msgid "no files"
+#~ msgstr "niciun fișier"
+
+#~ msgid "Save attachment"
+#~ msgstr "Salvează fișierul atașat"
+
+#~ msgid "Unable to save decrypted file"
+#~ msgstr "Fișierul decodificat nu a putut fi salvat"
+
+#~ msgid "Unable to decrypt"
+#~ msgstr "Imposibil de decodificat"
+
+#~ msgid "Send copy by mail"
+#~ msgstr "Trimite o copie prin e-mail"
+
+#~ msgid "Enter %s Security Password"
+#~ msgstr "Introduceți parola de securitate %s"
+
+#~ msgid "Encrypt Files"
+#~ msgstr "Criptează fișierele"
+
+#~ msgid "Only the latest version of the files will be encrypted."
+#~ msgstr "Vor fi criptate doar ultimele versiuni ale fișierelor."
+
+#~ msgid "All previous versions will be deleted."
+#~ msgstr "Toate versiunile anterioare vor fi șterse."
+
+#~ msgid "This file could not be uploaded."
+#~ msgstr "Acest fișier nu a putut fi încărcat."
+
+#~ msgid "Upload"
+#~ msgstr "Încarcă"
+
+#~ msgid "Please provide your %s Security Password to share this file"
+#~ msgstr "Furnizați parola de securitate %s pentru a partaja acest fișier"
+
+#~ msgid "Bad private key"
+#~ msgstr "Cheie privată greșită"
+
+#~ msgid "On %1$s %2$s sent:"
+#~ msgstr "În data de %1$s, %2$s a trimis:"
+
+#~ msgid ""
+#~ "At least one of your attachments are encrypted.  Please provide your %s "
+#~ "Security Password to decrypt before sending"
+#~ msgstr ""
+#~ "Cel puțin un fișier atașat este criptat. Furnizați parola de securitate "
+#~ "%s pentru a decripta înainte de a trimite"
+
+#~ msgid ""
+#~ "Upload your Mailvelope public keys to the %s server so that other people "
+#~ "can send you encrypted emails"
+#~ msgstr ""
+#~ "Încărcați-vă cheile publice Mailvelope pe serverul %s, astfel încât alții "
+#~ "să vă poată trimite mesaje criptate"
+
+#~ msgid "Extra Password"
+#~ msgstr "Parolă suplimentară"
+
+#~ msgid ""
+#~ "This allows you to set an extra password that will be required for "
+#~ "reading this item."
+#~ msgstr ""
+#~ "Această acțiune vă permite să setați o parolă suplimentară care va fi "
+#~ "solicitată pentru citirea acestui element."
+
+#~ msgid "Please enter it below"
+#~ msgstr "Introduceți parola mai jos"
+
+#~ msgid "Please enter your %s Security password"
+#~ msgstr "Introduceți parola de securitate %s"
+
+#~ msgid "Failed to add extra password"
+#~ msgstr "Adăugarea parolei suplimentare a eșuat"
+
+#~ msgid "Remember Password"
+#~ msgstr "Reține parola"
+
+#~ msgid ""
+#~ "HTML formatted emails may cause issues with PGP inline.  Click OK to "
+#~ "change to Plain Text formatted Emails"
+#~ msgstr ""
+#~ "Mesajele în format HTML pot cauza probleme cu PGP inline. Apăsați OK "
+#~ "pentru a comuta pe mesaje în format text."
+
+#~ msgid "Secure Email, enter your %s security password"
+#~ msgstr "E-mail securizat, introduceți parola %s"
+
+#~ msgid ""
+#~ "The new recipients listed below will be sent a password via email.  You "
+#~ "can also require a seperate pin, which is displayed below"
+#~ msgstr ""
+#~ "Noii destinatari din lista de mai jos vor primi o parolă prin e-mail. De "
+#~ "asemenea, puteți solicita un cod pin separat, care este afișat mai jos"
+
+#~ msgid ""
+#~ "You may deliver this pin any way you see fit, but we recommend doing it "
+#~ "in a second method other than email (Phone, SMS, Skype, etc)"
+#~ msgstr ""
+#~ "Puteți comunica acest cod pin cum doriți, dar vă recomandăm să utilizați "
+#~ "o metodă diferită de e-mail (telefon, SMS, Skype, etc)"
+
+#~ msgid "If you want this extra pin requirement, click OK"
+#~ msgstr "Dacă doriți să solicitați acest cod pin suplimentar, apăsați pe OK"
+
+#~ msgid "Please enter your %s password to sign this email"
+#~ msgstr "Introduceți parola %s pentru a semna acest mesaj"
+
+#~ msgid "Please enter your %s password for signing"
+#~ msgstr "Introduceți parola %s pentru semnare"
+
+#~ msgid "Problems creating keys, please try again later"
+#~ msgstr "Probleme la crearea cheilor, încercați din nou"
+
+#~ msgid ""
+#~ "Problems creating keys.  Keys already exist for this email address in "
+#~ "another account"
+#~ msgstr ""
+#~ "Au apărut probleme la crearea cheilor. Cheile există deja pentru această "
+#~ "adresă de e-mail într-un alt cont"
+
+#~ msgid ""
+#~ "Please choose the password you will use for %s. You will need to type "
+#~ "this password whenever you want to encrypt or decrypt items. Remember it "
+#~ "should be different from your login password, and will not change if you "
+#~ "change your login password"
+#~ msgstr ""
+#~ "Alegeți parola pe care doriți să o utilizați pentru %s. Va trebui să "
+#~ "introduceți această parolă de fiecare dată când doriți să criptați sau să "
+#~ "decriptați elemente. Nu uitați, parola ar trebui să fie diferită de cea "
+#~ "de autentificare și nu se modifică odată cu schimbarea parolei de "
+#~ "autentificare."
+
+#~ msgid "Please enter a password to protect your new encrypted items"
+#~ msgstr "Introduceți o parolă pentru a proteja noile elemente criptate"
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password"
+#~ msgstr ""
+#~ "Introduceți o adresă de e-mail secundară în cazul în care trebuie să vă "
+#~ "resetați parola"
+
+#~ msgid "Rember my password"
+#~ msgstr "Memorează parola"
+
+#~ msgid "This Email was signed and verified"
+#~ msgstr "Acest e-mail a fost semnat și verificat"
+
+#~ msgid "This Email was signed but unable to verify"
+#~ msgstr "Acest e-mail a fost semnat dar nu s-a putut verifica"
+
+#~ msgid "This Email was signed and failed verification"
+#~ msgstr "Acest e-mail a fost semnat, dar verificarea a eșuat"
+
+#~ msgid ""
+#~ "Please change the initial temporary %s security password that was sent to "
+#~ "you in a seperate email."
+#~ msgstr ""
+#~ "Modificați parola inițială temporară de securitate%s care vi-a fost "
+#~ "trimisă într-un e-mail separat."
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password</p>"
+#~ msgstr ""
+#~ "Introduceți o adresă de e-mail secundară pentru cazul în care trebuie să "
+#~ "vă resetați parola</p>"
+
+#~ msgid "This Email was signed by the sender and verified"
+#~ msgstr "E-mailul a fost semnat de către expeditor și verificat"
+
+#~ msgid "If you already have a private key, you can upload it here"
+#~ msgstr "Dacă dețineți deja o cheie privată, o puteți încărca aici"
+
+#~ msgid "Finally, you can have a new PGP Key Pair created for your account"
+#~ msgstr ""
+#~ "În sfârșit, se poate crea o nouă pereche de chei PGP pentru contul "
+#~ "dumneavoastră"
+
+#~ msgid "Add a name and email address to this public key"
+#~ msgstr "Adăugați un nume și o adresă de e-mail la această cheie publică"
+
+#~ msgid "PGP default to using PGP inline for compatibility"
+#~ msgstr "Implicit se folosește PGP inline pentru comptabilitate"
+
+#~ msgid "Please verify your password before deleting the recovery"
+#~ msgstr "Verificați-vă parola înainte de a șterge recuperarea"
+
+#~ msgid "A new password has been sent to your email address"
+#~ msgstr "O nouă parolă a fost trimisă la adresa dumneavoastră de e-mail"
+
+#~ msgid "A new password has been sent to your secondary email address"
+#~ msgstr ""
+#~ "O nouă parolă a fost trimisă la adresa dumneavoastră de e-mail secundară"
+
+#~ msgid "No password recovery is available"
+#~ msgstr "Recuperarea parolei nu este disponibilă"
+
+#~ msgid "Password reset, but unable to send to your email address"
+#~ msgstr ""
+#~ "Parola a fost resetată, dar nu a putut fi trimisă la adresa dumneavoastră "
+#~ "de e-mail"
+
+#~ msgid "Unable to find email address to send password reset"
+#~ msgstr ""
+#~ "Nu s-a putut găsi adresa de e-mail pentru trimiterea parolei resetate"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Enabling Advanced PGP Features will enable key management and specifying "
+#~ "sending formats"
+#~ msgstr ""
+#~ "Activarea funcționalităților avansate de PGP va activa gestiunea de chei "
+#~ "și specificarea formatelor de expediere"
+
+#~ msgid "This email was sent with an extra password."
+#~ msgstr "E-mailul a fost trimis cu o parolă suplimentară."
+
+#~ msgid "Please enter below"
+#~ msgstr "Introduceți parola mai jos"
+
+#~ msgid "An error occurred during sending the encrypted email."
+#~ msgstr "A apărut o eroare la trimiterea e-mailului criptat."
+
+#~ msgid "This appears to be the first time you have used Encryption"
+#~ msgstr "Se pare că utilizați criptarea pentru prima dată"
+
+#~ msgid ""
+#~ "Please change the temporary %s security password that was sent to you in "
+#~ "a seperate email."
+#~ msgstr ""
+#~ "Modificați parola temporară de securitate %s care vi-a fost trimisă într-"
+#~ "un e-mail separat."
+
+#~ msgid "%s PGP Settings"
+#~ msgstr "Setări PGP %s"
+
+#~ msgid "Changed"
+#~ msgstr "Schimbat"
+
+#~ msgctxt "tour"
+#~ msgid "Sending without encryption"
+#~ msgstr "Expediere fără criptare"
+
+#~ msgctxt "tour"
+#~ msgid "Create Your %s Account"
+#~ msgstr "Creați-vă contul %s"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You now need to choose a password which will be used to encrypt or "
+#~ "decrypt items. You only need to set this up once. Your password will then "
+#~ "remain valid until you change it."
+#~ msgstr ""
+#~ "Acum trebuie să alegeți o parolă ce va fi utilizată pentru criptarea și "
+#~ "decriptarea elementelor. Această parolă trebuie setată doar o singură "
+#~ "dată. Rămâne valabilă în continuare până când o modificați."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You successfully set up secure communication. Your private key has been "
+#~ "created."
+#~ msgstr ""
+#~ "Ați configurat cu succes comunicarea securizată. A fost creată cheia "
+#~ "privată."
+
+#~ msgid ""
+#~ "Upload your Mailvelope public keys to the Guard server so that other "
+#~ "people can send you encrypted emails"
+#~ msgstr ""
+#~ "Încărcați cheile publice Mailvelope pe serverul Guard, pentru ca alții să "
+#~ "vă poată trimite mesaje criptate"
+
+#~ msgid ""
+#~ "Your pop-up blocker may have prevented a Guard window that provides "
+#~ "application functionality."
+#~ msgstr ""
+#~ "Este posibil ca blocarea ferestrelor pop-up să fi blocat o fereastră "
+#~ "Guard care oferă funcționalitatea de aplicație."
+
+#~ msgid "Please enter your Guard Security password"
+#~ msgstr "Introduceți parola pentru Guard Security"
+
+#~ msgid "Enter Guard Security Password"
+#~ msgstr "Introduceți parola pentru Guard Security"
+
+#~ msgid "Please provide your Guard Security Password to share this file"
+#~ msgstr "Furnizați parola Guard Security pentru a partaja acest fișier"
+
+#~ msgid "Secure Email, enter your Guard security password"
+#~ msgstr "E-mail securizat, introduceți parola pentru Guard security"
+
+#~ msgid "Keep me logged into Guard"
+#~ msgstr "Păstrează-mă conectat la Guard"
+
+#~ msgid "Will create new guest account for Guard"
+#~ msgstr "Va crea un cont invitat nou pentru Guard"
+
+#~ msgid "Have encryption key"
+#~ msgstr "Cheie de criptare disponibilă"
+
+#~ msgid "Please enter your Guard password to sign this email"
+#~ msgstr "Introduceți parola dumneavoastră Guard pentru a semna mesajul"
+
+#~ msgid "Please enter your Guard password for signing"
+#~ msgstr "Introduceți parola Guard pentru semnare"
+
+#~ msgid ""
+#~ "At least one of your attachments are encrypted.  Please provide your "
+#~ "Guard Security Password to decrypt before sending"
+#~ msgstr ""
+#~ "Cel puțin unul dintre fișierele atașate este criptat. Furnizați parola "
+#~ "pentru Guard Security pentru decodificare înainte de trimitere"
+
+#~ msgid "Automated Email Language"
+#~ msgstr "Limba automată a e-mailului"
+
+#~ msgid "Create Guard Security Keys"
+#~ msgstr "Creează chei pentru Guard Security"
+
+#~ msgid "First Guard Security Password Use"
+#~ msgstr "Prima utilizare a parolei pentru Guard Security"
+
+#~ msgid ""
+#~ "Please change the temporary Guard security password that was sent to you "
+#~ "in a seperate email."
+#~ msgstr ""
+#~ "Schimbați parola temporară pentru Guard security care v-a fost trimisă "
+#~ "într-un e-mail separat."
+
+#~ msgid "Please enter your Guard password"
+#~ msgstr "Introduceți parola Guard"
+
+#~ msgid ""
+#~ "Please change the initial temporary Guard security password that was sent "
+#~ "to you in a seperate email."
+#~ msgstr ""
+#~ "Schimbați parola inițială temporară pentru Guard security care v-a fost "
+#~ "trimisă într-un e-mail separat."
+
+#~ msgid "Guard PGP Settings"
+#~ msgstr "Setări Guard PGP"
+
+#~ msgid ""
+#~ "If you would like to upload a public key only, then do so here.  This "
+#~ "will allow you to encrypt files and receive encrypted emails using Guard, "
+#~ "but you will need to use the private key with another program to decode "
+#~ "the items."
+#~ msgstr ""
+#~ "Dacă doriți să încărcați doar o cheie publică, încărcați-o aici.  Această "
+#~ "acțiune vă va permite să criptați fișiere și să primiți mesaje criptate "
+#~ "folosind Guard, dar va trebui să folosiți cheia privată într-un alt "
+#~ "program pentru a decodifica elementele."
+
+#~ msgid "Guided tour for Guard"
+#~ msgstr "Vizită ghidată pentru Guard"
+
+#~ msgid "Sign out Guard"
+#~ msgstr "Deconectare de la Guard"
+
+#~ msgctxt "app"
+#~ msgid "Guard Security"
+#~ msgstr "Guard Security"
+
+#~ msgid ""
+#~ "In order to start with Guard Security, you must set up a password for "
+#~ "your secured files."
+#~ msgstr ""
+#~ "Pentru a începe să utilizați Guard Security, trebuie să setați o parolă "
+#~ "pentru fișierele securizate."
+
+#~ msgid "Guard Security Settings"
+#~ msgstr "Setări Guard Security"
+
+#~ msgid "Change Guard Security Password."
+#~ msgstr "Schimbă parola pentru Guard Security."
+
+#~ msgid "Enter current Guard security password"
+#~ msgstr "Introduceți parola actuală pentru Guard Security"
+
+#~ msgid "Enter new Guard security password"
+#~ msgstr "Introduceți noua parolă pentru Guard Security"
+
+#~ msgid "Verify new Guard security password"
+#~ msgstr "Verificați noua parolă pentru Guard Security"
+
+#~ msgid "Change Guard security password"
+#~ msgstr "Schimbă parola pentru Guard Security"
+
+#~ msgid "Reset Guard security password"
+#~ msgstr "Resetează parola pentru Guard Security"
+
+#~ msgid ""
+#~ "Send a temporary Guard security password to my secondary Email address."
+#~ msgstr ""
+#~ "Trimite o parolă temporară pentru Guard Security la adresa mea de e-mail "
+#~ "secundară."
+
+#~ msgctxt "tour"
+#~ msgid "The Guard module"
+#~ msgstr "Modulul Guard"
+
+#~ msgctxt "tour"
+#~ msgid "Guard Security Settings"
+#~ msgstr "Setări de securitate Guard"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You already set up your Guard account. But you can always change your "
+#~ "encryption password, or request a temporary password if you forget it."
+#~ msgstr ""
+#~ "V-ați configurat deja contul Guard. Puteți totuși în orice moment să vă "
+#~ "modificați parola de criptare sau să cereți o parolă temporară dacă o "
+#~ "uitați."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "By default Guard sends encrypted emails using PGP/Mime format. To "
+#~ "communicate with some systems you may need to use PGP Inline."
+#~ msgstr ""
+#~ "Implicit, Guard trimite mesajele criptate utilizând formatul PGP/MIME. "
+#~ "Pentru a comunica cu anumite sisteme puteți necesita PGP inline."
+
+#~ msgctxt "tour"
+#~ msgid "Remove encryption"
+#~ msgstr "Elimină criptarea"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Removing the encryption is easy, too: Simply click on the lock icon again."
+#~ msgstr ""
+#~ "Eliminarea criptării este de asemenea ușoară: doar apăsați din nou pe "
+#~ "pictograma lacăt."
+
+#~ msgctxt "tour"
+#~ msgid "Create Your Guard Account"
+#~ msgstr "Creați-vă un cont Guard"
+
+#~ msgctxt "tour"
+#~ msgid "Guard set up completed"
+#~ msgstr "Configurare Guard finalizată"
+
+#~ msgctxt "Choice"
+#~ msgid "Works only in all browsers with all your contacts"
+#~ msgstr ""
+#~ "Funcționează în toate navigatoarele ce conțin toate contactele "
+#~ "dumneavoastră"
+
+#~ msgid "Click to enable encryption"
+#~ msgstr "Apăsați pentru a activa criptarea"
+
+#~ msgid "Click to disable encryption"
+#~ msgstr "Apăsați pentru a dezactiva criptarea"
+
+#~ msgid "Error.  Please reload message"
+#~ msgstr "Eroare. Reîncărcați mesajul"
+
+#~ msgid "You have exceeded bad password attempts.  Please wait %s minutes"
+#~ msgstr ""
+#~ "Ați depășit numărul maxim de încercări de conectare cu parole incorecte. "
+#~ "Așteptați %s minute"
+
+#~ msgid ""
+#~ "This email has expired and can no longer be accessed.  Contact the sender "
+#~ "for more information."
+#~ msgstr ""
+#~ "E-mailul a expirat și nu mai poate fi accesat. Contactați expeditorul "
+#~ "pentru mai multe informații."
+
+#~ msgid ""
+#~ "This Email has been retracted by the sender and can no longer be "
+#~ "accessed.  Contact the sender for more information."
+#~ msgstr ""
+#~ "E-mailul a fost retras de către expeditor și nu mai poate fi accesat. "
+#~ "Contactați expeditorul pentru mai multe informații."
+
+#~ msgid "Unable to decrypt Email."
+#~ msgstr "Imposibil de decriptat e-mailul."
+
+#~ msgid "The sender added an extra password encryption."
+#~ msgstr "Expeditorul a adăugat o criptare suplimentară pentru parolă."
+
+#~ msgid "Save Encrypted"
+#~ msgstr "Salvează criptat"
+
+#~ msgid "Save Decrypted"
+#~ msgstr "Salvează decodificat"
+
+#~ msgid ""
+#~ "This Email was sent encrypted. It has been decrypted with your private key"
+#~ msgstr ""
+#~ "E-mailul a fost trimis criptat. A fost decodificat cu cheia dumneavoastră "
+#~ "privată"
+
+#~ msgid "Expires: "
+#~ msgstr "Expiră: "
+
+#~ msgid "Retract Email"
+#~ msgstr "Retrage e-mailul"
+
+#~ msgid "Email status"
+#~ msgstr "Stare e-mail"
+
+#~ msgid "Retract all access"
+#~ msgstr "Retrage orice acces"
+
+#~ msgid "Email has not been opened."
+#~ msgstr "E-mailul nu a fost deschis."
+
+#~ msgid "Email has been opened."
+#~ msgstr "E-mailul a fost deschis."
+
+#~ msgid "Email has been retracted."
+#~ msgstr "E-mailul a fost retras."
+
+#~ msgid "Unable to get email status, please try again later"
+#~ msgstr "Nu s-a putut obține starea e-mailului, încercați din nou"
+
+#~ msgid "This will retract the email for all recipients. Click OK to confirm."
+#~ msgstr ""
+#~ "Această acțiune va retrage e-mailul de la toti destinatarii. Apăsați pe "
+#~ "OK pentru a confirma."
+
+#~ msgid "Item was retracted"
+#~ msgstr "Elementul a fost retras"
+
+#~ msgid "Not all items retracted"
+#~ msgstr "Nu au fost retrase toate elementele"
+
+#~ msgid "Failed to retract"
+#~ msgstr "Retragerea e eșuat"
+
+#~ msgctxt "tour"
+#~ msgid "Learn more …"
+#~ msgstr "Informații suplimentare..."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "From here you can update you encryption settings. For example you can "
+#~ "choose to send encrypted emails by default."
+#~ msgstr ""
+#~ "De aici puteți actualiza setările de criptare. Puteți decide, de exemplu, "
+#~ "să trimiteți mesajele criptate în mod implicit."
+
+#~ msgid "Message was saved"
+#~ msgstr "Mesajul a fost salvat"
+
+#~ msgid "Problem creating keys"
+#~ msgstr "Problemă la crearea cheilor"
+
+#~ msgctxt "tour"
+#~ msgid "Please click on the lock icon."
+#~ msgstr "Apăsați pe pictograma lacăt."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Please choose your password now, enter a secondary email address and "
+#~ "click on Ok."
+#~ msgstr ""
+#~ "Alegeți parola acum, introduceți o adresă secundară de mail și apăsați Ok."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You can always change your encryption password, or request a temporary "
+#~ "password if you forget it."
+#~ msgstr ""
+#~ "Puteți modifica oricând parola de criptare sau puteți cere o parolă "
+#~ "temporară dacă ați uitat-o."
+
+#~ msgctxt "tour"
+#~ msgid "Congratulations! You are now able to send secure emails."
+#~ msgstr "Felicitării! Acum puteți trimite mesaje criptate."
+
+#~ msgctxt "tour"
+#~ msgid "Please remove the encryption now by clicking on the lock icon again."
+#~ msgstr "Eliminați acum criptarea apăsând din nou pe pictograma lacăt."
+
+#~ msgid "%s already encrypted"
+#~ msgstr "%s a fost deja criptat"
+
+#~ msgid "Add folder"
+#~ msgstr "Adaugă dosar"
+
+#~ msgid "Already Protected With Additional Password"
+#~ msgstr "Protejat deja printr-o parolă suplimentară"
+
+#~ msgid "Click to disable PGP encryption"
+#~ msgstr "Apăsați pentru a dezactiva criptarea PGP"
+
+#~ msgid "Done"
+#~ msgstr "Terminat"
+
+#~ msgid "Drop here to upload a <b class=\"dndignore\">new encrypted file</b>"
+#~ msgstr ""
+#~ "Fixați aici pentru a încărca un <b class=\"dndignore\">fișier criptat "
+#~ "nou</b>"
+
+#~ msgid "Encrypting "
+#~ msgstr "Criptare"
+
+#~ msgid "Encrypting %s"
+#~ msgstr "Se criptează %s"
+
+#~ msgid "FW: %1$s"
+#~ msgstr "Redirecționat: %1$s"
+
+#~ msgid "Failed to encrypt file"
+#~ msgstr "Criptarea fișierului a eșuat"
+
+#~ msgid "Folder name"
+#~ msgstr "Nume dosar"
+
+#~ msgid "New Encrypted folder"
+#~ msgstr "Dosar criptat nou"
+
+#~ msgid "New Encrypted subfolder"
+#~ msgstr "Dosar subordonat criptat nou"
+
+#~ msgid "New encrypted subfolder"
+#~ msgstr "Dosar subordonat criptat nou"
+
+#~ msgid "New folder"
+#~ msgstr "Dosar nou"
+
+#~ msgid "New public folder"
+#~ msgstr "Dosar public nou"
+
+#~ msgid ""
+#~ "One of your recipients requires emails to be sent as PGP Inline.  "
+#~ "Changing now."
+#~ msgstr ""
+#~ "Unul dintre destinatari dorește ca mesajele să fie trimise ca PGP inline. "
+#~ "Modificare în curs."
+
+#~ msgid "PGP key exists for this person"
+#~ msgstr "Cheia PGP există pentru această persoană"
+
+#~ msgid "Require Additional Password"
+#~ msgstr "Solicită parolă suplimentară"
+
+#~ msgid "Security Options"
+#~ msgstr "Opțiuni de securitate"
+
+#~ msgid "Send encrypted (PGP)"
+#~ msgstr "Trimite criptat (PGP)"
+
+#~ msgid "Share keys with other users to decrypt this file"
+#~ msgstr "Partajează cheile cu alți utilizatori pentru a decodifica fișierul"
+
+#~ msgid "Share link"
+#~ msgstr "Partajează legătura"
+
+#~ msgid "Sharing"
+#~ msgstr "Partajare"
+
+#~ msgid "Sign email"
+#~ msgstr "Semnează e-mailul"
+
+#~ msgid "Status"
+#~ msgstr "Stare"
+
+#~ msgid "Stop"
+#~ msgstr "Oprește"
+
+#~ msgid "The key for %1$s is expired and should not be used"
+#~ msgstr "Cheia pentru %1$s a expirat și nu ar trebui să fie folosită"
+
+#~ msgid "Unable to create Guard account, please try again later"
+#~ msgstr "Contul Guard nu a putut fi creat, încercați din nou"
+
+#~ msgid "Upload new files to encrypt"
+#~ msgstr "Încărcați fișiere noi de criptat"
+
+#~ msgid "Use PGP inline (compatibility)"
+#~ msgstr "Utilizează PGP inline (compatibilitate)"
+
+#~ msgid "%s hours"
+#~ msgstr "%s ore"
+
+#~ msgid "%s week"
+#~ msgstr "%s săptămână"
+
+#~ msgid "%s weeks"
+#~ msgstr "%s săptămâni"
+
+#~ msgid "Added keys:"
+#~ msgstr "Chei adăugate:"
+
+#~ msgid "CC:"
+#~ msgstr "CC:"
+
+#~ msgid "Click to disable Guard"
+#~ msgstr "Apăsați pentru a dezactiva Guard"
+
+#~ msgid "Click to enable Guard"
+#~ msgstr "Apăsați pentru a activa Guard"
+
+#~ msgid "Confirm Guard Password"
+#~ msgstr "Confirmați parola Guard"
+
+#~ msgid "Create Guard Account"
+#~ msgstr "Creează un cont Guard"
+
+#~ msgid "Date:"
+#~ msgstr "Dată:"
+
+#~ msgid "Decode"
+#~ msgstr "Decodifică"
+
+#~ msgid "Default signing outgoing PGP mails"
+#~ msgstr "Semnează implicit mesajele expediate utilizând PGP"
+
+#~ msgid "Defaults"
+#~ msgstr "Setări implicite"
+
+#~ msgid "Download (OG)"
+#~ msgstr "Descarcă (OG)"
+
+#~ msgid "Enable Guard"
+#~ msgstr "Activează Guard"
+
+#~ msgid "Encrypted email has been sent successfully."
+#~ msgstr "E-mailul criptat a fost trimis cu succes."
+
+#~ msgid "Encrypting"
+#~ msgstr "Se criptează"
+
+#~ msgid "From:"
+#~ msgstr "De la:"
+
+#~ msgid "Fwd:"
+#~ msgstr "Redirecţionat:"
+
+#~ msgid "IDs:"
+#~ msgstr "Identificatori:"
+
+#~ msgid "Initializing Guard, please wait"
+#~ msgstr "Se inițializează Guard, așteptați"
+
+#~ msgid "Inline"
+#~ msgstr "Inline"
+
+#~ msgid "Make Guard default to PGP compliant"
+#~ msgstr "Setează Guard implicit pentru conformitate cu PGP"
+
+#~ msgid "Never"
+#~ msgstr "Niciodată"
+
+#~ msgid "No recipients"
+#~ msgstr "Niciun destinatar"
+
+#~ msgid "None"
+#~ msgstr "Niciunul"
+
+#~ msgid "Not able to contact guard server"
+#~ msgstr "Nu s-a putut contacta serverul guard"
+
+#~ msgid "On"
+#~ msgstr "În"
+
+#~ msgid "Open"
+#~ msgstr "Deschide"
+
+#~ msgid "Open Decoded"
+#~ msgstr "Deschidere decodificată"
+
+#~ msgid "PGP Compliant Guard"
+#~ msgstr "Guard conform cu PGP"
+
+#~ msgid "PGP default to PGP inline for compatibility"
+#~ msgstr "PGP implicit inline pentru compatibilitate"
+
+#~ msgid "Please enter a password to protect your Guard account"
+#~ msgstr "Introduceți o parolă pentru a vă proteja contul Guard"
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password.  A new password would be sent to this email."
+#~ msgstr ""
+#~ "Introduceți o adresă de e-mail secundară pentru cazul în care trebuie să "
+#~ "vă resetați parola. O nouă parolă ar fi trimisă la această adresă de e-"
+#~ "mail."
+
+#~ msgid "Please select the file location of your private key."
+#~ msgstr ""
+#~ "Selectați locația fișierului care conține cheia dumneavoastră privată."
+
+#~ msgid "Private Key Password"
+#~ msgstr "Parolă pentru cheia privată"
+
+#~ msgid "Problem uploading Private Key"
+#~ msgstr "Probleme la încărcarea cheii private"
+
+#~ msgid "Public Key List"
+#~ msgstr "Listă chei publice"
+
+#~ msgid "Recipient has Guard"
+#~ msgstr "Expeditorul are Guard"
+
+#~ msgid "Retract in"
+#~ msgstr "Retrage în"
+
+#~ msgid "Save Decoded"
+#~ msgstr "Salvează decodificat"
+
+#~ msgid "Shared"
+#~ msgstr "Partajat"
+
+#~ msgid "Sign PGP"
+#~ msgstr "Semnează cu PGP"
+
+#~ msgid "Subject:"
+#~ msgstr "Subiect:"
+
+#~ msgid ""
+#~ "The key will be used locally only.  It will not be sent to the server."
+#~ msgstr "Cheia va fi utilizată doar local. Nu va fi trimisă la server."
+
+#~ msgid "This appears to be the first time you have used Guard"
+#~ msgstr "Se pare că utilizați Guard pentru prima dată"
+
+#~ msgid "To:"
+#~ msgstr "Către:"
+
+#~ msgid "Unable to get key for encryption"
+#~ msgstr "Imposibil de obținut cheia pentru criptare"
+
+#~ msgid "Unable to load"
+#~ msgstr "Imposibil de încărcat"
+
+#~ msgid "Use Guard when composing a new email"
+#~ msgstr "Utilizează Guard la crearea unui e-mail nou"
+
+#~ msgid "Using a guest account for email"
+#~ msgstr "Se utilizează un cont invitat pentru e-mail"
+
+#~ msgid "Your private key"
+#~ msgstr "Cheia dvs privată"
+
+#~ msgid "Your public key"
+#~ msgstr "Cheia dvs publică"
+
+#~ msgid "popup blocked"
+#~ msgstr "Fereastră popup blocată"

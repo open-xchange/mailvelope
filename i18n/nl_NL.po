@@ -1,0 +1,2663 @@
+# Ivar Snaaijer <ivar@bureau-cornavin.com>, 2014, 2015, 2016, 2017.
+msgid ""
+msgstr ""
+"Project-Id-Version: open-xchange-guard-ui\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2018-01-12 09:05-0500\n"
+"Last-Translator: Greg Hill <greg.hill@open-xchange.com>\n"
+"Language-Team: Dutch <kde-i18n-nl@kde.org>\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.10\n"
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "Toggle Encryption"
+msgstr ""
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "Not Supported"
+msgstr "Niet ondersteund"
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "%s is not supported with secured email and will be disabled."
+msgstr ""
+"%s wordt niet ondersteund met gecodeerde e-mailberichten en wordt "
+"uitgeschakeld."
+
+#: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+msgid "OK"
+msgstr "OK"
+
+#. %s product Name
+#: apps/mailvelope/settings.js module:oxguard
+msgid "Mailvelope"
+msgstr "Mailvelope"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Mailvelope Not Supported"
+msgstr "Mailvelope wordt niet ondersteund"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid ""
+"Mailvelope is only supported in Google Chrome or Mozilla Firefox.  Please "
+"use one of these broswers to set up encryption."
+msgstr ""
+"Mailvelope wordt alleen ondersteund binnen Google Chrome en Mozilla Firefox. "
+"Gebruik alstublieft een van deze browsers om codering in te stellen."
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Encrypted communication"
+msgstr "Gecodeerde communicatie"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Download browser plugin"
+msgstr "Download de browser-plugin"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Generate"
+msgstr "Genereren"
+
+#: apps/mailvelope/tour.js module:mailvelope
+msgid "Congratulations! You have successfully set up encryption."
+msgstr "Gefeliciteerd! U heeft succesvol encryptie geactiveerd."
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Prepare"
+msgstr "Voorbereiden"
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Password"
+msgstr "Wachtwoord"
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Three steps to setup encrypted communication:"
+msgstr "Drie stappen om gecodeerde communicatie op te zetten:"
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Download browser plugin “Mailvelope”"
+msgstr "Download de browser-plugin “Mailvelope”"
+
+#: apps/mailvelope/tour/views.js module:mailvelope
+msgid "Create encryption keys for secure communication"
+msgstr "Maak sleutels aan voor beveiligde communicatie"
+
+#~ msgid "Mailvelope Advanced"
+#~ msgstr "Mailvelope Geavanceerd"
+
+#~ msgid "Error"
+#~ msgstr "Fout"
+
+#~ msgid ""
+#~ "Backup your Mailvelope private keys to the server.  The keys will be "
+#~ "encrypted requiring a security code for restore"
+#~ msgstr ""
+#~ "Maak een reservekopie van uw Mailvelope privé-sleuels op de server. De "
+#~ "sleutels worden gecodeerd opgeslagen en hebben een beveiligingscode nodig "
+#~ "om hersteld te worden."
+
+#~ msgid "Backup"
+#~ msgstr "Reservekopie"
+
+#~ msgid "Discard previously saved private keys."
+#~ msgstr "Verwijder eerder opgeslagen privésleutels."
+
+#~ msgid "Discard backup"
+#~ msgstr "Verwijder reservekopie"
+
+#~ msgid "Restore previously saved private keys."
+#~ msgstr "Herstel eerder opgeslagen privésleutels."
+
+#~ msgid "Restore"
+#~ msgstr "Herstel"
+
+#~ msgid ""
+#~ "Upload your Mailvelope public keys to the %s server so that other people "
+#~ "can send you encrypted emails."
+#~ msgstr ""
+#~ "Upload uw publieke Mailveloppe sleutels naar de %s server zodat andere "
+#~ "mensen gecodeerde berichten kunnen sturen."
+
+#~ msgid "Upload Public Key"
+#~ msgstr "Upload Publieke Sleutel"
+
+#~ msgid "Backup and Recovery"
+#~ msgstr "Reservekopie en Herstel"
+
+#~ msgid "No backup data available"
+#~ msgstr "Geen herstelgegevens beschikbaar"
+
+#~ msgid ""
+#~ "You can now backup your keys. Please store the provided password secure. "
+#~ "It is also possible to skip this step and do the backup later. You can "
+#~ "find it in the settings."
+#~ msgstr ""
+#~ "U kan ook uw sleutels bewaren. Sla het wachtwoord alstublieft op een "
+#~ "veilige plek op. Het is mogelijk deze stap over te slaan en de  backup "
+#~ "later te maken. U kan het vinden in de instellingen."
+
+#~ msgid "Skip without backup"
+#~ msgstr "Overslaan zonder reservekopie"
+
+#~ msgid "Recommended: Setup key backup"
+#~ msgstr "Aanrader: Maak een backup van de sleutel"
+
+#~ msgid "Enter %s security password"
+#~ msgstr "Geef het %s beveiligingswachtwoord"
+
+#~ msgid "Bad password"
+#~ msgstr "Verkeerd wachtwoord"
+
+#~ msgid "Account Locked out"
+#~ msgstr "Account is geblokkeerd"
+
+#~ msgid "Unspecified error"
+#~ msgstr "Onbekende fout"
+
+#~ msgid "Problems creating keys, please try again later."
+#~ msgstr ""
+#~ "Problemen bij het aanmaken van sleutels, probeer het later nog eens."
+
+#~ msgid ""
+#~ "Problems creating keys.  Keys already exist for this email address in "
+#~ "another account."
+#~ msgstr ""
+#~ "Problemen bij het aanmaken van sleutels. Er bestaan al sleutels voor dit "
+#~ "e-mailadres in een ander account."
+
+#~ msgid "Passwords must be at least %s characters in length"
+#~ msgstr "Wachtwoord moet minimaal %s tekens lang zijn"
+
+#~ msgid "Passwords not equal"
+#~ msgstr "Wachtwoorden komen niet overeen"
+
+#~ msgid "Enter new secondary Email address"
+#~ msgstr "Voer een nieuw alternatief e-mailadres"
+
+#~ msgid "Generating key, Please wait"
+#~ msgstr "Sleutels aanmaken, even wachten"
+
+#~ msgid ""
+#~ "Please choose the password you will use for %s. You will need to type "
+#~ "this password whenever you want to encrypt or decrypt items. Remember it "
+#~ "should be different from your login password, and will not change if you "
+#~ "change your login password."
+#~ msgstr ""
+#~ "Kies alstublieft het wachtwoord wat u wilt gebruiken voor %s. U moet dit "
+#~ "wachtwoord elke keer ingeven als u berichten wilt coderen of decoderen. "
+#~ "Realiseer u ook dat deze anders moet zijn als uw aanmeldwachtwoord, en "
+#~ "niet zal veranderen als u uw aanmeldwachtwoord veranderd."
+
+#~ msgid "Please enter a password to protect your new encrypted items."
+#~ msgstr "Voer alstublieft een wachtwoord in om uw nieuwe items te coderen."
+
+#~ msgid "Confirm"
+#~ msgstr "Bevestig"
+
+#~ msgid ""
+#~ "Warning: This password for encryption cannot be restored or recovered in "
+#~ "any way.  If forgotten, all encrypted data will be lost"
+#~ msgstr ""
+#~ "Waarschuwing: Dit coderingswachtwoord kan op geen enkele manier hersteld "
+#~ "of opgehaald worden. Als deze is vergeten zijn alle gecodeerde gegevens "
+#~ "verloren"
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password."
+#~ msgstr ""
+#~ "Voer alstublieft uw alternatieve e-mailadres in voor het geval dat u uw "
+#~ "wachtwoord moet herstellen."
+
+#~ msgid "Email:"
+#~ msgstr "E-mail:"
+
+#~ msgid "Create %s Security Keys"
+#~ msgstr "%s Security Sleutels aanmaken"
+
+#~ msgid "Cancel"
+#~ msgstr "Annuleren"
+
+#~ msgid "Not valid email"
+#~ msgstr "Geen geldig e-mailadres"
+
+#~ msgid "Emails not equal"
+#~ msgstr "E-mailadres is niet hetzelfde"
+
+#~ msgid "Too short"
+#~ msgstr "Te kort"
+
+#~ msgid "Strong"
+#~ msgstr "Sterk"
+
+#~ msgid "Weak"
+#~ msgstr "Slecht"
+
+#~ msgid "First %s Security Use"
+#~ msgstr "Eerste %s Security gebruik"
+
+#~ msgid "You have been sent an email using %s to secure the contents"
+#~ msgstr ""
+#~ "U heeft een e-mailbericht ontvangen waarvan de inhoud is beveiligd door %s"
+
+#~ msgid ""
+#~ "Please select a new password for use with %s.  This password will be used "
+#~ "to open encrypted emails and files that may be sent to you."
+#~ msgstr ""
+#~ "Selecteer alstublieft een nieuw wachtwoord om te gebruiken met %s. Het "
+#~ "wachtwoord wordt gebruikt om aan u gestuurde gecodeerde e-mailberichten "
+#~ "en bestanden te decoderen."
+
+#~ msgid "First %s Security Password Use"
+#~ msgstr "Eerste %s Beveiligingswachtwoord gebruik"
+
+#~ msgid ""
+#~ "Please change the initial temporary %s security password that was sent to "
+#~ "you in a separate email."
+#~ msgstr ""
+#~ "Verander alstublieft het tijdelijke %s beveiligingswachtwoord welke naar "
+#~ "het andere e-mailadres is gestuurd."
+
+#~ msgid "Initial Password"
+#~ msgstr "Origineel Wachtwoord"
+
+#~ msgid "New Password"
+#~ msgstr "Nieuw Wachtwoord"
+
+#~ msgid "Confirm New"
+#~ msgstr "Bevestig Nieuw"
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password.</p>"
+#~ msgstr ""
+#~ "Voer alstublieft uw alternatieve e-mailadres in voor het geval dat u uw "
+#~ "wachtwoord moet herstellen.</p>"
+
+#~ msgid "Verify:"
+#~ msgstr "Controleer:"
+
+#~ msgid ""
+#~ "Warning: This password for encryption cannot be restored or recovered in "
+#~ "any way.  If forgotten, all encrypted data will be lost."
+#~ msgstr ""
+#~ "Waarschuwing: Dit coderingswachtwoord kan op geen enkele manier hersteld "
+#~ "of opgehaald worden. Als deze is vergeten zijn alle gecodeerde gegevens "
+#~ "verloren."
+
+#~ msgid "Success"
+#~ msgstr "Success"
+
+#~ msgid "Password changed successfully"
+#~ msgstr "Wachtwoord is succesvol aangepast"
+
+#~ msgid "New password must be at least %s characters long"
+#~ msgstr "Het nieuwe wachtwoord moet minimaal %s tekens lang zijn"
+
+#~ msgid "Encryption key not found"
+#~ msgstr "Decodeersleutel niet gevonden"
+
+#~ msgid "Failed to change password"
+#~ msgstr "Wachtwoord wijzigen is mislukt"
+
+#~ msgid "Download decrypted"
+#~ msgstr "Gedecodeerd downloaden"
+
+#~ msgid "Add and encrypt local file"
+#~ msgstr "Lokaal bestand toevoegen en coderen"
+
+#~ msgid "Remove encryption"
+#~ msgstr "Codering verwijderen"
+
+#~ msgid "Encrypt"
+#~ msgstr "Coderen"
+
+#~ msgid "Send by mail"
+#~ msgstr "Verzonden via e-mail"
+
+#~ msgid "Download encrypted"
+#~ msgstr "Gecodeerd downloaden"
+
+#~ msgid "Pop out"
+#~ msgstr "Pop-out"
+
+#~ msgid "Pop out standalone viewer"
+#~ msgstr "Pop-out alleenstaand scherm"
+
+#~ msgid "Decrypt and open"
+#~ msgstr "Decoderen en openen"
+
+#~ msgid "Drop files here to encrypt"
+#~ msgstr "Sleep het bestand hiernaartoe om te coderen"
+
+#~ msgid "Recipient Options"
+#~ msgstr "Opties voor de Ontvanger"
+
+#~ msgid ""
+#~ "At least one of your recipients uses a different webmail system.  They "
+#~ "will receive an email with a link for them to read this message.  If you "
+#~ "like, you can add a personalized message that will appear at the top of "
+#~ "this message.  This will help identify the message as coming from you."
+#~ msgstr ""
+#~ "Minstens één van uw ontvangers gebruikt een ander webmail systeem. Deze "
+#~ "ontvangers krijgen een e-mailbericht met een link om dit bericht te "
+#~ "lezen. Als u dat wilt kan u een persoonlijk bericht toevoegen welke aan "
+#~ "de bovenzijde van dit bericht wordt getoond. Dit helpt om de e-mail te "
+#~ "identificeren als een e-mailbericht van u."
+
+#~ msgid "Message:"
+#~ msgstr "Bericht:"
+
+#~ msgid "Language for recipient Email"
+#~ msgstr "Taal voor de e-mail naar de ontvanger"
+
+#~ msgid "Note: Emails sent to mailing lists or groups will not work."
+#~ msgstr ""
+#~ "Opmerking: E-mailberichten die naar mailinglists of groepen worden "
+#~ "gestuurd werken niet."
+
+#~ msgid ""
+#~ "Mailing list / blocked email found.  Encrypted emails to this email will "
+#~ "fail.  %s"
+#~ msgstr ""
+#~ "Mailinglist / geblokkeerd e-mailadres gevonden. Gecodeerde e-"
+#~ "mailberichten naar dit e-mailadres zullen falen. %s"
+
+#~ msgid ""
+#~ "The key for %s has expired.  You will not be able to send an encrypted "
+#~ "email to this recipient."
+#~ msgstr ""
+#~ "De sleutel voor %s is verlopen. U kan geen gecodeerde e-mailberichten "
+#~ "meer naar deze ontvanger sturen."
+
+#~ msgid "HTML Formatted Email"
+#~ msgstr "E-mail met HTML-indeling"
+
+#~ msgid ""
+#~ "HTML formatted emails may cause issues with PGP inline.  Click OK to "
+#~ "change to Plain Text formatted Emails."
+#~ msgstr ""
+#~ "E-mailberichten met HTML-indeling kunnen problemen geven met inline PGP. "
+#~ "Klik op OK voor de omzetting van het bericht naar Platte Tekst."
+
+#~ msgid "HTML format is not recommended when using PGP Inline"
+#~ msgstr "HTML opmaak is wordt niet aangeraden als u PGP Inline gebruikt"
+
+#~ msgid "Recipients cannot be added to this encrypted reply"
+#~ msgstr ""
+#~ "Ontvangers kunnen niet worden toegevoegd aan dit gecodeerde "
+#~ "antwoordbericht"
+
+#~ msgid "Reply must be encrypted"
+#~ msgstr "Antwoord moet gecodeerd zijn"
+
+#~ msgid "Unable to attach your public key"
+#~ msgstr "Het is niet mogelijk uw publieke sleutel als bijlage toe te voegen"
+
+#~ msgid "Will create new guest account for %s"
+#~ msgstr "Een nieuw gastaccount wordt aangemaakt voor %s"
+
+#~ msgid "Encryption Key Known"
+#~ msgstr "Codeersleutel is bekend"
+
+#~ msgid "Send"
+#~ msgstr "Verzenden"
+
+#~ msgid "Send Encrypted"
+#~ msgstr "Gecodeerd Verzendend"
+
+#~ msgid "Send Secure"
+#~ msgstr "Beveiligd Verzenden"
+
+#~ msgid "Loaded"
+#~ msgstr "Geladen"
+
+#~ msgid "Secure Email, enter your %s security password."
+#~ msgstr "Beveiligde e-mail, geef uw %s beveiligingswachtwoord."
+
+#~ msgid "Keep me logged into %s"
+#~ msgstr "Aangemeld blijven bij %s"
+
+#~ msgid "10 minutes"
+#~ msgstr "10 minuten"
+
+#~ msgid "20 minutes"
+#~ msgstr "20 minuten"
+
+#~ msgid "30 minutes"
+#~ msgstr "30 minuten"
+
+#~ msgid "1 hour"
+#~ msgstr "1 uur"
+
+#~ msgid "2 hours"
+#~ msgstr "2 uren"
+
+#~ msgid "Session"
+#~ msgstr "Sessie"
+
+#~ msgid "Select Key Location"
+#~ msgstr "Selecteer Sleutel Locatie"
+
+#~ msgid "Temporary Lockout"
+#~ msgstr "Tijdelijk Geblokkeerd"
+
+#~ msgid "Security PIN"
+#~ msgstr "PIN Beveiliging"
+
+#~ msgid "Recipients:"
+#~ msgstr "Ontvangers:"
+
+#~ msgid ""
+#~ "The new recipients listed below will be sent a password via email.  You "
+#~ "can also require a separate pin, which is displayed below."
+#~ msgstr ""
+#~ "De nieuwe ontvangers in de onderstaande lijst krijgen een wachtwoord via "
+#~ "een e-mailbericht. U kan ook een aparte PIN vragen welke hieronder wordt "
+#~ "getoond."
+
+#~ msgid ""
+#~ "You may deliver this pin any way you see fit, but we recommend doing it "
+#~ "in a second method other than email (Phone, SMS, Skype, etc)."
+#~ msgstr ""
+#~ "U kan deze PIN op uw eigen manier naar de ontvanger sturen, maar we raden "
+#~ "aan een ander medium dan e-mail te gebruiken (Telefoon, SMS, Skype enz.)."
+
+#~ msgid "If you want this extra pin requirement, click OK."
+#~ msgstr "Als u deze extra PIN wilt gebruiken klik dan op OK."
+
+#~ msgid "Skip"
+#~ msgstr "Overslaan"
+
+#~ msgid "Unable to get key"
+#~ msgstr "Niet mogelijk om de sleutel op te halen"
+
+#~ msgid "Please enter your %s password to sign this email."
+#~ msgstr ""
+#~ "Geef alstublieft uw %s wachtwoord op om dit e-mailbericht te ondertekenen."
+
+#~ msgid ""
+#~ "There appears to be an encrypted attachment.  Please enter your %s "
+#~ "password to decode the attachment for sending."
+#~ msgstr ""
+#~ "Er blijkt een gecodeerde bijlage te zijn. Geef uw %s wachtwoord om deze "
+#~ "bijlage te decoderen en te verzenden."
+
+#~ msgid "Please re-enter your %s password before sending."
+#~ msgstr "Geef uw %s wachtwoord nogmaals in voor u verstuurd."
+
+#~ msgid "Please re-enter your %s password before saving."
+#~ msgstr "Geef uw %s wachtwoord nogmaals in voor u opslaat."
+
+#~ msgid "Please re-enter your %s password."
+#~ msgstr "Geef uw %s wachtwoord nogmaals in."
+
+#~ msgid "Security"
+#~ msgstr "Beveiliging"
+
+#~ msgid "PGP"
+#~ msgstr "PGP"
+
+#~ msgid "Secure"
+#~ msgstr "Beveiligd"
+
+#~ msgid "Sign"
+#~ msgstr "Ondertekenen"
+
+#~ msgid "Format"
+#~ msgstr "Opmaak"
+
+#~ msgid "PGP Mime"
+#~ msgstr "PGP Mime"
+
+#~ msgid "PGP Inline"
+#~ msgstr "PGP Inline"
+
+#~ msgid "Keys"
+#~ msgstr "Sleutels"
+
+#~ msgid "Attach my key"
+#~ msgstr "Mijn sleutel toevoegen"
+
+#~ msgid "Unable to find keys for all recipients."
+#~ msgstr ""
+#~ "Het is niet mogelijk om voor iedere ontvanger een sleutel te vinden."
+
+#~ msgid "Unable to connect to the encryption server."
+#~ msgstr "Verbinden met de codeerserver is mislukt."
+
+#~ msgid "Unable to find the item on the server"
+#~ msgstr "Het is niet mogelijk om het item op de server te vinden"
+
+#~ msgid "Unable to get the key for that item"
+#~ msgstr "Sleutel ophalen voor dit item is mislukt"
+
+#~ msgid "Unable to retrieve your user keys to decode"
+#~ msgstr "Uw gebruikerssleutels kunnen niet opgehaald worden voor decodering"
+
+#~ msgid "Bad extra password"
+#~ msgstr "Verkeerd extra wachtwoord"
+
+#~ msgid "No private key to decode this message"
+#~ msgstr "Geen privésleutel om dit bericht te decoderen"
+
+#~ msgid "Unable to decrypt Email, incorrect password."
+#~ msgstr ""
+#~ "Het is niet mogelijk het e-mailbericht te decoderen, verkeerd wachtwoord."
+
+#~ msgid "To reset or recover your password, click %s"
+#~ msgstr "Om uw wachtwoord te herstellen of terug te halen klikt u op %s"
+
+#~ msgid "Settings"
+#~ msgstr "Instellingen"
+
+#~ msgid "No Private Key available for this encrypted item."
+#~ msgstr "Geen Privésleutel beschikbaar voor dit gecodeerde item."
+
+#~ msgid "Key Ids:"
+#~ msgstr "Sleutel-IDs:"
+
+#~ msgid "Your account is locked out for %s minutes"
+#~ msgstr "Uw account is geblokkeerd voor %s minuten"
+
+#~ msgid "Server Error: "
+#~ msgstr "Server Fout: "
+
+#~ msgid "Password needed"
+#~ msgstr "Wachtwoord vereist"
+
+#~ msgid "Please enter your %s password"
+#~ msgstr "Voer alstublieft uw %s wachtwoord in"
+
+#~ msgid "Remember my password"
+#~ msgstr "Onthoud mijn wachtwoord"
+
+#~ msgid "Account locked out due to bad attempts.  Please try again later."
+#~ msgstr ""
+#~ "Account is geblokkeerd door een teveel pogingen. Probeer het later "
+#~ "opnieuw."
+
+#~ msgid "Error checking password"
+#~ msgstr "Fout bij het controleren van het wachtwoord"
+
+#~ msgid "Delete Public Key"
+#~ msgstr "Verwijder de Publieke sleutel"
+
+#~ msgid "Click OK to confirm"
+#~ msgstr "Klik op OK om te bevestigen"
+
+#~ msgid "Email"
+#~ msgstr "E-mail"
+
+#~ msgid "Key Ids"
+#~ msgstr "Sleutel-IDs"
+
+#~ msgid "Details"
+#~ msgstr "Details"
+
+#~ msgid "Delete"
+#~ msgstr "Verwijderen"
+
+#~ msgid "No Keys Found"
+#~ msgstr "Geen Sleutels Gevonden"
+
+#~ msgid "Key Details"
+#~ msgstr "Sleutel Details"
+
+#~ msgid "Share Keys"
+#~ msgstr "Deel Sleutels"
+
+#~ msgid "Use PGP Inline"
+#~ msgstr "Gebruik inline PGP"
+
+#~ msgid "Signatures"
+#~ msgstr "Ondertekeningen"
+
+#~ msgid "Expired"
+#~ msgstr "Verlopen"
+
+#~ msgid "Revoked"
+#~ msgstr "Intrekken"
+
+#~ msgid "Fingerprint:"
+#~ msgstr "Vingerafdruk:"
+
+#~ msgid "Created:"
+#~ msgstr "Aangemaakt:"
+
+#~ msgid "Master:"
+#~ msgstr "Hoofd:"
+
+#~ msgid "True"
+#~ msgstr "Waar"
+
+#~ msgid "False"
+#~ msgstr "Onwaar"
+
+#~ msgid "Encryption:"
+#~ msgstr "Codering:"
+
+#~ msgid "IDs: "
+#~ msgstr "IDs: "
+
+#~ msgid "Expires in %1$s days"
+#~ msgstr "Verloopt over %1$d dagen"
+
+#~ msgid "Problem getting signatures"
+#~ msgstr "Probleem bij het ophalen van ondertekeningen"
+
+#~ msgid "Positive"
+#~ msgstr "Positief"
+
+#~ msgid "Failed check"
+#~ msgstr "Controle is mislukt"
+
+#~ msgid "Missing public"
+#~ msgstr "Publieke sleutel ontbreekt"
+
+#~ msgid "Casual"
+#~ msgstr "Informeel"
+
+#~ msgid "Revocation"
+#~ msgstr "Ingetrokken"
+
+#~ msgid "Direct cert"
+#~ msgstr "Direct certificaat"
+
+#~ msgid "Default Certification"
+#~ msgstr "Standaard Certificering"
+
+#~ msgid "No signatures"
+#~ msgstr "Geen ondertekeningen"
+
+#~ msgid "ID Signed"
+#~ msgstr "ID Ondertekening"
+
+#~ msgid "Certification"
+#~ msgstr "Certificering"
+
+#~ msgid "Signed by"
+#~ msgstr "Ondertekend door"
+
+#~ msgid "Image"
+#~ msgstr "Afbeelding"
+
+#~ msgid "Key Signatures"
+#~ msgstr "Sleutel Ondertekeningen"
+
+#~ msgid "PGP Public Key List"
+#~ msgstr "PGP Publieke Sleutellijst"
+
+#~ msgid "This Email was encrypted with PGP."
+#~ msgstr "Dit e-mailbericht is gecodeerd met PGP."
+
+#~ msgid "This Email was signed and verified."
+#~ msgstr "Dit e-mailbericht is ondertekend en gecontroleerd."
+
+#~ msgid "This Email was signed and failed verification."
+#~ msgstr "Dit e-mailbericht is ondertekend en de verificatie is mislukt."
+
+#~ msgid "This Email was signed but unable to verify."
+#~ msgstr ""
+#~ "Dit e-mailbericht is ondertekend maar het is niet mogelijk om te "
+#~ "controleren."
+
+#~ msgid ""
+#~ "This Email was sent using PGP encryption. It has been decrypted with your "
+#~ "private key"
+#~ msgstr ""
+#~ "Dit e-mailbericht is verstuurd met PGP codering. Het is gedecodeerd met "
+#~ "uw privésleutel"
+
+#~ msgid "This Email was signed by the sender and verified."
+#~ msgstr ""
+#~ "Dit e-mailbericht is ondertekend door de verzender en gecontroleerd."
+
+#~ msgid "PGP Public Key Found.  Click to Import"
+#~ msgstr "Publieke PGP Sleutel Gevonden. Klik hier om te Importeren"
+
+#~ msgid "Save encrypted to %1$s"
+#~ msgstr "Gecodeerd opslaan naar %1$s"
+
+#~ msgctxt "app"
+#~ msgid "Drive"
+#~ msgstr "Drive"
+
+#~ msgid "Check assigned PIN"
+#~ msgstr "Controleer toegewezen PIN"
+
+#~ msgid "PIN"
+#~ msgstr "PIN"
+
+#~ msgid "Added keys: \r\n"
+#~ msgstr "Toegevoegde sleutels:\r\n"
+
+#~ msgid "Key ID: "
+#~ msgstr "Sleutel-ID: "
+
+#~ msgid "Service Unavailable"
+#~ msgstr "Dienst Niet Beschikbaar"
+
+#~ msgid "Advanced Settings"
+#~ msgstr "Geavanceerde Instellingen"
+
+#~ msgid "Download PGP Public Key"
+#~ msgstr "Download PGP Publieke Sleutel"
+
+#~ msgid "Email your PGP Public Key"
+#~ msgstr "E-mail uw Publieke Sleutel"
+
+#~ msgid "Your Keys"
+#~ msgstr "Uw Sleutels"
+
+#~ msgid "Your Key List"
+#~ msgstr "Uw Sleutellijst"
+
+#~ msgid "Key ID"
+#~ msgstr "Sleutel-ID"
+
+#~ msgid "Private Key"
+#~ msgstr "Privésleutel"
+
+#~ msgid "Current"
+#~ msgstr "Huidige"
+
+#~ msgid "Download"
+#~ msgstr "Downloaden"
+
+#~ msgid "Edit"
+#~ msgstr "Bewerken"
+
+#~ msgid "Adding Keys"
+#~ msgstr "Sleutels Toevoegen"
+
+#~ msgid "If you already have a private key, you can upload it here."
+#~ msgstr "Als u reeds een privésleutel heeft, kan u deze hier uploaden."
+
+#~ msgid "Upload Private Key"
+#~ msgstr "Upload Privésleutel"
+
+#~ msgid "Finally, you can have a new PGP Key Pair created for your account."
+#~ msgstr ""
+#~ "Als laatste kan u een nieuw PGP sleutelpaar aanmaken voor uw account."
+
+#~ msgid "Create New Keys"
+#~ msgstr "Nieuwe Sleutels Aanmaken"
+
+#~ msgid "Adding UserID"
+#~ msgstr "Gebruikers-ID Toevoegen"
+
+#~ msgid "Add a name and email address to this public key."
+#~ msgstr "Voeg een naam en e-mailadres toe bij deze publieke sleutel."
+
+#~ msgid "Name"
+#~ msgstr "Naam"
+
+#~ msgid "Please enter your key password"
+#~ msgstr "Voer alstublieft uw sleutelwachtwoord in"
+
+#~ msgid "Invalid Email Address"
+#~ msgstr "Ongeldig e-mailadres"
+
+#~ msgid "Invalid Name"
+#~ msgstr "Ongeldige Naam"
+
+#~ msgid "Enter password"
+#~ msgstr "Geef wachtwoord"
+
+#~ msgid "User ID added"
+#~ msgstr "Gebruiker-ID toegevoegd"
+
+#~ msgid "Failed to add UserID"
+#~ msgstr "Gebruiker-ID toevoegen is mislukt"
+
+#~ msgid "Revoke Private Key"
+#~ msgstr "Privésleutel intrekken"
+
+#~ msgid ""
+#~ "Revoke the key: This advises others that you no longer want this key "
+#~ "used.  You can continue to decode any encrypted data using the key."
+#~ msgstr ""
+#~ "Sleutel intrekken: Dit geeft een signaal aan anderen dat u niet langer "
+#~ "gebruik wil maken van deze sleutel. U kan gecodeerde berichten blijven "
+#~ "decoderen met deze sleutel."
+
+#~ msgid "Delete Private Key"
+#~ msgstr "Verwijder Privésleutel"
+
+#~ msgid "There are two options if you no longer want to use this key"
+#~ msgstr "Er zijn twee opties als u deze sleutel niet langer wilt gebruiken"
+
+#~ msgid ""
+#~ "Revoke the key: This advises others that you no longer want this key "
+#~ "used.  You can continue to decode any encrypted data using the key. "
+#~ "(Recommended)"
+#~ msgstr ""
+#~ "Sleutel intrekken: Dit geeft een signaal aan anderen dat u niet langer "
+#~ "gebruik wil maken van deze sleutel. U kan gecodeerde berichten blijven "
+#~ "decoderen met deze sleutel. (Aanbevolen)"
+
+#~ msgid ""
+#~ "Deleting the key: Deleting the private key will render all encrypted "
+#~ "items unreadable.  You will not be able to decode emails or files that "
+#~ "were enrypted with this key.  This cannot be undone."
+#~ msgstr ""
+#~ "Sleutel verwijderen: Een sleutel verwijderen maakt alle gecodeerde items "
+#~ "onleesbaar. U kan geen e-mailberichten of bestanden meer decoderen die "
+#~ "met deze sleutel zijn gecodeerd. Dit kan niet meer ongedaan gemaakt "
+#~ "worden."
+
+#~ msgid "Revoke"
+#~ msgstr "Intrekken"
+
+#~ msgid ""
+#~ "You will no longer be able to decode any items that were encrypted with "
+#~ "this key!"
+#~ msgstr ""
+#~ "U zal items die zijn gecodeerd met deze sleutel niet meer kunnen "
+#~ "decoderen!"
+
+#~ msgid "Enter your password below to confirm and verify"
+#~ msgstr "Geef uw wachtwoord hieronder in en controleer deze"
+
+#~ msgid "Bad Password"
+#~ msgstr "Verkeerd Wachtwoord"
+
+#~ msgid "Key Deleted"
+#~ msgstr "Sleutel Verwijderd"
+
+#~ msgid "Failed to delete key"
+#~ msgstr "Het verwijderen van de sleutel is mislukt"
+
+#~ msgid "Problem deleting key"
+#~ msgstr "Probleem bij het verwijderen van de sleutel"
+
+#~ msgid "Please verify you want to delete this key"
+#~ msgstr "Controleer alstublieft of u deze sleutel wilt verwijderen"
+
+#~ msgid "Failed to delete"
+#~ msgstr "Het verwijderen is mislukt"
+
+#~ msgid ""
+#~ "This will advise people not to use this key.  You can still use the key "
+#~ "to decode existing items."
+#~ msgstr ""
+#~ "Dit zal mensen ontraden deze sleutel te gebruiken. U kan deze nog wel "
+#~ "gebruiken om bestaande berichten te decoderen."
+
+#~ msgid "Reason"
+#~ msgstr "Reden"
+
+#~ msgid "No Reason"
+#~ msgstr "Geen Reden"
+
+#~ msgid "Key superseded"
+#~ msgstr "Sleutel vervangen"
+
+#~ msgid "Key compromised"
+#~ msgstr "Sleutel is gecompromitteerd"
+
+#~ msgid "Key retired"
+#~ msgstr "Sleutel is vervangen"
+
+#~ msgid "User no longer valid"
+#~ msgstr "Gebruiker is niet langer geldig"
+
+#~ msgid "Key Revoked"
+#~ msgstr "Sleutel Ingetrokken"
+
+#~ msgid "Failed to revoke key"
+#~ msgstr "Intrekken is mislukt"
+
+#~ msgid "Download Key"
+#~ msgstr "Download Sleutel"
+
+#~ msgid "Download your private key for use with other email programs"
+#~ msgstr "Download uw privésleutel om te gebruiken in ander e-mailprogramma's"
+
+#~ msgid "Do not distribute this key.  It is for your use only"
+#~ msgstr ""
+#~ "Distribueer deze sleutel niet. Deze is alleen voor uw eigen gebruik."
+
+#~ msgid "Download PGP Private Key"
+#~ msgstr "Download PGP Privésleutel"
+
+#~ msgid "Download Public and Private Key"
+#~ msgstr "Download Publieke en Privésleutel"
+
+#~ msgid "Key ID:"
+#~ msgstr "Sleutel-ID:"
+
+#~ msgid "Expires:"
+#~ msgstr "Verloopt:"
+
+#~ msgid "Private Key: "
+#~ msgstr "Privésleutel: "
+
+#~ msgid ""
+#~ "If you would like to upload a public key only, then do so here.  This "
+#~ "will allow you to encrypt files and receive encrypted emails using %s, "
+#~ "but you will need to use the private key with another program to decode "
+#~ "the items."
+#~ msgstr ""
+#~ "Als u alleen de publieke sleutel wilt uploaden, doe dat dan hier. Dit "
+#~ "maakt het mogelijk om bestanden te coderen en gecodeerde e-mailberichten "
+#~ "te ontvangen met %s, maar u moet deze wel decoderen met de privésleutel "
+#~ "in een ander programma."
+
+#~ msgid "Upload Public Key Only"
+#~ msgstr "Upload Alleen de Publieke Sleutel"
+
+#~ msgid "PGP Public Key is attached"
+#~ msgstr "PGP Publieke sleutel is toegevoegd als bijlage"
+
+#~ msgid "Public Keys"
+#~ msgstr "Publieke Sleutels"
+
+#~ msgid "Failed to update settings"
+#~ msgstr "Bijwerken van instellingen is mislukt"
+
+#~ msgid "Email format"
+#~ msgstr "E-mailopmaak"
+
+#~ msgid ""
+#~ "Emails that contain HTML and are sent with PGP Inline will often result "
+#~ "in decoding errors and possible failure.  As a result, the default Email "
+#~ "format should be changed to plaintext.  Click OK to change the default to "
+#~ "plaintext, cancel to keep your current setting."
+#~ msgstr ""
+#~ "E-mailberichten die HTML opmaak bevatten en daarna met PGP-inline worden "
+#~ "verzonden krijgen vaak decodeer- en andere fouten. Daarom kan u het "
+#~ "standaard formaat beter veranderen naar platte tekst. Klik op OK om de "
+#~ "standaard aan te passen naar platte tekst, kies annuleren om de huidige "
+#~ "instelling te behouden."
+
+#~ msgid "Ask each time"
+#~ msgstr "Vraag het elke keer"
+
+#~ msgid "Remember Password Default"
+#~ msgstr "Onthoud standaard wachtwoord"
+
+#~ msgid "Default to send encrypted when composing email"
+#~ msgstr "Standaard bij het opstellen van gecodeerde e-mailberichten"
+
+#~ msgid "Encrypt all incoming emails"
+#~ msgstr "Codeer alle inkomende e-mailberichten"
+
+#~ msgid "Default adding signature to outgoing mails"
+#~ msgstr "Standaard ondertekening toevoegen aan uitgaande e-mailberichten"
+
+#~ msgid "Default to using PGP inline for new mails"
+#~ msgstr "PGP inline standaard ingesteld voor nieuwe berichten"
+
+#~ msgid "Please wait"
+#~ msgstr "Ogenblik geduld alstublieft"
+
+#~ msgid "Advanced"
+#~ msgstr "Geavanceerd"
+
+#~ msgid "Enable Advanced PGP Features"
+#~ msgstr "Schakel geavanceerde PGP mogelijkheden in"
+
+#~ msgid "PGP Encryption Settings"
+#~ msgstr "PGP coderingsinstellingen"
+
+#~ msgid "Security Settings"
+#~ msgstr "Beveiligingsinstellingen"
+
+#~ msgid "Keys uploaded"
+#~ msgstr "Sleutels geüpload"
+
+#~ msgid "Failed to upload"
+#~ msgstr "Uploaden is mislukt"
+
+#~ msgid "The public key must have your primary email as a user ID"
+#~ msgstr ""
+#~ "De publieke sleutel moet uw primaire e-mailadres hebben als gebruikersID"
+
+#~ msgid "Upload Private Keys"
+#~ msgstr "Privésleutels Uploaden"
+
+#~ msgid "Please enter passwords for the upload"
+#~ msgstr "Geef het wachtwoord voor de upload"
+
+#~ msgid "Enter new password for the key:"
+#~ msgstr "Geef het nieuwe wachtwoord voor de sleutel:"
+
+#~ msgid "Confirm Password:"
+#~ msgstr "Bevestig wachtwoord:"
+
+#~ msgid "Private key password for the key you are uploading:"
+#~ msgstr "Privésleutel wachtwoord voor de sleutel die u gaat uploaden:"
+
+#~ msgid "Private Key Uploaded"
+#~ msgstr "Privésleutel Geüpload"
+
+#~ msgid "This key already exists"
+#~ msgstr "Deze sleutel bestaat reeds"
+
+#~ msgid "Bad PGP Password"
+#~ msgstr "Verkeerd PGP Wachtwoord"
+
+#~ msgid "The private key must have your primary email as a user ID"
+#~ msgstr ""
+#~ "De privésleutel moet uw primaire e-mailadres hebben als gebruikersID"
+
+#~ msgid "Must use same password as existing key to merge"
+#~ msgstr ""
+#~ "U moet het zelfde wachtwoord gebruiken als de huidige sleutel om samen te "
+#~ "voegen"
+
+#~ msgid "Problem uploading Private Key "
+#~ msgstr "Probleem bij het uploaden van de Privésleutel "
+
+#~ msgid "Logged out of %s"
+#~ msgstr "Afgemeld van %s"
+
+#~ msgid "Failed to log out of %s"
+#~ msgstr "Afmelden uit %s is mislukt"
+
+#~ msgid "Guided tour for %s"
+#~ msgstr "Rondleiding door %s"
+
+#~ msgid "Sign out %s"
+#~ msgstr "Afmelden uit %s"
+
+#~ msgctxt "app"
+#~ msgid "%s Security"
+#~ msgstr "%s Security"
+
+#~ msgid "Get Started"
+#~ msgstr "Ga hier beginnen"
+
+#~ msgid ""
+#~ "In order to start with %s Security, you must set up a password for your "
+#~ "secured files."
+#~ msgstr ""
+#~ "Om te starten met %s Security, moet u eerst een wachtwoord instellen voor "
+#~ "uw beveiligde bestanden."
+
+#~ msgid "Start"
+#~ msgstr "Begin"
+
+#~ msgid "%s Security Settings"
+#~ msgstr "%s Security Instellingen"
+
+#~ msgid "Change %s Security Password."
+#~ msgstr "Wijzig het %s Beveiligingswachtwoord."
+
+#~ msgid "Enter current %s security password"
+#~ msgstr "Geef het huidige %s beveiligingswachtwoord"
+
+#~ msgid "Enter new %s security password"
+#~ msgstr "Geef het nieuwe %s beveiligingswachtwoord"
+
+#~ msgid "Verify new %s security password"
+#~ msgstr "Controleer het nieuwe %s beveiligingswachtwoord"
+
+#~ msgid "Change %s security password"
+#~ msgstr "Wijzig het %s beveiligingswachtwoord"
+
+#~ msgid "Reset %s security password"
+#~ msgstr "%s security beveiligingswachtwoord"
+
+#~ msgid "Send a temporary %s security password to my secondary Email address."
+#~ msgstr ""
+#~ "Stuur een tijdelijk %s beveiligingswachtwoord naar mijn alternatieve e-"
+#~ "mailadres."
+
+#~ msgid "Delete Password Recovery"
+#~ msgstr "Verwijder Wachtwoord Herstel"
+
+#~ msgid "Advanced Users Only!"
+#~ msgstr "Alleen voor Geavanceerde Gebruikers!"
+
+#~ msgid ""
+#~ "Delete the password recovery.  The recovery is used to reset your "
+#~ "password.  If you delete the recovery, you will not be able to reset your "
+#~ "password if you forget it.  Changing your password will restore the "
+#~ "recovery."
+#~ msgstr ""
+#~ "Verwijder Wachtwoord Herstel. De herstelfunctie kan u gebruiken voor het "
+#~ "herstellen van uw wachtwoord. Als u de herstelfunctie verwijderd kan u "
+#~ "het wachtwoord niet meer terugzetten als u het bent vergeten. Als u uw "
+#~ "wachtwoord veranderd zal de herstelfunctie weer werken."
+
+#~ msgid "Please verify your password before deleting the recovery."
+#~ msgstr ""
+#~ "Controleer alstublieft uw wachtwoord voordat u de herstelfunctie "
+#~ "verwijderd."
+
+#~ msgid "Recovery deleted"
+#~ msgstr "Herstelfunctie verwijderd"
+
+#~ msgid "Current Email address:"
+#~ msgstr "Huidig e-mailadres:"
+
+#~ msgid "Secondary Email"
+#~ msgstr "Alternatief e-mailadres"
+
+#~ msgid "Change Email address used for password reset."
+#~ msgstr ""
+#~ "Verander het e-mailadres wat u gebruikt voor het opnieuw instellen van uw "
+#~ "wachtwoord."
+
+#~ msgid "Verify Email address"
+#~ msgstr "Bevestig E-mailadres"
+
+#~ msgid "Change Email address"
+#~ msgstr "Verander het e-mailadres"
+
+#~ msgid "None - Primary Email will be used"
+#~ msgstr "Geen - Primair e-mailadres wordt gebruikt"
+
+#~ msgid "Invalid email address"
+#~ msgstr "Ongeldig e-mailadres"
+
+#~ msgid "Successfully changed email address"
+#~ msgstr "Het e-mailadres is met succes aangepast"
+
+#~ msgid "A new password has been sent to your email address."
+#~ msgstr "Een nieuw wachtwoord is naar uw e-mailadres gestuurd."
+
+#~ msgid "A new password has been sent to your secondary email address."
+#~ msgstr "Een nieuw wachtwoord is naar uw alternatieve e-mailadres gestuurd."
+
+#~ msgid "No password recovery is available."
+#~ msgstr "Geen wachtwoord herstel beschikbaar."
+
+#~ msgid "Password reset, but unable to send to your email address."
+#~ msgstr ""
+#~ "Wachtwoord hersteld, maar het is niet mogelijk u een e-mail te sturen."
+
+#~ msgid "Unable to find email address to send password reset."
+#~ msgstr ""
+#~ "Geen e-mailadres gevonden om het wachtwoordherstelbericht naartoe te "
+#~ "sturen."
+
+#~ msgid "Unable to reset your password"
+#~ msgstr "Uw wachtwoord kan niet hersteld worden"
+
+#~ msgid "Next"
+#~ msgstr "Volgende"
+
+#~ msgid "Simple and Easy"
+#~ msgstr "Simpel en Eenvoudig"
+
+#~ msgctxt "Choice"
+#~ msgid "One click encryption for Emails and files"
+#~ msgstr "Codering van e-mailberichten en bestanden met één klik."
+
+#~ msgctxt "Choice"
+#~ msgid "Works in all browsers with all your contacts"
+#~ msgstr "Werkt in alle browsers met al uw contacten"
+
+#~ msgctxt "Choice"
+#~ msgid "Easy to use, every day"
+#~ msgstr "Eenvoudig dagelijks te gebruiken"
+
+#~ msgctxt "Choice"
+#~ msgid "Security details managed by us"
+#~ msgstr "Beveiligingsdetails worden door ons beheerd "
+
+#~ msgctxt "Choice"
+#~ msgid ""
+#~ "If you do not have deep knowledge of encryption, but you would like to "
+#~ "easily secure your communication with your friends or business contacts, "
+#~ "this option fits perfectly for you. Safe Email, made simple!"
+#~ msgstr ""
+#~ "Als u geen diepgaande kennis heeft van encryptie maar wel eenvoudig uw "
+#~ "communicatie met vrienden en zakelijke contacten wilt beveiligen, is dit "
+#~ "de beste optie voor u. Veilige e-mail, maar dan eenvoudig!"
+
+#~ msgctxt "Choice"
+#~ msgid "Encryption Expert"
+#~ msgstr "Beveiligingsexpert:"
+
+#~ msgctxt "Choice"
+#~ msgid "Expert encryption options available"
+#~ msgstr "Opties voor de beveiligingsexpert zijn beschikbaar"
+
+#~ msgctxt "Choice"
+#~ msgid "Works only in Firefox and Chrome"
+#~ msgstr "Werkt alleen in Firefox en Chrome"
+
+#~ msgctxt "Choice"
+#~ msgid "Browser plugin required"
+#~ msgstr "Browser-plugin is vereist"
+
+#~ msgctxt "Choice"
+#~ msgid "Security details managed by yourself"
+#~ msgstr "Beveiligingsdetails worden door uzelf beheerd "
+
+#~ msgctxt "Choice"
+#~ msgid ""
+#~ "If you are an encryption expert, and would like to manage all encryption "
+#~ "details by yourself, this option fits best for you. You need to install a "
+#~ "third-party browser plugin to work with expert encryption."
+#~ msgstr ""
+#~ "Als u een beveiligingsexpert bent en u wilt zelf uw beveiligingsdetails "
+#~ "beheren is deze optie voor u. U moet een alternative browser-plugin "
+#~ "installeren om te werken met expert encryption."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You already set up your %s account. But you can always change your "
+#~ "encryption password, or request a temporary password if you forget it."
+#~ msgstr ""
+#~ "U heeft reeds een %s account aangemaakt. U kan altijd uw "
+#~ "coderingswachtwoord veranderen, of een tijdelijk wachtwoord aanvragen als "
+#~ "u deze vergeet."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You already set up your %s account.  You can change your encryption "
+#~ "password here."
+#~ msgstr ""
+#~ "U heeft uw %s account reeds ingesteld. U kan uw coderingswachtwoord hier "
+#~ "veranderen."
+
+#~ msgctxt "tour"
+#~ msgid "The %s module"
+#~ msgstr "De %s module"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Security and privacy matters to everyone. That's why you can now send and "
+#~ "receive encrypted emails by simply clicking on the lock icon."
+#~ msgstr ""
+#~ "Veiligheid en privacy zijn voor iedereen belangrijk. Daarom kan u nu e-"
+#~ "mailberichten gecodeerd versturen en ontvangen enkel door op het hangslot "
+#~ "pictogram te klikken."
+
+#~ msgctxt "tour"
+#~ msgid "%s Security Settings"
+#~ msgstr "%s Security Instellingen"
+
+#~ msgctxt "tour"
+#~ msgid "PGP Encryption Settings"
+#~ msgstr "PGP coderingsinstellingen"
+
+#~ msgctxt "tour"
+#~ msgid "Security Settings"
+#~ msgstr "Beveiligingsinstellingen"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "From here you can update your encryption settings. For example you can "
+#~ "choose to send encrypted emails by default."
+#~ msgstr ""
+#~ "Hiervandaan kan u de coderingsinstellingen aanpassen. U kan bijvoorbeeld "
+#~ "kiezen om e-mailberichten standaard gecodeerd te versturen."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "From here, you can update your security settings.  For example, you can "
+#~ "choose to send secure emails by default."
+#~ msgstr ""
+#~ "Hiervandaan kan u de beveiligingsinstellingen aanpassen. U kan "
+#~ "bijvoorbeeld kiezen om e-mailberichten standaard gecodeerd te versturen."
+
+#~ msgctxt "tour"
+#~ msgid "Signature"
+#~ msgstr "Ondertekening"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "In addition to encrypting your emails you can also sign them. This means "
+#~ "that email recipients can be sure that the email really came from you. By "
+#~ "ticking this checkbox your signature will be added to outgoing emails by "
+#~ "default."
+#~ msgstr ""
+#~ "Naast het coderen van uw e-mailberichten kan u deze ook ondertekenen. Dit "
+#~ "betekend dat de e-mailontvanger verzekerd kan zijn dat het bericht van u "
+#~ "afkomstig is. Door dit selectievakje in te schakelen wordt uw "
+#~ "handtekening standaard toegevoegd aan uitgaande e-mailberichten."
+
+#~ msgctxt "tour"
+#~ msgid "Alternative: PGP Inline"
+#~ msgstr "Alternatief: PGP Inline"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "By default %s sends encrypted emails using PGP/Mime format. To "
+#~ "communicate with some systems you may need to use PGP Inline."
+#~ msgstr ""
+#~ "Standaard verstuurd %s gecodeerde e-mailberichten in PGP/Mime formaat. "
+#~ "Sommige systemen vereisen dat u de communicatie in PGP Inline voert."
+
+#~ msgctxt "tour"
+#~ msgid "Advanced Settings"
+#~ msgstr "Geavanceerde Instellingen"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Advanced users can manage their key lists from the PGP Encryption "
+#~ "Settings."
+#~ msgstr ""
+#~ "Geavanceerde gebruikers kunnen hun eigen sleutellijst beheren vanuit de "
+#~ "PGP coderingsinstellingen."
+
+#~ msgctxt "tour"
+#~ msgid "Advanced User Settings"
+#~ msgstr "Geavanceerde gebruikersinstellingen"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Enabling Advanced PGP Features will enable key management and specifying "
+#~ "sending formats."
+#~ msgstr ""
+#~ "Geavanceerde PGP opties inschakelen schakelt sleutelbeheer in en maakt "
+#~ "het mogelijk om berichtformaten in te stellen."
+
+#~ msgctxt "tour"
+#~ msgid "Enabling and disabling encryption"
+#~ msgstr "Codering In- en uitschakelen"
+
+#~ msgctxt "tour"
+#~ msgid "You are now able to send secure emails."
+#~ msgstr "U kan nu gecodeerde e-mails versturen."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Sending without encryption is easy, too: Simply click on the lock icon "
+#~ "again."
+#~ msgstr ""
+#~ "Verzenden zonder codering is ook eenvoudig: Klik opnieuw op het hangslot "
+#~ "pictogram."
+
+#~ msgctxt "tour"
+#~ msgid "Encrypt files"
+#~ msgstr "Codeer bestanden"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You can also protect your files. Just click on Encrypt and the selected "
+#~ "file will be stored securely."
+#~ msgstr ""
+#~ "U kan ook uw bestanden beveiligen. Klik op Coderen en het geselecteerde "
+#~ "bestand zal veilig opgeslagen worden."
+
+#~ msgctxt "tour"
+#~ msgid "Encrypt your sensitive files in Drive"
+#~ msgstr "Uw gevoelige bestanden coderen in Drive"
+
+#~ msgctxt "tour"
+#~ msgid "Restart Guided Tour"
+#~ msgstr "Herstart de Rondleiding"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "<em>Hint:</em> you can start guided tours, any time you need them, from "
+#~ "the system menu."
+#~ msgstr ""
+#~ "<em>Hint:</em> u kan een rondleiding op elk moment starten vanuit het "
+#~ "systeemmenu."
+
+#~ msgctxt "tour"
+#~ msgid "Guided Tour completed"
+#~ msgstr "Rondleiding is voltooid"
+
+#~ msgctxt "tour"
+#~ msgid "You successfully learned how to protect your emails and files."
+#~ msgstr ""
+#~ "U heeft succesvol geleerd hoe u uw berichten en bestanden kan beveiligen."
+
+#~ msgctxt "tour"
+#~ msgid "What you can do now:"
+#~ msgstr "Wat u nu kan doen:"
+
+#~ msgctxt "tour"
+#~ msgid "Write an encrypted email"
+#~ msgstr "Een gecodeerd e-mailbericht schrijven"
+
+#~ msgctxt "tour"
+#~ msgid "Activate encryption for all new emails"
+#~ msgstr "Coderen voor alle nieuwe e-mailberichten inschakelen"
+
+#~ msgctxt "tour"
+#~ msgid "Review your encryption settings"
+#~ msgstr "Uw coderingsinstellingen aanpassen"
+
+#~ msgctxt "tour"
+#~ msgid "Learn more"
+#~ msgstr "Leer meer"
+
+#~ msgid "Start Setup"
+#~ msgstr "Begin met Instellen"
+
+#~ msgctxt "tour"
+#~ msgid "Setup %s"
+#~ msgstr "%s instellen"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Welcome to %1$s. You will now be taken on a tour, showing you how to use "
+#~ "%1$s."
+#~ msgstr ""
+#~ "Welkom bij %1$s. U krijgt nu een rondleiding die u laat zien hoe u %1$s "
+#~ "moet gebruiken."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Firstly however, you’ll need to setup %1$s by choosing a password which "
+#~ "will be used to encrypt or decrypt items such as email or files."
+#~ msgstr ""
+#~ "U moet eerst %1$s instellen door een wachtwoord te kiezen waarmee u items "
+#~ "kan coderen en decoderen zoals e-mailberichten en bestanden."
+
+#~ msgid "Choose %s Password"
+#~ msgstr "Kies %s Wachtwoord"
+
+#~ msgid "Close"
+#~ msgstr "Sluiten"
+
+#~ msgctxt "tour"
+#~ msgid "%s set up completed"
+#~ msgstr "%s configuratie voltooid"
+
+#~ msgctxt "tour"
+#~ msgid "Congratulations, you have successfully setup %s"
+#~ msgstr "Gefeliciteerd! U heeft %s succesvol ingesteld"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Now you can learn more about how to use %s by following the links below:"
+#~ msgstr ""
+#~ "U kan nu meer leren over het gebruik van %s door de onderstaande linkjes "
+#~ "te volgen:"
+
+#~ msgctxt "tour"
+#~ msgid "Learn more about %s"
+#~ msgstr "Leer meer over %s"
+
+#~ msgid "Choose your security solution"
+#~ msgstr "Kies uw beveiligingsoplossing"
+
+#~ msgid "Key found for %1$s.  Import?"
+#~ msgstr "Sleutel gevonden voor %1$s. Importeren ?"
+
+#~ msgid "Import"
+#~ msgstr "Importeren"
+
+#~ msgid "Imported"
+#~ msgstr "Geïmporteerd"
+
+#~ msgid "Updated"
+#~ msgstr "Bijgewerkt"
+
+#~ msgid "Invalidated"
+#~ msgstr "Ongeldig"
+
+#~ msgid "Rejected"
+#~ msgstr "Afgewezen"
+
+#~ msgid "Warning"
+#~ msgstr "Waarschuwing"
+
+#~ msgid ""
+#~ "Sending an encrypted email from an account other than %s may cause "
+#~ "problems with the recipient being able to reply.  Consider using your "
+#~ "primary account."
+#~ msgstr ""
+#~ "Het versturen van gecodeerde e-mailberichten vanuit een ander account dan "
+#~ "uw %s account kan leiden tot problemen met het beantwoorden door de "
+#~ "ontvanger. U kan beter uw hoofdaccount gebruiken."
+
+#~ msgid "Do not warn me again"
+#~ msgstr "Waarschuw mij niet opnieuw"
+
+#~ msgid "PGP Info"
+#~ msgstr "PGP Informatie"
+
+#~ msgid "Content Type"
+#~ msgstr "Inhoudstype"
+
+#~ msgid "PGP Details"
+#~ msgstr "PGP Details"
+
+#~ msgid ""
+#~ "Mailvelope is not supported in this browser.  Please use Chrome or "
+#~ "Firefox with Mailvelop installed."
+#~ msgstr ""
+#~ "Mailvelope wordt niet ondersteund met deze browser. Gebruik alstublieft "
+#~ "Chrome of Firefox met de geïnstalleerde Mailvelop add-on."
+
+#~ msgid "Enter re-enter %s security password"
+#~ msgstr "Geef het %s beveiligingswachtwoord opnieuw"
+
+#~ msgid "Download Decrypted"
+#~ msgstr "Gedecodeerd Downloaden"
+
+#~ msgid "Download Encrypted"
+#~ msgstr "Versleuteld Downloaden"
+
+#~ msgid "View"
+#~ msgstr "Beeld"
+
+#~ msgid "Decrypt and Open"
+#~ msgstr "Decoderen en Openen"
+
+#~ msgid "Drop files here to upload"
+#~ msgstr "Sleep het bestand hiernaartoe om te uploaden"
+
+#~ msgid "Add"
+#~ msgstr "Toevoegen"
+
+#~ msgid "Add:"
+#~ msgstr "Toevoegen:"
+
+#~ msgid "Must be in the same global address book"
+#~ msgstr "Moet in het zelfde globaal adresboek staan"
+
+#~ msgid "Unable to add"
+#~ msgstr "Niet in staat om toe te voegen"
+
+#~ msgid "Select"
+#~ msgstr "Selecteer"
+
+#~ msgid "User"
+#~ msgstr "Gebruiker"
+
+#~ msgid "Retract"
+#~ msgstr "Intrekken"
+
+#~ msgid "Unable to share"
+#~ msgstr "Niet in staat om te delen"
+
+#~ msgid "Remove from share list"
+#~ msgstr "Verwijder uit verdeellijst"
+
+#~ msgid "Failed to remove the share"
+#~ msgstr "Verwijderen uit verdeellijst is mislukt"
+
+#~ msgid "Password Needed"
+#~ msgstr "Wachtwoord Noodzakelijk"
+
+#~ msgid "Please provide your %s security password to share this file"
+#~ msgstr ""
+#~ "Voer alstublieft uw %s beveiligingswachtwoord in om dit bestand te delen"
+
+#~ msgid "No users in same context"
+#~ msgstr "Geen gebruikers in de zelfde context"
+
+#~ msgid "The following link will take you to the shared file"
+#~ msgstr "De volgende link wijst naar het gedeelde bestand"
+
+#~ msgid "Shared file link"
+#~ msgstr "Link naar gedeeld bestand"
+
+#~ msgid "Attached encrypted file"
+#~ msgstr "Gecodeerde bijlage"
+
+#~ msgid "Shared file"
+#~ msgstr "Gedeeld bestand"
+
+#~ msgid "Add Permissions"
+#~ msgstr "Rechten toevoegen"
+
+#~ msgid ""
+#~ "The following users do not have permission to view objects in this folder."
+#~ msgstr ""
+#~ "De volgende gebruikers hebben geen toestemming om objecten te tonen in "
+#~ "deze map."
+
+#~ msgid "Do you wish to add read permissions to this folder for these users?"
+#~ msgstr "Wilt u leesrechten toevoegen op deze map voor deze gebruikers?"
+
+#~ msgid "Failed to add folder sharing permissions"
+#~ msgstr "Toevoegen van deelrechten op deze map is mislukt"
+
+#~ msgid "%s %s %s"
+#~ msgstr "%s %s %s"
+
+#~ msgid "The provided filename exceeds the allowed length."
+#~ msgstr "De gegeven bestandsnaam is langer dan de toegestane lengte."
+
+#~ msgid "The allowed quota is reached."
+#~ msgstr "Het toegestane quota is bereikt."
+
+#~ msgid "This file has not been added"
+#~ msgstr "Dit bestand is niet toegevoegd"
+
+#~ msgid "Upload a new encrypted version"
+#~ msgstr "Een nieuwe gecodeerde versie uploaden"
+
+#~ msgid "Upload file"
+#~ msgstr "Bestand uploaden"
+
+#~ msgid "Version Comment"
+#~ msgstr "Versiecommentaar"
+
+#~ msgid "Upload new encrypted version"
+#~ msgstr "Nieuwe gecodeerde versie uploaden"
+
+#~ msgid "Uploading..."
+#~ msgstr "Uploaden..."
+
+#~ msgid ""
+#~ "You are replying to an email that has not yet been decoded.  The "
+#~ "recipient will not be able to read the contents of the original email."
+#~ msgstr ""
+#~ "U reageert op een e-mailbericht dat nog niet is gedecodeerd. De ontvanger "
+#~ "zal de inhoud van het originele bericht niet kunnen lezen."
+
+#~ msgid ""
+#~ "You are forwarding an email that has not yet been decoded.  The recipient "
+#~ "will not be able to read the contents of the original email."
+#~ msgstr ""
+#~ "U stuurt een e-mailbericht door dat nog niet is gedecodeerd. De ontvanger "
+#~ "zal de inhoud van het originele bericht niet kunnen lezen."
+
+#~ msgid "Re: %1$s"
+#~ msgstr "Re: %1$s"
+
+#~ msgid "Fwd: %1$s"
+#~ msgstr "Fwd: %1$s"
+
+#~ msgid "Original Message"
+#~ msgstr "Origineel bericht"
+
+#~ msgid "From: %1$s"
+#~ msgstr "Van: %1$s"
+
+#~ msgid "To: %1$s"
+#~ msgstr "Aan: %1$s"
+
+#~ msgid "CC: %1$s"
+#~ msgstr "Kopie aan: %1$s"
+
+#~ msgid "Date: %1$s"
+#~ msgstr "Datum: %1$s"
+
+#~ msgid "Subject: %1$s"
+#~ msgstr "Onderwerp: %1$s"
+
+#~ msgid "On %1$s at %2$s %3$s wrote:"
+#~ msgstr "Op %1$s om %2$s schreef %3$s:"
+
+#~ msgid "Attach My Key"
+#~ msgstr "Mijn sleutel toevoegen"
+
+#~ msgid "Do you really want to discard your message?"
+#~ msgstr "Weet u zeker dat u deze wijziging wilt weggooien?"
+
+#~ msgctxt "dialog"
+#~ msgid "Discard message"
+#~ msgstr "Bericht weggooien"
+
+#~ msgid "Save as draft"
+#~ msgstr "Als concept opslaan"
+
+#~ msgid "Mail has empty subject. Send it anyway?"
+#~ msgstr "Het e-mailbericht heeft geen onderwerp. Doorgaan met verzenden?"
+
+#~ msgid "Yes, send without subject"
+#~ msgstr "Ja, verzend zonder onderwerp"
+
+#~ msgid "Add subject"
+#~ msgstr "Onderwerp toevoegen"
+
+#~ msgid "Unable to authorize against backend"
+#~ msgstr "Niet in staat om te controleren met het back-end"
+
+#~ msgid "Save"
+#~ msgstr "Opslaan"
+
+#~ msgid "Saving attachment to Drive"
+#~ msgid_plural "Saving attachments to Drive"
+#~ msgstr[0] "Bijlage opslaan naar Drive"
+#~ msgstr[1] "Bijlagen opslaan naar Drive"
+
+#~ msgid "Attachment has been saved"
+#~ msgid_plural "Attachments have been saved"
+#~ msgstr[0] "Bijlage is opgeslagen"
+#~ msgstr[1] "Bijlagen zijn opgeslagen"
+
+#~ msgid "Failed to decrypt"
+#~ msgstr "Decoderen is mislukt"
+
+#~ msgid "Failed to save attachments"
+#~ msgstr "Opslaan van bijlagen is mislukt"
+
+#~ msgid "Unsupported browser"
+#~ msgstr "Niet ondersteunde browser"
+
+#~ msgid "Mail has no recipients"
+#~ msgstr "E-mailbericht heeft geen ontvangers"
+
+#~ msgid "Mail saved as draft"
+#~ msgstr "Concept opgeslagen"
+
+#~ msgid "Unable to get keys for all users"
+#~ msgstr ""
+#~ "Het is niet mogelijk om voor iedere gebruiker een sleutel te krijgen"
+
+#~ msgid ""
+#~ "The from address you selected for this email is not associated with an "
+#~ "encryption key.  Please send from your primary account, or optionally, "
+#~ "add the email address to your key using the advanced settings."
+#~ msgstr ""
+#~ "Het 'van' adres dat u heeft gekozen voor dit e-mailbericht is niet "
+#~ "gekoppeld aan een codeer-sleutel. Verstuur alstublieft vanuit uw primaire "
+#~ "account, u kan ook het e-mailadres aan uw sleutel koppelen met de "
+#~ "geavanceerde instellingen."
+
+#~ msgid "An error occurred saving the email."
+#~ msgstr ""
+#~ "Er is een fout opgetreden tijdens het opslaan van het e-mailbericht."
+
+#~ msgid "An error occurred sending the encrypted email."
+#~ msgstr ""
+#~ "Er is een fout ontstaan bij het verzenden van het gecodeerde e-"
+#~ "mailbericht."
+
+#~ msgid ""
+#~ "At least one of your attachments are encrypted.  Please provide your %s "
+#~ "security password to decrypt before sending"
+#~ msgstr ""
+#~ "Minstens één van de bijlagen is gecodeerd. Geef uw %s "
+#~ "beveiligingswachtwoord op om deze te decoderen voordat u verstuurd"
+
+#~ msgid "To"
+#~ msgstr "Aan"
+
+#~ msgctxt "CC"
+#~ msgid "Copy"
+#~ msgstr "Kopie"
+
+#~ msgid "Decoding"
+#~ msgstr "Decoderen"
+
+#~ msgid ""
+#~ "Your pop-up blocker may have prevented a %s window that provides "
+#~ "application functionality."
+#~ msgstr ""
+#~ "Uw pop-up blokkering kan er voor hebben gezorgd dat het %s scherm niet "
+#~ "zichtbaar is, hierin staat extra functionaliteit."
+
+#~ msgid "VCard imported with warnings"
+#~ msgstr "VCard geïmporteerd met waarschuwingen"
+
+#~ msgid "Failed to import vcard"
+#~ msgstr "Importeren van de vcard is mislukt"
+
+#~ msgid "VCard imported"
+#~ msgstr "VCard geïmporteerd"
+
+#~ msgid "Save Encrypted to Drive"
+#~ msgstr "Gecodeerd opslaan naar Drive"
+
+#~ msgid "Save Decoded to Drive"
+#~ msgstr "Gedecodeerd Opslaan naar Drive"
+
+#~ msgid "Open in browser"
+#~ msgstr "Open in web browser"
+
+#~ msgid "Import as PGP Public Key"
+#~ msgstr "Importeren als PGP Publieke Sleutel"
+
+#~ msgid "Add to address book"
+#~ msgstr "Aan adresboek toevoegen"
+
+#~ msgid "no files"
+#~ msgstr "geen bestanden"
+
+#~ msgid "Save attachment"
+#~ msgstr "Bijlage opslaan"
+
+#~ msgid "Unable to save decrypted file"
+#~ msgstr "Niet in staat om het gedecodeerde bestand op te slaan"
+
+#~ msgid "Unable to decrypt"
+#~ msgstr "Het is niet mogelijk om te decoderen"
+
+#~ msgid "Send copy by mail"
+#~ msgstr "Kopie verzenden via e-mailbericht"
+
+#~ msgid "Enter %s Security Password"
+#~ msgstr "Geef het %s Beveiligingswachtwoord"
+
+#~ msgid "Encrypt Files"
+#~ msgstr "Bestanden coderen"
+
+#~ msgid "Only the latest version of the files will be encrypted."
+#~ msgstr "Alleen de laatste versie van de bestanden wordt gecodeerd."
+
+#~ msgid "All previous versions will be deleted."
+#~ msgstr "Alle vorige versies worden verwijderd."
+
+#~ msgid "This file could not be uploaded."
+#~ msgstr "Dit bestand kon niet worden geüpload."
+
+#~ msgid "Upload"
+#~ msgstr "Uploaden"
+
+#~ msgid "Please provide your %s Security Password to share this file"
+#~ msgstr ""
+#~ "Voer alstublieft uw %s Beveiligingswachtwoord in om dit bestand te delen"
+
+#~ msgid "Bad private key"
+#~ msgstr "Verkeerde privésleutel"
+
+#~ msgid "On %1$s %2$s sent:"
+#~ msgstr "Op %1$s %2$s verzonden:"
+
+#~ msgid ""
+#~ "At least one of your attachments are encrypted.  Please provide your %s "
+#~ "Security Password to decrypt before sending"
+#~ msgstr ""
+#~ "Minstens één van de bijlagen is gecodeerd. Geef uw %s "
+#~ "Beveiligingswachtwoord op om deze te decoderen voordat u verstuurd"
+
+#~ msgid ""
+#~ "Upload your Mailvelope public keys to the %s server so that other people "
+#~ "can send you encrypted emails"
+#~ msgstr ""
+#~ "Upload uw publieke Mailveloppe sleutels naar de %s server zodat andere "
+#~ "mensen versleutelde berichten kunnen sturen."
+
+#~ msgid "Extra Password"
+#~ msgstr "Extra Wachtwoord"
+
+#~ msgid ""
+#~ "This allows you to set an extra password that will be required for "
+#~ "reading this item."
+#~ msgstr ""
+#~ "Dit maakt het mogelijk een extra wachtwoord in te stellen wat u moet "
+#~ "ingeven alvorens u dit item kan lezen."
+
+#~ msgid "Please enter it below"
+#~ msgstr "Voer het alstublieft hieronder in"
+
+#~ msgid "Please enter your %s Security password"
+#~ msgstr "Voer alstublieft uw %s Security wachtwoord in"
+
+#~ msgid "Failed to add extra password"
+#~ msgstr "Extra wachtwoord toevoegen is mislukt"
+
+#~ msgid "Remember Password"
+#~ msgstr "Wachtwoord onthouden"
+
+#~ msgid ""
+#~ "HTML formatted emails may cause issues with PGP inline.  Click OK to "
+#~ "change to Plain Text formatted Emails"
+#~ msgstr ""
+#~ "E-mailberichten met HTML-indeling kunnen problemen geven met inline PGP. "
+#~ "Klik op OK voor de omzetting van het bericht naar Platte Tekst."
+
+#~ msgid "Secure Email, enter your %s security password"
+#~ msgstr "Beveiligde e-mail, geef uw %s Security Wachtwoord"
+
+#~ msgid ""
+#~ "The new recipients listed below will be sent a password via email.  You "
+#~ "can also require a seperate pin, which is displayed below"
+#~ msgstr ""
+#~ "De nieuwe ontvangers in de onderstaande lijst krijgen een wachtwoord via "
+#~ "een e-mailbericht. U kan ook een aparte PIN vragen welke hieronder wordt "
+#~ "getoond"
+
+#~ msgid ""
+#~ "You may deliver this pin any way you see fit, but we recommend doing it "
+#~ "in a second method other than email (Phone, SMS, Skype, etc)"
+#~ msgstr ""
+#~ "U kan deze PIN op uw eigen manier naar de ontvanger sturen, maar we raden "
+#~ "aan een ander medium dan e-mail te gebruiken (Telefoon, SMS, Skype enz.)"
+
+#~ msgid "If you want this extra pin requirement, click OK"
+#~ msgstr "Als u deze extra PIN wilt gebruiken klik dan op OK"
+
+#~ msgid "Please enter your %s password to sign this email"
+#~ msgstr ""
+#~ "Geef alstublieft uw %s wachtwoord op om dit e-mailbericht te ondertekenen"
+
+#~ msgid "Please enter your %s password for signing"
+#~ msgstr "Voer alstublieft uw %s wachtwoord in om te ondertekenen"
+
+#~ msgid "Problems creating keys, please try again later"
+#~ msgstr "Problemen bij het aanmaken van sleutels, probeer het later nog eens"
+
+#~ msgid ""
+#~ "Problems creating keys.  Keys already exist for this email address in "
+#~ "another account"
+#~ msgstr ""
+#~ "Problemen bij het aanmaken van sleutels. Er bestaan al sleutels voor dit "
+#~ "e-mailadres in een ander account."
+
+#~ msgid ""
+#~ "Please choose the password you will use for %s. You will need to type "
+#~ "this password whenever you want to encrypt or decrypt items. Remember it "
+#~ "should be different from your login password, and will not change if you "
+#~ "change your login password"
+#~ msgstr ""
+#~ "Kies alstublieft het wachtwoord wat u wilt gebruiken voor %s. U moet dit "
+#~ "wachtwoord elke keer ingeven als u berichten wilt coderen of decoderen. "
+#~ "Realiseer u ook dat deze anders moet zijn als uw aanmeldwachtwoord, en "
+#~ "niet zal veranderen als u uw aanmeldwachtwoord veranderd."
+
+#~ msgid "Please enter a password to protect your new encrypted items"
+#~ msgstr "Voer alstublieft een wachtwoord in om uw nieuwe items te coderen"
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password"
+#~ msgstr ""
+#~ "Voer alstublieft uw alternatieve e-mailadres in voor het geval dat u uw "
+#~ "wachtwoord moet herstellen"
+
+#~ msgid "Rember my password"
+#~ msgstr "Mijn wachtwoord onthouden"
+
+#~ msgid "This Email was signed and verified"
+#~ msgstr "Dit e-mailbericht is ondertekend en gecontroleerd"
+
+#~ msgid "This Email was signed but unable to verify"
+#~ msgstr ""
+#~ "Dit e-mailbericht is ondertekend maar het is niet mogelijk om te "
+#~ "controleren"
+
+#~ msgid "This Email was signed and failed verification"
+#~ msgstr "Dit e-mailbericht is ondertekend en de verificatie is mislukt"
+
+#~ msgid ""
+#~ "Please change the initial temporary %s security password that was sent to "
+#~ "you in a seperate email."
+#~ msgstr ""
+#~ "Verander alstublieft het tijdelijke %s security wachtwoord welke naar het "
+#~ "andere e-mailadres is gestuurd."
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password</p>"
+#~ msgstr ""
+#~ "Voer alstublieft uw alternatieve e-mailadres in voor het geval dat u uw "
+#~ "wachtwoord moet herstellen</p>"
+
+#~ msgid "This Email was signed by the sender and verified"
+#~ msgstr "Dit e-mailbericht is ondertekend door de verzender en gecontroleerd"
+
+#~ msgid "If you already have a private key, you can upload it here"
+#~ msgstr "Als u reeds een privésleutel heeft, kan u deze hier uploaden"
+
+#~ msgid "Finally, you can have a new PGP Key Pair created for your account"
+#~ msgstr ""
+#~ "Als laatste kan u een nieuw PGP sleutelpaar aanmaken voor uw account"
+
+#~ msgid "Add a name and email address to this public key"
+#~ msgstr "Voeg een naam en e-mailadres toe bij deze publieke sleutel"
+
+#~ msgid "PGP default to using PGP inline for compatibility"
+#~ msgstr "PGP standaard ingesteld op inline PGP voor compatibiliteit"
+
+#~ msgid "Please verify your password before deleting the recovery"
+#~ msgstr ""
+#~ "Controleer alstublieft uw wachtwoord voordat u de herstelfunctie "
+#~ "verwijderd"
+
+#~ msgid "A new password has been sent to your email address"
+#~ msgstr "Een nieuw wachtwoord is naar uw e-mailadres gestuurd"
+
+#~ msgid "A new password has been sent to your secondary email address"
+#~ msgstr "Een nieuw wachtwoord is naar uw alternatieve e-mailadres gestuurd"
+
+#~ msgid "No password recovery is available"
+#~ msgstr "Geen wachtwoord herstel beschikbaar"
+
+#~ msgid "Password reset, but unable to send to your email address"
+#~ msgstr ""
+#~ "Wachtwoord hersteld, maar het is niet mogelijk u een e-mail te sturen"
+
+#~ msgid "Unable to find email address to send password reset"
+#~ msgstr ""
+#~ "Geen e-mailadres gevonden om het wachtwoordherstelbericht naartoe te "
+#~ "sturen"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Enabling Advanced PGP Features will enable key management and specifying "
+#~ "sending formats"
+#~ msgstr ""
+#~ "Geavanceerde PGP opties inschakelen schakelt sleutelbeheer in en maakt "
+#~ "het mogelijk om berichtformaten in te stellen"
+
+#~ msgid "This email was sent with an extra password."
+#~ msgstr "Dit e-mailbericht is verzonden met een extra wachtwoord."
+
+#~ msgid "Please enter below"
+#~ msgstr "Voer alstublieft hieronder in"
+
+#~ msgid "An error occurred during sending the encrypted email."
+#~ msgstr ""
+#~ "Er is een fout opgetreden tijdens het verzenden van het versleutelde e-"
+#~ "mailbericht."
+
+#~ msgid "This appears to be the first time you have used Encryption"
+#~ msgstr "Dit lijkt de eerste keer te zijn dat u Versleuteling gebruikt"
+
+#~ msgid ""
+#~ "Please change the temporary %s security password that was sent to you in "
+#~ "a seperate email."
+#~ msgstr ""
+#~ "Verander alstublieft het tijdelijke %s security wachtwoord die naar u is "
+#~ "gestuurd in een apart e-mailbericht."
+
+#~ msgid "%s PGP Settings"
+#~ msgstr "%s PGP instellingen"
+
+#~ msgid "Changed"
+#~ msgstr "Gewijzigd"
+
+#~ msgctxt "tour"
+#~ msgid "Sending without encryption"
+#~ msgstr "Verzenden zonder versleuteling"
+
+#~ msgctxt "tour"
+#~ msgid "Create Your %s Account"
+#~ msgstr "Uw %s Account aanmaken"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You now need to choose a password which will be used to encrypt or "
+#~ "decrypt items. You only need to set this up once. Your password will then "
+#~ "remain valid until you change it."
+#~ msgstr ""
+#~ "U moet nu een wachtwoord kiezen waarmee u items kan versleutelen en "
+#~ "decoderen. Dit hoeft u maar een keer te doen. Uw wachtwoord blijft geldig "
+#~ "totdat u het verandert."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You successfully set up secure communication. Your private key has been "
+#~ "created."
+#~ msgstr ""
+#~ "U heeft met succes een beveiligde verbinding opgezet. Uw privésleutel is "
+#~ "aangemaakt."
+
+#~ msgid ""
+#~ "Upload your Mailvelope public keys to the Guard server so that other "
+#~ "people can send you encrypted emails"
+#~ msgstr ""
+#~ "Upload uw publieke Mailveloppe sleutels naar de Guard server zodat andere "
+#~ "mensen versleutelde berichten kunnen sturen."
+
+#~ msgid ""
+#~ "Your pop-up blocker may have prevented a Guard window that provides "
+#~ "application functionality."
+#~ msgstr ""
+#~ "Uw pop-up blokkering kan er voor hebben gezorgd dat het Guard scherm niet "
+#~ "zichtbaar is, hierin staat extra functionaliteit."
+
+#~ msgid "Please enter your Guard Security password"
+#~ msgstr "Voer alstublieft uw Guard Security wachtwoord in"
+
+#~ msgid "Enter Guard Security Password"
+#~ msgstr "Geef Guard Security Wachtwoord"
+
+#~ msgid "Please provide your Guard Security Password to share this file"
+#~ msgstr ""
+#~ "Voer alstublieft uw Guard Security wachtwoord in om dit bestand te delen"
+
+#~ msgid "Secure Email, enter your Guard security password"
+#~ msgstr "Beveiligde e-mail, geef uw Guard security wachtwoord"
+
+#~ msgid "Keep me logged into Guard"
+#~ msgstr "Aangemeld blijven bij Guard"
+
+#~ msgid "Will create new guest account for Guard"
+#~ msgstr "Een nieuw gastaccount wordt aangemaakt voor Guard"
+
+#~ msgid "Have encryption key"
+#~ msgstr "Versleutelgegevens zijn beschikbaar"
+
+#~ msgid "Please enter your Guard password to sign this email"
+#~ msgstr ""
+#~ "Geef alstublieft uw Guard wachtwoord op om dit e-mailbericht te "
+#~ "ondertekenen"
+
+#~ msgid "Please enter your Guard password for signing"
+#~ msgstr "Voer alstublieft uw Guard wachtwoord in om te ondertekenen"
+
+#~ msgid ""
+#~ "At least one of your attachments are encrypted.  Please provide your "
+#~ "Guard Security Password to decrypt before sending"
+#~ msgstr ""
+#~ "Minstens één van de bijlagen is versleuteld. Geef uw Guard Security "
+#~ "wachtwoord op om deze te ontcijferen voordat u verstuurd"
+
+#~ msgid "Automated Email Language"
+#~ msgstr "Automatische e-mailtaal"
+
+#~ msgid "Create Guard Security Keys"
+#~ msgstr "Guard Security Sleutels aanmaken"
+
+#~ msgid "First Guard Security Password Use"
+#~ msgstr "Eerste Guard Security Wachtwoord gebruik"
+
+#~ msgid ""
+#~ "Please change the temporary Guard security password that was sent to you "
+#~ "in a seperate email."
+#~ msgstr ""
+#~ "Verander alstublieft het tijdelijke Guard security wachtwoord die naar u "
+#~ "is gestuurd in een apart e-mailbericht."
+
+#~ msgid "Please enter your Guard password"
+#~ msgstr "Voer alstublieft uw Guard wachtwoord in"
+
+#~ msgid ""
+#~ "Please change the initial temporary Guard security password that was sent "
+#~ "to you in a seperate email."
+#~ msgstr ""
+#~ "Verander alstublieft het tijdelijke Guard security wachtwoord welke naar "
+#~ "het andere e-mailadres is gestuurd."
+
+#~ msgid "Guard PGP Settings"
+#~ msgstr "Guard PGP Instellingen"
+
+#~ msgid ""
+#~ "If you would like to upload a public key only, then do so here.  This "
+#~ "will allow you to encrypt files and receive encrypted emails using Guard, "
+#~ "but you will need to use the private key with another program to decode "
+#~ "the items."
+#~ msgstr ""
+#~ "Als u alleen de publieke sleutel wilt uploaden, doe dat dan hier. Dit "
+#~ "maakt het mogelijk om bestanden te versleutelen en versleutelde e-"
+#~ "mailberichten te ontvangen met Guard, maar u moet deze wel decoderen met "
+#~ "de privésleutel in een ander programma."
+
+#~ msgid "Guided tour for Guard"
+#~ msgstr "Rondleiding door Guard"
+
+#~ msgid "Sign out Guard"
+#~ msgstr "Afmelden uit Guard"
+
+#~ msgctxt "app"
+#~ msgid "Guard Security"
+#~ msgstr "Guard Beveiliging"
+
+#~ msgid ""
+#~ "In order to start with Guard Security, you must set up a password for "
+#~ "your secured files."
+#~ msgstr ""
+#~ "Om te starten met Guard Security, moet u eerst een wachtwoord instellen "
+#~ "voor uw beveiligde bestanden."
+
+#~ msgid "Guard Security Settings"
+#~ msgstr "Guard Security Instellingen"
+
+#~ msgid "Change Guard Security Password."
+#~ msgstr "Guard Security Wachtwoord veranderen."
+
+#~ msgid "Enter current Guard security password"
+#~ msgstr "Geef het huidige Guard security wachtwoord"
+
+#~ msgid "Enter new Guard security password"
+#~ msgstr "Geef het nieuwe Guard security wachtwoord"
+
+#~ msgid "Verify new Guard security password"
+#~ msgstr "Bevestig het nieuwe Guard security wachtwoord"
+
+#~ msgid "Change Guard security password"
+#~ msgstr "Guard security wachtwoord veranderen"
+
+#~ msgid "Reset Guard security password"
+#~ msgstr "Guard security wachtwoord Herstellen"
+
+#~ msgid ""
+#~ "Send a temporary Guard security password to my secondary Email address."
+#~ msgstr ""
+#~ "Stuur een tijdelijk Guard security wachtwoord naar mijn alternatieve e-"
+#~ "mailadres."
+
+#~ msgctxt "tour"
+#~ msgid "The Guard module"
+#~ msgstr "De Guardmodule"
+
+#~ msgctxt "tour"
+#~ msgid "Guard Security Settings"
+#~ msgstr "Guard Beveiliging Instellingen"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You already set up your Guard account. But you can always change your "
+#~ "encryption password, or request a temporary password if you forget it."
+#~ msgstr ""
+#~ "U heeft reeds een Guard account aangemaakt. U kan altijd uw "
+#~ "versleutelingswachtwoord veranderen, of een tijdelijk wachtwoord "
+#~ "aanvragen als u deze vergeet."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "By default Guard sends encrypted emails using PGP/Mime format. To "
+#~ "communicate with some systems you may need to use PGP Inline."
+#~ msgstr ""
+#~ "Standaard verstuurd Guard versleutelde e-mailberichten in PGP/Mime "
+#~ "formaat. Sommige systemen vereisen dat u de communicatie in PGP Inline "
+#~ "voert."
+
+#~ msgctxt "tour"
+#~ msgid "Remove encryption"
+#~ msgstr "Versleuteling verwijderen"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Removing the encryption is easy, too: Simply click on the lock icon again."
+#~ msgstr ""
+#~ "De versleuteling verwijderen is eenvoudig: Klik opnieuw op het hangslot "
+#~ "pictogram."
+
+#~ msgctxt "tour"
+#~ msgid "Create Your Guard Account"
+#~ msgstr "Uw Guard Account Aanmaken"
+
+#~ msgctxt "tour"
+#~ msgid "Guard set up completed"
+#~ msgstr "Guard configuratie voltooid"
+
+#~ msgctxt "Choice"
+#~ msgid "Works only in all browsers with all your contacts"
+#~ msgstr "Werkt alleen in alle browsers met al uw contacten"
+
+#~ msgid "Click to enable encryption"
+#~ msgstr "Klik om versleuteling te activeren"
+
+#~ msgid "Click to disable encryption"
+#~ msgstr "Klik om versleuteling te deactiveren"
+
+#~ msgid "Error.  Please reload message"
+#~ msgstr "Fout. Download het bericht opnieuw"
+
+#~ msgid "You have exceeded bad password attempts.  Please wait %s minutes"
+#~ msgstr ""
+#~ "U heeft het maximaal aantal foute wachtwoorden geprobeerd. Wacht "
+#~ "alstublieft %s minuten"
+
+#~ msgid ""
+#~ "This email has expired and can no longer be accessed.  Contact the sender "
+#~ "for more information."
+#~ msgstr ""
+#~ "Dit e-mailbericht is verlopen en kan niet meer worden benaderd. Neem "
+#~ "contact op met de verzender voor meer informatie."
+
+#~ msgid ""
+#~ "This Email has been retracted by the sender and can no longer be "
+#~ "accessed.  Contact the sender for more information."
+#~ msgstr ""
+#~ "Dit e-mailbericht is ingetrokken door de verzender en kan niet meer "
+#~ "worden benaderd. Neem contact op met de verzender voor meer informatie."
+
+#~ msgid "Unable to decrypt Email."
+#~ msgstr "Het is niet mogelijk het e-mailbericht te ontcijferen."
+
+#~ msgid "The sender added an extra password encryption."
+#~ msgstr "De verzender heeft een extra wachtwoord toegevoegd."
+
+#~ msgid "Save Encrypted"
+#~ msgstr "Versleuteld opslaan"
+
+#~ msgid "Save Decrypted"
+#~ msgstr "Ontcijferd opslaan"
+
+#~ msgid ""
+#~ "This Email was sent encrypted. It has been decrypted with your private key"
+#~ msgstr ""
+#~ "Dit e-mailbericht is versleuteld verzonden. Het is ontcijferd met uw "
+#~ "privésleutel"
+
+#~ msgid "Expires: "
+#~ msgstr "Verloopt: "
+
+#~ msgid "Retract Email"
+#~ msgstr "E-mail Intrekken"
+
+#~ msgid "Email status"
+#~ msgstr "E-mailstatus"
+
+#~ msgid "Retract all access"
+#~ msgstr "Intrekken van alle toegang"
+
+#~ msgid "Email has not been opened."
+#~ msgstr "Het e-mailbericht is niet geopend."
+
+#~ msgid "Email has been opened."
+#~ msgstr "Het e-mailbericht is geopend."
+
+#~ msgid "Email has been retracted."
+#~ msgstr "Het e-mailbericht is ingetrokken."
+
+#~ msgid "Unable to get email status, please try again later"
+#~ msgstr ""
+#~ "Het bepalen van de e-mailstatus is mislukt, probeer het later nog eens"
+
+#~ msgid "This will retract the email for all recipients. Click OK to confirm."
+#~ msgstr ""
+#~ "Dit trekt het e-mailbericht in voor alle ontvangers. Klik OK om te "
+#~ "bevestigen."
+
+#~ msgid "Item was retracted"
+#~ msgstr "Het item is ingetrokken"
+
+#~ msgid "Not all items retracted"
+#~ msgstr "Niet alle items zijn ingetrokken"
+
+#~ msgid "Failed to retract"
+#~ msgstr "Intrekken is mislukt"
+
+#~ msgctxt "tour"
+#~ msgid "Learn more …"
+#~ msgstr "Leer meer …"
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "From here you can update you encryption settings. For example you can "
+#~ "choose to send encrypted emails by default."
+#~ msgstr ""
+#~ "Hiervandaan kan u de versleutelingsinstellingen aanpassen. U kan "
+#~ "bijvoorbeeld kiezen om e-mailberichten standaard versleuteld te versturen."
+
+#~ msgid "Message was saved"
+#~ msgstr "Bericht is opgeslagen"
+
+#~ msgid "Problem creating keys"
+#~ msgstr "Probleem bij het aanmaken van de sleutel"
+
+#~ msgctxt "tour"
+#~ msgid "Please click on the lock icon."
+#~ msgstr "Klik alstublieft op het hangslot pictogram."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "Please choose your password now, enter a secondary email address and "
+#~ "click on Ok."
+#~ msgstr ""
+#~ "Kies alstublieft nu uw wachtwoord, geef een alternatief e-mailadres op en "
+#~ "klik op Ok."
+
+#~ msgctxt "tour"
+#~ msgid ""
+#~ "You can always change your encryption password, or request a temporary "
+#~ "password if you forget it."
+#~ msgstr ""
+#~ "U kan altijd uw versleutelingswachtwoord veranderen, of een tijdelijk "
+#~ "wachtwoord aanvragen als u deze vergeet."
+
+#~ msgctxt "tour"
+#~ msgid "Congratulations! You are now able to send secure emails."
+#~ msgstr "Gefeliciteerd! U kan nu beveiligde e-mails versturen."
+
+#~ msgctxt "tour"
+#~ msgid "Please remove the encryption now by clicking on the lock icon again."
+#~ msgstr ""
+#~ "Verwijder alstublieft de versleuteling door opnieuw op het hangslot "
+#~ "pictogram te klikken."
+
+#~ msgid "%s already encrypted"
+#~ msgstr "%s is reeds versleuteld"
+
+#~ msgid "Add folder"
+#~ msgstr "Toevoegen map"
+
+#~ msgid "Already Protected With Additional Password"
+#~ msgstr "Reeds beveiligd met een Extra Wachtwoord"
+
+#~ msgid "Click to disable PGP encryption"
+#~ msgstr "Klik om PGP-versleuteling te deactiveren"
+
+#~ msgid "Done"
+#~ msgstr "Voltooid"
+
+#~ msgid "Drop here to upload a <b class=\"dndignore\">new encrypted file</b>"
+#~ msgstr ""
+#~ "Laat hier vallen om een <b class=\"dndignore\">nieuw versleuteld bestand</"
+#~ "b> te uploaden"
+
+#~ msgid "Encrypting "
+#~ msgstr "Versleutelen"
+
+#~ msgid "Encrypting %s"
+#~ msgstr "%s versleutelen"
+
+#~ msgid "FW: %1$s"
+#~ msgstr "Fwd: %1$s"
+
+#~ msgid "Failed to encrypt file"
+#~ msgstr "Bestand versleutelen is mislukt"
+
+#~ msgid "Folder name"
+#~ msgstr "Mapnaam"
+
+#~ msgid "New Encrypted folder"
+#~ msgstr "Nieuwe Versleutelde map"
+
+#~ msgid "New Encrypted subfolder"
+#~ msgstr "Nieuwe Versleutelde submap"
+
+#~ msgid "New encrypted subfolder"
+#~ msgstr "Nieuwe versleutelde submap"
+
+#~ msgid "New folder"
+#~ msgstr "Nieuwe map"
+
+#~ msgid "New public folder"
+#~ msgstr "Nieuwe publieke map"
+
+#~ msgid ""
+#~ "One of your recipients requires emails to be sent as PGP Inline.  "
+#~ "Changing now."
+#~ msgstr ""
+#~ "Een van uw ontvangers vereist dat de berichten worden verzonden als PGP-"
+#~ "inline. Aanpassing wordt gemaakt."
+
+#~ msgid "PGP key exists for this person"
+#~ msgstr "PGP sleutel bestaat voor deze persoon"
+
+#~ msgid "Require Additional Password"
+#~ msgstr "Extra wachtwoord vereisen"
+
+#~ msgid "Security Options"
+#~ msgstr "Beveiligingsopties"
+
+#~ msgid "Send encrypted (PGP)"
+#~ msgstr "Verzend versleuteld (PGP)"
+
+#~ msgid "Share keys with other users to decrypt this file"
+#~ msgstr "Deel sleutels met andere gebruikers om het bestand te ontcijferen"
+
+#~ msgid "Share link"
+#~ msgstr "Deel link"
+
+#~ msgid "Sharing"
+#~ msgstr "Delen"
+
+#~ msgid "Sign email"
+#~ msgstr "Onderteken email"
+
+#~ msgid "Status"
+#~ msgstr "Status"
+
+#~ msgid "Stop"
+#~ msgstr "Stoppen"
+
+#~ msgid "The key for %1$s is expired and should not be used"
+#~ msgstr "De sleutel voor %1$s is verlopen en mag niet meer gebruikt worden"
+
+#~ msgid "Unable to create Guard account, please try again later"
+#~ msgstr ""
+#~ "Het aanmaken van een Guard account is mislukt, probeer het later nog eens"
+
+#~ msgid "Upload new files to encrypt"
+#~ msgstr "Nieuw bestanden uploaden om te versleutelen"
+
+#~ msgid "Use PGP inline (compatibility)"
+#~ msgstr "Gebruik inline PGP (compatibiliteit)"
+
+#~ msgid "%s hours"
+#~ msgstr "%s uren"
+
+#~ msgid "%s week"
+#~ msgstr "%s week"
+
+#~ msgid "%s weeks"
+#~ msgstr "%s weken"
+
+#~ msgid "Added keys:"
+#~ msgstr "Toegevoegde sleutels:"
+
+#~ msgid "CC:"
+#~ msgstr "Kopie aan:"
+
+#~ msgid "Click to disable Guard"
+#~ msgstr "Klik om Guard te deactiveren"
+
+#~ msgid "Click to enable Guard"
+#~ msgstr "Klik om Guard te activeren"
+
+#~ msgid "Confirm Guard Password"
+#~ msgstr "Bevestig Guard Wachtwoord"
+
+#~ msgid "Create Guard Account"
+#~ msgstr "Guard Account Aanmaken"
+
+#~ msgid "Date:"
+#~ msgstr "Datum:"
+
+#~ msgid "Decode"
+#~ msgstr "Ontcijferen"
+
+#~ msgid "Default signing outgoing PGP mails"
+#~ msgstr "Standaard ondertekening voor uitgaande PGP-berichten"
+
+#~ msgid "Defaults"
+#~ msgstr "Standaard"
+
+#~ msgid "Download (OG)"
+#~ msgstr "Downloaden (OG)"
+
+#~ msgid "Enable Guard"
+#~ msgstr "Guard activeren"
+
+#~ msgid "Encrypted email has been sent successfully."
+#~ msgstr "Versleuteld e-mailbericht is succesvol verzonden."
+
+#~ msgid "Encrypting"
+#~ msgstr "Versleutelen"
+
+#~ msgid "From:"
+#~ msgstr "Van:"
+
+#~ msgid "Fwd:"
+#~ msgstr "Fwd:"
+
+#~ msgid "IDs:"
+#~ msgstr "IDs:"
+
+#~ msgid "Initializing Guard, please wait"
+#~ msgstr "Guard initialiseren, een ogenblik geduld alstublieft"
+
+#~ msgid "Inline"
+#~ msgstr "Inline"
+
+#~ msgid "Make Guard default to PGP compliant"
+#~ msgstr "Maak Guard standaard PGP compatibel"
+
+#~ msgid "Never"
+#~ msgstr "Nooit"
+
+#~ msgid "No recipients"
+#~ msgstr "Geen ontvangers"
+
+#~ msgid "None"
+#~ msgstr "Geen"
+
+#~ msgid "Not able to contact guard server"
+#~ msgstr "U kunt geen contact maken met de guard server"
+
+#~ msgid "On"
+#~ msgstr "Op"
+
+#~ msgid "Open"
+#~ msgstr "Openen"
+
+#~ msgid "Open Decoded"
+#~ msgstr "Ontcijferde versie openen"
+
+#~ msgid "PGP Compliant Guard"
+#~ msgstr "PGP Compatibele Guard"
+
+#~ msgid "PGP default to PGP inline for compatibility"
+#~ msgstr "PGP standaard ingesteld op inline PGP voor compatibiliteit"
+
+#~ msgid "Please enter a password to protect your Guard account"
+#~ msgstr "Voer alstublieft een wachtwoord om uw Guard account te beveiligen"
+
+#~ msgid ""
+#~ "Please enter a secondary email address in case you need to reset your "
+#~ "password.  A new password would be sent to this email."
+#~ msgstr ""
+#~ "Voer alstublieft uw alternatieve e-mailadres in voor het geval dat u uw "
+#~ "wachtwoord moet herstellen. Een nieuw wachtwoord wordt naar dit e-"
+#~ "mailadres gestuurd."
+
+#~ msgid "Please select the file location of your private key."
+#~ msgstr "Geef alstublieft de locatie van uw privésleutel."
+
+#~ msgid "Private Key Password"
+#~ msgstr "Privésleutel Wachtwoord"
+
+#~ msgid "Problem uploading Private Key"
+#~ msgstr "Probleem bij het uploaden van de Privésleutel"
+
+#~ msgid "Public Key List"
+#~ msgstr "Publieke Sleutel Lijst"
+
+#~ msgid "Recipient has Guard"
+#~ msgstr "Ontvanger heeft Guard"
+
+#~ msgid "Retract in"
+#~ msgstr "Intrekken na"
+
+#~ msgid "Save Decoded"
+#~ msgstr "Ontcijferd Opslaan"
+
+#~ msgid "Shared"
+#~ msgstr "Gedeeld"
+
+#~ msgid "Sign PGP"
+#~ msgstr "Onderteken PGP"
+
+#~ msgid "Subject:"
+#~ msgstr "Onderwerp:"
+
+#~ msgid ""
+#~ "The key will be used locally only.  It will not be sent to the server."
+#~ msgstr ""
+#~ "De sleutel wordt alleen lokaal gebruikt. Deze zal niet naar de server "
+#~ "gestuurd worden."
+
+#~ msgid "This appears to be the first time you have used Guard"
+#~ msgstr "Dit lijkt de eerste keer te zijn dat u Guard gebruikt"
+
+#~ msgid "To:"
+#~ msgstr "Aan:"
+
+#~ msgid "Unable to get key for encryption"
+#~ msgstr "Sleutel ophalen om te ontcijferen is mislukt"
+
+#~ msgid "Unable to load"
+#~ msgstr "Niet in staat om te laden"
+
+#~ msgid "Use Guard when composing a new email"
+#~ msgstr "Gebruik Guard bij het opstellen van een nieuw e-mailbericht"
+
+#~ msgid "Using a guest account for email"
+#~ msgstr "U gebruikt een gastaccount voor e-mail"
+
+#~ msgid "Your private key"
+#~ msgstr "Uw privésleutel"
+
+#~ msgid "Your public key"
+#~ msgstr "Uw publieke sleutel"
+
+#~ msgid "popup blocked"
+#~ msgstr "popup geblokkeerd"

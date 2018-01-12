@@ -11,7 +11,7 @@ define('mailvelope/settings', [
         ext.point('io.ox/settings/pane/security').extend({
             id: 'mailvelope',
             //#. %s product Name
-            title: gt.pgettext('app', 'Mailvelope'),
+            title: gt('Mailvelope'),
             index: 600,
             loadSettingPane: true
         });
