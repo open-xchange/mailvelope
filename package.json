@@ -41,7 +41,6 @@
     "karma-spec-reporter": "^0.0.32",
     "mocha": "^3.2.0",
     "open-xchange-shared-grunt-config": "^0.14.1",
-    "phantomjs-prebuilt": "^2.1.4",
     "sinon": "^6.2.0",
     "underscore": "^1.8.0"
   }
