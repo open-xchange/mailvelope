@@ -3,7 +3,7 @@ module.exports = function (grunt) {
     grunt.config.merge({ concat: {
         thirdparty: {
             options: {
-                banner: 'var root = {};\ndefine("static/3rd.party/mailbuild.js", function () {\n\n' +
+                banner: 'var root = {};\ndefine("static/3rd.party/mailvelopemailbuild.js", function () {\n\n' +
                         '"use strict";\n\n' +
                         'var define = undefined;\n' +
                         'var exports = undefined;\n' +
