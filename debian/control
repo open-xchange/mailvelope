@@ -1,0 +1,12 @@
+Source: appsuite-mailvelope
+Section: non-free/web
+Priority: optional
+Maintainer: "Julian Bäume" <julian.baeume@open-xchange.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.2
+
+Package: appsuite-mailvelope
+Architecture: all
+Depends: ${misc:Depends}, open-xchange-appsuite-manifest
+Description: Put your description here!
+

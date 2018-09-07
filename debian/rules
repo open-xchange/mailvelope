@@ -1,0 +1,21 @@
+#!/usr/bin/make -f
+
+# Uncomment this to turn on verbose mode.
+#export DH_VERBOSE=1
+
+ifneq (,$(or $(filter noopt,$(DEB_BUILD_OPTIONS)),\
+	$(filter nostrip,$(DEB_BUILD_OPTIONS))))
+	FLAGS += debug=1
+endif
+
+BACKEND := debian/appsuite-mailvelope/opt/open-xchange
+
+override_dh_auto_install:
+	mkdir -p $(BACKEND)
+	cp -a dist/* $(BACKEND)
+
+override_dh_auto_clean:
+	rm -rf $(FRONTEND) $(BACKEND)
+
+%:
+	dh $@

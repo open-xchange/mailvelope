@@ -1,0 +1,7 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: appsuite-mailvelope
+Upstream-Contact: "Julian Bäume" <julian.baeume@open-xchange.com>
+
+Files: *
+Copyright: (c) 2018 
+License: MIT
