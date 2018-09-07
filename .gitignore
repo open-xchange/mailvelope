@@ -8,9 +8,8 @@
 .lint4jprefs
 bin
 bin/
-build
-build/build
-build/tmp
+build/
+dist/
 node_modules
 grunt/local.conf.json
 
