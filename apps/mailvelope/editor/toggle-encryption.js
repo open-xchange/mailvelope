@@ -32,9 +32,9 @@ define('mailvelope/editor/toggle-encryption', [
             if (api.isEnabled()) {
                 if (!_.device('small')) {
                     this.$el.empty().append(
-                            $('<i class="fa fa-2x" aria-hidden="true"></i>')
+                        $('<i class="fa fa-2x" aria-hidden="true"></i>')
                             .toggleClass('encrypted', !!this.model.get('encrypt'))
-                        );
+                    );
                     this.$el.attr('title', gt('Toggle Encryption'));
                 }
             }

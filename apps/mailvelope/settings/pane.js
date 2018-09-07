@@ -10,7 +10,7 @@ define('mailvelope/settings/pane', [
     function drawMailvelopeSettings(location) {
         location.removeClass('scrollable-pane').parent('.settings-detail-pane.scrollable').removeClass('scrollable').addClass('non-scrollable');
         location.append(
-                $('<div>').addClass('mailvelope-settings-pane abs')
+            $('<div>').addClass('mailvelope-settings-pane abs')
         );
         $.when(
             api.loaded,
