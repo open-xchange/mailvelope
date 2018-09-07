@@ -10,3 +10,10 @@ Architecture: all
 Depends: ${misc:Depends}, open-xchange-appsuite-manifest
 Description: Put your description here!
 
+Package: appsuite-mailvelope-static
+Architecture: all
+Depends: ${misc:Depends}, open-xchange-appsuite
+Description: Put your description here!
+ .
+ This package contains the static files for the module.
+

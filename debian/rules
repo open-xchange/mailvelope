@@ -10,9 +10,14 @@ endif
 
 BACKEND := debian/appsuite-mailvelope/opt/open-xchange
 
+FRONTEND := debian/appsuite-mailvelope-static/var/www/html
+
 override_dh_auto_install:
 	mkdir -p $(BACKEND)
 	cp -a dist/* $(BACKEND)
+
+	mkdir -p $(FRONTEND)
+	cp -a dist/appsuite $(FRONTEND)
 
 override_dh_auto_clean:
 	rm -rf $(FRONTEND) $(BACKEND)
