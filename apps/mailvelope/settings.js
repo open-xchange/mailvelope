@@ -8,7 +8,7 @@ define('mailvelope/settings', [
 
     if (util.isMailvelopeSupported() && capabilities.has('mailvelope')) {
         // Add settings for encryption to the Settings Page
-        ext.point('io.ox/settings/pane/security').extend({
+        ext.point('io.ox/settings/pane/general/security').extend({
             id: 'mailvelope',
             //#. %s product Name
             title: gt('Mailvelope'),
