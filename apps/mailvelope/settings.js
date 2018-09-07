@@ -2,7 +2,7 @@ define('mailvelope/settings', [
     'io.ox/core/extensions',
     'mailvelope/util',
     'io.ox/core/capabilities',
-    'gettext!oxguard'
+    'gettext!mailvelope'
 ], function (ext, util, capabilities, gt) {
     'use strict';
 
