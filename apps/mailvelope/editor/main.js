@@ -4,7 +4,7 @@ define('mailvelope/editor/main', [
     'mailvelope/editor/keyring',
     'settings!io.ox/mail',
     'io.ox/mail/util',
-    'static/3rd.party/mailbuild.js'
+    'static/3rd.party/mailvelopemailbuild.js'
 ], function (api, ext, Keyring, mailSettings, util, lib) {
 
     var extensionsNeeded = ext.point('io.ox/mail/compose/actions/send').filter(function (p) {

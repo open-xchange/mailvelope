@@ -32,7 +32,7 @@ module.exports = function (grunt) {
                     'node_modules/wo-addressparser/src/addressparser.js',
                     'node_modules/mailbuild/src/mailbuild.js'
                 ],
-                dest: 'build/static/3rd.party/mailbuild.js'
+                dest: 'build/static/3rd.party/mailvelopemailbuild.js'
             }]
         }
     } });
