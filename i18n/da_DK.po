@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: open-xchange-guard-ui\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2018-01-12 09:03-0500\n"
+"PO-Revision-Date: 2018-09-07 09:52-0500\n"
 "Last-Translator: Greg Hill <greg.hill@open-xchange.com>\n"
 "Language-Team: Danish <kde-i18n-doc@kde.org>\n"
 "Language: da_DK\n"
@@ -30,7 +30,7 @@ msgid "OK"
 msgstr "Ok"
 
 #. %s product Name
-#: apps/mailvelope/settings.js module:oxguard
+#: apps/mailvelope/settings.js module:mailvelope
 msgid "Mailvelope"
 msgstr "Mailvelope"
 

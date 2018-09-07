@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: open-xchange-guard-ui\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2018-01-12 09:06-0500\n"
+"PO-Revision-Date: 2018-09-07 09:57-0500\n"
 "Last-Translator: Greg Hill <greg.hill@open-xchange.com>\n"
 "Language-Team: NAME <EMAIL>\n"
 "Language: zh_TW\n"
@@ -13,8 +13,9 @@ msgstr ""
 "X-Generator: Poedit 1.6.10\n"
 
 #: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
+#, fuzzy
 msgid "Toggle Encryption"
-msgstr ""
+msgstr "切换加密"
 
 #: apps/mailvelope/editor/toggle-encryption.js module:mailvelope
 msgid "Not Supported"
@@ -29,7 +30,7 @@ msgid "OK"
 msgstr "確定"
 
 #. %s product Name
-#: apps/mailvelope/settings.js module:oxguard
+#: apps/mailvelope/settings.js module:mailvelope
 msgid "Mailvelope"
 msgstr "Mailvelope"
 
