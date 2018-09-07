@@ -281,7 +281,9 @@ define('mailvelope/editor/main', [
         };
 
         function resizeEditor() {
-            node.css('min-height', Math.max(300, ($(window).height() - node.offset().top - $('#io-ox-topbar').height())));
+            node.css('min-height', Math.max(300, $('.io-ox-mail-compose-window').height() -
+                $('.io-ox-mail-compose-window .window-footer').height() -
+                $('.io-ox-mail-compose-window .mail-compose-fields').height() - 100));
             node.find('iframe').css('min-height', node.height() - 5);
         }
 
