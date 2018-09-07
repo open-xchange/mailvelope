@@ -29,3 +29,19 @@ docker run -t --rm -v $(pwd)/packages:/app -v $(pwd):/app/mailvelope -w /app/mai
 ```
 
 In order for this command to work, a [dist build](#Build) is needed.
+
+Two packages will be created under the directory packages.  The appsuite-mailvelope_xxx_all.deb and appsuite-mailvelope-static_xxx_all.deb.  The static package should be installed on the server containing apache, and the main package on the server containing the appsutie UI components (may be the same server)
+
+## Integration with Appsuite
+
+### Configuration
+
+For users that should have mailvelope enabled, the capability for mailvelope must be set.  This can either be set globally, or specified in the user or context configuration
+
+```
+com.openexchange.capability.mailvelope=true
+```
+
+**Note that a user cannot have both guard and mailvelope capability **
+
+The user's mailvelope installation must have the server name in the configured email providers, and must have the api enabled.
